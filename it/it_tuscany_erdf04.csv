@@ -1,12 +1,11 @@
-Denominazione del Beneficiario,Titolo del Progetto,Comune,"Anno di assegnazione 
+"Denominazione del Beneficiario","Titolo del Progetto","Comune","Anno di assegnazione 
 del contributo 
 pubbico","Contributo Pubblico 
 Assegnato 
 (Fesr+Stato+Regione)*","Totale Contributo
 pubblico pagato alla fine 
 del progetto"
-
-Digitart S.p.a.,Stewart,Pisa,2009,800000.0,
-Toscana Biomarkers srl,Biomarkers,Siena,2009,840000.0,
-Protera srl,MMP,Fienze,2009,1.200.000,
-Siena solar Nanotech,PPD,Siena,2009,480000.0,480000.0
+"Digitart S.p.a.","Stewart","Pisa",2009,800000,
+"Toscana Biomarkers srl","Biomarkers","Siena",2009,840000,
+"Protera srl","MMP","Fienze",2009,"1.200.000",
+"Siena solar Nanotech","PPD","Siena",2009,480000,480000
