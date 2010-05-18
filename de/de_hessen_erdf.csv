@@ -1,1 +1,393 @@
-ID,name_des_begunstigten,bezeichnung_des_vorhabens,jahr_der_bewilligung_restzahlung, gewahrte_betrage , bei_abschluss_des_vorhabens_gezahlte_gesamtbetrage 1,Abwasserverband R�sselsheim-Raunheim,Biomasseheizung m. Stirling BHKW,2008,"235,900.00", -   2,"Albert Koch GmbH Maschinen- und Vorrichtungsbau, Baunatal","Cluster ""DieMaschinenbauPartner"": Initiierungsphase",2008, -   ,"25,000.00"3,"ANALYTICON Biotechnologies AG   - Gesch�ftsf�hrung -,Lichtenfels",Einstellung eines Innovationsassistenten,2009,"29,200.00", -   4,"Angewandte Kunst Hessen e.V., Kassel",Tendence Decorate Life,2008, -   ,"2,688.00"5,"Berufsbildungswerk S�dhessen gGmbH, Karben",Erg�nzung der Ausstattung an den verschiedenen Standorten des BBW S�dhessen gGmbH,2009,"74,000.00", -   6,"Bildungswerk BAU Hessen-Th�ringen e.V., Erfurt","Modernisierung des EBL Bildungszentrums Frankfurt am Main, erster und zweiterBauabschnitt",2008,"14,744,250.00", -   7,"Bildungszentrum des Hessischen Handels gGmbH, Frankfurtam Main",Beauftragter f�r Innovation und Technologietransfer im Handel (BIT),2008,"143,050.00", -   8,"BioNatur GbR Iris & Dirk Rateike, Gilserberg","Errichtung einer Betriebsst�tte in 34630 Gilserberg, Bahnhofstra�e 57",2008,"446,300.00", -   9,"BTQ Kassel, Kassel",Neue Technologien und Wettbewerbsf�higkeit,2008,"200,600.00", -   10,"Buchbinderei Thomas Zinn, Wartenberg",Verlagerung einer Betriebsst�tte nach Kleinl�der,2009,"200,800.00", -   11,"BZ Bildungszentrum Kassel GmbH, Kassel",Technologietransfer im Handwerk,2008, -   ,"5,500.00"12,"BZH Bildungszentrum Handel und Dienstleistungen gGmbH,Marburg",Technologietransfer im Handel,2008,"15,000.00", -   13,"BZH Bildungszentrum Handel und Dienstleistungen gGmbH,Marburg","""Beauftragter f�r Innovation und Technologie - BIT"" im Handel",2009,"30,000.00", -   14,"cassel creative competence e.V., Kassel",Weiterentwicklung und Ausbau der Marken- und Netzwerkbildung,2008,"22,900.00", -   15,"Cesah GmbH, Darmstadt",Innovation und Strukturentwicklung basierend auf GALILEO Anwendungen - Fortsetzung,2008,"21,500.00", -   16,"Collinor Software GmbH, Birkenau",Einstellung eines Innovationsassistenten in 69488 Birkenau,2009,"29,800.00", -   17,"Concentrator Optics GmbH, C�lbe","Erweiterung einer Betriebsst�tte in der Gemeinde C�lbe, Lahnstra�e 16",2008,"823,200.00", -   18,"Daimler AG Mercedes- Benz Werk Kassel, Kassel","Betriebliche Kinderbetreuungseinrichtung, Mercedesplatz 1, 34112 Kassel",2009,"500,000.00", -   19,deENet Kompetenznetzwerk Dezentrale Ener,"Organisation, Moderation und Energieberatung der 2. Phase des Modellvorhabens""Energieeffizienztisch Nordhessen""",2008,"177,000.00", -   20,"Der Kreisausschuss des Landkreises Fulda, Fulda","Erstellung eines touristischen Entwicklungsgutachtens mit Masterplan f�r das Gebiet derWasserkuppe",2008,"170,360.00", -   21,"Dietz Automation GmbH, Neukirchen-Riebelsdorf",Errichtung einer Betriebsst�tte in 34537 Bad Wildungen,2009,"361,700.00", -   22,"digitop media GmbH, Fulda",Einstellung eines Innovationsassistenten in 36037 Fulda,2007, -   ,"26,100.00"24,"Dr. Ing. Ulrich Esterer GmbH & Co. KG, Helsa",grundlegende �nderung des Gesamtproduktionsverfahrens einer bestehenden,2008,"668,400.00", -   25,"DVS Innovation GmbH, Eschwege","Errichtung einer Betriebsst�tte in 37269 Eschwege, Hessenring 4",2008,"1,348,900.00", -   26,"eCommerce-Kompetenzzentrum Nordhessen GbR, Kassel",eCommerce-Center-Nordhessen,2008,"159,000.00", -   27,"eCommerce-Kompetenzzentrum Nordhessen GbR, Kassel",eCommerce Center Nordhessen (ECCN) Folgeantrag 2010 - 2011,2010,"185,600.00", -   28,"ECOWIN GmbH, Wettenberg",KompetenzNetz UmweltTechnologie - KNUT,2009,"250,400.00", -   29,"Eigenbetrieb Besucherbergwerk ""Grube Fortuna"", Wetzlar","Neue touristen- und besuchergerechte Pr�sentation des ehemaligen EisenerzbergwerkesGrube Fortuna",2009,"83,000.00", -   30,"Eigenbetrieb ""Geb�udemanagement Werra-Mei�ner-Kreis"",Witzenhausen","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Werra-Mei�ner-Kreises",2008,"299,800.00", -   31,"EKO-Plant GmbH, Neu-Eichenberg",Erweiterung einer Betriebsst�tte in 37249 Neu-Eichenberg,2008,"263,400.00", -   32,"European Business School (EBS ) International UniversitySchloss Reinhardshausen, Oestrich-Winkel",MarketingXChange - Marketing und Vertriebssupport f�r kleine Unternehmen,2009,"113,300.00", -   33,"European Business School (EBS), Wiesbaden","Cluster ""Logistik RheinMain. Die Wissensinitiative""",2008,"350,000.00", -   34,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell",Akademie Existenzgr�nderinnen,2008,"14,400.00", -   35,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell",kompetent. 2009,2008,"5,000.00", -   36,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell",FAB Akademie,2009,"32,600.00", -   37,"Fachhochschule Gie�en-Friedberg Der Pr�sident, Gie�en",Anwenderzentrum Medizintechnik an der Fachhochschule Gie�en-Friedberg,2008,"8,034,500.00", -   38,"Fachhochschule Giessen-Friedberg, Giessen",Umbau- und Erweiterung einer betrieblichen Kinderbetreuungsein- richtung,2009,"360,000.00", -   39,"Fachverband Elektro- und Informations- technikHessen/Rheinland-Pfalz, Frankfurt am Main",Technologietransfer-Stelle,2008,"33,000.00", -   40,"Fachverband Elektro- und Informations- technikHessen/Rheinland-Pfalz, Frankfurt am Main","Technologietransfer, Technologieberatung",2009,"12,100.00", -   41,"FAPRIK gGmbH, Frankfurt am Main","Bauliche Modernisierungs- und Ausstattungsma�nahmen am Standort Spessartstra�e 11 in60385 Frankfurt",2009,"23,464.00", -   42,"F.A.Z.-Institut f�r Management-, Markt- undMedieninformationen GmbH, Frankfurt am Main",Kompass,2008, -   ,"99,500.00"43,"F.A.Z.-Institut f�r Management-, Markt- undMedieninformationen GmbH, Frankfurt am Main",Best Excellence 2/2008,2008, -   ,"75,000.00"44,"F.A.Z.-Institut f�r Management-, Markt- undMedieninformationen GmbH, Frankfurt am Main",Gr�nderflirt,2008,"64,000.00", -   45,"F.A.Z.-Institut f�r Management-, Markt- undMedieninformationen GmbH, Frankfurt am Main",BEST Excellence 2009,2009,"150,000.00", -   46,"F.A.Z.-Institut f�r Management-, Markt- undMedieninformationen GmbH, Frankfurt am Main",Kompass 2009,2009,"199,500.00", -   47,"Forum KIEDRICH GmbH, Wiesbaden",Gr�ndernetzwerk,2008, -   ,"24,500.00"48,"Forum KIEDRICH GmbH, Wiesbaden","Betriebsberatung, Gr�ndungsf�rderung, Wettbewerbsf�higkeit",2009,"236,000.00", -   49,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeite.V., Frankfurt am Main",Genderspezifisches Monitoringsystem,2008,"62,170.00", -   50,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeite.V., Frankfurt am Main",Relaunch Webportal Unternehmerinnen Hessen,2008,"18,600.00", -   51,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeite.V., Frankfurt am Main",Qualifizierung f�r Gesch�ftspartnerschaften und Teilhabe,2008,"56,300.00", -   53,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeite.V., Frankfurt am Main",Genderspezifisches Monitoringsystem,2009,"125,500.00", -   54,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeite.V., Frankfurt am Main",Qualifizierung f�r Gesch�ftspartnerschaften,2009,"144,100.00", -   55,"Freizeit-Unternehmens-Gesellschaft mbH K�nzell & Co.B�derpark KG, K�nzell",Erweiterung einer Betriebsst�tte in der Gemeinde K�nzell,2009,"1,106,200.00", -   56,"FTH Fertigungstechnik Hofgeismar GmbH, Hofgeismar",Erweiterung einer Betriebsst�tte in 34369 Hofgeismar Assendorfer Weg 3,2008,"457,000.00", -   57,"G. Junghans Kunststoffwaren-Fabrik Inh. Klaus Junghans -Gesch�ftsf�hrung -, Hessisch Lichtenau",Erweiterung einer Betriebsst�tte in Hessisch-Lichtenau,2009,"655,000.00", -   58,"Gemeindevorstand der  Gemeinde Diemelsee, Diemelsee",Errichtung eines Kurplatzes mit Info-Point,2008,"65,400.00", -   59,"Gemeindevorstand der Gemeinde Bad Salzschlirf, Bad",Errichtung eines Medical Wellness Centers,2009,"940,400.00", -   60,"Gemeindevorstand der Gemeinde Kirchheim, Kirchheim",Errichtung eines Badeteichs  im Feriendorf Am Eisenberg,2009,"249,000.00", -   61,"Gemeindevorstand der Gemeinde Lohfelden, Lohfelden",ARS NATURA - L�ckenschluss zwischen Kassel-Waldau und S�hrewald- Wellerode,2008,"23,233.93", -   62,"Gemeindevorstand der Gemeinde Wald-Michelbach, Wald-Michelbach",Virtuelles Gr�nderzentrum �berwald in Wald-Michelbach,2009,"485,800.00", -   63,"Gemeindevorstand der Gemeinde Willingen, Willingen (Upland)",Erweiterung und funktionsgerechte Umgestaltung des Veranstaltungszentrums,2008,"3,058,000.00", -   64,"Gerhard Klapp Cosmetics, Hessisch Lichtenau",Erweiterung einer Betriebsst�tte in der Stadt Hessisch Lichtenau,2008,"681,600.00", -   65,"GOAB GmbH, Offenbach am Main",VerbundWerk - Kooperationsf�rderung,2008,"62,450.00", -   66,"GOAB GmbH, Offenbach am Main",Beschaffung von Ausstattung f�r den Ausbildungsbereich Metall,2009,"17,961.00", -   67,"HA Hessen Agentur GmbH, Wiesbaden",F�rderung modellhafter Forschungs- und Entwicklungsprojekte,2008,"8,097,600.00", -   68,"HA Hessen Agentur GmbH, Wiesbaden",TTN-Hessen 2. Halbjahr 2008,2008,"663,000.00", -   69,"HA Hessen Agentur GmbH, Wiesbaden","Aufbau des Clusters ""Integrierte Bioindustrie""",2008,"517,218.00", -   70,"HA Hessen Agentur GmbH, Wiesbaden","Hessen Agentur GmbH �berarbeitung der Brosch�re ""ich mache mich selbst�ndig"" u. weit",2008, -   ,"17,968.00"71,"HA Hessen Agentur GmbH, Wiesbaden",Clusterwettbewerb - Begleitung der Umsetzung der pr�mierten Konzepte in 2009,2009,"60,293.00", -   72,"HA Hessen Agentur GmbH, Wiesbaden","Modellhafte Forschungs- und Entwicklungsprojekte insbesondere in derAutomobilzulieferindustrie",2009,"7,519,700.00", -   73,"HA Hessen Agentur GmbH, Wiesbaden",TechnologieTransferNetzwerk Hessen 2009,2009,"775,600.00", -   74,"HA Hessen Agentur GmbH, Wiesbaden","Sonderf�rd. von Marketingproj. im zentralen tourist. Marketing  f�r die Reiseziele in Hessenim In- und Ausland im Jahr 2009",2009,"1,261,800.00", -   75,"HA Hessen Agentur GmbH, Wiesbaden",Hessischer Mittelstandsbericht 2009,2009,"84,718.00", -   76,"HA Hessen Agentur GmbH, Wiesbaden",TechnologieTransferNetzwerk Hessen 2010,2010,"773,100.00", -   77,"Handwerkskammer Rhein-Main, Frankfurt am Main",Technologietransfer-Stelle,2008,"33,000.00", -   78,"Handwerkskammer Rhein-Main, Frankfurt am Main",Technologie- und Wissenstransfer,2009,"91,000.00", -   79,"Handwerkskammer Wiesbaden, Wiesbaden",Sonderberatungsstellen der hessischen Handwerkskammern,2008,"1,238,400.00", -   80,"Henschel Antriebstechnik GmbH, Kassel",Einstellung eines Innovationsassistenten in 34127 Kassel,2008,"30,000.00", -   81,"Hessischer Tourismusverband e. V., Marburg",ServiceQualit�t Deutschland Einf�hrung in Hessen,2008, -   ,"64,600.00"82,"Hessischer Tourismusverband e. V., Marburg",ServiceQualit�t Deutschland Einf�hrung in Hessen - Projektphase II,2009,"208,300.00", -   83,"Hessisches Ministerium f�r Wirtschaft, V","Leitfaden f�r energieeffiziente Bildungsgeb�ude im Neubau und Modernisierung; Vertrag mitPassivhausinstitut Dr. Wolfgang Feist,",2008,"112,200.00", -   85,"Hessisches Ministerium f�r Wirtschaft, V","Wiss. Begleitung Passivhaus; Polizeipr�sidium Nordhessen, Baunatal; Vertrag mitPassivhausinstitut Dr. Wolfgang Feist, Rheinstr.",2008,"123,100.00", -   86,"Hessisches Ministerium f�r Wirtschaft, V","Erarbeitung eines Ausstellungskonzeptes f�r eine Wanderausstellung zum ThemaPassivhaus; Vertrag mit Passivhausinstitut Dr. Wolfg",2008, -   ,"92,200.00"87,"Hessisches Ministerium f�r Wirtschaft, V","Erarbeitung der Entwicklung von Lernmaterial zu den Themen ""Solarthermie"" und""W�rmepumpen""; Vertrag mit Universit�t Kassel, vert",2009,"95,500.00", -   88,"Hessisches Ministerium f�r Wirtschaft, V","Vertrag �ber die Entwicklung, Erprobung und Einf�hrung einer differenziertenVerbrauchsstruktur f�r bestehende Nichtwohngeb�ude,",2009,"299,000.00", -   89,"Holzfachschule Bad Wildungen e.V., Bad Wildungen",Technologietransfer-Stelle,2008,"33,000.00", -   90,"Holzfachschule Bad Wildungen e.V., Bad Wildungen",Ersatzbeschaffung im Bereich Modellbauerhandwerk / 3D Drucker,2008,"62,974.00", -   91,"Holzfachschule Bad Wildungen e.V., Bad Wildungen",Innovation und wissensbasierte Wirtschaft,2009,"66,000.00", -   92,"Holzfachschule Bad Wildungen e.V., Bad Wildungen",Ersatzbeschaffungen im Modellbauerhandwerk / Messger�te und Maschinen,2009,"502,800.00", -   93,"Hydrokomp GmbH   - Gesch�ftsf�hrung -, M�cke",Erweiterung einer Betriebsst�tte in 35325 M�cke,2008,"236,400.00", -   94,"Hydrotechnik GmbH, Limburg",Erweiterung einer Betriebsst�tte in 65549 Limburg,2008, -   ,"372,600.00"95,"IHK Frankfurt am Main, Frankfurt am Main",Au�enwirtschaftsberatung 2008 IHK Frankfurt,2008, -   ,"66,460.00"96,"IHK Frankfurt am Main, Frankfurt am Main",IHK Frankfurt Au�enwirtschaftsberatungen 2009,2009,"105,000.00", -   97,"impex-polymer-Service GmbH   - Gesch�ftsf�hrung -,Reinhardshagen","Verlagerung einer Betriebsst�tte nach 34359 Reinhardshagen, Industriegebiet S�d, KreisKassel",2007,"853,500.00", -   98,"Industrie- und Handelskammer Darmstadt, Darmstadt","Netzwerk ""Automatisierungsregion Rhein Main Neckar""",2008,"24,000.00", -   99,"Industrie- und Handelskammer Darmstadt, Darmstadt",Aufbauphase des Software-Cluster Rhein Main Neckar,2009,"345,000.00", -   100,"Industrie- und Handelskammer Frankfurt am Main, Frankfurt amMain",Au�enwirtschaftsberatungen durch die IHK Frankfurt 2010,2010,"105,000.00", -   101,"Initiative Frauen, Leben und Arbeit in Mittelhessen e.V. Frau Dr.Seitz, Gie�en",Frauen-Mentoring-Programm Mittelhessen <S.E.T>,2008,"66,475.00", -   102,"Initiative Frauen, Leben und Arbeit in Mittelhessen e.V. Frau Dr.Seitz, Gie�en",Frauen-Mentoring-Programm Mittelhessen <S.E.T.>,2010,"64,800.00", -   103,"Institut f�r Freie Berufe an der Friedrich-Alexander-Universit�tErlangen-N�rnberg e.V., N�rnberg",Beratungsdienstleistungen f�r Angeh�rige Freier Berufe in Hessen,2008,"22,600.00", -   104,"Institut f�r Freie Berufe an der Friedrich-Alexander-Universit�tErlangen-N�rnberg e.V., N�rnberg","Information, Beratung und Coaching",2009,"45,400.00", -   105,Institut Wohnen und Umwelt,"Wiss. Begleitung zur energetischen Moderniierung ABG-Geb�ude in Frankfurt; 1. Phase,Vertrag mit Institut Wohnen und Umwelt 27.05",2008,"118,000.00", -   106,Institut Wohnen und Umwelt,"Wiss. Begleitung zur energetischen Moderniierung ABG-Geb�ude in Frankfurt; 2. Phase,Vertrag mit Institut Wohnen und Umwelt 27.05",2008,"90,600.00", -   107,"Josef  Wiegand Ski und Rodel e.K., Rasdorf",Errichtung einer Betriebsst�tte in Wald-Michelbach,2009,"292,300.00", -   108,"Jugendwerkstatt Gie�en e.V., Gie�en",Modernisierungsbeschaffungen,2009,"175,000.00", -   109,Katja Schmidt,,2008,"19,700.00", -   110,"KIZ gemeinn�tzige Projektgesellschaft mbH, Offenbach amMain",Gr�ndertage Hessen 2008,2008,"47,700.00", -   111,"KIZ gemeinnu_tzige Projektgesellschaft mbH, Offenbach am Main",Gr�ndertage Hessen 2009,2009,"46,500.00", -   112,Klaus Bonadt,Biomasseheizung m. Stirling BHKW,2008,"21,300.00", -   114,"Kommunale Arbeitsgemeinschaft vertreten durch den LandkreisBergstra�e, Heppsnheim",Reaktivierung der �berwaldbahn f�r touristische Nutzung (Draisine) 1. BA,2008,"4,384,200.00", -   115,"Kompetenznetzwerk Dezentrale Energie- technologienNordhessen e. V., Kassel","Cluster ""Dezentrale Energietechnologien - Verstetigungsphase""",2008,"345,000.00", -   116,"Kompetenzzentrum HessenRohstoffe e. V., Witzenhausen",Holzcluster Hessen: Initiierungsphase,2009,"25,000.00", -   117,"Kreisausschu� des Landkreises Fulda, Fulda","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesFulda",2008,"259,600.00", -   118,"Kreisausschu� des Landkreises Fulda, Fulda","Modernisierung und Erg�nzung der IUK-Ausstattung der beruflichen Schulen im LandkreisFulda",2010,"80,000.00", -   119,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesMarburg-Biedenkopf",2008,"302,200.00", -   120,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg",Gr�ndungsinitiative Marburg-Biedenkopf,2009,"240,000.00", -   121,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2009,"160,000.00", -   122,"Kreisausschuss des Lahn-Dill-Kreises, Wetzlar",Veranstaltungsreihe zur F�rderung beruflicher Kompetenzen von Frauen,2008,"6,167.00", -   123,"Kreisausschuss des Lahn-Dill-Kreises, Wetzlar","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Lahn-Dill-Kreises",2008,"417,100.00", -   124,"Kreisausschuss des Landkreises Bergstra�e, Heppenheim","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesBergstra�e",2008,"86,000.00", -   125,"Kreisausschuss des Landkreises Darmstadt-Dieburg,","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesDarmstadt-Dieburg",2008,"40,000.00", -   126,"Kreisausschuss des Landkreises Darmstadt-Dieburg,","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2010,"19,900.00", -   127,"Kreisausschuss des Landkreises Gro�-Gerau FB Schul- undGeb�udeservice Haus II, Gro�-Gerau","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Kreises Gro�-Gerau",2008,"32,161.00", -   128,"Kreisausschuss des Landkreises Hersfeld-Rotenburg, BadHersfeld","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesHersfeld-Rotenburg",2008,"402,100.00", -   129,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen undBauwesen, Hofgeismar","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesKassel",2009,"152,800.00", -   130,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen undBauwesen, Hofgeismar","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen desLandkreises Kassel",2009,"33,300.00", -   131,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen undBauwesen, Hofgeismar","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2010,"70,000.00", -   132,"Kreisausschuss des Landkreises Kassel, Kassel",Ausbau Flughafen Kassel-Calden Verlegung der B 7,2009,"5,555,900.00", -   133,"Kreisausschuss des Landkreises Limburg-Weilburg, Limburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesLimburg-Weilburg",2008,"662,000.00", -   134,"Kreisausschuss des Landkreises Odenwaldkreis, Erbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen desOdenwaldkreises",2008,"264,000.00", -   135,"Kreisausschuss des Landkreises Offenbach am Main,Dietzenbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des LandkreisesOffenbach",2008,"80,000.00", -   136,"Kreisausschuss des Landkreises Offenbach am Main,Dietzenbach","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen desLandkreises Offenbach",2009,"34,600.00", -   137,"Kreisausschuss des Landkreises Waldeck-Frankenberg,",,2008,"150,318.00", -   138,"Kreisausschuss des Landkreises Waldeck-Frankenberg,","Modernisierung und Erg�nzung der IUK-Ausstattung der beruflichen Schulen im LandkreisWaldeck-Frankenberg",2010,"254,000.00", -   140,"Kreisausschuss des Main-Taunus-Kreises, Hofheim am Taunus","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Main-Taunus-Kreises",2008,"47,801.00", -   141,"Kreisausschuss des Main-Taunus-Kreises, Hofheim am Taunus","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2010,"76,100.00", -   142,"Kreisausschuss des Schwalm-Eder-Kreises, Homberg (Efze)","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Schwalm-Eder-Kreises",2008,"800,000.00", -   143,"Kreisausschuss des Vogelsbergkreises, Lauterbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen desVogelsbergkreises",2008,"359,500.00", -   144,"Kreisausschuss des Vogelsbergkreises, Lauterbach","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2009,"80,000.00", -   145,"Kreisausschuss des Vogelsbergkreises, Lauterbach",Anschubmarketing BahnRadweg Hessen,2009,"166,900.00", -   146,"Kreishandwerkerschaft des Landkreises Waldeck-Frankenberg,Korbach",Entwicklung einer �bergabeagentur (Change Agency),2008,"309,500.00", -   147,"Kreishandwerkerschaft des Landkreises Waldeck-Frankenberg,Korbach",Modernisierung der Ausstattung im BBZ Korbach,2008,"903,100.00", -   148,"Kreishandwerkerschaft Waldeck-Frankenberg, Korbach",Machbarkeitsstudie f�r eine Qualifizierung zum Einsatz regenerativer Energietr�ger,2009,"20,000.00", -   149,"Landesinnung Hessen K�lte-Klima-Technik, Maintal",Technologieiransfer-Stelle,2008,"51,000.00", -   150,"Landesinnung Hessen K�lte-Klima-Technik, Maintal",Technologie-Transfer-Stelle der Bundesfachschule K�lte-Klima-Technik,2009,"33,000.00", -   151,"Landesverband der Campingplatzunternehmer in Hessen e. V.,Kn�llwald",Einf�hrung eines integrierten ECOCAMPING-Management,2008,"75,000.00", -   152,"Mafex - Marburger F�rderzentrum f�r Existenzgr�nder aus derUniversit�t, Marburg",Pre-Seed-Beratung und Betreuung von akademischen Spinn-Offs,2008,"56,250.00", -   153,"Magistrat der Kreisstadt Korbach, Korbach","Machbarkeitsstudie f�r das ""Zentrale Geopark-Infozentrum""",2008,"53,600.00", -   154,"Magistrat der Stadt Bad K�nig, Bad K�nig","Neubau einer Trink- und Wandelhalle mit Cafe und Veranstaltungs- zentrum im KurgartenBad K�nig",2008,"900,000.00", -   155,"Magistrat der Stadt Bad Wildungen, Bad Wildungen",Fortf�hrung des ARS NATURA in der Gemarkung Bad Wildungen,2008,"44,473.09", -   156,"Magistrat der Stadt Bensheim, Bensheim",Firmen�bergreifende Personalstrategien im demografischen Wandel (F�PS),2008,"50,000.00", -   157,"Magistrat der Stadt Butzbach, Butzbach","Entwicklungsstudie ""Roman-Way-Village""",2009,"30,000.00", -   158,"Magistrat der Stadt Darmstadt Schulamt, Darmstadt","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der StadtDarmstadt",2008,"146,600.00", -   159,"Magistrat der Stadt Darmstadt Schulamt, Darmstadt","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernenin Berufsschulen (ViLBe)",2009,"60,000.00", -   160,"Magistrat der Stadt Dillenburg, Dillenburg",St�dtebauliche Entwicklung des G�terbahnhofgel�ndes,2009,"6,000,000.00", -   161,"Magistrat der Stadt Eschwege, Eschwege",Intermediales Labor iLAB,2008,"25,000.00", -   162,"Magistrat der Stadt Eschwege, Eschwege","Entwicklungsstudie ""Camp Cool""",2009,"25,000.00", -   163,"Magistrat der Stadt Frankfurt am Main Stadtschulamt, Frankfurtam Main","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Frankfurtam Main",2008,"556,700.00", -   164,"Magistrat der Stadt Friedberg (Hessen), Friedberg (Hessen)","Errichtung eines Kreisverkehrsplatzes an der B3 in Friedberg als Anbindung desGewerbegebietes West und der Kasernenfl�che",2008,"471,500.00", -   165,"Magistrat der Stadt Fulda, Fulda",Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Fulda,2008,"533,900.00", -   166,"Magistrat der Stadt Fulda, Fulda",Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der Stadt,2009,"58,800.00", -   167,"Magistrat der Stadt Fulda, Fulda",Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Fulda,2010,"56,000.00", -   169,"Magistrat der Stadt Gie�en Schulverwaltungsamt, Gie�en",Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Gie�en,2008,"222,200.00", -   170,"Magistrat der Stadt Hanau Schulverwaltungsamt, Hanau",Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Hanau,2008,"83,100.00", -   171,"Magistrat der Stadt Hofheim, Hofheim am Taunus",Gr�nderzentrum Hofheim,2008,"13,500.00", -   172,"Magistrat der Stadt Kassel - Liegenschaftsamt - HerrLengemann, Kassel","Machbarkeitsstudie f�r das Interkommunales Gewerbegebiet ""Langes Feld"" inNiederzwehren",2008,"257,600.00", -   173,"Magistrat der Stadt Kassel, Kassel",Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Kassel,2008,"575,800.00", -   174,"Magistrat der Stadt Kassel, Kassel","Aufbau und Entwicklung der Kasseler Kooperation ""Denkmal und Energie""",2009,"280,000.00", -   175,"Magistrat der Stadt Kassel, Kassel",F�rderung der Kulturwirtschaft in Kassel,2009,"43,000.00", -   176,"Magistrat der Stadt Kassel, Kassel","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der StadtKassel",2009,"46,800.00", -   177,"Magistrat der Stadt Lampertheim, Lampertheim","Studie ""Strategische Gewerbefl�chenentwicklung in der Region Hes schisches Ried""",2009,"30,500.00", -   178,"Magistrat der Stadt Lindenfels, Lindenfels",Beschaffung von musealen Einrichtungsgegenst�nden,2008,"63,000.00", -   179,"Magistrat der Stadt Maintal, Maintal","Errichtung des Existenzgr�nderzentrums ""Do-It-Yourself B�ro""",2007,"114,442.89", -   180,"Magistrat der Stadt Neckarsteinach, Neckarsteinach","Konzeption und Einrichtung des GEOPARK-Eingangstor S�D als re- gionales touristischesPortal (Info- u. Erlebniszentrum)",2008,"179,800.00", -   181,"Magistrat der Stadt Offenbach am Main, Offenbach am Main","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der StadtOffenbach am Main",2008,"40,000.00", -   182,"Magistrat der Stadt Offenbach, Offenbach am Main",Kreativwirtschaft und Stadtentwicklung,2009,"155,300.00", -   183,"Magistrat der Stadt Schotten, Schotten","Erstellung eines Entwicklungskonzeptes ""Vulkan Vogelsberg""",2008,"113,100.00", -   184,"Magistrat der Stadt Spangenberg, Spangenberg","�berregionaler Ausbau des ARS NATURA in den Gemarkungen Spangenberg,Rotenburg/F., Alheim",2008,"57,320.00", -   185,"Magistrat der Stadt Wiesbaden Amt f�r Wirtschaft undLiegenschaften, Wiesbaden",F�rderung der Kreativwirtschaft,2009,"64,000.00", -   186,"Magistrat der Stadt Wiesbaden Schulamt, Wiesbaden","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen in derLandeshauptstadt Wiesbaden",2008,"216,600.00", -   187,"Magistrat der Stadt Wiesbaden Schulamt, Wiesbaden","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der StadtWiesbaden",2009,"146,600.00", -   188,"Magistrat der Stadt Wolfhagen, Wolfhagen",Erschlie�ung von Gewerbefl�chen in der ehemaligen Pommernkaserne - I. BA,2007,"776,800.00", -   189,"Magistrat der Universit�tsstadt Marburg Fachdienst Schule,Marburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen derUniversit�tsstadt Marburg",2008,"502,000.00", -   190,"Main-Kinzig-Kreis -Der Kreisausschu�-, Gelnhausen","Modernisierung und Erg�nzung der IuK-Ausstattung der berulfichen Schulen des Main-Kinzig-Kreises",2009,"108,100.00", -   191,"Main-Kinzig-Kreis Service-B�rse-Spessart, Gelnhausen","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Main-Kinzig-Kreises",2008,"80,000.00", -   192,"METAKUS GmbH, Baunatal",METAKUS Anwendungszentrum Metallformgebung,2008,"305,400.00", -   193,"METAKUS GmbH, Baunatal",Planungskonzept und Gesch�ftsplan f�r AWZ Kunstofftechnik,2008,"28,000.00", -   194,Mittelhessenfonds GmbH,Mittelhessenfonds,2008, -   ,"10,000,000.00"195,"Morton Extrusionstechnik GmbH, Abtsteinach","Errichtung einer Betriebsst�tte in der Gemeinde Abtsteinach, Im Steinb�hl 5",2008,"2,375,400.00", -   196,Petra Peffermann,Biomasseheizung m. Stirling BHKW,2008,"17,300.00", -   197,"Pfau Medizinische-Instrumente GmbH, Wanfried",Erweiterung einer Betriebsst�tte in Wanfried,2007,"535,059.00", -   198,"Phantastische Bibliothek, Wetzlar","Umwidmung Geb�ude Turmstr. 20, Wertzlar, in eine Bibliothek als Kultur-, Bidlungs- u.Wissenschaftszentrum (2. BA)",2007, -   ,"60,200.00"201,"Philipps-Universit�t Marburg Der Pr�sident, Marburg","Einrichtung einer betrieblichen Kinderbetreuungseinrichtung, Philipps- Universit�t Marburg",2009,"300,000.00", -   202,"Prognos AG, Berlin",Vorbereitung und Unterst�tzung der Clusterwettbewerbe in Hessen,2007, -   ,"82,407.50"203,"provadis School of International Management and TechnologyAG, Frankfurt",Cluster Chemie und Pharma Rhein Main - Initiierungsphase,2009,"25,000.00", -   204,"Reformhaus-Fachakademie, Oberursel",Technologietransfer-Stelle,2008,"15,000.00", -   205,"Reformhaus-Fachakademie, Oberursel",Technologie-Transfer und Innovationsnetzwerkbildung,2009,"30,000.00", -   206,"Region Vogelsberg Touristik GmbH, Schotten","Road-Show Vogelsberg/Hessen, ""Marketingaktion zur Bewerbung des Aktiv-, Gesundheits-und Erholungstourismus""",2010,"63,900.00", -   207,"Regionalmanagement Nordhessen GmbH, Kassel",Cluster Mobilit�tswirtschaft - Verstetigungsphase,2007,"350,000.00", -   208,"Regionalmanagement Nordhessen GmbH, Kassel","Cluster ""Tourismusoffensive Nordhessen"" - Fortsetzungsphase",2008,"521,200.00", -   209,"Regionalmanagement Nordhessen GmbH, Kassel","Destination NordHessen, Konzeption und Umsetzung des Themenkomplexes ""M�rchenlandder Br�der Grimm""",2008,"438,000.00", -   210,"Regionalmanagement Nordhessen GmbH, Kassel","Gr�ndungswettbewerb ""promotion Nordhessen"" 2008",2008,"400,000.00", -   211,"Regionalmanagement Nordhessen GmbH, Kassel","Marketingma�nahmen zur Positionierung der Destination NordHessen in internationalenM�rkten (Auslandsinit. Niederlande/D�nemark)",2008,"365,000.00", -   212,"Regionalmanagement Nordhessen GmbH, Kassel",Standortmarketing Nordhessen 2008-2009,2008,"431,000.00", -   213,"Regionalmanagement Nordhessen GmbH, Kassel",Magazin aus der Mitte Schwerpunkt Wandern,2008,"57,000.00", -   214,"Regionalmanagement Nordhessen GmbH, Kassel","Cluster ""Gesundheitsregion Nordhessen""",2009,"300,000.00", -   215,"Regionalmanagement Nordhessen GmbH, Kassel",Fertigungsprozessoptimierung als Instrument zur St�rkung des Mittelstandes,2009,"84,500.00", -   216,"Regionalmanagement Nordhessen GmbH, Kassel",promotion Nordhessen - Vom Businessplanwettbewerb zur Gr�nderregion,2009,"200,000.00", -   217,"Regionalpark Ballungsraum Rhein-Main GmbH, Fl�rsheim amMain","Erstellung einer touristischen Konzeptstudie ""Erlebniswelt Regionalpark Rhein Main""",2008,"48,200.00", -   218,"rEnerGo GmbH, Erbach",CLEO - Cluster Erneuerbare Energien Odenwald,2009,"337,000.00", -   219,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH Vertrag vom 09.04.2008 Aktualisierung der Internetseitewww.existenzgr�ndung-hessen.de",2008, -   ,"4,046.00"220,"RKW Hessen GmbH, Eschborn",RKW Hessen zur Durchf�hrung des 7. Hess. Unternehmerinnentages in R�sselsheim,2008, -   ,"37,366.00"221,"RKW Hessen GmbH, Eschborn",Existenzgr�ndungs- und Umsetzungsberatungen,2008, -   ,"668,589.50"222,"RKW Hessen GmbH, Eschborn",ML 1.2 RKW Hessen GmbH Technologieberatungen 2. HJ 2008,2008, -   ,"119,820.00"223,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH ML 1.2 ""umwelt-tech"" Beratungen",2008, -   ,"113,400.00"224,"RKW Hessen GmbH, Eschborn",RKW Hessen GmbH Vertrag vom 12.08.2008 Hess. Mittelstandstag 2008,2008, -   ,"24,349.00"225,"RKW Hessen GmbH, Eschborn",Beratungsprogramm f�r Hessen-PIUS,2009,"113,000.00", -   226,"RKW Hessen GmbH, Eschborn",Coaching f�r Unternehmen aus der Kulturwirtschaft,2009,"65,000.00", -   227,"RKW Hessen GmbH, Eschborn",RKW Hessen GmbH Existenzgr�ndungs und Unternehmensberatungen 2009,2009,"1,683,000.00", -   228,"RKW Hessen GmbH, Eschborn",Technologietransfer und Innovationsnetzbildung,2009,"228,000.00", -   229,"RKW Hessen GmbH, Eschborn","Umsetzungsberatung u. Anpassung d. Service- u. Managementprozes- se im modernen KfZ-Service - Operatives Gesch�ft, Strategie II -",2009,"73,300.00", -   230,"RKW Hessen GmbH, Eschborn",Wettbewerbsvorsprung durch effiziente Produktions- und Logistik- prozesse,2009,"48,700.00", -   231,"RKW Hessen GmbH, Eschborn",Aktualisierung des Internetauftritts www.existenzgruendung-hessen.de,2009, -   ,"4,046.00"233,"RKW Hessen GmbH, Eschborn",Hessischer Mittelstandstag 2009 Wege aus der Krise-heute die Weichen f�r morgen stellen,2009, -   ,"29,988.00"234,"RKW Hessen GmbH, Eschborn",Krisen- und Sanierungsberatung,2009,"100,000.00", -   235,"RKW Hessen GmbH, Eschborn",Beratungsprogramm Hessen-PIUS 2010,2010,"299,400.00", -   236,"RKW Hessen GmbH, Eschborn",Technologietransfer und Innovationsnetzbildung,2010,"285,000.00", -   237,"Sonnen-Systeme Projektgesellschaft mbH, Alheim-Heinebach",Erweiterung einer Betriebsst�tte in 36211 Alheim-Heinebach,2008,"433,600.00", -   238,"Standortmarketing GbR, Fulda",Engineering-High-Tech-Cluster (EHC) Fulda Initiierungsphase,2008,"27,000.00", -   239,"Tanja Siebert Vermietung + Verpachtung (BSU), Meinhard",Erweiterung einer Betriebsst�tte in der Gemeinde Meinhard,2008,"225,000.00", -   240,"Technische Universit�t Darmstadt, Darmstadt",Errichtung einer betrieblichen Kinderbetreuungseinrichtung,2009,"600,000.00", -   241,"Technische Universit�t Darmstadt Fachgebiet MultimediaKommunikation, Darmstadt",Start up Factory,2008,"454,600.00", -   242,"Technische Universit�t Darmstadt FB 20, Telekooperation,Darmstadt","Aufbau des Spritzguss-Cluster: Werkzeug- und Formenbau f�r die kunststoffverarbeitendeIndustrie -  Initiierungsphase",2008,"25,000.00", -   243,"Technische Universit�t Darmstadt Patentinformationszentrumder Universtit�ts- und Landesbibliothek Darmstadt, Darmstadt","Technologietransfer im Bereich Patent- u. Markeninformation PatentinformationszentrumDarmstadt",2008,"112,600.00", -   244,"Technische Universit�t Darmstadt Patentinformationszentrumder Universtit�ts- und Landesbibliothek Darmstadt, Darmstadt",Verbesserung Technologietransfer im Bereich Patent- und Markeninformation,2009,"216,000.00", -   245,"Technologieberatungsstelle beim DGB Hessen e.V., Frankfurtam Main",Proaktive Bew�ltigung des Wandels,2008,"93,000.00", -   246,"Technologieberatungsstelle beim DGB Hessen e.V., Frankfurtam Main",Proaktive Bew�ltigung des Wandels,2009,"221,000.00", -   247,"TIGZ Technologie-, Innovations- und Gr�nder/innen-ZentrumGmbH, Ginsheim-Gustavsburg",Werkstatt f�r Kultur- und Kreativwirtschaft,2009,"120,000.00", -   248,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en",Clustermanagement Medizinwirtschaft,2007,"490,000.00", -   249,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en",Technologietransfer und Existenzgr�ndungen aus TransMIT-Zentren,2008, -   ,"76,200.00"250,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en",Technolgietransfer und Innovationsnetzwerkbildung 2009,2009,"278,800.00", -   251,"UHD-Unternehmensberatung Hessen f�r Handel undDienstleistung GmbH, Frankfurt am Main",Betriebsberatungen,2008, -   ,"42,320.00"252,"UHD-Unternehmensberatung Hessen f�r Handel undDienstleistung GmbH, Frankfurt am Main",Betriebsberatung Einzelhandel,2009,"80,000.00", -   253,"UniKasselTransfer GmbH, Kassel",Inkubator UniKassel,2008,"259,200.00", -   254,Universit�t Kassel,"Entwicklung und Erprobung des Konzeptes zur Weiterbildung im Bereich ""Energieeffizienzin Unternehmen""",2009,"251,600.00", -   255,"Universit�t Kassel Der Pr�sident, Kassel",Verbesserung des Technologietransfers im Bereich Patent- und Markeninformation,2008,"53,700.00", -   256,"Universit�t Kassel Der Pr�sident, Kassel",Technologietransfer mit Schwerpunkt Strategische Partnerschaften,2008,"419,900.00", -   257,"Universit�t Kassel Der Pr�sident, Kassel",Verbesserung Technologietransfer  im Bereich Patent- und Markeninformation,2009,"90,000.00", -   258,"Valls Besitz GmbH (BSG) Rovalma GmbH (BTG), Berlin",Errichtung einer Betriebsst�tte in Hessisch Lichtenau,2009,"5,000,000.00", -   259,"Verband der berufsbildenden Schulen der Stadt Hanau und desMain-Kinzig-Kreises, Hanau","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Hanauund des Main-Kinzig-Kreises",2008,"89,100.00", -   260,"Verein fu_r Sozialpolitik, Bildung und Berufsfo_rderung e.V., Kassel",Ausstattungsinvestition fu_r ein Modulares Weiterbildungssystem mit Unterweisungsmo_glichkeit des Blended-Learning,2009,"44,398.00", -   261,"Virtuelles Gr�nderzentrum Schwalm, Schwalmstadt",Virtuelles Gr�nderzentrum in der Schwalm,2008,"40,641.68", -   263,"Virtuelles Gr�nderzentrum Schwalm, Schwalmstadt",Virtuelles Gr�nderzentrum in der Schwalm Anschlussf�rderung 2009 - 2010,2009,"82,400.00", -   264,"Vogelsberg Consult GmbH, Alsfeld",Verpackungscluster Mittelhessen: Initiierungsphase,2008,"31,250.00", -   265,"Vogelsberg Consult GmbH, Alsfeld",Verpackungscluster Mittelhessen - Aufbauphase,2009,"189,000.00", -   266,"WEKAL Maschinenbau GmbH, Fritzlar",Diversifizierung der Produktion in 34560 Fritzlar,2009,"346,600.00", -   267,Wirtschafts- und Infrastrukturbank Hesse,Hessen-Kapital I,2007,"50,000,000.00", -   268,"Wirtschaftsf�rderung Bergstra�e GmbH, Heppenheim",Gr�ndungsoffensive Bergstra�e-Odenwald,2009,"182,800.00", -   269,"Wirtschaftsf�rderung Bergstra�e GmbH, Heppenheim",Indo-German Film Agency,2009,"126,200.00", -   270,"Wirtschaftsf�rderung Korbach Goldrichtig GmbH, 34497",Integrierte Nachfolgestrategien zur nachhaltigen Standort- sicherung im l�ndlichen Raum,2009,"19,700.00", -   271,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel","Machbarkeitsstudie ""Science Park Kassel""",2008,"164,000.00", -   272,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel",Ausbau spezifischer Entwicklungspotentiale und Abbau regionaler Disparit�ten,2008,"210,000.00", -   273,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel",Marken- und Netzwerkbildung,2008,"83,000.00", -   274,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel",�konomische Relevanz der Kultur- und Kreativwirtschaft in der Region Kassel,2009,"55,000.00", -   275,"Wirtschaftsf�rderungsgesellschaft Werra-Mei�ner-Kreis mbH,Eschwege",Marketingprojekt zur Ansiedlung bio-affiner Unternehmen im Werra-Mei�ner-Kreis,2008,"164,500.00", -   276,"Wirtschaftsf�rderungsgesellschaft Werra-Mei�ner-Kreis mbH,Eschwege",Leben-Wohnen-Arbeiten im Werra-Mei�ner-Kreis,2009,"376,645.00", -   277,"Zweckverband Interkommunale Zusammenarbeit Schwalm-Eder Mitte, Kn�llwald","Erschlie�ung des interkommunalen Gewerbegebietes Schwalm-Eder Mitte in Kn�llwald-Remsfeld",2009,"4,249,200.00", -   278,"Zweckverband Raum Kassel, Kassel",Planungsleistungen f�r den Stra�enendausbau des GVZ Kassel,2009,"142,800.00", -   
+"ID","name_des_begunstigten","bezeichnung_des_vorhabens","jahr_der_bewilligung_restzahlung","gewahrte_betrage","bei_abschluss_des_vorhabens_gezahlte_gesamtbetrage"
+1,"Abwasserverband R�sselsheim-Raunheim","Biomasseheizung m. Stirling BHKW",2008,235900," -   "
+2,"Albert Koch GmbH Maschinen- und Vorrichtungsbau, Baunatal","Cluster ""DieMaschinenbauPartner"": Initiierungsphase",2008," -   ",25000
+3,"ANALYTICON Biotechnologies AG   - Gesch�ftsf�hrung -,
+Lichtenfels","Einstellung eines Innovationsassistenten",2009,29200," -   "
+4,"Angewandte Kunst Hessen e.V., Kassel","Tendence Decorate Life",2008," -   ",2688
+5,"Berufsbildungswerk S�dhessen gGmbH, Karben","Erg�nzung der Ausstattung an den verschiedenen Standorten des BBW S�dhessen gGmbH",2009,74000," -   "
+6,"Bildungswerk BAU Hessen-Th�ringen e.V., Erfurt","Modernisierung des EBL Bildungszentrums Frankfurt am Main, erster und zweiter
+Bauabschnitt",2008,14744250," -   "
+7,"Bildungszentrum des Hessischen Handels gGmbH, Frankfurt
+am Main","Beauftragter f�r Innovation und Technologietransfer im Handel (BIT)",2008,143050," -   "
+8,"BioNatur GbR Iris & Dirk Rateike, Gilserberg","Errichtung einer Betriebsst�tte in 34630 Gilserberg, Bahnhofstra�e 57",2008,446300," -   "
+9,"BTQ Kassel, Kassel","Neue Technologien und Wettbewerbsf�higkeit",2008,200600," -   "
+10,"Buchbinderei Thomas Zinn, Wartenberg","Verlagerung einer Betriebsst�tte nach Kleinl�der",2009,200800," -   "
+11,"BZ Bildungszentrum Kassel GmbH, Kassel","Technologietransfer im Handwerk",2008," -   ",5500
+12,"BZH Bildungszentrum Handel und Dienstleistungen gGmbH,
+Marburg","Technologietransfer im Handel",2008,15000," -   "
+13,"BZH Bildungszentrum Handel und Dienstleistungen gGmbH,
+Marburg","""Beauftragter f�r Innovation und Technologie - BIT"" im Handel",2009,30000," -   "
+14,"cassel creative competence e.V., Kassel","Weiterentwicklung und Ausbau der Marken- und Netzwerkbildung",2008,22900," -   "
+15,"Cesah GmbH, Darmstadt","Innovation und Strukturentwicklung basierend auf GALILEO Anwendungen - Fortsetzung",2008,21500," -   "
+16,"Collinor Software GmbH, Birkenau","Einstellung eines Innovationsassistenten in 69488 Birkenau",2009,29800," -   "
+17,"Concentrator Optics GmbH, C�lbe","Erweiterung einer Betriebsst�tte in der Gemeinde C�lbe, Lahnstra�e 16",2008,823200," -   "
+18,"Daimler AG Mercedes- Benz Werk Kassel, Kassel","Betriebliche Kinderbetreuungseinrichtung, Mercedesplatz 1, 34112 Kassel",2009,500000," -   "
+19,"deENet Kompetenznetzwerk Dezentrale Ener","Organisation, Moderation und Energieberatung der 2. Phase des Modellvorhabens
+""Energieeffizienztisch Nordhessen""",2008,177000," -   "
+20,"Der Kreisausschuss des Landkreises Fulda, Fulda","Erstellung eines touristischen Entwicklungsgutachtens mit Masterplan f�r das Gebiet der
+Wasserkuppe",2008,170360," -   "
+21,"Dietz Automation GmbH, Neukirchen-Riebelsdorf","Errichtung einer Betriebsst�tte in 34537 Bad Wildungen",2009,361700," -   "
+22,"digitop media GmbH, Fulda","Einstellung eines Innovationsassistenten in 36037 Fulda",2007," -   ",26100
+24,"Dr. Ing. Ulrich Esterer GmbH & Co. KG, Helsa","grundlegende �nderung des Gesamtproduktionsverfahrens einer bestehenden",2008,668400," -   "
+25,"DVS Innovation GmbH, Eschwege","Errichtung einer Betriebsst�tte in 37269 Eschwege, Hessenring 4",2008,1348900," -   "
+26,"eCommerce-Kompetenzzentrum Nordhessen GbR, Kassel","eCommerce-Center-Nordhessen",2008,159000," -   "
+27,"eCommerce-Kompetenzzentrum Nordhessen GbR, Kassel","eCommerce Center Nordhessen (ECCN) Folgeantrag 2010 - 2011",2010,185600," -   "
+28,"ECOWIN GmbH, Wettenberg","KompetenzNetz UmweltTechnologie - KNUT",2009,250400," -   "
+29,"Eigenbetrieb Besucherbergwerk ""Grube Fortuna"", Wetzlar","Neue touristen- und besuchergerechte Pr�sentation des ehemaligen Eisenerzbergwerkes
+Grube Fortuna",2009,83000," -   "
+30,"Eigenbetrieb ""Geb�udemanagement Werra-Mei�ner-Kreis"",
+Witzenhausen","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Werra-Mei�ner
+-Kreises",2008,299800," -   "
+31,"EKO-Plant GmbH, Neu-Eichenberg","Erweiterung einer Betriebsst�tte in 37249 Neu-Eichenberg",2008,263400," -   "
+32,"European Business School (EBS ) International University
+Schloss Reinhardshausen, Oestrich-Winkel","MarketingXChange - Marketing und Vertriebssupport f�r kleine Unternehmen",2009,113300," -   "
+33,"European Business School (EBS), Wiesbaden","Cluster ""Logistik RheinMain. Die Wissensinitiative""",2008,350000," -   "
+34,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell","Akademie Existenzgr�nderinnen",2008,14400," -   "
+35,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell","kompetent. 2009",2008,5000," -   "
+36,"FAB gGmbH f�r Frauen Arbeit Bildung, Echzell","FAB Akademie",2009,32600," -   "
+37,"Fachhochschule Gie�en-Friedberg Der Pr�sident, Gie�en","Anwenderzentrum Medizintechnik an der Fachhochschule Gie�en-Friedberg",2008,8034500," -   "
+38,"Fachhochschule Giessen-Friedberg, Giessen","Umbau- und Erweiterung einer betrieblichen Kinderbetreuungsein- richtung",2009,360000," -   "
+39,"Fachverband Elektro- und Informations- technik
+Hessen/Rheinland-Pfalz, Frankfurt am Main","Technologietransfer-Stelle",2008,33000," -   "
+40,"Fachverband Elektro- und Informations- technik
+Hessen/Rheinland-Pfalz, Frankfurt am Main","Technologietransfer, Technologieberatung",2009,12100," -   "
+41,"FAPRIK gGmbH, Frankfurt am Main","Bauliche Modernisierungs- und Ausstattungsma�nahmen am Standort Spessartstra�e 11 in
+60385 Frankfurt",2009,23464," -   "
+42,"F.A.Z.-Institut f�r Management-, Markt- und
+Medieninformationen GmbH, Frankfurt am Main","Kompass",2008," -   ",99500
+43,"F.A.Z.-Institut f�r Management-, Markt- und
+Medieninformationen GmbH, Frankfurt am Main","Best Excellence 2/2008",2008," -   ",75000
+44,"F.A.Z.-Institut f�r Management-, Markt- und
+Medieninformationen GmbH, Frankfurt am Main","Gr�nderflirt",2008,64000," -   "
+45,"F.A.Z.-Institut f�r Management-, Markt- und
+Medieninformationen GmbH, Frankfurt am Main","BEST Excellence 2009",2009,150000," -   "
+46,"F.A.Z.-Institut f�r Management-, Markt- und
+Medieninformationen GmbH, Frankfurt am Main","Kompass 2009",2009,199500," -   "
+47,"Forum KIEDRICH GmbH, Wiesbaden","Gr�ndernetzwerk",2008," -   ",24500
+48,"Forum KIEDRICH GmbH, Wiesbaden","Betriebsberatung, Gr�ndungsf�rderung, Wettbewerbsf�higkeit",2009,236000," -   "
+49,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeit
+e.V., Frankfurt am Main","Genderspezifisches Monitoringsystem",2008,62170," -   "
+50,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeit
+e.V., Frankfurt am Main","Relaunch Webportal Unternehmerinnen Hessen",2008,18600," -   "
+51,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeit
+e.V., Frankfurt am Main","Qualifizierung f�r Gesch�ftspartnerschaften und Teilhabe",2008,56300," -   "
+53,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeit
+e.V., Frankfurt am Main","Genderspezifisches Monitoringsystem",2009,125500," -   "
+54,"Frauenbetriebe Qualifikation f�r die berufliche Selbst�ndigkeit
+e.V., Frankfurt am Main","Qualifizierung f�r Gesch�ftspartnerschaften",2009,144100," -   "
+55,"Freizeit-Unternehmens-Gesellschaft mbH K�nzell & Co.
+B�derpark KG, K�nzell","Erweiterung einer Betriebsst�tte in der Gemeinde K�nzell",2009,1106200," -   "
+56,"FTH Fertigungstechnik Hofgeismar GmbH, Hofgeismar","Erweiterung einer Betriebsst�tte in 34369 Hofgeismar Assendorfer Weg 3",2008,457000," -   "
+57,"G. Junghans Kunststoffwaren-Fabrik Inh. Klaus Junghans -
+Gesch�ftsf�hrung -, Hessisch Lichtenau","Erweiterung einer Betriebsst�tte in Hessisch-Lichtenau",2009,655000," -   "
+58,"Gemeindevorstand der  Gemeinde Diemelsee, Diemelsee","Errichtung eines Kurplatzes mit Info-Point",2008,65400," -   "
+59,"Gemeindevorstand der Gemeinde Bad Salzschlirf, Bad","Errichtung eines Medical Wellness Centers",2009,940400," -   "
+60,"Gemeindevorstand der Gemeinde Kirchheim, Kirchheim","Errichtung eines Badeteichs  im Feriendorf Am Eisenberg",2009,249000," -   "
+61,"Gemeindevorstand der Gemeinde Lohfelden, Lohfelden","ARS NATURA - L�ckenschluss zwischen Kassel-Waldau und S�hrewald- Wellerode",2008,23233.93," -   "
+62,"Gemeindevorstand der Gemeinde Wald-Michelbach, Wald-
+Michelbach","Virtuelles Gr�nderzentrum �berwald in Wald-Michelbach",2009,485800," -   "
+63,"Gemeindevorstand der Gemeinde Willingen, Willingen (Upland)","Erweiterung und funktionsgerechte Umgestaltung des Veranstaltungszentrums",2008,3058000," -   "
+64,"Gerhard Klapp Cosmetics, Hessisch Lichtenau","Erweiterung einer Betriebsst�tte in der Stadt Hessisch Lichtenau",2008,681600," -   "
+65,"GOAB GmbH, Offenbach am Main","VerbundWerk - Kooperationsf�rderung",2008,62450," -   "
+66,"GOAB GmbH, Offenbach am Main","Beschaffung von Ausstattung f�r den Ausbildungsbereich Metall",2009,17961," -   "
+67,"HA Hessen Agentur GmbH, Wiesbaden","F�rderung modellhafter Forschungs- und Entwicklungsprojekte",2008,8097600," -   "
+68,"HA Hessen Agentur GmbH, Wiesbaden","TTN-Hessen 2. Halbjahr 2008",2008,663000," -   "
+69,"HA Hessen Agentur GmbH, Wiesbaden","Aufbau des Clusters ""Integrierte Bioindustrie""",2008,517218," -   "
+70,"HA Hessen Agentur GmbH, Wiesbaden","Hessen Agentur GmbH �berarbeitung der Brosch�re ""ich mache mich selbst�ndig"" u. weit",2008," -   ",17968
+71,"HA Hessen Agentur GmbH, Wiesbaden","Clusterwettbewerb - Begleitung der Umsetzung der pr�mierten Konzepte in 2009",2009,60293," -   "
+72,"HA Hessen Agentur GmbH, Wiesbaden","Modellhafte Forschungs- und Entwicklungsprojekte insbesondere in der
+Automobilzulieferindustrie",2009,7519700," -   "
+73,"HA Hessen Agentur GmbH, Wiesbaden","TechnologieTransferNetzwerk Hessen 2009",2009,775600," -   "
+74,"HA Hessen Agentur GmbH, Wiesbaden","Sonderf�rd. von Marketingproj. im zentralen tourist. Marketing  f�r die Reiseziele in Hessen
+im In- und Ausland im Jahr 2009",2009,1261800," -   "
+75,"HA Hessen Agentur GmbH, Wiesbaden","Hessischer Mittelstandsbericht 2009",2009,84718," -   "
+76,"HA Hessen Agentur GmbH, Wiesbaden","TechnologieTransferNetzwerk Hessen 2010",2010,773100," -   "
+77,"Handwerkskammer Rhein-Main, Frankfurt am Main","Technologietransfer-Stelle",2008,33000," -   "
+78,"Handwerkskammer Rhein-Main, Frankfurt am Main","Technologie- und Wissenstransfer",2009,91000," -   "
+79,"Handwerkskammer Wiesbaden, Wiesbaden","Sonderberatungsstellen der hessischen Handwerkskammern",2008,1238400," -   "
+80,"Henschel Antriebstechnik GmbH, Kassel","Einstellung eines Innovationsassistenten in 34127 Kassel",2008,30000," -   "
+81,"Hessischer Tourismusverband e. V., Marburg","ServiceQualit�t Deutschland Einf�hrung in Hessen",2008," -   ",64600
+82,"Hessischer Tourismusverband e. V., Marburg","ServiceQualit�t Deutschland Einf�hrung in Hessen - Projektphase II",2009,208300," -   "
+83,"Hessisches Ministerium f�r Wirtschaft, V","Leitfaden f�r energieeffiziente Bildungsgeb�ude im Neubau und Modernisierung; Vertrag mit
+Passivhausinstitut Dr. Wolfgang Feist,",2008,112200," -   "
+85,"Hessisches Ministerium f�r Wirtschaft, V","Wiss. Begleitung Passivhaus; Polizeipr�sidium Nordhessen, Baunatal; Vertrag mit
+Passivhausinstitut Dr. Wolfgang Feist, Rheinstr.",2008,123100," -   "
+86,"Hessisches Ministerium f�r Wirtschaft, V","Erarbeitung eines Ausstellungskonzeptes f�r eine Wanderausstellung zum Thema
+Passivhaus; Vertrag mit Passivhausinstitut Dr. Wolfg",2008," -   ",92200
+87,"Hessisches Ministerium f�r Wirtschaft, V","Erarbeitung der Entwicklung von Lernmaterial zu den Themen ""Solarthermie"" und
+""W�rmepumpen""; Vertrag mit Universit�t Kassel, vert",2009,95500," -   "
+88,"Hessisches Ministerium f�r Wirtschaft, V","Vertrag �ber die Entwicklung, Erprobung und Einf�hrung einer differenzierten
+Verbrauchsstruktur f�r bestehende Nichtwohngeb�ude,",2009,299000," -   "
+89,"Holzfachschule Bad Wildungen e.V., Bad Wildungen","Technologietransfer-Stelle",2008,33000," -   "
+90,"Holzfachschule Bad Wildungen e.V., Bad Wildungen","Ersatzbeschaffung im Bereich Modellbauerhandwerk / 3D Drucker",2008,62974," -   "
+91,"Holzfachschule Bad Wildungen e.V., Bad Wildungen","Innovation und wissensbasierte Wirtschaft",2009,66000," -   "
+92,"Holzfachschule Bad Wildungen e.V., Bad Wildungen","Ersatzbeschaffungen im Modellbauerhandwerk / Messger�te und Maschinen",2009,502800," -   "
+93,"Hydrokomp GmbH   - Gesch�ftsf�hrung -, M�cke","Erweiterung einer Betriebsst�tte in 35325 M�cke",2008,236400," -   "
+94,"Hydrotechnik GmbH, Limburg","Erweiterung einer Betriebsst�tte in 65549 Limburg",2008," -   ",372600
+95,"IHK Frankfurt am Main, Frankfurt am Main","Au�enwirtschaftsberatung 2008 IHK Frankfurt",2008," -   ",66460
+96,"IHK Frankfurt am Main, Frankfurt am Main","IHK Frankfurt Au�enwirtschaftsberatungen 2009",2009,105000," -   "
+97,"impex-polymer-Service GmbH   - Gesch�ftsf�hrung -,
+Reinhardshagen","Verlagerung einer Betriebsst�tte nach 34359 Reinhardshagen, Industriegebiet S�d, Kreis
+Kassel",2007,853500," -   "
+98,"Industrie- und Handelskammer Darmstadt, Darmstadt","Netzwerk ""Automatisierungsregion Rhein Main Neckar""",2008,24000," -   "
+99,"Industrie- und Handelskammer Darmstadt, Darmstadt","Aufbauphase des Software-Cluster Rhein Main Neckar",2009,345000," -   "
+100,"Industrie- und Handelskammer Frankfurt am Main, Frankfurt am
+Main","Au�enwirtschaftsberatungen durch die IHK Frankfurt 2010",2010,105000," -   "
+101,"Initiative Frauen, Leben und Arbeit in Mittelhessen e.V. Frau Dr.
+Seitz, Gie�en","Frauen-Mentoring-Programm Mittelhessen <S.E.T>",2008,66475," -   "
+102,"Initiative Frauen, Leben und Arbeit in Mittelhessen e.V. Frau Dr.
+Seitz, Gie�en","Frauen-Mentoring-Programm Mittelhessen <S.E.T.>",2010,64800," -   "
+103,"Institut f�r Freie Berufe an der Friedrich-Alexander-Universit�t
+Erlangen-N�rnberg e.V., N�rnberg","Beratungsdienstleistungen f�r Angeh�rige Freier Berufe in Hessen",2008,22600," -   "
+104,"Institut f�r Freie Berufe an der Friedrich-Alexander-Universit�t
+Erlangen-N�rnberg e.V., N�rnberg","Information, Beratung und Coaching",2009,45400," -   "
+105,"Institut Wohnen und Umwelt","Wiss. Begleitung zur energetischen Moderniierung ABG-Geb�ude in Frankfurt; 1. Phase,
+Vertrag mit Institut Wohnen und Umwelt 27.05",2008,118000," -   "
+106,"Institut Wohnen und Umwelt","Wiss. Begleitung zur energetischen Moderniierung ABG-Geb�ude in Frankfurt; 2. Phase,
+Vertrag mit Institut Wohnen und Umwelt 27.05",2008,90600," -   "
+107,"Josef  Wiegand Ski und Rodel e.K., Rasdorf","Errichtung einer Betriebsst�tte in Wald-Michelbach",2009,292300," -   "
+108,"Jugendwerkstatt Gie�en e.V., Gie�en","Modernisierungsbeschaffungen",2009,175000," -   "
+109,"Katja Schmidt",,2008,19700," -   "
+110,"KIZ gemeinn�tzige Projektgesellschaft mbH, Offenbach am
+Main","Gr�ndertage Hessen 2008",2008,47700," -   "
+111,"KIZ gemeinnu_tzige Projektgesellschaft mbH, Offenbach am Main","Gr�ndertage Hessen 2009",2009,46500," -   "
+112,"Klaus Bonadt","Biomasseheizung m. Stirling BHKW",2008,21300," -   "
+114,"Kommunale Arbeitsgemeinschaft vertreten durch den Landkreis
+Bergstra�e, Heppsnheim","Reaktivierung der �berwaldbahn f�r touristische Nutzung (Draisine) 1. BA",2008,4384200," -   "
+115,"Kompetenznetzwerk Dezentrale Energie- technologien
+Nordhessen e. V., Kassel","Cluster ""Dezentrale Energietechnologien - Verstetigungsphase""",2008,345000," -   "
+116,"Kompetenzzentrum HessenRohstoffe e. V., Witzenhausen","Holzcluster Hessen: Initiierungsphase",2009,25000," -   "
+117,"Kreisausschu� des Landkreises Fulda, Fulda","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Fulda",2008,259600," -   "
+118,"Kreisausschu� des Landkreises Fulda, Fulda","Modernisierung und Erg�nzung der IUK-Ausstattung der beruflichen Schulen im Landkreis
+Fulda",2010,80000," -   "
+119,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Marburg-Biedenkopf",2008,302200," -   "
+120,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg","Gr�ndungsinitiative Marburg-Biedenkopf",2009,240000," -   "
+121,"Kreisausschu� des Landkreises Marburg-Biedenkopf, Marburg","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2009,160000," -   "
+122,"Kreisausschuss des Lahn-Dill-Kreises, Wetzlar","Veranstaltungsreihe zur F�rderung beruflicher Kompetenzen von Frauen",2008,6167," -   "
+123,"Kreisausschuss des Lahn-Dill-Kreises, Wetzlar","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Lahn-Dill-
+Kreises",2008,417100," -   "
+124,"Kreisausschuss des Landkreises Bergstra�e, Heppenheim","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Bergstra�e",2008,86000," -   "
+125,"Kreisausschuss des Landkreises Darmstadt-Dieburg,","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Darmstadt-Dieburg",2008,40000," -   "
+126,"Kreisausschuss des Landkreises Darmstadt-Dieburg,","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2010,19900," -   "
+127,"Kreisausschuss des Landkreises Gro�-Gerau FB Schul- und
+Geb�udeservice Haus II, Gro�-Gerau","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Kreises Gro�-
+Gerau",2008,32161," -   "
+128,"Kreisausschuss des Landkreises Hersfeld-Rotenburg, Bad
+Hersfeld","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Hersfeld-Rotenburg",2008,402100," -   "
+129,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen und
+Bauwesen, Hofgeismar","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Kassel",2009,152800," -   "
+130,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen und
+Bauwesen, Hofgeismar","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen des
+Landkreises Kassel",2009,33300," -   "
+131,"Kreisausschuss des Landkreises Kassel Amt f�r Schulen und
+Bauwesen, Hofgeismar","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2010,70000," -   "
+132,"Kreisausschuss des Landkreises Kassel, Kassel","Ausbau Flughafen Kassel-Calden Verlegung der B 7",2009,5555900," -   "
+133,"Kreisausschuss des Landkreises Limburg-Weilburg, Limburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Limburg-Weilburg",2008,662000," -   "
+134,"Kreisausschuss des Landkreises Odenwaldkreis, Erbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des
+Odenwaldkreises",2008,264000," -   "
+135,"Kreisausschuss des Landkreises Offenbach am Main,
+Dietzenbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Landkreises
+Offenbach",2008,80000," -   "
+136,"Kreisausschuss des Landkreises Offenbach am Main,
+Dietzenbach","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen des
+Landkreises Offenbach",2009,34600," -   "
+137,"Kreisausschuss des Landkreises Waldeck-Frankenberg,",,2008,150318," -   "
+138,"Kreisausschuss des Landkreises Waldeck-Frankenberg,","Modernisierung und Erg�nzung der IUK-Ausstattung der beruflichen Schulen im Landkreis
+Waldeck-Frankenberg",2010,254000," -   "
+140,"Kreisausschuss des Main-Taunus-Kreises, Hofheim am Taunus","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Main-Taunus-
+Kreises",2008,47801," -   "
+141,"Kreisausschuss des Main-Taunus-Kreises, Hofheim am Taunus","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2010,76100," -   "
+142,"Kreisausschuss des Schwalm-Eder-Kreises, Homberg (Efze)","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Schwalm-Eder
+-Kreises",2008,800000," -   "
+143,"Kreisausschuss des Vogelsbergkreises, Lauterbach","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des
+Vogelsbergkreises",2008,359500," -   "
+144,"Kreisausschuss des Vogelsbergkreises, Lauterbach","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2009,80000," -   "
+145,"Kreisausschuss des Vogelsbergkreises, Lauterbach","Anschubmarketing BahnRadweg Hessen",2009,166900," -   "
+146,"Kreishandwerkerschaft des Landkreises Waldeck-Frankenberg,
+Korbach","Entwicklung einer �bergabeagentur (Change Agency)",2008,309500," -   "
+147,"Kreishandwerkerschaft des Landkreises Waldeck-Frankenberg,
+Korbach","Modernisierung der Ausstattung im BBZ Korbach",2008,903100," -   "
+148,"Kreishandwerkerschaft Waldeck-Frankenberg, Korbach","Machbarkeitsstudie f�r eine Qualifizierung zum Einsatz regenerativer Energietr�ger",2009,20000," -   "
+149,"Landesinnung Hessen K�lte-Klima-Technik, Maintal","Technologieiransfer-Stelle",2008,51000," -   "
+150,"Landesinnung Hessen K�lte-Klima-Technik, Maintal","Technologie-Transfer-Stelle der Bundesfachschule K�lte-Klima-Technik",2009,33000," -   "
+151,"Landesverband der Campingplatzunternehmer in Hessen e. V.,
+Kn�llwald","Einf�hrung eines integrierten ECOCAMPING-Management",2008,75000," -   "
+152,"Mafex - Marburger F�rderzentrum f�r Existenzgr�nder aus der
+Universit�t, Marburg","Pre-Seed-Beratung und Betreuung von akademischen Spinn-Offs",2008,56250," -   "
+153,"Magistrat der Kreisstadt Korbach, Korbach","Machbarkeitsstudie f�r das ""Zentrale Geopark-Infozentrum""",2008,53600," -   "
+154,"Magistrat der Stadt Bad K�nig, Bad K�nig","Neubau einer Trink- und Wandelhalle mit Cafe und Veranstaltungs- zentrum im Kurgarten
+Bad K�nig",2008,900000," -   "
+155,"Magistrat der Stadt Bad Wildungen, Bad Wildungen","Fortf�hrung des ARS NATURA in der Gemarkung Bad Wildungen",2008,44473.09," -   "
+156,"Magistrat der Stadt Bensheim, Bensheim","Firmen�bergreifende Personalstrategien im demografischen Wandel (F�PS)",2008,50000," -   "
+157,"Magistrat der Stadt Butzbach, Butzbach","Entwicklungsstudie ""Roman-Way-Village""",2009,30000," -   "
+158,"Magistrat der Stadt Darmstadt Schulamt, Darmstadt","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt
+Darmstadt",2008,146600," -   "
+159,"Magistrat der Stadt Darmstadt Schulamt, Darmstadt","F�rderung von erg�nzender Ausstattung im Rahmen des Modellprojektes Virtuelles Lernen
+in Berufsschulen (ViLBe)",2009,60000," -   "
+160,"Magistrat der Stadt Dillenburg, Dillenburg","St�dtebauliche Entwicklung des G�terbahnhofgel�ndes",2009,6000000," -   "
+161,"Magistrat der Stadt Eschwege, Eschwege","Intermediales Labor iLAB",2008,25000," -   "
+162,"Magistrat der Stadt Eschwege, Eschwege","Entwicklungsstudie ""Camp Cool""",2009,25000," -   "
+163,"Magistrat der Stadt Frankfurt am Main Stadtschulamt, Frankfurt
+am Main","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Frankfurt
+am Main",2008,556700," -   "
+164,"Magistrat der Stadt Friedberg (Hessen), Friedberg (Hessen)","Errichtung eines Kreisverkehrsplatzes an der B3 in Friedberg als Anbindung des
+Gewerbegebietes West und der Kasernenfl�che",2008,471500," -   "
+165,"Magistrat der Stadt Fulda, Fulda","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Fulda",2008,533900," -   "
+166,"Magistrat der Stadt Fulda, Fulda","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der Stadt",2009,58800," -   "
+167,"Magistrat der Stadt Fulda, Fulda","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Fulda",2010,56000," -   "
+169,"Magistrat der Stadt Gie�en Schulverwaltungsamt, Gie�en","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Gie�en",2008,222200," -   "
+170,"Magistrat der Stadt Hanau Schulverwaltungsamt, Hanau","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Hanau",2008,83100," -   "
+171,"Magistrat der Stadt Hofheim, Hofheim am Taunus","Gr�nderzentrum Hofheim",2008,13500," -   "
+172,"Magistrat der Stadt Kassel - Liegenschaftsamt - Herr
+Lengemann, Kassel","Machbarkeitsstudie f�r das Interkommunales Gewerbegebiet ""Langes Feld"" in
+Niederzwehren",2008,257600," -   "
+173,"Magistrat der Stadt Kassel, Kassel","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Kassel",2008,575800," -   "
+174,"Magistrat der Stadt Kassel, Kassel","Aufbau und Entwicklung der Kasseler Kooperation ""Denkmal und Energie""",2009,280000," -   "
+175,"Magistrat der Stadt Kassel, Kassel","F�rderung der Kulturwirtschaft in Kassel",2009,43000," -   "
+176,"Magistrat der Stadt Kassel, Kassel","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der Stadt
+Kassel",2009,46800," -   "
+177,"Magistrat der Stadt Lampertheim, Lampertheim","Studie ""Strategische Gewerbefl�chenentwicklung in der Region Hes schisches Ried""",2009,30500," -   "
+178,"Magistrat der Stadt Lindenfels, Lindenfels","Beschaffung von musealen Einrichtungsgegenst�nden",2008,63000," -   "
+179,"Magistrat der Stadt Maintal, Maintal","Errichtung des Existenzgr�nderzentrums ""Do-It-Yourself B�ro""",2007,114442.89," -   "
+180,"Magistrat der Stadt Neckarsteinach, Neckarsteinach","Konzeption und Einrichtung des GEOPARK-Eingangstor S�D als re- gionales touristisches
+Portal (Info- u. Erlebniszentrum)",2008,179800," -   "
+181,"Magistrat der Stadt Offenbach am Main, Offenbach am Main","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt
+Offenbach am Main",2008,40000," -   "
+182,"Magistrat der Stadt Offenbach, Offenbach am Main","Kreativwirtschaft und Stadtentwicklung",2009,155300," -   "
+183,"Magistrat der Stadt Schotten, Schotten","Erstellung eines Entwicklungskonzeptes ""Vulkan Vogelsberg""",2008,113100," -   "
+184,"Magistrat der Stadt Spangenberg, Spangenberg","�berregionaler Ausbau des ARS NATURA in den Gemarkungen Spangenberg,
+Rotenburg/F., Alheim",2008,57320," -   "
+185,"Magistrat der Stadt Wiesbaden Amt f�r Wirtschaft und
+Liegenschaften, Wiesbaden","F�rderung der Kreativwirtschaft",2009,64000," -   "
+186,"Magistrat der Stadt Wiesbaden Schulamt, Wiesbaden","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen in der
+Landeshauptstadt Wiesbaden",2008,216600," -   "
+187,"Magistrat der Stadt Wiesbaden Schulamt, Wiesbaden","Modernisierung und Erg�nzung der IuK-Ausstattung der beruflichen Schulen der Stadt
+Wiesbaden",2009,146600," -   "
+188,"Magistrat der Stadt Wolfhagen, Wolfhagen","Erschlie�ung von Gewerbefl�chen in der ehemaligen Pommernkaserne - I. BA",2007,776800," -   "
+189,"Magistrat der Universit�tsstadt Marburg Fachdienst Schule,
+Marburg","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der
+Universit�tsstadt Marburg",2008,502000," -   "
+190,"Main-Kinzig-Kreis -Der Kreisausschu�-, Gelnhausen","Modernisierung und Erg�nzung der IuK-Ausstattung der berulfichen Schulen des Main-
+Kinzig-Kreises",2009,108100," -   "
+191,"Main-Kinzig-Kreis Service-B�rse-Spessart, Gelnhausen","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen des Main-Kinzig-
+Kreises",2008,80000," -   "
+192,"METAKUS GmbH, Baunatal","METAKUS Anwendungszentrum Metallformgebung",2008,305400," -   "
+193,"METAKUS GmbH, Baunatal","Planungskonzept und Gesch�ftsplan f�r AWZ Kunstofftechnik",2008,28000," -   "
+194,"Mittelhessenfonds GmbH","Mittelhessenfonds",2008," -   ",10000000
+195,"Morton Extrusionstechnik GmbH, Abtsteinach","Errichtung einer Betriebsst�tte in der Gemeinde Abtsteinach, Im Steinb�hl 5",2008,2375400," -   "
+196,"Petra Peffermann","Biomasseheizung m. Stirling BHKW",2008,17300," -   "
+197,"Pfau Medizinische-Instrumente GmbH, Wanfried","Erweiterung einer Betriebsst�tte in Wanfried",2007,535059," -   "
+198,"Phantastische Bibliothek, Wetzlar","Umwidmung Geb�ude Turmstr. 20, Wertzlar, in eine Bibliothek als Kultur-, Bidlungs- u.Wissenschaftszentrum (2. BA)",2007," -   ",60200
+201,"Philipps-Universit�t Marburg Der Pr�sident, Marburg","Einrichtung einer betrieblichen Kinderbetreuungseinrichtung, Philipps- Universit�t Marburg",2009,300000," -   "
+202,"Prognos AG, Berlin","Vorbereitung und Unterst�tzung der Clusterwettbewerbe in Hessen",2007," -   ",82407.5
+203,"provadis School of International Management and Technology
+AG, Frankfurt","Cluster Chemie und Pharma Rhein Main - Initiierungsphase",2009,25000," -   "
+204,"Reformhaus-Fachakademie, Oberursel","Technologietransfer-Stelle",2008,15000," -   "
+205,"Reformhaus-Fachakademie, Oberursel","Technologie-Transfer und Innovationsnetzwerkbildung",2009,30000," -   "
+206,"Region Vogelsberg Touristik GmbH, Schotten","Road-Show Vogelsberg/Hessen, ""Marketingaktion zur Bewerbung des Aktiv-, Gesundheits-
+und Erholungstourismus""",2010,63900," -   "
+207,"Regionalmanagement Nordhessen GmbH, Kassel","Cluster Mobilit�tswirtschaft - Verstetigungsphase",2007,350000," -   "
+208,"Regionalmanagement Nordhessen GmbH, Kassel","Cluster ""Tourismusoffensive Nordhessen"" - Fortsetzungsphase",2008,521200," -   "
+209,"Regionalmanagement Nordhessen GmbH, Kassel","Destination NordHessen, Konzeption und Umsetzung des Themenkomplexes ""M�rchenland
+der Br�der Grimm""",2008,438000," -   "
+210,"Regionalmanagement Nordhessen GmbH, Kassel","Gr�ndungswettbewerb ""promotion Nordhessen"" 2008",2008,400000," -   "
+211,"Regionalmanagement Nordhessen GmbH, Kassel","Marketingma�nahmen zur Positionierung der Destination NordHessen in internationalen
+M�rkten (Auslandsinit. Niederlande/D�nemark)",2008,365000," -   "
+212,"Regionalmanagement Nordhessen GmbH, Kassel","Standortmarketing Nordhessen 2008-2009",2008,431000," -   "
+213,"Regionalmanagement Nordhessen GmbH, Kassel","Magazin aus der Mitte Schwerpunkt Wandern",2008,57000," -   "
+214,"Regionalmanagement Nordhessen GmbH, Kassel","Cluster ""Gesundheitsregion Nordhessen""",2009,300000," -   "
+215,"Regionalmanagement Nordhessen GmbH, Kassel","Fertigungsprozessoptimierung als Instrument zur St�rkung des Mittelstandes",2009,84500," -   "
+216,"Regionalmanagement Nordhessen GmbH, Kassel","promotion Nordhessen - Vom Businessplanwettbewerb zur Gr�nderregion",2009,200000," -   "
+217,"Regionalpark Ballungsraum Rhein-Main GmbH, Fl�rsheim am
+Main","Erstellung einer touristischen Konzeptstudie ""Erlebniswelt Regionalpark Rhein Main""",2008,48200," -   "
+218,"rEnerGo GmbH, Erbach","CLEO - Cluster Erneuerbare Energien Odenwald",2009,337000," -   "
+219,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH Vertrag vom 09.04.2008 Aktualisierung der Internetseite
+www.existenzgr�ndung-hessen.de",2008," -   ",4046
+220,"RKW Hessen GmbH, Eschborn","RKW Hessen zur Durchf�hrung des 7. Hess. Unternehmerinnentages in R�sselsheim",2008," -   ",37366
+221,"RKW Hessen GmbH, Eschborn","Existenzgr�ndungs- und Umsetzungsberatungen",2008," -   ",668589.5
+222,"RKW Hessen GmbH, Eschborn","ML 1.2 RKW Hessen GmbH Technologieberatungen 2. HJ 2008",2008," -   ",119820
+223,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH ML 1.2 ""umwelt-tech"" Beratungen",2008," -   ",113400
+224,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH Vertrag vom 12.08.2008 Hess. Mittelstandstag 2008",2008," -   ",24349
+225,"RKW Hessen GmbH, Eschborn","Beratungsprogramm f�r Hessen-PIUS",2009,113000," -   "
+226,"RKW Hessen GmbH, Eschborn","Coaching f�r Unternehmen aus der Kulturwirtschaft",2009,65000," -   "
+227,"RKW Hessen GmbH, Eschborn","RKW Hessen GmbH Existenzgr�ndungs und Unternehmensberatungen 2009",2009,1683000," -   "
+228,"RKW Hessen GmbH, Eschborn","Technologietransfer und Innovationsnetzbildung",2009,228000," -   "
+229,"RKW Hessen GmbH, Eschborn","Umsetzungsberatung u. Anpassung d. Service- u. Managementprozes- se im modernen KfZ
+-Service - Operatives Gesch�ft, Strategie II -",2009,73300," -   "
+230,"RKW Hessen GmbH, Eschborn","Wettbewerbsvorsprung durch effiziente Produktions- und Logistik- prozesse",2009,48700," -   "
+231,"RKW Hessen GmbH, Eschborn","Aktualisierung des Internetauftritts www.existenzgruendung-hessen.de",2009," -   ",4046
+233,"RKW Hessen GmbH, Eschborn","Hessischer Mittelstandstag 2009 Wege aus der Krise-heute die Weichen f�r morgen stellen",2009," -   ",29988
+234,"RKW Hessen GmbH, Eschborn","Krisen- und Sanierungsberatung",2009,100000," -   "
+235,"RKW Hessen GmbH, Eschborn","Beratungsprogramm Hessen-PIUS 2010",2010,299400," -   "
+236,"RKW Hessen GmbH, Eschborn","Technologietransfer und Innovationsnetzbildung",2010,285000," -   "
+237,"Sonnen-Systeme Projektgesellschaft mbH, Alheim-Heinebach","Erweiterung einer Betriebsst�tte in 36211 Alheim-Heinebach",2008,433600," -   "
+238,"Standortmarketing GbR, Fulda","Engineering-High-Tech-Cluster (EHC) Fulda Initiierungsphase",2008,27000," -   "
+239,"Tanja Siebert Vermietung + Verpachtung (BSU), Meinhard","Erweiterung einer Betriebsst�tte in der Gemeinde Meinhard",2008,225000," -   "
+240,"Technische Universit�t Darmstadt, Darmstadt","Errichtung einer betrieblichen Kinderbetreuungseinrichtung",2009,600000," -   "
+241,"Technische Universit�t Darmstadt Fachgebiet Multimedia
+Kommunikation, Darmstadt","Start up Factory",2008,454600," -   "
+242,"Technische Universit�t Darmstadt FB 20, Telekooperation,
+Darmstadt","Aufbau des Spritzguss-Cluster: Werkzeug- und Formenbau f�r die kunststoffverarbeitende
+Industrie -  Initiierungsphase",2008,25000," -   "
+243,"Technische Universit�t Darmstadt Patentinformationszentrum
+der Universtit�ts- und Landesbibliothek Darmstadt, Darmstadt","Technologietransfer im Bereich Patent- u. Markeninformation Patentinformationszentrum
+Darmstadt",2008,112600," -   "
+244,"Technische Universit�t Darmstadt Patentinformationszentrum
+der Universtit�ts- und Landesbibliothek Darmstadt, Darmstadt","Verbesserung Technologietransfer im Bereich Patent- und Markeninformation",2009,216000," -   "
+245,"Technologieberatungsstelle beim DGB Hessen e.V., Frankfurt
+am Main","Proaktive Bew�ltigung des Wandels",2008,93000," -   "
+246,"Technologieberatungsstelle beim DGB Hessen e.V., Frankfurt
+am Main","Proaktive Bew�ltigung des Wandels",2009,221000," -   "
+247,"TIGZ Technologie-, Innovations- und Gr�nder/innen-Zentrum
+GmbH, Ginsheim-Gustavsburg","Werkstatt f�r Kultur- und Kreativwirtschaft",2009,120000," -   "
+248,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en","Clustermanagement Medizinwirtschaft",2007,490000," -   "
+249,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en","Technologietransfer und Existenzgr�ndungen aus TransMIT-Zentren",2008," -   ",76200
+250,"TransMIT Gesellschaft f�r Technologietransfer mbH, Gie�en","Technolgietransfer und Innovationsnetzwerkbildung 2009",2009,278800," -   "
+251,"UHD-Unternehmensberatung Hessen f�r Handel und
+Dienstleistung GmbH, Frankfurt am Main","Betriebsberatungen",2008," -   ",42320
+252,"UHD-Unternehmensberatung Hessen f�r Handel und
+Dienstleistung GmbH, Frankfurt am Main","Betriebsberatung Einzelhandel",2009,80000," -   "
+253,"UniKasselTransfer GmbH, Kassel","Inkubator UniKassel",2008,259200," -   "
+254,"Universit�t Kassel","Entwicklung und Erprobung des Konzeptes zur Weiterbildung im Bereich ""Energieeffizienz
+in Unternehmen""",2009,251600," -   "
+255,"Universit�t Kassel Der Pr�sident, Kassel","Verbesserung des Technologietransfers im Bereich Patent- und Markeninformation",2008,53700," -   "
+256,"Universit�t Kassel Der Pr�sident, Kassel","Technologietransfer mit Schwerpunkt Strategische Partnerschaften",2008,419900," -   "
+257,"Universit�t Kassel Der Pr�sident, Kassel","Verbesserung Technologietransfer  im Bereich Patent- und Markeninformation",2009,90000," -   "
+258,"Valls Besitz GmbH (BSG) Rovalma GmbH (BTG), Berlin","Errichtung einer Betriebsst�tte in Hessisch Lichtenau",2009,5000000," -   "
+259,"Verband der berufsbildenden Schulen der Stadt Hanau und des
+Main-Kinzig-Kreises, Hanau","Modernisierung und Erg�nzung der IuK-Ausstattung beruflicher Schulen der Stadt Hanau
+und des Main-Kinzig-Kreises",2008,89100," -   "
+260,"Verein fu_r Sozialpolitik, Bildung und Berufsfo_rderung e.V., Kassel","Ausstattungsinvestition fu_r ein Modulares Weiterbildungssystem mit Unterweisungsmo_glichkeit des Blended-Learning",2009,44398," -   "
+261,"Virtuelles Gr�nderzentrum Schwalm, Schwalmstadt","Virtuelles Gr�nderzentrum in der Schwalm",2008,40641.68," -   "
+263,"Virtuelles Gr�nderzentrum Schwalm, Schwalmstadt","Virtuelles Gr�nderzentrum in der Schwalm Anschlussf�rderung 2009 - 2010",2009,82400," -   "
+264,"Vogelsberg Consult GmbH, Alsfeld","Verpackungscluster Mittelhessen: Initiierungsphase",2008,31250," -   "
+265,"Vogelsberg Consult GmbH, Alsfeld","Verpackungscluster Mittelhessen - Aufbauphase",2009,189000," -   "
+266,"WEKAL Maschinenbau GmbH, Fritzlar","Diversifizierung der Produktion in 34560 Fritzlar",2009,346600," -   "
+267,"Wirtschafts- und Infrastrukturbank Hesse","Hessen-Kapital I",2007,50000000," -   "
+268,"Wirtschaftsf�rderung Bergstra�e GmbH, Heppenheim","Gr�ndungsoffensive Bergstra�e-Odenwald",2009,182800," -   "
+269,"Wirtschaftsf�rderung Bergstra�e GmbH, Heppenheim","Indo-German Film Agency",2009,126200," -   "
+270,"Wirtschaftsf�rderung Korbach Goldrichtig GmbH, 34497","Integrierte Nachfolgestrategien zur nachhaltigen Standort- sicherung im l�ndlichen Raum",2009,19700," -   "
+271,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel","Machbarkeitsstudie ""Science Park Kassel""",2008,164000," -   "
+272,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel","Ausbau spezifischer Entwicklungspotentiale und Abbau regionaler Disparit�ten",2008,210000," -   "
+273,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel","Marken- und Netzwerkbildung",2008,83000," -   "
+274,"Wirtschaftsf�rderung Region Kassel GmbH, Kassel","�konomische Relevanz der Kultur- und Kreativwirtschaft in der Region Kassel",2009,55000," -   "
+275,"Wirtschaftsf�rderungsgesellschaft Werra-Mei�ner-Kreis mbH,
+Eschwege","Marketingprojekt zur Ansiedlung bio-affiner Unternehmen im Werra-Mei�ner-Kreis",2008,164500," -   "
+276,"Wirtschaftsf�rderungsgesellschaft Werra-Mei�ner-Kreis mbH,
+Eschwege","Leben-Wohnen-Arbeiten im Werra-Mei�ner-Kreis",2009,376645," -   "
+277,"Zweckverband Interkommunale Zusammenarbeit Schwalm-
+Eder Mitte, Kn�llwald","Erschlie�ung des interkommunalen Gewerbegebietes Schwalm-Eder Mitte in Kn�llwald-
+Remsfeld",2009,4249200," -   "
+278,"Zweckverband Raum Kassel, Kassel","Planungsleistungen f�r den Stra�enendausbau des GVZ Kassel",2009,142800," -   "
