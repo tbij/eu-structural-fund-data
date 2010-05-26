@@ -764,23 +764,23 @@ BELGIUM,national,Federal,,ESF,,Federal - Social Integration -SPP,,,,word,Tier 3,
 BELGIUM,national,Federal,,ESF,,Federal - Supporting communities in Brussels,,,,word,Tier 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Don't give amounts in data call SPP Intégration Sociale, Lutte contre la Pauvreté, Economie Sociale et Politique des Grandes Villes , +32 2 508 85 86",,,,,,Waiting (Annamarie),,http://www.mi-is.be/be_fr/04/Europees Sociaal Fonds/content/transparantierichtlijnen/selcom 2008 BXL.xls
 BELGIUM,national,Federal,,ESF,,Federal - Supporting communities in Flanders,,,,word,Tier 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Don't give amounts in data call SPP Intégration Sociale, Lutte contre la Pauvreté, Economie Sociale et Politique des Grandes Villes , +32 2 508 85 86",,,,,,Waiting (Annamarie),,http://www.mi-is.be/be_fr/04/Europees Sociaal Fonds/content/transparantierichtlijnen/selcom 2008 Vl.xls
 BELGIUM,national,Federal,,ESF,,Federal - Supporting communities in Wallonia,,,,word,Tier 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Don't give amounts in data call SPP Intégration Sociale, Lutte contre la Pauvreté, Economie Sociale et Politique des Grandes Villes , +32 2 508 85 86",,,,,,Waiting (Annamarie),,http://www.mi-is.be/be_fr/04/Europees Sociaal Fonds/content/transparantierichtlijnen/selcom 2008 W.xls
-BELGIUM,national,Flanders,be_flanders_esf.xls,ESF,,,,,,HTML,Tier 3,,,,,,,Prioriteit , Details, Thema ,, Organisatie ,,  Projectid ,, Oproepnaam ,, Projectnaam , Oproepnr ,,,,,,,,,,,,,,,,,,http://www.esf-producten.be/projectlist2007.aspx,,,,,,http://www.esf-producten.be/projectlist2007.aspx
+BELGIUM,national,Flanders,,ESF,,,,REQUIRES HTML SCRAPE: be_flanders_esf.xls,,HTML,Tier 3,,,,,,,Prioriteit , Details, Thema ,, Organisatie ,,  Projectid ,, Oproepnaam ,,Projectnaam,Oproepnr,,,,,,,,,,,,,,,,,,http://www.esf-producten.be/projectlist2007.aspx,,,,,,http://www.esf-producten.be/projectlist2007.aspx
 BELGIUM,national,German-Speaking Community of Belgium,,ESF,,,,,,PDF,Tier 3,,,,,Uebersicht_ESF_Projekte.pdf,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,http://www.dglive.be/PortalData/2/Resources/downloads/europa/Uebersicht_ESF_Projekte.pdf,,,,,,,,http://www.dglive.be/PortalData/2/Resources/downloads/europa/Uebersicht_ESF_Projekte.pdf
 BELGIUM,national,Hainaut,,ESF,,,,,,HTML,Tier 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,http://www.fse.be/les-projets-2007-2013/les-projets-approuves/liste-des-beneficiaires
-BELGIUM,national,Région de Bruxelles-Capitale /,be_bruxelles_erdf.xls,ERDF,,,,,,Excel,Tier 3,,,,,,,,,,,Beneficiare,,Operation,,,,,,,,,,,,,,Financement public,,Annee Allocation,,,,,,,,,,,,,http://www.bruxelles.irisnet.be/cmsmedia/fr/liste_des_beneficiaires.pdf?uri=ff8081811b04af6e011b07aae6580171
-BELGIUM,national,Vlaams Gewest/West Flanders,be_westflanders_erdf.csv,ERDF,,,,,,Excel,Tier 3,,,,,Uebersicht_ESF_Projekte.pdf,,,,,Nr,,Promotor,Projectnaam,,,,,OD,,Prio,,,EFRO,,,,Totale kost,,,Einddatum,Startdatum,,,,,,,,,,,http://ae.vlaanderen.be/html_europees/efro_nieuw/html_europees/kaart/digitale_kaart.html
+BELGIUM,national,Région de Bruxelles-Capitale /,be_bruxelles_erdf.csv,ERDF,,,,,,Excel,Tier 3,,,,,,,,,,,Beneficiare,,Operation,,,,,,,,,,,,,,Financement public,,Annee Allocation,,,,,,,,,,,,,http://www.bruxelles.irisnet.be/cmsmedia/fr/liste_des_beneficiaires.pdf?uri=ff8081811b04af6e011b07aae6580171
+BELGIUM,national,Vlaams Gewest/West Flanders,be_westflanders_erdf.csv,ERDF,,Goedgekeurde EFRO-projecten Doelstelling 2 ‘Regionaal Concurrentievermogen en Werkgelegenheid’ 2007-2013,,,,Excel,Tier 3,,,,,Uebersicht_ESF_Projekte.pdf,,,,,Nr,,Promotor,Projectnaam,,,,,OD,,Prio,,,EFRO,,,,Totale kost,,,Einddatum,Startdatum,,,,,,,,,,,http://ae.vlaanderen.be/html_europees/efro_nieuw/html_europees/kaart/digitale_kaart.html
 BELGIUM,national,Wallonia,be_wallonia_esf.xls,ESF,,,,,,HTML,Tier 3,,,,,liste-des-beneficiaires.html,,,,,,Opérateur,,,,,,Nom du Projet,,,Dénominationportefeuille,,,Montant,,,,,,,Fin,Début,,,,,,,,,,,http://www.fse.be/les-projets-2007-2013/les-projets-approuves
 BELGIUM,national,Wallonie/Hainaut,,ERDF,,,,be_wallonie_erdf.xls (needs to be reviewed),,Excel,Tier 3,,,,,liste-des-beneficiaires.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ftp://mrw.wallonie.be/dgee/dpe/dpeur/2007-2013/competitivite.htm
-DENMARK,national,Syddanmark,dk_syddanmark_erdf.csv,ERDF,,,,,,Excel,Tier 3,yes,yes,yes,,||alle|alle|alle|alle||.html,,Journalnr,,,,Virksomhed,,Projekttitel,,,,,,,,,,,,,,,Tilsagn pr. 31.12.2009,,,,,,,,http://www.ebst.dk/eustrukturfonde.dk/forside/0/17/0/||alle|alle|alle|alle||,,,,,,http://www.ebst.dk/eustrukturfonde.dk
-DENMARK,national,Syddanmark,dk_syddanmark_esf.csv,ESF,,,,,,Excel,Tier 3,,,,,,,Journalnr,,,,Virksomhed,,Projekttitel,,,,,,,,,,,,,,,Tilsagn pr. 31.12.2009
-DENMARK,national,Bornholm,dk_bornholm_erdf.csv,ERDF,,,,,,Excel,Tier 3
-DENMARK,national,Bornholm,dk_bornholm_esf.csv,ESF,,,,,,Excel,Tier 3
-DENMARK,national,Hovedstaden,dk_hovedstaden_erdf,ERDF,,,,,,Excel,Tier 3
-DENMARK,national,Hovedstaden,dk_hovedstaden_esf,ESF,,,,,,Excel,Tier 3
-DENMARK,national,Midtjylland,dk_midtylland_erdf.csv,ERDF,,,,,,Excel,Tier 3
-DENMARK,national,Midtjylland,dk_midtylland_esf.csv,ESF,,,,,,Excel,Tier 3
-DENMARK,national,Nordjylland,dk_nordjylland_erdf.csv,ERDF,,,,,,Excel,Tier 3
-DENMARK,national,Nordjylland,dk_nordjylland_esf.csv,ESF,,,,,,Excel,Tier 3
+DENMARK,national,Syddanmark,,ERDF,,,,INTERN JOB: dk_syddanmark_erdf.csv,,Excel,Tier 3,yes,yes,yes,,||alle|alle|alle|alle||.html,,Journalnr,,,,Virksomhed,,Projekttitel,,,,,,,,,,,,,,,Tilsagn pr. 31.12.2009,,,,,,,,http://www.ebst.dk/eustrukturfonde.dk/forside/0/17/0/||alle|alle|alle|alle||,,,,,,http://www.ebst.dk/eustrukturfonde.dk
+DENMARK,national,Syddanmark,,ESF,,,,INTERN JOB: dk_syddanmark_esf.csv,,Excel,Tier 3,,,,,,,Journalnr,,,,Virksomhed,,Projekttitel,,,,,,,,,,,,,,,Tilsagn pr. 31.12.2009
+DENMARK,national,Bornholm,,ERDF,,,,INTERN JOB: dk_bornholm_erdf.csv,,Excel,Tier 3
+DENMARK,national,Bornholm,,ESF,,,,INTERN JOB: dk_bornholm_esf.csv,,Excel,Tier 3
+DENMARK,national,Hovedstaden,,ERDF,,,,INTERN JOB: dk_hovedstaden_erdf,,Excel,Tier 3
+DENMARK,national,Hovedstaden,,ESF,,,,INTERN JOB: dk_hovedstaden_esf,,Excel,Tier 3
+DENMARK,national,Midtjylland,,ERDF,,,,INTERN JOB: dk_midtylland_erdf.csv,,Excel,Tier 3
+DENMARK,national,Midtjylland,,ESF,,,,INTERN JOB: dk_midtylland_esf.csv,,Excel,Tier 3
+DENMARK,national,Nordjylland,,ERDF,,,,INTERN JOB: dk_nordjylland_erdf.csv,,Excel,Tier 3
+DENMARK,national,Nordjylland,,ESF,,,,INTERN JOB: dk_nordjylland_esf.csv,,Excel,Tier 3
 DENMARK,national,Sjaelland,,ERDF,,,,,,word,Tier 3
 DENMARK,national,Sjaelland,,ESF,,,,,,word,Tier 3
 FINLAND,national,Etelä-Suomi,fi_etela_erdf.csv,ERDF,,,,,,Excel,Tier 3,yes,yes,yes,yes,projektilista.php.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://www.eura2007.fi/rrtiepa/
