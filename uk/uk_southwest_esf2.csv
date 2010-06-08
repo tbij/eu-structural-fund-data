@@ -1,4 +1,4 @@
-"Provider Name ","Project Title ","Funding (£)","Subcontractors or Partners ","Contract Start Date","Contract End Date"
+"Provider Name","Project Title","Funding (£)","Subcontractors or Partners","Contract Start Date","Contract End Date"
 "Connexions Cornwall 
 & Devon ","New Leaf ",2182891,"Sub Contractors 
 - St James School  
@@ -22,23 +22,23 @@
 - Learning Ltd  
 - On Track Education Services Ltd  
 - Paignton Sec info Tech Training 
-Centre  ","01/06/08 ","31/12/10 "
+Centre  ",01/06/08,31/12/10
 "Prospects Services 
 Ltd ","YES","ﾣ109,188 
- ","NONE ","02/07/08 ","31/12/10 "
+ ","NONE ",02/07/08,31/12/10
 "Prospect Training 
 Services ","ReEngage ","ﾣ450,000 ","Partners 
 - Royal Forest of Dean College 
 - Star College  
 - Shire Training  
-- Furniture Recycle Centre  ","01/06/08 ","31/12/10 "
+- Furniture Recycle Centre  ",01/06/08,31/12/10
 "Young 
 Gloucestershire 
- ","ACHIEVE ","ﾣ150,000 ","Partners – InfoBuzz, The Wilderness Centre","01/05/08 ","31/12/10 "
+ ","ACHIEVE ","ﾣ150,000 ","Partners – InfoBuzz, The Wilderness Centre",01/05/08,31/12/10
 "Wiltshire College ","Resolve2 ","ﾣ967,663.71 ","Partners 
 - North Wessex Training  
 - Swindon college  ","01/06/08 
- ","31/10/10 "
+ ",31/10/10
 "City of Bristol 
 College ","EUL (Education Unlimited)  ","ﾣ1,088,486 ","Partners 
 - Riverside Boxing Club  
@@ -53,15 +53,15 @@ College ","EUL (Education Unlimited)  ","ﾣ1,088,486 ","Partners
 - Trinity (partner) 
 - YMCA Training (partner) 
 - Young Bristol (partner) ","01/08/08 
- ","31/07/09 "
+ ",31/07/09
 "Norton Radstock 
-College ","Get sorted  ","ﾣ423,300 ","Sub Contractors  - BANES Training Services  - City of Bath College  - Weston College","01/08/08 ","31/07/09 "
+College ","Get sorted  ","ﾣ423,300 ","Sub Contractors  - BANES Training Services  - City of Bath College  - Weston College",01/08/08,31/07/09
 "Connexions 
 Somerset Ltd ","NEET ACTIVITIES IN 
 SOMSERSET -  
-Project Somerset ","ﾣ546,801 ","Sub Contractors – Somerset Rural Youth Project  Partners – Somerset County Council TYST","01/06/08 ","31/12/10 "
-"BTCV Enterprises Ltd ","Big Break ","ﾣ910,624 ","Sub Contractors – Princes Trust  - Bournemouth Churches Housing Association ","01/09/08 ","31/12/10 "
-"Connexions BDP ","Moving Forward  ","ﾣ211,000RS ","NONE ","16/06/08 ","31/12/10 "
+Project Somerset ","ﾣ546,801 ","Sub Contractors – Somerset Rural Youth Project  Partners – Somerset County Council TYST",01/06/08,31/12/10
+"BTCV Enterprises Ltd ","Big Break ","ﾣ910,624 ","Sub Contractors – Princes Trust  - Bournemouth Churches Housing Association ",01/09/08,31/12/10
+"Connexions BDP ","Moving Forward  ","ﾣ211,000RS ","NONE ",16/06/08,31/12/10
 "Working Links ","Skills for Jobs Devon ","ﾣ1,556,379 ","Sub Contractors 
 - North Devon  
 - Pathfinder Trust Ltd  
@@ -71,9 +71,9 @@ College
 - North Devon College  
 - South Devon College 
 - Exeter College  
-- City College Plymouth  ","01/06/08 ","31/12/10 "
+- City College Plymouth  ",01/06/08,31/12/10
 "City of Bristol 
-College ","Recruit and Train ","ﾣ1,381,219 ","Partners  - St Paul's Family Learning Centre  - Partners in Business (CoBC)  - Working Links Barton Hill Settlement  - Places for People The Beacon Centre","01/07/08 ","31/12/10 "
+College ","Recruit and Train ","ﾣ1,381,219 ","Partners  - St Paul's Family Learning Centre  - Partners in Business (CoBC)  - Working Links Barton Hill Settlement  - Places for People The Beacon Centre",01/07/08,31/12/10
 "Gloucestershire 
 Development 
 Agency ","Gloucester Works ","ﾣ1,588,892 ","Partners 
@@ -90,7 +90,7 @@ services
 - GHURC will provide awareness of 
 new employer opportunities in the 
 regeneration areas and links to them  ","01/07/08 
- ","31/12/10 "
+ ",31/12/10
 "New College 
 Swindon ","Learn 2 Work ","ﾣ352,341 ","Sub Contractors 
 - AEC10  
@@ -98,25 +98,30 @@ Swindon ","Learn 2 Work ","ﾣ352,341 ","Sub Contractors
 Partners 
 - Swindon Borough Council  
 - Tempo  ","02/07/08 
- ","31/10/08 "
+ ",31/10/08
 "Tribal Group PLC ","Skills for Jobs  ","ﾣ553,045 ","Sub Contractors 
 - Abilities  
 - Bournemouth & Poole College 
 - BCHA 
 - Best Training 
 - Weymouth College  
-- A View to a Skill  - Paragon Training","08/08/08 
- ","31/12/10 "
+- A View to a Skill
+- Paragon Training","08/08/08 
+ ",31/12/10
 "Somerset County 
-Training ","ucan if ican ","ﾣ541,252 ",,"27/07/08 
- ","31/10/10 "
-"Enham ","Journey to Work ","ﾣ560,000 ","NONE ","01/07/08 ","31/12/10 "
+Training ","ucan if ican ","ﾣ541,252 ","Sub Contractors 
+- Turning Point 
+- MIND 
+- Prospects Organisation 
+- Learning South West","27/07/08 
+ ",31/10/10
+"Enham ","Journey to Work ","ﾣ560,000 ","NONE ",01/07/08,31/12/10
 "East Dorset District 
-Council (EDDC) ","Care Ambassadors   ","ﾣ25,000 ","NONE ","31/07/08 ","31/12/10 "
+Council (EDDC) ","Care Ambassadors   ","ﾣ25,000 ","NONE ",31/07/08,31/12/10
 "Employment 
 Opportunities  ","Opportunity Swindon ","ﾣ245,000 ","- Triangle Fusion 
 - Mecap 
-- SCOPE ","01/04/09 ","31/12/10 "
+- SCOPE ",01/04/09,31/12/10
 "Swindon Borough 
 Council ","Work Placements for 
 Learners with Learning 
@@ -129,14 +134,19 @@ delivered by Enterprise Works)
 - Swindon College 
 - Richmond Fellowship  
 - Working for Opportunities 
-- National Star College ","01/08/09 ","31/07/10 "
+- National Star College ",01/08/09,31/07/10
 "A4e Ltd ","Extra Mile ","ﾣ480,000 
- ",,"08/04/08 ","31/12/10 "
+ ","
+Sub Contractors 
+- Brave 
+- Blue Sky Development 
+- Leonardo 
+",08/04/08,31/12/10
 "The Learning Curve ","Community Grants ","ﾣ605,700 
  ","Partners 
-- South west Foundation  ","01/10/08 ","30/12/10 "
+- South west Foundation  ",01/10/08,30/12/10
 "Education + training 
-Skills ","ETS for Key Workers ","ﾣ109,559 ","NONE ","01/06/08 ","31/12/10 "
+Skills ","ETS for Key Workers ","ﾣ109,559 ","NONE ",01/06/08,31/12/10
 "North Devon College ","Reaching Out to Train to 
 Gain ","ﾣ1,279,454 
  ","Partners 
@@ -144,7 +154,7 @@ Gain ","ﾣ1,279,454
 - S Devon College  
 - City College Plymouth  
 - Duchy College  
- ","08/04/08 ","31/12/10 "
+ ",08/04/08,31/12/10
 "North Devon College 
  ","Workforce Development 
 Level 3+ � Devon 
@@ -163,7 +173,7 @@ Council
  ","ﾣ1,389,015.40 
  ","Partners 
 - Devon ACL (DCC)  
- ","01/08/08 ","31/12/10 
+ ",01/08/08,"31/12/10 
  "
 "Kingston Maurward 
 College 
@@ -211,7 +221,7 @@ Poole College
 - Kingston Maurward College  
 - Dorset New Forest Tourism 
 - Partnership Abilities  ","12/09/08 
- ","31/12/10 "
+ ",31/12/10
 "Bournemouth 
 Borough Council 
 (Dorset New Forest 
@@ -259,12 +269,12 @@ in vocation programmes
 - SPAN Study Centre  
 - Barton Hill Settlement  
  ","18/08/08 
- ","31/12/10 "
+ ",31/12/10
 "Hartpury College 
  ","Environmental 
 Technologies ","ﾣ1,062,120 
  ","NONE ","01/08/08 
- ","31/12/10 "
+ ",31/12/10
 "GWE Business West 
 Ltd 
  ","The Learning Flexibility 
@@ -272,7 +282,7 @@ Fund ","ﾣ1,013,848.50
  ","Sub Contractors 
 Train to Gain providers consisting of a 
 consortium of FE and private providers 
-and Colour Works International  ","01/08/08 ","31/12/10 "
+and Colour Works International  ",01/08/08,31/12/10
 "New City Academy, 
 Bristol (Beacon Centre)","Post � Employment (In-
 work) Support  - West of England)","ﾣ490,000 ","Sub Contractors 
@@ -280,7 +290,7 @@ work) Support  - West of England)","ﾣ490,000 ","Sub Contractors
 - Barton Hill Workshop 
 - SPAN 
 - Easton Community Children's Centre  ","01/07/08 
- ","31/12/10 "
+ ",31/12/10
 "Gloucestershire 
 Development 
 Agency 
@@ -294,7 +304,7 @@ Agency
 - The LSC currently employs the 
 Parklife Project manager - ensuring 
 links to current Parklife activity  ","01/07/08 
- ","31/12/10 "
+ ",31/12/10
 "Gloucestershire 
 Development 
 Agency 
@@ -319,22 +329,19 @@ Next Steps and former Connexions
 Services and  their Matrix accredited 
 providers 
 - GHURC will provide awareness of 
-new employer opportunities in the ","01/07/08 
- ","31/12/10 "
-,,,"regeneration areas  
+new employer opportunities in the regeneration areas  
 - University of Gloucestershire will 
 provide leadership and management 
 modules to support other mainstream 
-providers  
- ","01/07/08 
- ","31/12/10 "
+providers","01/07/08 
+ ",31/12/10
 "The Gloucestershire 
 Media Group 
  ","Evolve 
  ","ﾣ295,000 ","Sub Contractors & Partners 
 - Cirencester College  
 - Gloucestershire College  ","01/07/08 
- ","31/12/10 "
+ ",31/12/10
 "Gloucestershire 
 Development 
 Agency 
@@ -359,9 +366,8 @@ of Trade
 - Churn and Watermoor 
 - Gloucestershire Rural Community 
 Council  
-- Wiltshire Community First  ","01/06/08 
- ","31/12/10 "
-,,,"- Job Centre Plus 
+- Wiltshire Community First
+- Job Centre Plus 
  - Gloucestershire Market Towns 
 Forum  
 Sub Contractors 
@@ -370,8 +376,8 @@ Sub Contractors
 - Gloucestershire Enterprise Ltd  
 - Nextsteps  
 - Work based Training providers 
-- Business support agencies ","01/07/08 
- ",40543
+- Business support agencies","01/06/08 
+ ",31/12/10
 "GWE Business West 
 Ltd 
  ","Action Learning for 
@@ -380,7 +386,7 @@ Business Leaders
  ","Sub Contractors 
 - University of Bath  
 - Gloucestershire Enterprise  ","01/08/08 
- ","31/12/10 "
+ ",31/12/10
 "The Learning Curve 
  ","Leadership and 
 Management Training for 
@@ -410,21 +416,21 @@ providers (Sub Contractors):
 - Training Express Ltd  
 - Avonvale Training Ltd - Haddon Training Ltd  
 - Brockenhurst College 
-- Learning Curve  ","09/06/08 ","31/12/10 "
+- Learning Curve  ",09/06/08,31/12/10
 "Ultra Training Ltd 
  ","Workforce Development 
 Level 3 Plus ","ﾣ545,134.50 
  ","Sub contractors 
-- Training Provider Network ","07/04/08 ","31/12/10 "
+- Training Provider Network ",07/04/08,31/12/10
 "Best Training ","Best R2R Response to 
-Redundancy ","ﾣ188,000 ","None ","17/04/09 ","31/12/10 "
+Redundancy ","ﾣ188,000 ","None ",17/04/09,31/12/10
 "Westward Training 
-and Personnel Ltd ","Response to Redundancy ","ﾣ350,000 ","None ","17/04/09 ","31/12/10 "
+and Personnel Ltd ","Response to Redundancy ","ﾣ350,000 ","None ",17/04/09,31/12/10
 "Working LInks  ","Rapid Response to 
-Redundancy ","ﾣ842,400 ","None ","17/04/09 ","31/12/10 
+Redundancy ","ﾣ842,400 ","None ",17/04/09,"31/12/10 
  "
 "North Wessex 
-Training Ltd ","Response to Redundancy  ","ﾣ350,000 ","None ","21/04/09 ","31/12/10 "
+Training Ltd ","Response to Redundancy  ","ﾣ350,000 ","None ",21/04/09,31/12/10
 "New College 
 Swindon  ","Ready Steady Job ","ﾣ300,000 ","- Job Centre Plus 
 - Wiltshire County Council 
@@ -432,24 +438,24 @@ Swindon  ","Ready Steady Job ","ﾣ300,000 ","- Job Centre Plus
 - Key Training 
 - North Wessex Training 
 - Wiltshire College 
-- Nextstep South West ","01/04/09 ","31/12/10 "
+- Nextstep South West ",01/04/09,31/12/10
 "Gloucestershire 
 Devleopment 
 Agency  ","Response to Redundancy ","ﾣ500,000 ","- Job Centre Plus 
 - Next Steps 
-- Glos College ","01/04/09 ","31/12/10 "
+- Glos College ",01/04/09,31/12/10
 "North Devon College ","Response to Redundancy 
 North Devon  ","ﾣ1,000,440 ","- City College Plymouth 
 - Exeter College, North Devon Path 
 Finder Trust 
 - South Devon College  
-- Weston College ","17/04/09 ","31/12/10 "
+- Weston College ",17/04/09,31/12/10
 "City Academy Bristol 
-(Beacon Centre) ","Response to Redundancy ","ﾣ120,000 ","None ","01/04/09 ","31/12/10 "
+(Beacon Centre) ","Response to Redundancy ","ﾣ120,000 ","None ",01/04/09,31/12/10
 "PGL Training ","Job Skills in Contruction 
-PGL Training ","ﾣ60,700 ","None ","17/04/09 ","31/12/10 "
-"JHP Limited ","Response to Redundancy ","ﾣ350,000 ","None ","20/04/09 ","31/12/10 
+PGL Training ","ﾣ60,700 ","None ",17/04/09,31/12/10
+"JHP Limited ","Response to Redundancy ","ﾣ350,000 ","None ",20/04/09,"31/12/10 
  "
 "City College  
 Bristol ","Response to Redundancy ","ﾣ350,000 ","Hartcliffe & Withywood Ventures 
-(HMV) ","01/04/09 ","31/12/10 "
+(HMV) ",01/04/09,31/12/10
