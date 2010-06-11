@@ -1,6 +1,7 @@
 *.html
 \.~*
 *.ods
+*.zip
 fr/fr/
 italy
 ro/*.pdf
