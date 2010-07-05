@@ -1,27 +1,56 @@
-BENEFICIARIO,TIPO DE OPERACIÓN,"GASTO
-PÚBLICO"AGRUPACIÓ CATALANA D AEDIPE,"Promoción del empleo estable y de calidad y difusión de formas Innovadoras de 
-organización laboral ","37.128,00""AJUNTAMENT DE L HOSPITALET DE 
-LLOBREGAT","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","37.219,09""AJUNTAMENT DE LES FRANQUESES DEL 
-VALLES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","75.000,00"AJUNTAMENT DE MANRESA,Mejorar la empleabilidad de las personas desempleadas,"20.762,28"AJUNTAMENT DE MARTORELL,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","58.000,00"AJUNTAMENT DE PALAFOLLS,Mejorar la empleabilidad de las personas desempleadas,"27.356,40"AJUNTAMENT DE TORTOSA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","31.066,73"AJUNTAMENT DE TORTOSA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","29.126,95"AJUNTAMENT DE VILADECANS,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","55.941,84"ASSOCIACIO DE TREBALLADORS FAMILIARS,Mejorar la empleabilidad de las personas desempleadas,"34.603,80"ASSOCIACIO PER A L ESTUDI I LA PROMOCIO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","39.000,00"ASSOCIACIO PER A LA FORMACIO I SERVEIS,Mejorar la empleabilidad de las personas desempleadas,"34.603,80"ASSOCIACIO TRESC,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","84.188,02""BAIX EMPORDA ASSISTENCIA A DOMICILI 
-SCCL",Mejorar la empleabilidad de las personas desempleadas,"34.603,80"CASAL DELS INFANTS DEL RAVAL,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","100.800,00""CENTRE DE FORMACIÓ AULA-7, S.L.",Mejorar la empleabilidad de las personas desempleadas,"34.603,80""CERC@, S.C.C.L.",Mejorar la empleabilidad de las personas desempleadas,"34.603,80"CRUZ ROJA ESPA?OLA,Mejorar la empleabilidad de las personas desempleadas,"34.589,48""FUNDACIO CATALANA PER A LA SINDROME 
-DOWN","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","57.600,00""FUNDACIO PER A LA FORMACIÓ I L ESTUDI 
-PACO PUERTO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","113.107,05"FUNDACIO PRIVADA PROJECTE AURA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","90.000,00"GENERALIDAD DE CATALUÑA,Mejorar la adecuación de las organizaciones a las necesidades del mercado de trabajo,"658.282,73""GENERALITAT DE CATALUNYA - 
-DEPARTAMENTO DE TRABAJO",Fomentar el apoyo al trabajo por cuenta propia y la creación de empresas,"497.336,97""GENERALITAT DE CATALUNYA - 
-DEPARTAMENTO DE TRABAJO",Mejorar la adecuación de las organizaciones a las necesidades del mercado de trabajo,"20.868,40""GRAMEIMPULS, S.A.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","63.068,90""INSERCOOP, SCCL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","165.600,00""INSTITUT DE TREBALL SOCIAL I SERVEIS 
-SOCIALS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","89.619,10""L HEURA DEL VALLES, FUNDACIO PRIVADA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","80.300,00""RESIDENCIA DE TERCERA EDAT L ONADA, S.L.",Mejorar la empleabilidad de las personas desempleadas,"34.465,75"SERVEI D OCUPACIO DE CATALUNYA - SOC,Mejorar la adecuación de las organizaciones a las necesidades del mercado de trabajo,"51.936.022,46"
+"BENEFICIARIO","TIPO DE OPERACION","GASTO PUBLICO"
+"AGRUPACI√ì CATALANA D AEDIPE","Promoci√≥n del empleo estable y de calidad y difusi√≥n de formas Innovadoras de 
+organizaci√≥n laboral ","37.128,00"
+"AJUNTAMENT DE L HOSPITALET DE 
+LLOBREGAT","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","37.219,09"
+"AJUNTAMENT DE LES FRANQUESES DEL 
+VALLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","75.000,00"
+"AJUNTAMENT DE MANRESA","Mejorar la empleabilidad de las personas desempleadas","20.762,28"
+"AJUNTAMENT DE MARTORELL","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","58.000,00"
+"AJUNTAMENT DE PALAFOLLS","Mejorar la empleabilidad de las personas desempleadas","27.356,40"
+"AJUNTAMENT DE TORTOSA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","31.066,73"
+"AJUNTAMENT DE TORTOSA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","29.126,95"
+"AJUNTAMENT DE VILADECANS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","55.941,84"
+"ASSOCIACIO DE TREBALLADORS FAMILIARS","Mejorar la empleabilidad de las personas desempleadas","34.603,80"
+"ASSOCIACIO PER A L ESTUDI I LA PROMOCIO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","39.000,00"
+"ASSOCIACIO PER A LA FORMACIO I SERVEIS","Mejorar la empleabilidad de las personas desempleadas","34.603,80"
+"ASSOCIACIO TRESC","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","84.188,02"
+"BAIX EMPORDA ASSISTENCIA A DOMICILI 
+SCCL","Mejorar la empleabilidad de las personas desempleadas","34.603,80"
+"CASAL DELS INFANTS DEL RAVAL","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","100.800,00"
+"CENTRE DE FORMACI√ì AULA-7, S.L.","Mejorar la empleabilidad de las personas desempleadas","34.603,80"
+"CERC@, S.C.C.L.","Mejorar la empleabilidad de las personas desempleadas","34.603,80"
+"CRUZ ROJA ESPA?OLA","Mejorar la empleabilidad de las personas desempleadas","34.589,48"
+"FUNDACIO CATALANA PER A LA SINDROME 
+DOWN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","57.600,00"
+"FUNDACIO PER A LA FORMACI√ì I L ESTUDI 
+PACO PUERTO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","113.107,05"
+"FUNDACIO PRIVADA PROJECTE AURA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","90.000,00"
+"GENERALIDAD DE CATALU√ëA","Mejorar la adecuaci√≥n de las organizaciones a las necesidades del mercado de trabajo","658.282,73"
+"GENERALITAT DE CATALUNYA - 
+DEPARTAMENTO DE TRABAJO","Fomentar el apoyo al trabajo por cuenta propia y la creaci√≥n de empresas","497.336,97"
+"GENERALITAT DE CATALUNYA - 
+DEPARTAMENTO DE TRABAJO","Mejorar la adecuaci√≥n de las organizaciones a las necesidades del mercado de trabajo","20.868,40"
+"GRAMEIMPULS, S.A.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","63.068,90"
+"INSERCOOP, SCCL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","165.600,00"
+"INSTITUT DE TREBALL SOCIAL I SERVEIS 
+SOCIALS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","89.619,10"
+"L HEURA DEL VALLES, FUNDACIO PRIVADA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","80.300,00"
+"RESIDENCIA DE TERCERA EDAT L ONADA, S.L.","Mejorar la empleabilidad de las personas desempleadas","34.465,75"
+"SERVEI D OCUPACIO DE CATALUNYA - SOC","Mejorar la adecuaci√≥n de las organizaciones a las necesidades del mercado de trabajo","51.936.022,46"

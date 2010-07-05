@@ -1,464 +1,930 @@
-BENEFICIARIO,TIPO DE OPERACIÓN,"GASTO
-PÚBLICO""ACADEMIA COLON TRES, S.A.",Mejorar la empleabilidad de las personas desempleadas,"136.900,00""ACADEMIA COLON, S.A.",Mejorar la empleabilidad de las personas desempleadas,"112.061,13"AGENCIA ANTIDROGA SER. CENTRALES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.298,51""AGENCIA ANTIDROGA. CONSEJER?A DE 
-SANIDAD","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","5.192,64"AGENCIA PARA EL EMPLEO DE MADRID,Mejorar la empleabilidad de las personas desempleadas,"79.929,75"AGENCIA PARA EL EMPLEO DE MADRID,Mejorar la empleabilidad de las personas desempleadas,"216.963,25""ALARIFES CUELLAR, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""ALBELIA CONSULTORA, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.800,00"ALIANZA CRISTIANA DE JOVENES DE LA YMCA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","14.807,77""ANCLA GESTION DEPORTIVA, S. L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00"APA MINUSVÁLIDOS (APAM),"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","10.000,00"APOYO POSITIVO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","59.297,24"ARACOVE,Mejorar la empleabilidad de las personas desempleadas,"64.952,46"ARTE PLENARIO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","33.724,43"ARTEEQ ARTISTIC SERVICES S.L.N.E.,Mejorar la empleabilidad de las personas desempleadas,"6.000,00""ARTES GRAFICAS LUIS PEREZ, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","11.212,70"ARTURO GRUPO CANTOBLANCO S.L.,Mejorar la empleabilidad de las personas desempleadas,"131.767,41""ASAMBLEA DE MADRID DE CRUZ ROJA 
-ESPAÑOLA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","52.053,12""ASINMO LAS TABLAS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"9.000,00""ASOC MADRILEÑA DE EMPRESAS DE 
-INSERCION","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.498,42"ASOC. ARCO IRIS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.134,39"ASOC. ARCO IRIS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","25.939,80"ASOC. AREA DE FORMACION,Mejorar la empleabilidad de las personas desempleadas,"290.399,93"ASOC. AREA DE FORMACION,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","124.977,60"ASOC. AREA DE FORMACION,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","30.178,25"ASOC. CAMINAR,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","51.640,41"ASOC. COLECTIVO LA CALLE,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","43.072,66""ASOC. COORDINADORA MINUSVALIDOS 
-FISICOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","77.461,83"ASOC. CULTURAL LA KALLE,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.800,00"ASOC. CULTURAL LA KALLE,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.397,55"ASOC. CULTURAL NORTE JOVEN,Favorecer la integración social y laboral de las personas inmigrantes,"66.731,46"ASOC. CULTURAL NORTE JOVEN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.410,55"ASOC. CULTURAL NORTE JOVEN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","40.458,96"ASOC. DATO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.895,00""ASOC. DE MUJERES PARA LA FORMACION Y 
-EL DESARROLLO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","5.353,13"ASOC. DE PROFESORADO ADAL,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","12.000,00""ASOC. DE PROMOCION DE SERVICIOS 
-SOCIALES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","30.578,35"ASOC. DE SORDOS DE MADRID,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","32.613,60"ASOC. DISMINUIDOS FISICOS DE MOSTOLES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.331,66""ASOC. EDUCACION,CULTURA Y SOLIDARIDAD","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","19.021,08"ASOC. EDUCADORES LAS ALAMEDILLAS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","46.637,55""ASOC. EMPLEADOS IBERIA PADRES DE 
-MINUSVALIDOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","41.094,85""ASOC. EMPR.FORMAC.EMPLEO SECTOR 
-PASTELERIA",Mejorar la empleabilidad de las personas desempleadas,"127.312,56"ASOC. EMPRESARIAS DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","19.800,08"ASOC. EMPRESARIOS DEL HENARES,Mejorar la empleabilidad de las personas desempleadas,"79.795,08""ASOC. ESLABON, INICIATIVAS DE 
-PROMOCION DE EMPLEO",Mejorar la empleabilidad de las personas desempleadas,"57.652,28""ASOC. ESLABON, INICIATIVAS DE 
-PROMOCION DE EMPLEO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.350,66""ASOC. ESLABON, INICIATIVAS DE 
-PROMOCION DE EMPLEO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","55.686,38""ASOC. ESPAÑOLA MUJERES EMPRESARIAS 
-DE MADRID","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.400,00"ASOC. FAMILIAS NIÑOS DIFERENTES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","3.804,99"ASOC. GITANA CLAN CALO DE FUENLABRADA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","21.849,75"ASOC. JUVENIL PAN BENDITO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","16.625,95""ASOC. MADRIL.AMIGOS Y FAMILIARES 
-ENFERMOS ESQUIZOFRENIA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","3.984,03""ASOC. MADRIL.AMIGOS Y FAMILIARES 
-ENFERMOS ESQUIZOFRENIA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","34.367,95""ASOC. MADRILEÑA DE EMPRESAS DE 
-INSERCION","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","12.425,63""ASOC. MADRILEÑA INSERCION SOCIAL 
-AURRERA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.800,00""ASOC. MADRILEÑA INSERCION SOCIAL 
-AURRERA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","26.346,74"ASOC. MARILLAC,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","5.731,79"ASOC. MARILLAC,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","38.193,81"ASOC. MUJERES DE OPAÑEL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","65.864,55""ASOC. PADRES DE DISMINUIDOS 
-(S.SEBASTIAN DE LOS REYES)","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","47.446,70""ASOC. PADRES POR INTEGRACION SAN 
-FEDERICO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","61.680,62""ASOC. PADRES Y 
+"BENEFICIARIO","TIPO DE OPERACION","GASTO PUBLICO"
+"ACADEMIA COLON TRES, S.A.","Mejorar la empleabilidad de las personas desempleadas","136.900,00"
+"ACADEMIA COLON, S.A.","Mejorar la empleabilidad de las personas desempleadas","112.061,13"
+"AGENCIA ANTIDROGA SER. CENTRALES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.298,51"
+"AGENCIA ANTIDROGA. CONSEJER?A DE 
+SANIDAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","5.192,64"
+"AGENCIA PARA EL EMPLEO DE MADRID","Mejorar la empleabilidad de las personas desempleadas","79.929,75"
+"AGENCIA PARA EL EMPLEO DE MADRID","Mejorar la empleabilidad de las personas desempleadas","216.963,25"
+"ALARIFES CUELLAR, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"ALBELIA CONSULTORA, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.800,00"
+"ALIANZA CRISTIANA DE JOVENES DE LA YMCA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","14.807,77"
+"ANCLA GESTION DEPORTIVA, S. L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"APA MINUSV√ÅLIDOS (APAM)","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","10.000,00"
+"APOYO POSITIVO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","59.297,24"
+"ARACOVE","Mejorar la empleabilidad de las personas desempleadas","64.952,46"
+"ARTE PLENARIO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","33.724,43"
+"ARTEEQ ARTISTIC SERVICES S.L.N.E.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"ARTES GRAFICAS LUIS PEREZ, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","11.212,70"
+"ARTURO GRUPO CANTOBLANCO S.L.","Mejorar la empleabilidad de las personas desempleadas","131.767,41"
+"ASAMBLEA DE MADRID DE CRUZ ROJA 
+ESPA√ëOLA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","52.053,12"
+"ASINMO LAS TABLAS, S.L.","Mejorar la empleabilidad de las personas desempleadas","9.000,00"
+"ASOC MADRILE√ëA DE EMPRESAS DE 
+INSERCION","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.498,42"
+"ASOC. ARCO IRIS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.134,39"
+"ASOC. ARCO IRIS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","25.939,80"
+"ASOC. AREA DE FORMACION","Mejorar la empleabilidad de las personas desempleadas","290.399,93"
+"ASOC. AREA DE FORMACION","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","124.977,60"
+"ASOC. AREA DE FORMACION","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","30.178,25"
+"ASOC. CAMINAR","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","51.640,41"
+"ASOC. COLECTIVO LA CALLE","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","43.072,66"
+"ASOC. COORDINADORA MINUSVALIDOS 
+FISICOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","77.461,83"
+"ASOC. CULTURAL LA KALLE","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.800,00"
+"ASOC. CULTURAL LA KALLE","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.397,55"
+"ASOC. CULTURAL NORTE JOVEN","Favorecer la integraci√≥n social y laboral de las personas inmigrantes","66.731,46"
+"ASOC. CULTURAL NORTE JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.410,55"
+"ASOC. CULTURAL NORTE JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","40.458,96"
+"ASOC. DATO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.895,00"
+"ASOC. DE MUJERES PARA LA FORMACION Y 
+EL DESARROLLO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","5.353,13"
+"ASOC. DE PROFESORADO ADAL","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","12.000,00"
+"ASOC. DE PROMOCION DE SERVICIOS 
+SOCIALES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","30.578,35"
+"ASOC. DE SORDOS DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","32.613,60"
+"ASOC. DISMINUIDOS FISICOS DE MOSTOLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.331,66"
+"ASOC. EDUCACION,CULTURA Y SOLIDARIDAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","19.021,08"
+"ASOC. EDUCADORES LAS ALAMEDILLAS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","46.637,55"
+"ASOC. EMPLEADOS IBERIA PADRES DE 
+MINUSVALIDOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","41.094,85"
+"ASOC. EMPR.FORMAC.EMPLEO SECTOR 
+PASTELERIA","Mejorar la empleabilidad de las personas desempleadas","127.312,56"
+"ASOC. EMPRESARIAS DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","19.800,08"
+"ASOC. EMPRESARIOS DEL HENARES","Mejorar la empleabilidad de las personas desempleadas","79.795,08"
+"ASOC. ESLABON, INICIATIVAS DE 
+PROMOCION DE EMPLEO","Mejorar la empleabilidad de las personas desempleadas","57.652,28"
+"ASOC. ESLABON, INICIATIVAS DE 
+PROMOCION DE EMPLEO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.350,66"
+"ASOC. ESLABON, INICIATIVAS DE 
+PROMOCION DE EMPLEO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","55.686,38"
+"ASOC. ESPA√ëOLA MUJERES EMPRESARIAS 
+DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.400,00"
+"ASOC. FAMILIAS NI√ëOS DIFERENTES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","3.804,99"
+"ASOC. GITANA CLAN CALO DE FUENLABRADA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","21.849,75"
+"ASOC. JUVENIL PAN BENDITO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","16.625,95"
+"ASOC. MADRIL.AMIGOS Y FAMILIARES 
+ENFERMOS ESQUIZOFRENIA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","3.984,03"
+"ASOC. MADRIL.AMIGOS Y FAMILIARES 
+ENFERMOS ESQUIZOFRENIA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","34.367,95"
+"ASOC. MADRILE√ëA DE EMPRESAS DE 
+INSERCION","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","12.425,63"
+"ASOC. MADRILE√ëA INSERCION SOCIAL 
+AURRERA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.800,00"
+"ASOC. MADRILE√ëA INSERCION SOCIAL 
+AURRERA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","26.346,74"
+"ASOC. MARILLAC","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","5.731,79"
+"ASOC. MARILLAC","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","38.193,81"
+"ASOC. MUJERES DE OPA√ëEL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","65.864,55"
+"ASOC. PADRES DE DISMINUIDOS 
+(S.SEBASTIAN DE LOS REYES)","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","47.446,70"
+"ASOC. PADRES POR INTEGRACION SAN 
+FEDERICO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","61.680,62"
+"ASOC. PADRES Y 
 FAM.MINUS.PS.SEN.INT.INTS.PS.PEDI.DR.QUIN
-TERO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.950,61""ASOC. PARA EL DESARROLO DEL PLAN 
-COMUNITARIO DE CARABANCHEL ALTO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","8.527,04""ASOC. PARA EL DESARROLO DEL PLAN 
-COMUNITARIO DE CARABANCHEL ALTO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","46.084,49""ASOC. PARA LA INTEGRACION DEL MENOR 
-PAIDEIA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","58.296,09""ASOC. PARAPLEJ.Y GRANDES 
-MINUSV.FISICOS COMUNIDAD DE MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.337,76""ASOC. PROMOCIONAL EMPLEO Y 
-DESARROLLO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","29.351,85"ASOC. PROYECTO AQELA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","34.629,64"ASOC. PROYECTO HOGAR,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","37.640,16"ASOC. PROYECTO SAN FERMIN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","54.544,20"ASOC. PSIQUIATRIA Y VIDA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","49.368,36"ASOC. SALUD Y AYUDA MUTUA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","3.470,38"ASOC. SALUD Y AYUDA MUTUA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","44.441,90""ASOC. SEMILLA PARA LA INTEGRACION 
-SOCIAL DEL JOVEN","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.800,00""ASOC. SEMILLA PARA LA INTEGRACION 
-SOCIAL DEL JOVEN","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","64.276,93"ASOC. TOMILLO MOSTOLES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","268.158,88"ASOC.CIUDAD JOVEN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","36.251,28""ASOC.COLECTIVO LESBIANAS Y 
-GAYS,BISEX,TRANSX.(COLEGA MADRID)","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.142,50""ASOC.DE ALCALA DE HENARES PARA LA 
-DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","37.439,00"ASOC.FAMILIARES DE ENFERMOS MENTALES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.959,39""ASOC.INDEPTE.DE JOVENES EMPRES.DE LA 
-VILLA DE MADRID-AJE MADRID","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","29.950,00""ASOC.PARA LA ATENCION PREV.Y 
-REINSERCION DE LA MUJER PROSTITUIDA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","46.533,26""ASOC.PRO PERSONAS CON DISCAPACIDAD 
-INTELECTUAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","44.906,66""ASOC.PRO PERSONAS CON DISCAPACIDAD 
-INTELECTUAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","152.014,05""ASOC.PROMOCION GESTION SERV.SOCIALES 
-GENERALES Y ESPECIALIZADOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","41.124,55""ASOC.PROMOCION GESTION SERV.SOCIALES 
-GENERALES Y ESPECIALIZADOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","115.567,42""ASOC.SOCIO CULT.Y COOP. AL DESARROLLO 
-POR COLOMBIA E IBEROAM.",Favorecer la integración social y laboral de las personas inmigrantes,"82.463,87""ASOCIACION AGRUPACION DE DESARROLLO 
-LOS MOLINOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","21.602,24"ASOCIACION BARRO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.500,00""ASOCIACION DE COOPERACION BOLIVIA-
-ESPAÑA (ACOBE)",Favorecer la integración social y laboral de las personas inmigrantes,"82.772,78""ASOCIACION DE PADRES Y AMIGOS DE LOS 
-SORDOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","45.329,59""ASOCIACION ECUESTRE ""SIERRA NORTE""",Mejorar la empleabilidad de las personas desempleadas,"50.345,28"ASOCIACION EL FANAL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.500,00"ASOCIACION EL FANAL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.595,27"ASOCIACION ENTRE MUJERES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","18.061,34""ASOCIACION PARA LA ATENCION 
+TERO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.950,61"
+"ASOC. PARA EL DESARROLO DEL PLAN 
+COMUNITARIO DE CARABANCHEL ALTO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","8.527,04"
+"ASOC. PARA EL DESARROLO DEL PLAN 
+COMUNITARIO DE CARABANCHEL ALTO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","46.084,49"
+"ASOC. PARA LA INTEGRACION DEL MENOR 
+PAIDEIA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","58.296,09"
+"ASOC. PARAPLEJ.Y GRANDES 
+MINUSV.FISICOS COMUNIDAD DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.337,76"
+"ASOC. PROMOCIONAL EMPLEO Y 
+DESARROLLO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","29.351,85"
+"ASOC. PROYECTO AQELA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","34.629,64"
+"ASOC. PROYECTO HOGAR","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","37.640,16"
+"ASOC. PROYECTO SAN FERMIN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","54.544,20"
+"ASOC. PSIQUIATRIA Y VIDA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","49.368,36"
+"ASOC. SALUD Y AYUDA MUTUA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","3.470,38"
+"ASOC. SALUD Y AYUDA MUTUA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","44.441,90"
+"ASOC. SEMILLA PARA LA INTEGRACION 
+SOCIAL DEL JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.800,00"
+"ASOC. SEMILLA PARA LA INTEGRACION 
+SOCIAL DEL JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","64.276,93"
+"ASOC. TOMILLO MOSTOLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","268.158,88"
+"ASOC.CIUDAD JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","36.251,28"
+"ASOC.COLECTIVO LESBIANAS Y 
+GAYS,BISEX,TRANSX.(COLEGA MADRID)","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.142,50"
+"ASOC.DE ALCALA DE HENARES PARA LA 
+DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","37.439,00"
+"ASOC.FAMILIARES DE ENFERMOS MENTALES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.959,39"
+"ASOC.INDEPTE.DE JOVENES EMPRES.DE LA 
+VILLA DE MADRID-AJE MADRID","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","29.950,00"
+"ASOC.PARA LA ATENCION PREV.Y 
+REINSERCION DE LA MUJER PROSTITUIDA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","46.533,26"
+"ASOC.PRO PERSONAS CON DISCAPACIDAD 
+INTELECTUAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","44.906,66"
+"ASOC.PRO PERSONAS CON DISCAPACIDAD 
+INTELECTUAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","152.014,05"
+"ASOC.PROMOCION GESTION SERV.SOCIALES 
+GENERALES Y ESPECIALIZADOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","41.124,55"
+"ASOC.PROMOCION GESTION SERV.SOCIALES 
+GENERALES Y ESPECIALIZADOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","115.567,42"
+"ASOC.SOCIO CULT.Y COOP. AL DESARROLLO 
+POR COLOMBIA E IBEROAM.","Favorecer la integraci√≥n social y laboral de las personas inmigrantes","82.463,87"
+"ASOCIACION AGRUPACION DE DESARROLLO 
+LOS MOLINOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","21.602,24"
+"ASOCIACION BARRO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.500,00"
+"ASOCIACION DE COOPERACION BOLIVIA-
+ESPA√ëA (ACOBE)","Favorecer la integraci√≥n social y laboral de las personas inmigrantes","82.772,78"
+"ASOCIACION DE PADRES Y AMIGOS DE LOS 
+SORDOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","45.329,59"
+"ASOCIACION ECUESTRE ""SIERRA NORTE""","Mejorar la empleabilidad de las personas desempleadas","50.345,28"
+"ASOCIACION EL FANAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.500,00"
+"ASOCIACION EL FANAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.595,27"
+"ASOCIACION ENTRE MUJERES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","18.061,34"
+"ASOCIACION PARA LA ATENCION 
 DISMINUIDOS PSIQUICOS LIGEROS LIMITES 
-C.M","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","138.932,16""ASOCIACION POR LA INTEGRACION E 
-IGUALDAD DEL MINUS.PSIQUICO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.619,00""ASOCIACIÓN POR LA INTEGRACIÓN E 
-IGUALDAD DEL MINUS.PSIQUICO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","21.173,30"ASPAYM MADRID,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.242,88"AYUNTAMIENTO DE ALCALA DE HENARES,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","24.948,94"AYUNTAMIENTO DE ALCALA DE HENARES,Mejorar la empleabilidad de las personas desempleadas,"155.128,98"AYUNTAMIENTO DE ALCALA DE HENARES,Mejorar la empleabilidad de las personas desempleadas,"463.126,95"AYUNTAMIENTO DE ALCOBENDAS,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","22.254,00"AYUNTAMIENTO DE ALCOBENDAS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","25.289,69"AYUNTAMIENTO DE ALCORCON,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.000,36"AYUNTAMIENTO DE ALCORCON,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","59.999,64"AYUNTAMIENTO DE ALGETE,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","4.911,00"AYUNTAMIENTO DE ARANJUEZ,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.036,51"AYUNTAMIENTO DE ARANJUEZ,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","14.046,13"AYUNTAMIENTO DE ARANJUEZ,Mejorar la empleabilidad de las personas desempleadas,"158.814,72"AYUNTAMIENTO DE ARGANDA DEL REY,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","7.713,44"AYUNTAMIENTO DE ARGANDA DEL REY,Mejorar la empleabilidad de las personas desempleadas,"128.496,96"AYUNTAMIENTO DE BOADILLA DEL MONTE,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","12.143,32"AYUNTAMIENTO DE BOADILLA DEL MONTE,Mejorar la empleabilidad de las personas desempleadas,"75.483,75"AYUNTAMIENTO DE CHINCHON,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","14.256,65"AYUNTAMIENTO DE COLLADO MEDIANO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","12.876,42"AYUNTAMIENTO DE COLLADO VILLALBA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.643,00"AYUNTAMIENTO DE COLLADO VILLALBA,Mejorar la empleabilidad de las personas desempleadas,"68.001,12"AYUNTAMIENTO DE COLMENAR VIEJO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","37.173,22"AYUNTAMIENTO DE COLMENAR VIEJO,Mejorar la empleabilidad de las personas desempleadas,"17.460,43"AYUNTAMIENTO DE COSLADA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","23.926,31"AYUNTAMIENTO DE COSLADA,Mejorar la empleabilidad de las personas desempleadas,"263.949,82"AYUNTAMIENTO DE FUENLABRADA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","77.348,85"AYUNTAMIENTO DE GALAPAGAR,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","18.099,04"AYUNTAMIENTO DE GETAFE,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","42.914,84"AYUNTAMIENTO DE HUMANES DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","20.541,00"AYUNTAMIENTO DE HUMANES DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","10.734,79"AYUNTAMIENTO DE LA CABRERA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","30.051,62"AYUNTAMIENTO DE LAS ROZAS DE MADRID,Mejorar la empleabilidad de las personas desempleadas,"10.729,22"AYUNTAMIENTO DE LEGANES,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","37.355,94"AYUNTAMIENTO DE LEGANES,Mejorar la empleabilidad de las personas desempleadas,"49.782,72"AYUNTAMIENTO DE LEGANES,Mejorar la empleabilidad de las personas desempleadas,"567.844,93"AYUNTAMIENTO DE LEGANES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","38.645,57""AYUNTAMIENTO DE LOZOYUELA-NAVAS-
-SIETEIGLESIAS","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","3.040,00"AYUNTAMIENTO DE MAJADAHONDA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","32.077,91"AYUNTAMIENTO DE MAJADAHONDA,Mejorar la empleabilidad de las personas desempleadas,"16.601,84"AYUNTAMIENTO DE MAJADAHONDA,Mejorar la empleabilidad de las personas desempleadas,"49.523,54"AYUNTAMIENTO DE MEJORADA DEL CAMPO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","21.674,00"AYUNTAMIENTO DE MOSTOLES,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","42.540,24"AYUNTAMIENTO DE MOSTOLES,Mejorar la empleabilidad de las personas desempleadas,"55.034,54"AYUNTAMIENTO DE MOSTOLES,Mejorar la empleabilidad de las personas desempleadas,"782.168,21"AYUNTAMIENTO DE MOSTOLES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","51.513,81"AYUNTAMIENTO DE NAVALCARNERO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","7.015,48""AYUNTAMIENTO DE PARACUELLOS DE 
-JARAMA","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","19.901,08"AYUNTAMIENTO DE PARLA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","39.452,75"AYUNTAMIENTO DE PARLA,Mejorar la empleabilidad de las personas desempleadas,"341.669,98"AYUNTAMIENTO DE PINTO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","29.119,16"AYUNTAMIENTO DE PINTO,Mejorar la empleabilidad de las personas desempleadas,"73.289,85"AYUNTAMIENTO DE POZUELO DE ALARCON,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","15.434,87"AYUNTAMIENTO DE POZUELO DE ALARCON,Mejorar la empleabilidad de las personas desempleadas,"125.077,67"AYUNTAMIENTO DE POZUELO DE ALARCÓN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","17.932,22"AYUNTAMIENTO DE RIVAS-VACIAMADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","24.945,72"AYUNTAMIENTO DE RIVAS-VACIAMADRID,Mejorar la empleabilidad de las personas desempleadas,"80.153,09"AYUNTAMIENTO DE ROBLEDO DE CHAVELA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","10.478,31""AYUNTAMIENTO DE SAN AGUSTIN DE 
-GUADALIX","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","21.319,25""AYUNTAMIENTO DE SAN FERNANDO DE 
-HENARES","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","5.793,23""AYUNTAMIENTO DE SAN FERNANDO DE 
-HENARES",Mejorar la empleabilidad de las personas desempleadas,"125.244,24""AYUNTAMIENTO DE SAN SEBASTIAN DE LOS 
-REYES","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","21.229,24""AYUNTAMIENTO DE SAN SEBASTIAN DE LOS 
-REYES",Mejorar la empleabilidad de las personas desempleadas,"179.562,96"AYUNTAMIENTO DE TORREJON DE ARDOZ,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","38.000,00"AYUNTAMIENTO DE TORREJON DE ARDOZ,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","31.424,25"AYUNTAMIENTO DE TORREJON DE ARDOZ,Mejorar la empleabilidad de las personas desempleadas,"335.864,54"AYUNTAMIENTO DE TRES CANTOS,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","47.833,74"AYUNTAMIENTO DE TRES CANTOS,Mejorar la empleabilidad de las personas desempleadas,"79.424,36"AYUNTAMIENTO DE VALDEMORO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","70.135,62"AYUNTAMIENTO DE VALDEMORO,Mejorar la empleabilidad de las personas desempleadas,"194.978,52"AYUNTAMIENTO DE VELILLA DE SAN ANTONIO,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","5.822,39""AYUNTAMIENTO DE VILLANUEVA DEL 
-PARDILLO","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","33.898,58"AYUNTAMIENTO SAN AGUSTIN DE GUADALIX,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","9.392,95""BARRASUS Y GALLEGO, S.L.",Mejorar la empleabilidad de las personas desempleadas,"5.000,00""BELLEZA, ESTILO Y SALUD FERSA, S. L. L.",Mejorar la empleabilidad de las personas desempleadas,"15.000,00""BLANCUBER 
-TELEMARKETING,S.L.UNIPERSONAL",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""BOCOP XXI, S.L.",Mejorar la empleabilidad de las personas desempleadas,"7.800,00""BRIGADA INTEGRATE 2008, S.L.L.",Mejorar la empleabilidad de las personas desempleadas,"15.000,00""CAMARA OFICIAL DE COMERCIO E INDUSTRIA 
-DE MADRID",Mejorar la empleabilidad de las personas desempleadas,"718.484,84"CANAL DE ISABEL II,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.146,37"CANAL DE ISABEL II,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.298,77"CANDELITA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","9.026,83"CANDELITA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","50.428,32""CARAT ESPAÑA, S.A.U.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","3.659,16"CARITAS DIOCESANA DE GETAFE,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","39.362,59"CAS TRAINING S.L.,Mejorar la empleabilidad de las personas desempleadas,"59.540,00"CAS TRAINING S.L.,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","146.520,00""CATEP, INTERVENCION SOCIAL, SDAD.COOP.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.425,00"CATFA FORMACION Y EMPLEO S.L.,Mejorar la empleabilidad de las personas desempleadas,"120.882,15""CENTRO ANIMACION SOCIOCULTURAL 
-MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.500,00""CENTRO ANIMACION SOCIOCULTURAL 
-MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","17.629,26""CENTRO DE APLICACIONES ELÉCTRICAS DE 
-MADRID,S.L.",Mejorar la empleabilidad de las personas desempleadas,"11.000,00""CENTRO DE ENSEÑANZAS OCUPACIONALES, 
-S.A.",Mejorar la empleabilidad de las personas desempleadas,"92.542,73""CENTRO DE FISIOTERAPIA CRISTINA LOPEZ, 
-S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00"CENTRO DE SOLIDARIDAD,Favorecer la integración social y laboral de las personas inmigrantes,"83.270,00"CENTRO DE SOLIDARIDAD,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","23.081,48""CENTRO FORMACION FOMENTO ESTUDIOS 
-PROFESIONALES, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","26.650,00""CENTRO INICIATIVAS PARA FORMACION Y EL 
-EMPLEO",Mejorar la empleabilidad de las personas desempleadas,"558.749,92""CENTRO INVEST.ENERGETICAS, 
-MEDIOAMBIENTALES TECNOLOGICAS",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"12.600,00""CENTRO INVESTIGACION FORMACION 
-EMPRESAS, S.A.L.",Mejorar la empleabilidad de las personas desempleadas,"174.840,02""CENTRO INVESTIGACION FORMACION 
-EMPRESAS, S.A.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","31.529,08""CENTRO INVESTIGACION FORMACION 
-EMPRESAS, S.A.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","3.647,99"CENTRO SAN RAFAEL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.271,23"CENTRO SAN RAFAEL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","47.558,37""CHECK IN CONTROL PREDICTIVO, S.L.N.E.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""CIRCULO EMPRESARIOS INDEPENDIENTES 
-DE LA COMUNIDAD AUTONOMA DE MADRID",Mejorar la empleabilidad de las personas desempleadas,"113.156,24""CLINICA SAYBU, S.L.",Mejorar la empleabilidad de las personas desempleadas,"5.000,00""COLECTIVO BECAS FORMACION PERSONAL 
-INVESTIGADOR",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"32.005,75""COLECTIVO BECAS FORMACION PERSONAL 
-INVESTIGADOR",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"931.811,94""COLECTIVO DE 
+C.M","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","138.932,16"
+"ASOCIACION POR LA INTEGRACION E 
+IGUALDAD DEL MINUS.PSIQUICO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.619,00"
+"ASOCIACI√ìN POR LA INTEGRACI√ìN E 
+IGUALDAD DEL MINUS.PSIQUICO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","21.173,30"
+"ASPAYM MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.242,88"
+"AYUNTAMIENTO DE ALCALA DE HENARES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","24.948,94"
+"AYUNTAMIENTO DE ALCALA DE HENARES","Mejorar la empleabilidad de las personas desempleadas","155.128,98"
+"AYUNTAMIENTO DE ALCALA DE HENARES","Mejorar la empleabilidad de las personas desempleadas","463.126,95"
+"AYUNTAMIENTO DE ALCOBENDAS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","22.254,00"
+"AYUNTAMIENTO DE ALCOBENDAS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","25.289,69"
+"AYUNTAMIENTO DE ALCORCON","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.000,36"
+"AYUNTAMIENTO DE ALCORCON","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","59.999,64"
+"AYUNTAMIENTO DE ALGETE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","4.911,00"
+"AYUNTAMIENTO DE ARANJUEZ","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.036,51"
+"AYUNTAMIENTO DE ARANJUEZ","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","14.046,13"
+"AYUNTAMIENTO DE ARANJUEZ","Mejorar la empleabilidad de las personas desempleadas","158.814,72"
+"AYUNTAMIENTO DE ARGANDA DEL REY","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","7.713,44"
+"AYUNTAMIENTO DE ARGANDA DEL REY","Mejorar la empleabilidad de las personas desempleadas","128.496,96"
+"AYUNTAMIENTO DE BOADILLA DEL MONTE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","12.143,32"
+"AYUNTAMIENTO DE BOADILLA DEL MONTE","Mejorar la empleabilidad de las personas desempleadas","75.483,75"
+"AYUNTAMIENTO DE CHINCHON","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","14.256,65"
+"AYUNTAMIENTO DE COLLADO MEDIANO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","12.876,42"
+"AYUNTAMIENTO DE COLLADO VILLALBA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.643,00"
+"AYUNTAMIENTO DE COLLADO VILLALBA","Mejorar la empleabilidad de las personas desempleadas","68.001,12"
+"AYUNTAMIENTO DE COLMENAR VIEJO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","37.173,22"
+"AYUNTAMIENTO DE COLMENAR VIEJO","Mejorar la empleabilidad de las personas desempleadas","17.460,43"
+"AYUNTAMIENTO DE COSLADA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","23.926,31"
+"AYUNTAMIENTO DE COSLADA","Mejorar la empleabilidad de las personas desempleadas","263.949,82"
+"AYUNTAMIENTO DE FUENLABRADA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","77.348,85"
+"AYUNTAMIENTO DE GALAPAGAR","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","18.099,04"
+"AYUNTAMIENTO DE GETAFE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","42.914,84"
+"AYUNTAMIENTO DE HUMANES DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","20.541,00"
+"AYUNTAMIENTO DE HUMANES DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","10.734,79"
+"AYUNTAMIENTO DE LA CABRERA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","30.051,62"
+"AYUNTAMIENTO DE LAS ROZAS DE MADRID","Mejorar la empleabilidad de las personas desempleadas","10.729,22"
+"AYUNTAMIENTO DE LEGANES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","37.355,94"
+"AYUNTAMIENTO DE LEGANES","Mejorar la empleabilidad de las personas desempleadas","49.782,72"
+"AYUNTAMIENTO DE LEGANES","Mejorar la empleabilidad de las personas desempleadas","567.844,93"
+"AYUNTAMIENTO DE LEGANES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","38.645,57"
+"AYUNTAMIENTO DE LOZOYUELA-NAVAS-
+SIETEIGLESIAS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","3.040,00"
+"AYUNTAMIENTO DE MAJADAHONDA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","32.077,91"
+"AYUNTAMIENTO DE MAJADAHONDA","Mejorar la empleabilidad de las personas desempleadas","16.601,84"
+"AYUNTAMIENTO DE MAJADAHONDA","Mejorar la empleabilidad de las personas desempleadas","49.523,54"
+"AYUNTAMIENTO DE MEJORADA DEL CAMPO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","21.674,00"
+"AYUNTAMIENTO DE MOSTOLES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","42.540,24"
+"AYUNTAMIENTO DE MOSTOLES","Mejorar la empleabilidad de las personas desempleadas","55.034,54"
+"AYUNTAMIENTO DE MOSTOLES","Mejorar la empleabilidad de las personas desempleadas","782.168,21"
+"AYUNTAMIENTO DE MOSTOLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","51.513,81"
+"AYUNTAMIENTO DE NAVALCARNERO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","7.015,48"
+"AYUNTAMIENTO DE PARACUELLOS DE 
+JARAMA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","19.901,08"
+"AYUNTAMIENTO DE PARLA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","39.452,75"
+"AYUNTAMIENTO DE PARLA","Mejorar la empleabilidad de las personas desempleadas","341.669,98"
+"AYUNTAMIENTO DE PINTO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","29.119,16"
+"AYUNTAMIENTO DE PINTO","Mejorar la empleabilidad de las personas desempleadas","73.289,85"
+"AYUNTAMIENTO DE POZUELO DE ALARCON","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","15.434,87"
+"AYUNTAMIENTO DE POZUELO DE ALARCON","Mejorar la empleabilidad de las personas desempleadas","125.077,67"
+"AYUNTAMIENTO DE POZUELO DE ALARC√ìN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","17.932,22"
+"AYUNTAMIENTO DE RIVAS-VACIAMADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","24.945,72"
+"AYUNTAMIENTO DE RIVAS-VACIAMADRID","Mejorar la empleabilidad de las personas desempleadas","80.153,09"
+"AYUNTAMIENTO DE ROBLEDO DE CHAVELA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","10.478,31"
+"AYUNTAMIENTO DE SAN AGUSTIN DE 
+GUADALIX","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","21.319,25"
+"AYUNTAMIENTO DE SAN FERNANDO DE 
+HENARES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","5.793,23"
+"AYUNTAMIENTO DE SAN FERNANDO DE 
+HENARES","Mejorar la empleabilidad de las personas desempleadas","125.244,24"
+"AYUNTAMIENTO DE SAN SEBASTIAN DE LOS 
+REYES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","21.229,24"
+"AYUNTAMIENTO DE SAN SEBASTIAN DE LOS 
+REYES","Mejorar la empleabilidad de las personas desempleadas","179.562,96"
+"AYUNTAMIENTO DE TORREJON DE ARDOZ","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","38.000,00"
+"AYUNTAMIENTO DE TORREJON DE ARDOZ","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","31.424,25"
+"AYUNTAMIENTO DE TORREJON DE ARDOZ","Mejorar la empleabilidad de las personas desempleadas","335.864,54"
+"AYUNTAMIENTO DE TRES CANTOS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","47.833,74"
+"AYUNTAMIENTO DE TRES CANTOS","Mejorar la empleabilidad de las personas desempleadas","79.424,36"
+"AYUNTAMIENTO DE VALDEMORO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","70.135,62"
+"AYUNTAMIENTO DE VALDEMORO","Mejorar la empleabilidad de las personas desempleadas","194.978,52"
+"AYUNTAMIENTO DE VELILLA DE SAN ANTONIO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","5.822,39"
+"AYUNTAMIENTO DE VILLANUEVA DEL 
+PARDILLO","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","33.898,58"
+"AYUNTAMIENTO SAN AGUSTIN DE GUADALIX","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","9.392,95"
+"BARRASUS Y GALLEGO, S.L.","Mejorar la empleabilidad de las personas desempleadas","5.000,00"
+"BELLEZA, ESTILO Y SALUD FERSA, S. L. L.","Mejorar la empleabilidad de las personas desempleadas","15.000,00"
+"BLANCUBER 
+TELEMARKETING,S.L.UNIPERSONAL","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"BOCOP XXI, S.L.","Mejorar la empleabilidad de las personas desempleadas","7.800,00"
+"BRIGADA INTEGRATE 2008, S.L.L.","Mejorar la empleabilidad de las personas desempleadas","15.000,00"
+"CAMARA OFICIAL DE COMERCIO E INDUSTRIA 
+DE MADRID","Mejorar la empleabilidad de las personas desempleadas","718.484,84"
+"CANAL DE ISABEL II","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.146,37"
+"CANAL DE ISABEL II","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.298,77"
+"CANDELITA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","9.026,83"
+"CANDELITA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","50.428,32"
+"CARAT ESPA√ëA, S.A.U.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","3.659,16"
+"CARITAS DIOCESANA DE GETAFE","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","39.362,59"
+"CAS TRAINING S.L.","Mejorar la empleabilidad de las personas desempleadas","59.540,00"
+"CAS TRAINING S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","146.520,00"
+"CATEP, INTERVENCION SOCIAL, SDAD.COOP.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.425,00"
+"CATFA FORMACION Y EMPLEO S.L.","Mejorar la empleabilidad de las personas desempleadas","120.882,15"
+"CENTRO ANIMACION SOCIOCULTURAL 
+MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.500,00"
+"CENTRO ANIMACION SOCIOCULTURAL 
+MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","17.629,26"
+"CENTRO DE APLICACIONES EL√âCTRICAS DE 
+MADRID,S.L.","Mejorar la empleabilidad de las personas desempleadas","11.000,00"
+"CENTRO DE ENSE√ëANZAS OCUPACIONALES, 
+S.A.","Mejorar la empleabilidad de las personas desempleadas","92.542,73"
+"CENTRO DE FISIOTERAPIA CRISTINA LOPEZ, 
+S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"CENTRO DE SOLIDARIDAD","Favorecer la integraci√≥n social y laboral de las personas inmigrantes","83.270,00"
+"CENTRO DE SOLIDARIDAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","23.081,48"
+"CENTRO FORMACION FOMENTO ESTUDIOS 
+PROFESIONALES, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","26.650,00"
+"CENTRO INICIATIVAS PARA FORMACION Y EL 
+EMPLEO","Mejorar la empleabilidad de las personas desempleadas","558.749,92"
+"CENTRO INVEST.ENERGETICAS, 
+MEDIOAMBIENTALES TECNOLOGICAS","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","12.600,00"
+"CENTRO INVESTIGACION FORMACION 
+EMPRESAS, S.A.L.","Mejorar la empleabilidad de las personas desempleadas","174.840,02"
+"CENTRO INVESTIGACION FORMACION 
+EMPRESAS, S.A.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","31.529,08"
+"CENTRO INVESTIGACION FORMACION 
+EMPRESAS, S.A.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","3.647,99"
+"CENTRO SAN RAFAEL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.271,23"
+"CENTRO SAN RAFAEL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","47.558,37"
+"CHECK IN CONTROL PREDICTIVO, S.L.N.E.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"CIRCULO EMPRESARIOS INDEPENDIENTES 
+DE LA COMUNIDAD AUTONOMA DE MADRID","Mejorar la empleabilidad de las personas desempleadas","113.156,24"
+"CLINICA SAYBU, S.L.","Mejorar la empleabilidad de las personas desempleadas","5.000,00"
+"COLECTIVO BECAS FORMACION PERSONAL 
+INVESTIGADOR","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","32.005,75"
+"COLECTIVO BECAS FORMACION PERSONAL 
+INVESTIGADOR","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","931.811,94"
+"COLECTIVO DE 
 LESBIANAS,GAYS,TRANSEXUALES Y 
-BISEXUALES MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","37.529,40""CONFEDER. COORD.ESTATAL 
-MINUSV.FISICOS DE ESPAÑA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","285.140,81""CONFEDERACION NACIONAL DE MUJERES EN 
-IGUALDAD","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","27.245,01""CONSEJO SUPERIOR INVESTIGACIONES 
-CIENTIFICAS",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"702.310,44""CONSULTORIA E INTEGRACION DE 
-SISTEMAS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"252.514,42"COOPERATIVA LOS 8 GIRASOLES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.949,99""CP DISEÑO COMUNICACION, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","7.424,00""CREATIVOS DE PUBLICIDAD, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","12.922,40""D.G. EMPLEO. CONSEJERÍA DE EMPLEO Y 
-MUJER","Evaluación, estudios, información y comunicación","30.000,00""D.G. JUVENTUD. VICEPRESIDENCIA Y 
-CONSEJERÍA DE CULTURA, DEPORTE Y 
-PORTAVOCÍA",Mejorar la empleabilidad de las personas desempleadas,"1.063.995,06""D.G. MUJER. CONSEJERÍA DE EMPLEO Y 
-MUJER","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","3.441,00""D.G. MUJER. CONSEJERÍA DE EMPLEO Y 
-MUJER","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","17.938,08""D.G. MUJER. CONSEJERÍA DE EMPLEO Y 
-MUJER","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","27.260,00""D.G. MUJER. CONSEJERÍA DE EMPLEO Y 
-MUJER","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.500,00""DAMIOS FIEL, S.L.U.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""DBF AUDIFOR, S.L.",Apoyo a la gestión de los programas operativos,"19.837,44""DEDALO PROYECTOS XYZ, S.L.",Mejorar la empleabilidad de las personas desempleadas,"35.017,00"DELOITTE.S.L.,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","630.887,66"DESARROLLO E INTEGRACION SOCIAL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.680,00"DESARROLLO E INTEGRACION SOCIAL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","47.005,95""ECONTA GESTION INTEGRAL, S.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","4.000,00""ECONTA GESTION INTEGRAL, S.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","11.999,04""EDICIONES ABRAIRA, S.A.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""EDITRAIN, S.L.",Mejorar la empleabilidad de las personas desempleadas,"705.171,92""EL LEBRILLO, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","10.111,50"ELIARF GESTION Y MEDIOS S.L.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.796,20""EMAUS, FUNDACION SOCIAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","42.140,42""EMPHOQUE MPH DISEÑO, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00"EN STOCK CULTURA INDEPENDIENTE S.L.,Mejorar la empleabilidad de las personas desempleadas,"15.797,13""EPISE, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","130.558,00""ESCUELA DE CONDUCTORES NAYER, SL",Mejorar la empleabilidad de las personas desempleadas,"5.000,00""ESCUELA EUROPEA FORM.EMPRESARIAL, 
-S.A.",Mejorar la empleabilidad de las personas desempleadas,"30.793,00""ESCUELA SUPERIOR DE ADMINISTRACION Y 
-DIRECCION DE EMPRESAS","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","762.146,00""ESCUELA SUPERIOR DE ADMINISTRACION Y 
-DIRECCION DE EMPRESAS","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","3.000,00""ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
-SACERDOTES DEL CORAZON DE JESUS","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","21.477,18""ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
-SACERDOTES DEL CORAZON DE JESUS","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","27.471,95""ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
-SACERDOTES DEL CORAZÓN DE JESÚS","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","32.171,37"EVERIS SPAIN S.L.,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","766.509,44""FEDER. ASOC.GITANAS INTEGR.LABORAL Y 
-SOCIAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.539,25"FEDER. DE MUNICIPIOS DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","13.200,00""FEDER. MADRILEÑA ASOCIACIONES PRO 
-SALUD MENTAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","44.153,35""FEDER. MADRILEÑA DE DETALLISTAS DE LA 
-CARNE",Mejorar la empleabilidad de las personas desempleadas,"85.020,00""FEDER. REG.ASOCIACIONES VECINOS 
-MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.191,16""FEDER.ASOC.PERSONAS CON 
+BISEXUALES MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","37.529,40"
+"CONFEDER. COORD.ESTATAL 
+MINUSV.FISICOS DE ESPA√ëA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","285.140,81"
+"CONFEDERACION NACIONAL DE MUJERES EN 
+IGUALDAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","27.245,01"
+"CONSEJO SUPERIOR INVESTIGACIONES 
+CIENTIFICAS","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","702.310,44"
+"CONSULTORIA E INTEGRACION DE 
+SISTEMAS, S.L.","Mejorar la empleabilidad de las personas desempleadas","252.514,42"
+"COOPERATIVA LOS 8 GIRASOLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.949,99"
+"CP DISE√ëO COMUNICACION, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","7.424,00"
+"CREATIVOS DE PUBLICIDAD, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","12.922,40"
+"D.G. EMPLEO. CONSEJER√çA DE EMPLEO Y 
+MUJER","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","30.000,00"
+"D.G. JUVENTUD. VICEPRESIDENCIA Y 
+CONSEJER√çA DE CULTURA, DEPORTE Y 
+PORTAVOC√çA","Mejorar la empleabilidad de las personas desempleadas","1.063.995,06"
+"D.G. MUJER. CONSEJER√çA DE EMPLEO Y 
+MUJER","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","3.441,00"
+"D.G. MUJER. CONSEJER√çA DE EMPLEO Y 
+MUJER","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","17.938,08"
+"D.G. MUJER. CONSEJER√çA DE EMPLEO Y 
+MUJER","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","27.260,00"
+"D.G. MUJER. CONSEJER√çA DE EMPLEO Y 
+MUJER","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.500,00"
+"DAMIOS FIEL, S.L.U.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"DBF AUDIFOR, S.L.","Apoyo a la gesti√≥n de los programas operativos","19.837,44"
+"DEDALO PROYECTOS XYZ, S.L.","Mejorar la empleabilidad de las personas desempleadas","35.017,00"
+"DELOITTE.S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","630.887,66"
+"DESARROLLO E INTEGRACION SOCIAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.680,00"
+"DESARROLLO E INTEGRACION SOCIAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","47.005,95"
+"ECONTA GESTION INTEGRAL, S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","4.000,00"
+"ECONTA GESTION INTEGRAL, S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","11.999,04"
+"EDICIONES ABRAIRA, S.A.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"EDITRAIN, S.L.","Mejorar la empleabilidad de las personas desempleadas","705.171,92"
+"EL LEBRILLO, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","10.111,50"
+"ELIARF GESTION Y MEDIOS S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.796,20"
+"EMAUS, FUNDACION SOCIAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","42.140,42"
+"EMPHOQUE MPH DISE√ëO, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"EN STOCK CULTURA INDEPENDIENTE S.L.","Mejorar la empleabilidad de las personas desempleadas","15.797,13"
+"EPISE, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","130.558,00"
+"ESCUELA DE CONDUCTORES NAYER, SL","Mejorar la empleabilidad de las personas desempleadas","5.000,00"
+"ESCUELA EUROPEA FORM.EMPRESARIAL, 
+S.A.","Mejorar la empleabilidad de las personas desempleadas","30.793,00"
+"ESCUELA SUPERIOR DE ADMINISTRACION Y 
+DIRECCION DE EMPRESAS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","762.146,00"
+"ESCUELA SUPERIOR DE ADMINISTRACION Y 
+DIRECCION DE EMPRESAS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","3.000,00"
+"ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
+SACERDOTES DEL CORAZON DE JESUS","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","21.477,18"
+"ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
+SACERDOTES DEL CORAZON DE JESUS","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","27.471,95"
+"ESCUELAS DE ESTUDIOS SUPERIORES ESIC 
+SACERDOTES DEL CORAZ√ìN DE JES√öS","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","32.171,37"
+"EVERIS SPAIN S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","766.509,44"
+"FEDER. ASOC.GITANAS INTEGR.LABORAL Y 
+SOCIAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.539,25"
+"FEDER. DE MUNICIPIOS DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","13.200,00"
+"FEDER. MADRILE√ëA ASOCIACIONES PRO 
+SALUD MENTAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","44.153,35"
+"FEDER. MADRILE√ëA DE DETALLISTAS DE LA 
+CARNE","Mejorar la empleabilidad de las personas desempleadas","85.020,00"
+"FEDER. REG.ASOCIACIONES VECINOS 
+MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.191,16"
+"FEDER.ASOC.PERSONAS CON 
 DISCAPACIDAD FISICA/ORGANICA DE LA 
-C.MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","81.618,89""FEDER.ESPAÑOLA ASOCIACIONES DE ESPINA 
-BIFIDA E HIDROCEFALIA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","214.317,64""FEDER.ORGANIZACIONES EN FAVOR 
-PERSONAS CON DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","43.266,96""FEDER.ORGANIZACIONES EN FAVOR 
-PERSONAS CON DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","32.702,24""FEDERACION DE PLATAFORMAS SOCIALES 
-PINARDI","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.359,00"FEDERACION LOS GIRASOLES,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","129.317,00""FEDERACIÓN MADRILEÑA DE ASOCIACIONES 
-DE JÓVENES EMPRESARIOS","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","12.000,00""FEDERACION MADRILEÑA DE ASOCIACIONES 
-DE PADRES Y AMIGOS DEL SORDO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.498,42""FEDERACIÓN MADRILEÑA DE ASOCIACIONES 
-DE PADRES Y AMIGOS DEL SORDO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","12.490,61""FEDERACION PERSONAS SORDAS DE LA 
-COMUNIDAD DE MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","17.005,72""FEI-DIPAWEB,S.L. UTE",Mejorar la empleabilidad de las personas desempleadas,"456.978,28""FISIOSALUD BECA, S.L.",Mejorar la empleabilidad de las personas desempleadas,"11.000,00""FOLIA CONSULTORES, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","2.088,00""FOREMA FORMACION Y 
-ESTUD.MEDIOAMBIENTALES, S.L.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","196.580,36""FORMACION OCUPACIONAL PERMANENTE, 
-S.L.",Mejorar la empleabilidad de las personas desempleadas,"163.554,58""FORMACION Y DESARROLLO INTEGRAL-
-AMFORMAD UTE",Mejorar la empleabilidad de las personas desempleadas,"225.099,76""FRAMA ESTUDIO, S.L.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","279.816,17"FUND. ADSIS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.129,33"FUND. ADSIS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","45.685,91"FUND. APASCOVI,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","6.350,00"FUND. APASCOVI,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","34.447,64"FUND. APROCOR,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","27.720,88"FUND. CARMEN PARDO VALCARCE,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.669,98"FUND. IUVE COOPERACION,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.350,00"FUND. LABORA-CARITAS MADRID-,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","46.224,41""FUND. PARA INVESTIGACION Y DESARROLLO 
-DE ESTUDIOS",Mejorar la empleabilidad de las personas desempleadas,"387.306,24""FUND. PARA INVESTIGACION Y DESARROLLO 
-DE ESTUDIOS","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","23.680,00""FUND. PRIVADA MADRID CONTRA LA 
-ESCLEROSIS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","41.218,40""FUND. REHABILITACION DEL LESIONADO 
-MEDULAR","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.975,00"FUND. UNIVERSITARIA SAN PABLO (C.E.U.),Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"21.149,24""FUNDAC.CENTRO NACIONAL 
-INVESTIGACIONES ONCOLOGICAS CARLOS III",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"154.409,92""FUNDACION ALTIUS UNIVERSIDAD 
-FRANCISCO DE VITORIA",Favorecer la integración social y laboral de las personas inmigrantes,"75.500,00""FUNDACION ALTIUS UNIVERSIDAD 
-FRANCISCO DE VITORIA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","8.700,00""FUNDACION BENÉFICA SAN MARTIN DE 
-PORRES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.800,00""FUNDACION BENÉFICA SAN MARTIN DE 
-PORRES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","50.400,64""FUNDACIÓN BENÉFICA SAN MARTÍN DE 
-PORRES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","50.000,33"FUNDACION CARLOS MARTIN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","20.656,00""FUNDACION CULTURAL AMIGOS DE JOSE 
-MARIA LLANOS","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","37.492,19""FUNDACION EN A.I.P. ""S.ZAVATTA"" -RIMINI","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","76.833,33"FUNDACION GARCIA GIL,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","35.407,61"FUNDACION INICIATIVAS SUR,Mejorar la empleabilidad de las personas desempleadas,"24.480,00"FUNDACION JARDINES DE ESPAÑA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","5.860,00"FUNDACION LABORAL DE LA CONSTRUCCION,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","240.999,99"FUNDACION MADRINA,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.350,00""FUNDACION PARA LA INV. BIOMEDICA HOSP. 
-CLINICO SAN CARLOS",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"24.903,51""FUNDACION PARA LA INV. BIOMEDICA HOSP. 
-LA PAZ",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"37.800,00""FUNDACION PARA LA INV. BIOMEDICA HOSP. 
-PUERTA DE HIERRO",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"12.600,00""FUNDACION PARA LA INV. BIOMEDICA 
-HOSPITAL RAMON Y CAJAL",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"20.362,40""FUNDACION PARA LA INVESTIGACION 
-BIOMÉDICA DEL H.GREGORIO MRÑON",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"19.926,95"FUNDACION PROLIBERTAS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.044,30""FUNDACION RED DE APOYO A LA INSERCION 
-SOCIOLABORAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.625,93""FUNDACION RED DE APOYO A LA INSERCION 
-SOCIOLABORAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","85.330,52"FUNDACIÓN SAGARDOY,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","8.990,00"FUNDACION SALTO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","30.984,00"FUNDACIÓN SALTO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","34.028,70"FUNDACION SECRETARIADO GITANO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","15.492,00"FUNDACIÓN SECRETARIADO GITANO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","29.834,49"FUNDACION SINDROME DE DOWN DE MADRID,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","46.603,03"FUNDACION SINDROME DE DOWN DE MADRID,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","175.272,90"FUNDACION TOMILLO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.825,28"FUNDACION TOMILLO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","66.599,45""GESTION CENTROS EDUCATIVOS, S.A.",Mejorar la empleabilidad de las personas desempleadas,"328.584,64""GESTION Y DESARROLLO DEL 
-CONOCIMIENTO S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","36.919,80""GESTION Y DESARROLLO DEL 
-CONOCIMIENTO S.L.",Mejorar la empleabilidad de las personas desempleadas,"58.186,27""GONZALO & GABRIEL ALUMINIOS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00"GREMIO DE ARTESANIAS VARIAS,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.750,06"GRUPO LABOR,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","40.705,75""HAICKU SOCIEDAD COOPERATIVA 
-MADRILEÑA",Mejorar la empleabilidad de las personas desempleadas,"14.800,00""HAIRKAOS, S.L.L.",Mejorar la empleabilidad de las personas desempleadas,"16.000,00""HONTANAR DE JARAMA, S.L.",Mejorar la empleabilidad de las personas desempleadas,"30.000,00""HOROCOLOR SERVICIOS GRAFICOS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"11.000,00""HOSTELERA GARGANTILLA, S.L.",Mejorar la empleabilidad de las personas desempleadas,"14.800,00""I.E.C.M.LAGASCA UNION TEMPORAL DE 
-EMPRESAS",Mejorar la empleabilidad de las personas desempleadas,"157.169,25"I.E.S.E. UNIVERSIDAD DE NAVARRA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.072.400,00""IBERDROLA DISTRIBUCION ELECTRICA, S.A. 
-UNIPERSONAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.283,01""IBERDROLA DISTRIBUCION ELECTRICA, S.A. 
-UNIPERSONAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","2.608,77""ICIARGGASTA,SL.",Mejorar la empleabilidad de las personas desempleadas,"5.000,00""IDEAS RED GREEN BLACK, S.L.V.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""IFAP MADRID, S.L.",Mejorar la empleabilidad de las personas desempleadas,"14.850,00""ILLUMINATI NETWORKS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"11.000,00"IMDEA MATERIALES,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"16.256,65"IMDEA NANOCIENCIA,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"13.001,56"IMDEA REDES,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"30.689,32"IMEPE ALCORCON-AYTO DE ALCORCON,Mejorar la empleabilidad de las personas desempleadas,"15.537,58"IMEPE ALCORCON-AYTO DE ALCORCON,Mejorar la empleabilidad de las personas desempleadas,"484.311,51""IMPULSO INDUSTRIAL ALTERNATIVO, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","46.259,39"INFOEMPLEO S.L.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.523.607,35""INGENIERIA DEL CONOCIMIENTO, S.A.",Mejorar la empleabilidad de las personas desempleadas,"775.914,14""INGENIERIA DEL CONOCIMIENTO, S.A.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","352.242,00""INGENIERIA IDOM INTERNACIONAL, S.A.",Apoyo a la gestión de los programas operativos,"17.350,00"INICIATIVAS FONTARRON,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","45.868,78"INNOVACION Y DESARROLLO LOCAL S.L.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","6.470,00"INNOVACION Y DESARROLLO LOCAL S.L.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","154.907,95"INNOVACION Y DESARROLLO LOCAL S.L.,Mejorar la empleabilidad de las personas desempleadas,"632.928,55""INSTITUTO DE EMPRESA, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.144.787,53"INSTITUTO DE ESTUDIOS ECONOMICOS,"Evaluación, estudios, información y comunicación","80.000,00"INSTITUTO DE LA VIVIENDA DE MADRID,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","8.324,40""INSTITUTO GEMOLOGICO ESPAÑOL-
-FUNDACION GOMEZ PARDO UTE",Mejorar la empleabilidad de las personas desempleadas,"24.940,00""INTERECONOMIA CORPORACION, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","24.360,00""INTERECONOMÍA CORPORACIÓN, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","6.960,00""INVESTIGACIONES Y ASISTENCIA TECNICA 
-QUASAR, S.A.",Apoyo a la gestión de los programas operativos,"11.800,00""KARACOL FORMACION, S.A.",Mejorar la empleabilidad de las personas desempleadas,"214.880,00""KORN FERRY INTERNATIONAL, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","22.166,00""LA FLACA, SOCIEDAD COOPERATIVA 
-MADRILEÑA",Mejorar la empleabilidad de las personas desempleadas,"14.800,00"LA KOMA JOVEN,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","40.462,63""LA RUECA, ASOC.SOCIAL Y CULTURAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","31.184,41""LA RUECA, ASOC.SOCIAL Y CULTURAL","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.811,15""LANDAURO VIAJES,SL.",Mejorar la empleabilidad de las personas desempleadas,"12.000,00"LE NOUVEAU SHOWROOM SL,Mejorar la empleabilidad de las personas desempleadas,"10.000,00"LIMPIEZA TOTAL EN EL VALLE DEL LOZOYA,Mejorar la empleabilidad de las personas desempleadas,"7.800,00""LIVING LANGUAGES, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""LOCIOSO, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""LOCOS POR LA CIENCIA, S.L.","Evaluación, estudios, información y comunicación","5.831,50""LYZAC SALUD, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00"MAKE UP ARTIST SLU,Mejorar la empleabilidad de las personas desempleadas,"5.000,00""MANCOMUNIDAD DE SERVICIOS SOCIALES 
-SIERRA NORTE","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","22.000,00""MANCOMUNIDAD DE SERVICIOS SOCIALES 
-SIERRA NORTE",Mejorar la empleabilidad de las personas desempleadas,"89.901,00""MANCOMUNIDAD DE SERVICIOS SOCIALES Y 
-CONSUMO LA MALICIOSA","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","54.455,40""MANCOMUNIDAD INTERMUNICIPAL DEL 
-SUDESTE","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","5.002,36"MANCOMUNIDAD INTERMUNICIPAL LA ENCINA,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","19.913,23""MANCOMUNIDAD INTERMUNICIPAL 
-S.ALBERCHE","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","5.149,98""MANCOMUNIDAD INTERMUNICIPAL 
-SERV.SOCIALES LAS VEGAS","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","22.488,19""MANCOMUNIDAD 
+C.MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","81.618,89"
+"FEDER.ESPA√ëOLA ASOCIACIONES DE ESPINA 
+BIFIDA E HIDROCEFALIA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","214.317,64"
+"FEDER.ORGANIZACIONES EN FAVOR 
+PERSONAS CON DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","43.266,96"
+"FEDER.ORGANIZACIONES EN FAVOR 
+PERSONAS CON DISCAPACIDAD INTELECTUAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","32.702,24"
+"FEDERACION DE PLATAFORMAS SOCIALES 
+PINARDI","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.359,00"
+"FEDERACION LOS GIRASOLES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","129.317,00"
+"FEDERACI√ìN MADRILE√ëA DE ASOCIACIONES 
+DE J√ìVENES EMPRESARIOS","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","12.000,00"
+"FEDERACION MADRILE√ëA DE ASOCIACIONES 
+DE PADRES Y AMIGOS DEL SORDO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.498,42"
+"FEDERACI√ìN MADRILE√ëA DE ASOCIACIONES 
+DE PADRES Y AMIGOS DEL SORDO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","12.490,61"
+"FEDERACION PERSONAS SORDAS DE LA 
+COMUNIDAD DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","17.005,72"
+"FEI-DIPAWEB,S.L. UTE","Mejorar la empleabilidad de las personas desempleadas","456.978,28"
+"FISIOSALUD BECA, S.L.","Mejorar la empleabilidad de las personas desempleadas","11.000,00"
+"FOLIA CONSULTORES, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","2.088,00"
+"FOREMA FORMACION Y 
+ESTUD.MEDIOAMBIENTALES, S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","196.580,36"
+"FORMACION OCUPACIONAL PERMANENTE, 
+S.L.","Mejorar la empleabilidad de las personas desempleadas","163.554,58"
+"FORMACION Y DESARROLLO INTEGRAL-
+AMFORMAD UTE","Mejorar la empleabilidad de las personas desempleadas","225.099,76"
+"FRAMA ESTUDIO, S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","279.816,17"
+"FUND. ADSIS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.129,33"
+"FUND. ADSIS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","45.685,91"
+"FUND. APASCOVI","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","6.350,00"
+"FUND. APASCOVI","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","34.447,64"
+"FUND. APROCOR","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","27.720,88"
+"FUND. CARMEN PARDO VALCARCE","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.669,98"
+"FUND. IUVE COOPERACION","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.350,00"
+"FUND. LABORA-CARITAS MADRID-","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","46.224,41"
+"FUND. PARA INVESTIGACION Y DESARROLLO 
+DE ESTUDIOS","Mejorar la empleabilidad de las personas desempleadas","387.306,24"
+"FUND. PARA INVESTIGACION Y DESARROLLO 
+DE ESTUDIOS","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","23.680,00"
+"FUND. PRIVADA MADRID CONTRA LA 
+ESCLEROSIS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","41.218,40"
+"FUND. REHABILITACION DEL LESIONADO 
+MEDULAR","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.975,00"
+"FUND. UNIVERSITARIA SAN PABLO (C.E.U.)","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","21.149,24"
+"FUNDAC.CENTRO NACIONAL 
+INVESTIGACIONES ONCOLOGICAS CARLOS III","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","154.409,92"
+"FUNDACION ALTIUS UNIVERSIDAD 
+FRANCISCO DE VITORIA","Favorecer la integraci√≥n social y laboral de las personas inmigrantes","75.500,00"
+"FUNDACION ALTIUS UNIVERSIDAD 
+FRANCISCO DE VITORIA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","8.700,00"
+"FUNDACION BEN√âFICA SAN MARTIN DE 
+PORRES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.800,00"
+"FUNDACION BEN√âFICA SAN MARTIN DE 
+PORRES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","50.400,64"
+"FUNDACI√ìN BEN√âFICA SAN MART√çN DE 
+PORRES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","50.000,33"
+"FUNDACION CARLOS MARTIN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","20.656,00"
+"FUNDACION CULTURAL AMIGOS DE JOSE 
+MARIA LLANOS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","37.492,19"
+"FUNDACION EN A.I.P. ""S.ZAVATTA"" -RIMINI","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","76.833,33"
+"FUNDACION GARCIA GIL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","35.407,61"
+"FUNDACION INICIATIVAS SUR","Mejorar la empleabilidad de las personas desempleadas","24.480,00"
+"FUNDACION JARDINES DE ESPA√ëA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","5.860,00"
+"FUNDACION LABORAL DE LA CONSTRUCCION","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","240.999,99"
+"FUNDACION MADRINA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.350,00"
+"FUNDACION PARA LA INV. BIOMEDICA HOSP. 
+CLINICO SAN CARLOS","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","24.903,51"
+"FUNDACION PARA LA INV. BIOMEDICA HOSP. 
+LA PAZ","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","37.800,00"
+"FUNDACION PARA LA INV. BIOMEDICA HOSP. 
+PUERTA DE HIERRO","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","12.600,00"
+"FUNDACION PARA LA INV. BIOMEDICA 
+HOSPITAL RAMON Y CAJAL","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","20.362,40"
+"FUNDACION PARA LA INVESTIGACION 
+BIOM√âDICA DEL H.GREGORIO MR√ëON","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","19.926,95"
+"FUNDACION PROLIBERTAS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.044,30"
+"FUNDACION RED DE APOYO A LA INSERCION 
+SOCIOLABORAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.625,93"
+"FUNDACION RED DE APOYO A LA INSERCION 
+SOCIOLABORAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","85.330,52"
+"FUNDACI√ìN SAGARDOY","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","8.990,00"
+"FUNDACION SALTO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","30.984,00"
+"FUNDACI√ìN SALTO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","34.028,70"
+"FUNDACION SECRETARIADO GITANO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","15.492,00"
+"FUNDACI√ìN SECRETARIADO GITANO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","29.834,49"
+"FUNDACION SINDROME DE DOWN DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","46.603,03"
+"FUNDACION SINDROME DE DOWN DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","175.272,90"
+"FUNDACION TOMILLO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.825,28"
+"FUNDACION TOMILLO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","66.599,45"
+"GESTION CENTROS EDUCATIVOS, S.A.","Mejorar la empleabilidad de las personas desempleadas","328.584,64"
+"GESTION Y DESARROLLO DEL 
+CONOCIMIENTO S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","36.919,80"
+"GESTION Y DESARROLLO DEL 
+CONOCIMIENTO S.L.","Mejorar la empleabilidad de las personas desempleadas","58.186,27"
+"GONZALO & GABRIEL ALUMINIOS, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"GREMIO DE ARTESANIAS VARIAS","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.750,06"
+"GRUPO LABOR","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","40.705,75"
+"HAICKU SOCIEDAD COOPERATIVA 
+MADRILE√ëA","Mejorar la empleabilidad de las personas desempleadas","14.800,00"
+"HAIRKAOS, S.L.L.","Mejorar la empleabilidad de las personas desempleadas","16.000,00"
+"HONTANAR DE JARAMA, S.L.","Mejorar la empleabilidad de las personas desempleadas","30.000,00"
+"HOROCOLOR SERVICIOS GRAFICOS, S.L.","Mejorar la empleabilidad de las personas desempleadas","11.000,00"
+"HOSTELERA GARGANTILLA, S.L.","Mejorar la empleabilidad de las personas desempleadas","14.800,00"
+"I.E.C.M.LAGASCA UNION TEMPORAL DE 
+EMPRESAS","Mejorar la empleabilidad de las personas desempleadas","157.169,25"
+"I.E.S.E. UNIVERSIDAD DE NAVARRA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.072.400,00"
+"IBERDROLA DISTRIBUCION ELECTRICA, S.A. 
+UNIPERSONAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.283,01"
+"IBERDROLA DISTRIBUCION ELECTRICA, S.A. 
+UNIPERSONAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","2.608,77"
+"ICIARGGASTA,SL.","Mejorar la empleabilidad de las personas desempleadas","5.000,00"
+"IDEAS RED GREEN BLACK, S.L.V.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"IFAP MADRID, S.L.","Mejorar la empleabilidad de las personas desempleadas","14.850,00"
+"ILLUMINATI NETWORKS, S.L.","Mejorar la empleabilidad de las personas desempleadas","11.000,00"
+"IMDEA MATERIALES","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","16.256,65"
+"IMDEA NANOCIENCIA","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","13.001,56"
+"IMDEA REDES","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","30.689,32"
+"IMEPE ALCORCON-AYTO DE ALCORCON","Mejorar la empleabilidad de las personas desempleadas","15.537,58"
+"IMEPE ALCORCON-AYTO DE ALCORCON","Mejorar la empleabilidad de las personas desempleadas","484.311,51"
+"IMPULSO INDUSTRIAL ALTERNATIVO, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","46.259,39"
+"INFOEMPLEO S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.523.607,35"
+"INGENIERIA DEL CONOCIMIENTO, S.A.","Mejorar la empleabilidad de las personas desempleadas","775.914,14"
+"INGENIERIA DEL CONOCIMIENTO, S.A.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","352.242,00"
+"INGENIERIA IDOM INTERNACIONAL, S.A.","Apoyo a la gesti√≥n de los programas operativos","17.350,00"
+"INICIATIVAS FONTARRON","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","45.868,78"
+"INNOVACION Y DESARROLLO LOCAL S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","6.470,00"
+"INNOVACION Y DESARROLLO LOCAL S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","154.907,95"
+"INNOVACION Y DESARROLLO LOCAL S.L.","Mejorar la empleabilidad de las personas desempleadas","632.928,55"
+"INSTITUTO DE EMPRESA, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.144.787,53"
+"INSTITUTO DE ESTUDIOS ECONOMICOS","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","80.000,00"
+"INSTITUTO DE LA VIVIENDA DE MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","8.324,40"
+"INSTITUTO GEMOLOGICO ESPA√ëOL-
+FUNDACION GOMEZ PARDO UTE","Mejorar la empleabilidad de las personas desempleadas","24.940,00"
+"INTERECONOMIA CORPORACION, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","24.360,00"
+"INTERECONOM√çA CORPORACI√ìN, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","6.960,00"
+"INVESTIGACIONES Y ASISTENCIA TECNICA 
+QUASAR, S.A.","Apoyo a la gesti√≥n de los programas operativos","11.800,00"
+"KARACOL FORMACION, S.A.","Mejorar la empleabilidad de las personas desempleadas","214.880,00"
+"KORN FERRY INTERNATIONAL, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","22.166,00"
+"LA FLACA, SOCIEDAD COOPERATIVA 
+MADRILE√ëA","Mejorar la empleabilidad de las personas desempleadas","14.800,00"
+"LA KOMA JOVEN","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","40.462,63"
+"LA RUECA, ASOC.SOCIAL Y CULTURAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","31.184,41"
+"LA RUECA, ASOC.SOCIAL Y CULTURAL","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.811,15"
+"LANDAURO VIAJES,SL.","Mejorar la empleabilidad de las personas desempleadas","12.000,00"
+"LE NOUVEAU SHOWROOM SL","Mejorar la empleabilidad de las personas desempleadas","10.000,00"
+"LIMPIEZA TOTAL EN EL VALLE DEL LOZOYA","Mejorar la empleabilidad de las personas desempleadas","7.800,00"
+"LIVING LANGUAGES, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"LOCIOSO, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"LOCOS POR LA CIENCIA, S.L.","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","5.831,50"
+"LYZAC SALUD, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"MAKE UP ARTIST SLU","Mejorar la empleabilidad de las personas desempleadas","5.000,00"
+"MANCOMUNIDAD DE SERVICIOS SOCIALES 
+SIERRA NORTE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","22.000,00"
+"MANCOMUNIDAD DE SERVICIOS SOCIALES 
+SIERRA NORTE","Mejorar la empleabilidad de las personas desempleadas","89.901,00"
+"MANCOMUNIDAD DE SERVICIOS SOCIALES Y 
+CONSUMO LA MALICIOSA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","54.455,40"
+"MANCOMUNIDAD INTERMUNICIPAL DEL 
+SUDESTE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","5.002,36"
+"MANCOMUNIDAD INTERMUNICIPAL LA ENCINA","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","19.913,23"
+"MANCOMUNIDAD INTERMUNICIPAL 
+S.ALBERCHE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","5.149,98"
+"MANCOMUNIDAD INTERMUNICIPAL 
+SERV.SOCIALES LAS VEGAS","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","22.488,19"
+"MANCOMUNIDAD 
 S.S.TORRELOD.H.MANZANAR.ALPEDRE.MORA
-LZARZAL","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","33.556,82"MANCOMUNIDAD SERVICIOS LOS PINARES,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","38.895,99"MANCOMUNIDAD SERVICIOS SOCIALES 2016,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","33.809,73""MANCOMUNIDAD SERVICIOS SOCIALES ESTE 
-DE MADRID","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.705,09""MANCOMUNIDAD SERVICIOS SOCIALES 
-SUROESTE","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","36.455,79"MANCOMUNIDAD SIERRA OESTE,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","22.079,75"MARKETING QUALITY MANAGEMENT S.L.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.832,00"MERCA-RENT CONSULTING FINANCE SL,Mejorar la empleabilidad de las personas desempleadas,"6.000,00"MERCEDARIOS PROV. CASTILLA COMUNIDAD,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.120,00"METROSCOPIA S.L,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","28.500,00"MISETELIA INSTALACIONES S.L.,Mejorar la empleabilidad de las personas desempleadas,"11.000,00""MONKEY SCHOOL, S.L.",Mejorar la empleabilidad de las personas desempleadas,"10.000,00"MONTESAR JARDINES S.L.,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.109,94"MONTESAR JARDINES S.L.,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","7.534,89""MSL SOFTWARE, S.L.",Mejorar la empleabilidad de las personas desempleadas,"940.798,00"OBZ S.L.,"Promover reformas en los sistemas de educación y formación que fomenten la 
-empleabilidad yaprendizaje","59.990,00"OPENTOR PUBLICIDAD S.L.,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","11.999,04""OPTIMEDIA,S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","1.858.305,28""ORGANISMO AUTONOMO AGENCIA LOCAL 
-EMPLEO Y FORMACION",Mejorar la empleabilidad de las personas desempleadas,"544.049,96""ORGANISMO AUTONOMO BOLETIN OFICIAL 
-COM.DE MADRID","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","710,73""ORGANISMO AUTONOMO BOLETIN OFICIAL 
-COM.DE MADRID","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","2.705,86"OUTINUP COMUNICACION Y DISEÑO S.L.,"Evaluación, estudios, información y comunicación","36.654,73"OUTINUP COMUNICACIÓN Y DISEÑO S.L.,"Evaluación, estudios, información y comunicación","33.234,18""OVER MARKETING Y COMUNICACION, S.L.","Evaluación, estudios, información y comunicación","12.969,96""PAMAN. CONSEJERÍA DE PRESIDENCIA, 
-JUSTICIA E INTERIOR",Mejorar la empleabilidad de las personas desempleadas,"31.200,00""PAMAN. CONSEJERÍA DE PRESIDENCIA, 
-JUSTICIA E INTERIOR",Mejorar la empleabilidad de las personas desempleadas,"81.000,00""PATRONATO SOCIO-CULTURAL 
-AYTO.ALCOBENDAS",Mejorar la empleabilidad de las personas desempleadas,"56.688,35""PATRONATO SOCIO-CULTURAL 
-AYTO.ALCOBENDAS",Mejorar la empleabilidad de las personas desempleadas,"114.419,33""PLAZA&GARCIA SERVICIOS NO 
-CONVENCIONALES, S.L.",Mejorar la empleabilidad de las personas desempleadas,"12.000,00""PLOT AGENCIA, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","755,14""PRESIDENCIA - CAJA PAGADORA 
-PROGRAMAS ADSCRITOS",Apoyo a la gestión de los programas operativos,"402,35""PRESIDENCIA - CAJA PAGADORA 
-PROGRAMAS ADSCRITOS","Evaluación, estudios, información y comunicación","9.330,07""PRESIDENCIA - CAJA PAGADORA 
-PROGRAMAS ADSCRITOS","Evaluación, estudios, información y comunicación","4.508,46"PUBLINSA S.A.,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","27.956,00""RED ARAÑA,TEJIDO DE ENTIDADES 
-SOCIALES POR EMPLEO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","4.960,69""RED ARAÑA,TEJIDO DE ENTIDADES 
-SOCIALES POR EMPLEO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.680,00""RED ARAÑA,TEJIDO DE ENTIDADES 
-SOCIALES POR EMPLEO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","888.943,52"RESIDENCIA GERIÁTRICA 1º DE MAYO S.L.,Mejorar la empleabilidad de las personas desempleadas,"7.800,00""ROATAN COMUNICACION, S.L.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","8.000,00""ROATAN COMUNICACION, S.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","29.799,99""S.R.BIENESTAR SOCIAL. CONSEJERIA 
-FAMILIA Y ASUNTOS SOCIALES","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","96.629,49""SAEZ GARCIA Y AMIROLA, S.L.","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","1.061,61""SALESIANOS INSPECT. S.JUAN BOSCO-
-COM.COLEG.STO.DOMINGO SAVIO",Mejorar la empleabilidad de las personas desempleadas,"653.829,59""SERIGA, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","6.152,50""SERVICIO DE INVESTIGACION - TES. UCM. 
-RECAUDATORIA",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"495.381,81""SERVICIOS DE FORMACION E INFORMATICA APLICADA, S.A.",Mejorar la empleabilidad de las personas desempleadas,"408.715,92""SERVICIOS INFORMÁTICOS DIMATIC, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""SERVICIOS Y OBRAS MEDIOAMBIENTALES 
-S.L.L.",Mejorar la empleabilidad de las personas desempleadas,"15.000,00"SIERRA CARMONA S.L.,Mejorar la empleabilidad de las personas desempleadas,"23.400,00""SIGMA-DOS, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","19.000,00"SOCARTE SL,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.726,20""TALLERES VILAUTO SUR,S.L.L.",Mejorar la empleabilidad de las personas desempleadas,"10.000,00""TAPSA AGENCIA DE PUBLICIDAD, S.L.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","360.423,44""TEA-CEGOS, S.A.","Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","17.980,00"TEJEDOR Y DIEZ S.L.,Mejorar la empleabilidad de las personas desempleadas,"56.467,58""TELECYL, S.A.",Mejorar la empleabilidad de las personas desempleadas,"151.560,69"TERRA MADRE ORGANIC PRODUCE S.L.,Mejorar la empleabilidad de las personas desempleadas,"14.800,00""TINDAI PREVENCION Y SEGURIDAD, S.L.L.",Mejorar la empleabilidad de las personas desempleadas,"130.830,00""U.T.E. MEDIA FACTORY ESTUDIOS, S.L.- 
-TELECYL, S.A.","Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","108.791,67""UNION COOPERATIVAS MADRIL.TRABAJO 
-ASOCIADO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","11.832,00""UNION COOPERATIVAS MADRIL.TRABAJO 
-ASOCIADO","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","21.217,18""UNION GENERAL DE TRABAJADORES DE 
-MADRID","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","75.444,75"UNION SINDICAL MADRID REGION CCOO,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","45.365,83"UNIVERSIDAD ALCALA DE HENARES,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"152.826,24"UNIVERSIDAD ALCALA DE HENARES,"Evaluación, estudios, información y comunicación","247.313,59"UNIVERSIDAD ALCALA DE HENARES,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","32.000,00"UNIVERSIDAD AUTONOMA DE MADRID,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"596.610,91"UNIVERSIDAD AUTONOMA DE MADRID,"Evaluación, estudios, información y comunicación","123.454,65"UNIVERSIDAD AUTONOMA DE MADRID,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","53.333,33"UNIVERSIDAD CARLOS III,Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"81.929,38"UNIVERSIDAD CARLOS III,"Evaluación, estudios, información y comunicación","102.000,00"UNIVERSIDAD CARLOS III,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","5.208,00"UNIVERSIDAD COMPLUTENSE DE MADRID,"Evaluación, estudios, información y comunicación","102.000,00"UNIVERSIDAD COMPLUTENSE DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","45.718,13"UNIVERSIDAD COMPLUTENSE DE MADRID,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","33.163,20"UNIVERSIDAD COMPLUTENSE DE MADRID,"Promoción del espíritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
-nivel de competencia","42.336,00""UNIVERSIDAD NACIONAL EDUCACION 
-DISTANCIA",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"18.594,23"UNIVERSIDAD POLITECNICA DE MADRID,"Evaluación, estudios, información y comunicación","162.000,00"UNIVERSIDAD POLITECNICA DE MADRID,Mejorar la empleabilidad de las personas desempleadas,"1.125.905,29""UNIVERSIDAD POLITECNICA DE MADRID - 
-O.T.T. (INVESTIGACION)",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"236.892,74"UNIVERSIDAD REY JUAN CARLOS,"Evaluación, estudios, información y comunicación","127.000,00""UNIVERSITAS NEBRISSENSIS, S.A.",Desarrollar el potencial humano en el ámbito de la investigación y la innovación,"12.600,00"UNO MAS CUATRO COMUNICACION,"Favorecer la conciliación entre la vida laboral y personal y Impulsar la igualdad de 
-oportunidades ","11.880,14""UNOMASUNO TEAM, S.L.",Mejorar la empleabilidad de las personas desempleadas,"10.000,00""UTE AREA DE 
+LZARZAL","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","33.556,82"
+"MANCOMUNIDAD SERVICIOS LOS PINARES","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","38.895,99"
+"MANCOMUNIDAD SERVICIOS SOCIALES 2016","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","33.809,73"
+"MANCOMUNIDAD SERVICIOS SOCIALES ESTE 
+DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.705,09"
+"MANCOMUNIDAD SERVICIOS SOCIALES 
+SUROESTE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","36.455,79"
+"MANCOMUNIDAD SIERRA OESTE","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","22.079,75"
+"MARKETING QUALITY MANAGEMENT S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.832,00"
+"MERCA-RENT CONSULTING FINANCE SL","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"MERCEDARIOS PROV. CASTILLA COMUNIDAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.120,00"
+"METROSCOPIA S.L","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","28.500,00"
+"MISETELIA INSTALACIONES S.L.","Mejorar la empleabilidad de las personas desempleadas","11.000,00"
+"MONKEY SCHOOL, S.L.","Mejorar la empleabilidad de las personas desempleadas","10.000,00"
+"MONTESAR JARDINES S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.109,94"
+"MONTESAR JARDINES S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","7.534,89"
+"MSL SOFTWARE, S.L.","Mejorar la empleabilidad de las personas desempleadas","940.798,00"
+"OBZ S.L.","Promover reformas en los sistemas de educaci√≥n y formaci√≥n que fomenten la 
+empleabilidad yaprendizaje","59.990,00"
+"OPENTOR PUBLICIDAD S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","11.999,04"
+"OPTIMEDIA,S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","1.858.305,28"
+"ORGANISMO AUTONOMO AGENCIA LOCAL 
+EMPLEO Y FORMACION","Mejorar la empleabilidad de las personas desempleadas","544.049,96"
+"ORGANISMO AUTONOMO BOLETIN OFICIAL 
+COM.DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","710,73"
+"ORGANISMO AUTONOMO BOLETIN OFICIAL 
+COM.DE MADRID","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","2.705,86"
+"OUTINUP COMUNICACION Y DISE√ëO S.L.","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","36.654,73"
+"OUTINUP COMUNICACI√ìN Y DISE√ëO S.L.","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","33.234,18"
+"OVER MARKETING Y COMUNICACION, S.L.","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","12.969,96"
+"PAMAN. CONSEJER√çA DE PRESIDENCIA, 
+JUSTICIA E INTERIOR","Mejorar la empleabilidad de las personas desempleadas","31.200,00"
+"PAMAN. CONSEJER√çA DE PRESIDENCIA, 
+JUSTICIA E INTERIOR","Mejorar la empleabilidad de las personas desempleadas","81.000,00"
+"PATRONATO SOCIO-CULTURAL 
+AYTO.ALCOBENDAS","Mejorar la empleabilidad de las personas desempleadas","56.688,35"
+"PATRONATO SOCIO-CULTURAL 
+AYTO.ALCOBENDAS","Mejorar la empleabilidad de las personas desempleadas","114.419,33"
+"PLAZA&GARCIA SERVICIOS NO 
+CONVENCIONALES, S.L.","Mejorar la empleabilidad de las personas desempleadas","12.000,00"
+"PLOT AGENCIA, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","755,14"
+"PRESIDENCIA - CAJA PAGADORA 
+PROGRAMAS ADSCRITOS","Apoyo a la gesti√≥n de los programas operativos","402,35"
+"PRESIDENCIA - CAJA PAGADORA 
+PROGRAMAS ADSCRITOS","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","9.330,07"
+"PRESIDENCIA - CAJA PAGADORA 
+PROGRAMAS ADSCRITOS","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","4.508,46"
+"PUBLINSA S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","27.956,00"
+"RED ARA√ëA,TEJIDO DE ENTIDADES 
+SOCIALES POR EMPLEO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","4.960,69"
+"RED ARA√ëA,TEJIDO DE ENTIDADES 
+SOCIALES POR EMPLEO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.680,00"
+"RED ARA√ëA,TEJIDO DE ENTIDADES 
+SOCIALES POR EMPLEO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","888.943,52"
+"RESIDENCIA GERI√ÅTRICA 1¬∫ DE MAYO S.L.","Mejorar la empleabilidad de las personas desempleadas","7.800,00"
+"ROATAN COMUNICACION, S.L.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","8.000,00"
+"ROATAN COMUNICACION, S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","29.799,99"
+"S.R.BIENESTAR SOCIAL. CONSEJERIA 
+FAMILIA Y ASUNTOS SOCIALES","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","96.629,49"
+"SAEZ GARCIA Y AMIROLA, S.L.","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","1.061,61"
+"SALESIANOS INSPECT. S.JUAN BOSCO-
+COM.COLEG.STO.DOMINGO SAVIO","Mejorar la empleabilidad de las personas desempleadas","653.829,59"
+"SERIGA, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","6.152,50"
+"SERVICIO DE INVESTIGACION - TES. UCM. 
+RECAUDATORIA","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","495.381,81"
+"SERVICIOS DE FORMACION E INFORMATICA APLICADA, S.A.","Mejorar la empleabilidad de las personas desempleadas","408.715,92"
+"SERVICIOS INFORM√ÅTICOS DIMATIC, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"SERVICIOS Y OBRAS MEDIOAMBIENTALES 
+S.L.L.","Mejorar la empleabilidad de las personas desempleadas","15.000,00"
+"SIERRA CARMONA S.L.","Mejorar la empleabilidad de las personas desempleadas","23.400,00"
+"SIGMA-DOS, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","19.000,00"
+"SOCARTE SL","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.726,20"
+"TALLERES VILAUTO SUR,S.L.L.","Mejorar la empleabilidad de las personas desempleadas","10.000,00"
+"TAPSA AGENCIA DE PUBLICIDAD, S.L.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","360.423,44"
+"TEA-CEGOS, S.A.","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","17.980,00"
+"TEJEDOR Y DIEZ S.L.","Mejorar la empleabilidad de las personas desempleadas","56.467,58"
+"TELECYL, S.A.","Mejorar la empleabilidad de las personas desempleadas","151.560,69"
+"TERRA MADRE ORGANIC PRODUCE S.L.","Mejorar la empleabilidad de las personas desempleadas","14.800,00"
+"TINDAI PREVENCION Y SEGURIDAD, S.L.L.","Mejorar la empleabilidad de las personas desempleadas","130.830,00"
+"U.T.E. MEDIA FACTORY ESTUDIOS, S.L.- 
+TELECYL, S.A.","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","108.791,67"
+"UNION COOPERATIVAS MADRIL.TRABAJO 
+ASOCIADO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","11.832,00"
+"UNION COOPERATIVAS MADRIL.TRABAJO 
+ASOCIADO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","21.217,18"
+"UNION GENERAL DE TRABAJADORES DE 
+MADRID","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","75.444,75"
+"UNION SINDICAL MADRID REGION CCOO","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","45.365,83"
+"UNIVERSIDAD ALCALA DE HENARES","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","152.826,24"
+"UNIVERSIDAD ALCALA DE HENARES","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","247.313,59"
+"UNIVERSIDAD ALCALA DE HENARES","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","32.000,00"
+"UNIVERSIDAD AUTONOMA DE MADRID","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","596.610,91"
+"UNIVERSIDAD AUTONOMA DE MADRID","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","123.454,65"
+"UNIVERSIDAD AUTONOMA DE MADRID","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","53.333,33"
+"UNIVERSIDAD CARLOS III","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","81.929,38"
+"UNIVERSIDAD CARLOS III","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","102.000,00"
+"UNIVERSIDAD CARLOS III","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","5.208,00"
+"UNIVERSIDAD COMPLUTENSE DE MADRID","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","102.000,00"
+"UNIVERSIDAD COMPLUTENSE DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","45.718,13"
+"UNIVERSIDAD COMPLUTENSE DE MADRID","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","33.163,20"
+"UNIVERSIDAD COMPLUTENSE DE MADRID","Promoci√≥n del esp√≠ritu empresarial y de la adaptabilidad de las empresas y Refuerzo del 
+nivel de competencia","42.336,00"
+"UNIVERSIDAD NACIONAL EDUCACION 
+DISTANCIA","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","18.594,23"
+"UNIVERSIDAD POLITECNICA DE MADRID","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","162.000,00"
+"UNIVERSIDAD POLITECNICA DE MADRID","Mejorar la empleabilidad de las personas desempleadas","1.125.905,29"
+"UNIVERSIDAD POLITECNICA DE MADRID - 
+O.T.T. (INVESTIGACION)","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","236.892,74"
+"UNIVERSIDAD REY JUAN CARLOS","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","127.000,00"
+"UNIVERSITAS NEBRISSENSIS, S.A.","Desarrollar el potencial humano en el √°mbito de la investigaci√≥n y la innovaci√≥n","12.600,00"
+"UNO MAS CUATRO COMUNICACION","Favorecer la conciliaci√≥n entre la vida laboral y personal y Impulsar la igualdad de 
+oportunidades ","11.880,14"
+"UNOMASUNO TEAM, S.L.","Mejorar la empleabilidad de las personas desempleadas","10.000,00"
+"UTE AREA DE 
 FORM.EST.SL.CENEC,SA.CENEC.SERV.SL.CET
-.ABACO SL.JDU TRADIN",Mejorar la empleabilidad de las personas desempleadas,"83.499,66""UTE NEXXO M. Y F.CTING.,S.L. Y 7 MAS",Mejorar la empleabilidad de las personas desempleadas,"142.524,60""UTE TQM - COLEGIO SAN ISIDRO - TECNI 
-GAP - CE. SIENA",Mejorar la empleabilidad de las personas desempleadas,"37.926,00""VALDOS JOYEROS ARTESANOS, S.L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""VALORA,CENTRO DE FORMACION Y 
-ATENCION SOCIOEDUCATIVA","Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","5.000,00""VERTICAL MULTISYSTEMS, S. L.",Mejorar la empleabilidad de las personas desempleadas,"6.000,00""VICEPRESIDENCIA PRIMERA - CAJA 
-PAGADORA VICEPRESIDENCIA 1¬","Evaluación, estudios, información y comunicación","3.344,90""VIPPER SISTEMAS SRLL Y ATRIUM 
-SELECCION Y FORMACION,S.L.UTE",Mejorar la empleabilidad de las personas desempleadas,"164.452,57""VIRENSIS, S.A. VACUETTE ESPAÑA SA, 
-LAMBRA SL.UTE LEY 18/1982",Mejorar la empleabilidad de las personas desempleadas,"402.351,58""VIRENSIS,S.A.-VACUETTE ESPAÑA,S.A. U.T.E.",Mejorar la empleabilidad de las personas desempleadas,"245.625,14""WAITER AND WAITRES, S.L.",Mejorar la empleabilidad de las personas desempleadas,"12.000,00"ZARZA SOC.COOP.MAD,"Proponer oportunidades de integración social y laboral a las personas con discapacidad y 
-en riesgo de exclusión","29.989,92"
+.ABACO SL.JDU TRADIN","Mejorar la empleabilidad de las personas desempleadas","83.499,66"
+"UTE NEXXO M. Y F.CTING.,S.L. Y 7 MAS","Mejorar la empleabilidad de las personas desempleadas","142.524,60"
+"UTE TQM - COLEGIO SAN ISIDRO - TECNI 
+GAP - CE. SIENA","Mejorar la empleabilidad de las personas desempleadas","37.926,00"
+"VALDOS JOYEROS ARTESANOS, S.L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"VALORA,CENTRO DE FORMACION Y 
+ATENCION SOCIOEDUCATIVA","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","5.000,00"
+"VERTICAL MULTISYSTEMS, S. L.","Mejorar la empleabilidad de las personas desempleadas","6.000,00"
+"VICEPRESIDENCIA PRIMERA - CAJA 
+PAGADORA VICEPRESIDENCIA 1¬¨","Evaluaci√≥n, estudios, informaci√≥n y comunicaci√≥n","3.344,90"
+"VIPPER SISTEMAS SRLL Y ATRIUM 
+SELECCION Y FORMACION,S.L.UTE","Mejorar la empleabilidad de las personas desempleadas","164.452,57"
+"VIRENSIS, S.A. VACUETTE ESPA√ëA SA, 
+LAMBRA SL.UTE LEY 18/1982","Mejorar la empleabilidad de las personas desempleadas","402.351,58"
+"VIRENSIS,S.A.-VACUETTE ESPA√ëA,S.A. U.T.E.","Mejorar la empleabilidad de las personas desempleadas","245.625,14"
+"WAITER AND WAITRES, S.L.","Mejorar la empleabilidad de las personas desempleadas","12.000,00"
+"ZARZA SOC.COOP.MAD","Proponer oportunidades de integraci√≥n social y laboral a las personas con discapacidad y 
+en riesgo de exclusi√≥n","29.989,92"
