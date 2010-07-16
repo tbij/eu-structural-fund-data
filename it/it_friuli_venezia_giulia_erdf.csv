@@ -1,306 +1,215 @@
-"Asse","Attivita","Beneficiario","Titolo Intervento","Provincia","Anno Finanziamento","Contributo Ammesso (Totale)","Contributo Ammesso (FESR)","Contributo Liquidato (Totale)","Contributo Liquidato (FESR)"
-1,"1.1.a.2","AMB SRL","Studio per la valutazione della
+Asse,Attivita,Beneficiario,Titolo Intervento,Provincia,Anno Finanziamento,Contributo Ammesso (Totale),Contributo Ammesso (FESR),Contributo Liquidato (Totale),Contributo Liquidato (FESR)1,1.1.a.2,AMB SRL,"Studio per la valutazione della
 possibilitﾈ di impiego del PET da
-raccolta differenziata","UD",2009,"135.655,21","33.235,53",,
-1,"1.1.a.2","ANSALDO SISTEMI
+raccolta differenziata",UD,2009,"135.655,21","33.235,53",,1,1.1.a.2,"ANSALDO SISTEMI
 INDUSTRIALI S.P.A.","SVILUPPO DI UN NUOVO
 SISTEMA DI ISOLAMENTO PER
 MACCHINE ELETTRICHE ROTANTI
-AD ELEVATE PRESTAZIONI","GO",2009,"432.440,34","105.947,88","432.440,34","105.947,88"
-1,"1.1.a.2","APPLIANCES COMPONENTS
-COMPANIES S.P.A.","unitﾈ azionamento basate su
+AD ELEVATE PRESTAZIONI",GO,2009,"432.440,34","105.947,88","432.440,34","105.947,88"1,1.1.a.2,"APPLIANCES COMPONENTS
+COMPANIES S.P.A.","unita azionamento basate su
 motori a magneti permanenti per
 applicazioni settore
-lavabiancherie","PN",2009,"166.218,85","40.723,62",,
-1,"1.1.a.2","BERTON CALORTECNICA SRL","agevolare ciclo produttivo
-serbatoi antincendio","UD",2009,"22.435,40","5.496,67","11.615,26","2.845,73"
-1,"1.1.a.2","BERTON CALORTECNICA SRL",,"UD",2009,"23.182,49","5.679,71","18.021,78","4.415,33"
-1,"1.1.a.2","BORTOLIN KEMO S.P.A.
+lavabiancherie",PN,2009,"166.218,85","40.723,62",,1,1.1.a.2,BERTON CALORTECNICA SRL,"nuove metodologie produzione per
+agevolare ciclo produttivo
+serbatoi antincendio",UD,2009,"22.435,40","5.496,67","11.615,26","2.845,73"1,1.1.a.2,BERTON CALORTECNICA SRL,"sistema caldaia a cippato-centrale
+termica a biomassa da interro",UD,2009,"23.182,49","5.679,71","18.021,78","4.415,33"1,1.1.a.2,"BORTOLIN KEMO S.P.A.
 PORCIA","Progetto BK 2007  Macchina
-decappucciatrice","PN",2009,"147.121,69","36.044,81",,
-1,"1.1.a.2","BPT S.P.A.","Villaggio digitale: sviluppo di
-tecnologie e modelli","PN",2009,"638.157,65","156.348,62",,
-1,"1.1.a.2","CALCORPRESS INDUSTRIES
+decappucciatrice",PN,2009,"147.121,69","36.044,81",,1,1.1.a.2,BPT S.P.A.,"Villaggio digitale: sviluppo di
+tecnologie e modelli",PN,2009,"638.157,65","156.348,62",,1,1.1.a.2,"CALCORPRESS INDUSTRIES
 SRL","Ricerca di una diversa alternativa
 per il lavaggio industriale e civile
-attraverso turbine da instal","PN",2009,"46.334,30","11.351,90",,
-1,"1.1.a.2","CENTRO RICERCHE
+attraverso turbine da instal",PN,2009,"46.334,30","11.351,90",,1,1.1.a.2,"CENTRO RICERCHE
 PLAST-OPTICA S.P.A.","Tecnologie di stampaggio
 innovative per ottiche di elevata
-precisione","UD",2009,"100.959,85","24.735,16","77.996,53","19.109,14"
-1,"1.1.a.2","CIMOLAI S.P.A.","Innovazioni ed integrazioni di
+precisione",UD,2009,"100.959,85","24.735,16","77.996,53","19.109,14"1,1.1.a.2,CIMOLAI S.P.A.,"Innovazioni ed integrazioni di
 processo per la progettazione con
-software di calcolo strutturale","PN",2009,"434.203,95","106.379,97","362.940,38","88.920,39"
-1,"1.1.a.2","CLABER SPA","nuovi sistemi water saving per
+software di calcolo strutturale",PN,2009,"434.203,95","106.379,97","362.940,38","88.920,39"1,1.1.a.2,CLABER SPA,"nuovi sistemi water saving per
 gestione irrigazione,basso
 consumo elettrico-tecnologie
-wireless- web","PN",2009,"252.155,78","61.778,17","250.198,38","61.298,60"
-1,"1.1.a.2","DANIELI AUTOMATION SPA","metodi innovativi per il
+wireless- web",PN,2009,"252.155,78","61.778,17","250.198,38","61.298,60"1,1.1.a.2,DANIELI AUTOMATION SPA,"metodi innovativi per il
 rilevamento delle caratteristiche
 dimensionali e per la valutazione e
-la cl","UD",2009,"207.141,71","50.749,72",,
-1,"1.1.a.2","DENA LINE SPA","innovazione processo galvanico
+la cl",UD,2009,"207.141,71","50.749,72",,1,1.1.a.2,DENA LINE SPA,"innovazione processo galvanico
 aziendale con eliminazione cianuro
-dai bagni di elettrodeposizione","PN",2009,"137.928,25","33.792,42","118.388,52","29.005,18"
-1,"1.1.a.2","DIAL INFORMATICA S.R.L.","tourex-experience and exploration
-enviroment for e-tourism","UD",2009,"139.536,39","34.186,42","123.675,89","30.300,59"
-1,"1.1.a.2","DOMINO SRL","Lo sviluppo di nuove soluzioni nel
-campo delle mini-piscine SPA","PN",2009,"264.789,36","64.873,39",,
-1,"1.1.a.2","EASYSTAFF S.R.L.","Sviluppo di algoritmi e prototipi
+dai bagni di elettrodeposizione",PN,2009,"137.928,25","33.792,42","118.388,52","29.005,18"1,1.1.a.2,DIAL INFORMATICA S.R.L.,"tourex-experience and exploration
+enviroment for e-tourism",UD,2009,"139.536,39","34.186,42","123.675,89","30.300,59"1,1.1.a.2,DOMINO SRL,"Lo sviluppo di nuove soluzioni nel
+campo delle mini-piscine SPA",PN,2009,"264.789,36","64.873,39",,1,1.1.a.2,EASYSTAFF S.R.L.,"Sviluppo di algoritmi e prototipi
 per la soluzione di problemi di
-turnazione e pianificazione in amb","UD",2009,"75.386,16","18.469,61",,
-1,"1.1.a.2","EFFEZETA SPA","Studio e sviluppo di nuovi
+turnazione e pianificazione in amb",UD,2009,"75.386,16","18.469,61",,1,1.1.a.2,EFFEZETA SPA,"Studio e sviluppo di nuovi
 materiali e tecnologie per sedie,
-tavoli e complementi d�arredo","UD",2009,"112.748,62","27.623,41","85.053,63","20.838,13"
-1,"1.1.a.2","EITOS S.R.L.","CV SPACE: sviluppo di una
-piattaforma in modalitﾈ multi-iter","PN",2009,"62.792,74","15.384,22",,
-1,"1.1.a.2","EKOS SRL","Studio e sviluppo di nuove
+tavoli e complementi d�arredo",UD,2009,"112.748,62","27.623,41","85.053,63","20.838,13"1,1.1.a.2,EITOS S.R.L.,"CV SPACE: sviluppo di una
+piattaforma in modalitﾈ multi-iter",PN,2009,"62.792,74","15.384,22",,1,1.1.a.2,EKOS SRL,"Studio e sviluppo di nuove
 soluzioni progettuali per impianti
-solari Heat-Pipe","PN",2009,"27.055,42","6.628,58","22.522,16","5.517,93"
-1,"1.1.a.2","ELECTROLUX ITALIA SPA","Nuova piattaforma per lavasciuga
-e lavabiancheria a grande capacitﾈ","PN",2009,"756.042,26","185.230,35",,
-1,"1.1.a.2","ELECTROLUX ITALIA SPA","Sistema di assiemaggio tramite
+solari Heat-Pipe",PN,2009,"27.055,42","6.628,58","22.522,16","5.517,93"1,1.1.a.2,ELECTROLUX ITALIA SPA,"Nuova piattaforma per lavasciuga
+e lavabiancheria a grande capacitﾈ",PN,2009,"756.042,26","185.230,35",,1,1.1.a.2,ELECTROLUX ITALIA SPA,"Sistema di assiemaggio tramite
 saldatura dei due semigusci
 costituenti l'incrocio del gruppo
-lavante","PN",2009,"152.767,18","37.427,96","97.494,39","23.886,12"
-1,"1.1.a.2","ERGOTEK S.R.L.","Poltrona Relax Morfologica","UD",2009,"85.846,28","21.032,34","79.446,53","19.464,40"
-1,"1.1.a.2","EUROTECH SPA","Realizzazione di un dispositivo
+lavante",PN,2009,"152.767,18","37.427,96","97.494,39","23.886,12"1,1.1.a.2,ERGOTEK S.R.L.,Poltrona Relax Morfologica,UD,2009,"85.846,28","21.032,34","79.446,53","19.464,40"1,1.1.a.2,EUROTECH SPA,"Realizzazione di un dispositivo
 innovativo per l'instradamento
 intelligente dei dati su diverse
-moda","UD",2009,"169.552,24","41.540,30",,
-1,"1.1.a.2","EUROTECH SPA","Studio progettazione e
+moda",UD,2009,"169.552,24","41.540,30",,1,1.1.a.2,EUROTECH SPA,"Studio progettazione e
 realizzazione di un elaboratore
 indossabile competitivo per
-applicazioni seve","UD",2009,"296.868,70","72.732,83",,
-1,"1.1.a.2","FAGGIANI SRL","Studio e sviluppo di nuove
+applicazioni seve",UD,2009,"296.868,70","72.732,83",,1,1.1.a.2,FAGGIANI SRL,"Studio e sviluppo di nuove
 funzionalitﾈ ed applicazioni alle
-sedute Faggiani srl","UD",2009,"17.657,41","4.326,07",,
-1,"1.1.a.2","F.A.R. FONDERIE ACCIAIERIE ROIALE SPA","REALIZZ. STAZIONI FORMATURA
+sedute Faggiani srl",UD,2009,"17.657,41","4.326,07",,1,1.1.a.2,F.A.R. FONDERIE ACCIAIERIE ROIALE SPA,"REALIZZ. STAZIONI FORMATURA
 E RAMOLLAGGIO CON IMPIEGO
 ROBOT E UTILIZZO SABBIE
-SINTETICHE RIGENERATE","UD",2009,"224.580,18","55.022,14","207.251,83","50.776,69"
-1,"1.1.a.2","FINTESSILE S.P.A.","rimozione del colore e dei
+SINTETICHE RIGENERATE",UD,2009,"224.580,18","55.022,14","207.251,83","50.776,69"1,1.1.a.2,FINTESSILE S.P.A.,"rimozione del colore e dei
 tensioattivi totali dalle acque
 reflue di tintoria mediante
-sistema di fi","PN",2009,"137.123,13","33.595,17",,
-1,"1.1.a.2","FONDERIA SA-BI SPA","metallurgia secondaria cpk 1,33","PN",2009,"73.440,71","17.992,97",,
-1,"1.1.a.2","I.CO.P. S.P.A.","definizione di nuova metodologia
+sistema di fi",PN,2009,"137.123,13","33.595,17",,1,1.1.a.2,FONDERIA SA-BI SPA,"metallurgia secondaria cpk 1,33",PN,2009,"73.440,71","17.992,97",,1,1.1.a.2,I.CO.P. S.P.A.,"definizione di nuova metodologia
 per la realizzazione in sicurezza di
-scavi sotterranei","UD",2009,"365.631,01","89.579,60","141.305,07","34.619,74"
-1,"1.1.a.2","IDEAL STANDARD INDUSTRIALE S.R.L.","Progetto ISI 2007 - PROGETTO
-LEANSIGMA","PN",2009,"266.441,08","65.278,06",,
-1,"1.1.a.2","ILCAP S.R.L.","Innovativo modello di sedia per
-ufficio","UD",2009,"33.695,72","8.255,45",,
-1,"1.1.a.2","I.M.A.T. SPA","SOLUZIONI ASSIEMATE
+scavi sotterranei",UD,2009,"365.631,01","89.579,60","141.305,07","34.619,74"1,1.1.a.2,IDEAL STANDARD INDUSTRIALE S.R.L.,"Progetto ISI 2007 - PROGETTO
+LEANSIGMA",PN,2009,"266.441,08","65.278,06",,1,1.1.a.2,ILCAP S.R.L.,"Innovativo modello di sedia per
+ufficio",UD,2009,"33.695,72","8.255,45",,1,1.1.a.2,I.M.A.T. SPA,"SOLUZIONI ASSIEMATE
 FINALIZZATE AL
 MIGLIORAMENTO
 DELL'EFFICIENZA ENERGETICA
-DELLA CASA E DEI SUOI EL","PN",2009,"185.950,99","45.557,99",,
-1,"1.1.a.2","ITALIANA MEMBRANE S.P.A.",,"PN",2009,"127.430,86","31.220,56","126.441,39","30.978,13"
-1,"1.1.a.2","JUROP S.P.A.","Nuovo sistema di filtrazione per le
+DELLA CASA E DEI SUOI EL",PN,2009,"185.950,99","45.557,99",,1,1.1.a.2,ITALIANA MEMBRANE S.P.A.,,PN,2009,"127.430,86","31.220,56","126.441,39","30.978,13"1,1.1.a.2,JUROP S.P.A.,"Nuovo sistema di filtrazione per le
 autocisterne per pulizie industriali
-e di fognature","PN",2009,"170.404,50","41.749,10","154.560,33","37.867,27"
-1,"1.1.a.2","JUROP S.P.A.","Nuovo sistema di microfiltrazione
+e di fognature",PN,2009,"170.404,50","41.749,10","154.560,33","37.867,27"1,1.1.a.2,JUROP S.P.A.,"Nuovo sistema di microfiltrazione
 per i fanghi di trivellazione delle
-piattaforme offshore","PN",2009,"250.954,29","61.483,80",,
-1,"1.1.a.2","LIMA LTO SPA","Microstrutture a gradiente
+piattaforme offshore",PN,2009,"250.954,29","61.483,80",,1,1.1.a.2,LIMA LTO SPA,"Microstrutture a gradiente
 funzionale in leghe di titanio per
-impianti ossei","UD",2009,"355.775,02","87.164,88","353.259,09","86.548,47"
-1,"1.1.a.2","MEETING S.R.L.","NUOVE SOLUZIONI VERNICI
+impianti ossei",UD,2009,"355.775,02","87.164,88","353.259,09","86.548,47"1,1.1.a.2,MEETING S.R.L.,"NUOVE SOLUZIONI VERNICI
 ALL'ACQUA PER APPLICAZIONI A
 COMPONENTI E METALLI USO
-CIVILE E INDUSTRIALE","PN",2009,"134.902,01","33.050,99","134.398,45","32.927,61"
-1,"1.1.a.2","MOROSO S.P.A.","l'innovazione applicativa della
+CIVILE E INDUSTRIALE",PN,2009,"134.902,01","33.050,99","134.398,45","32.927,61"1,1.1.a.2,MOROSO S.P.A.,"l'innovazione applicativa della
 tecnologia dei materiali
 termoplastici per realizzare
-prodotti di ar","UD",2009,"63.731,00","15.614,10","54.061,19","13.244,99"
-1,"1.1.a.2","OFFICINE EL.ME SRL","Nuova generazione di troncatrici
-radiali passanti","PN",2009,"148.621,79","36.412,34",,
-1,"1.1.a.2","ONDA COMMUNICATION S.P.A.","Studio e sperimentazione di una
+prodotti di ar",UD,2009,"63.731,00","15.614,10","54.061,19","13.244,99"1,1.1.a.2,OFFICINE EL.ME SRL,"Nuova generazione di troncatrici
+radiali passanti",PN,2009,"148.621,79","36.412,34",,1,1.1.a.2,ONDA COMMUNICATION S.P.A.,"Studio e sperimentazione di una
 piattaforma hardware e software
 per lo sviluppo di nuovi prodotti
-mu","PN",2009,"365.076,49","89.443,74",,
-1,"1.1.a.2","ONDA COMMUNICATION S.P.A.","Studio e sperimentazione di un
+mu",PN,2009,"365.076,49","89.443,74",,1,1.1.a.2,ONDA COMMUNICATION S.P.A.,"Studio e sperimentazione di un
 sistema di videosorveglianza su
-rete di telefonia mobile","PN",2009,"216.665,26","53.082,99",,
-1,"1.1.a.2","ONDA COMMUNICATION S.P.A.","Studio, sperimentazione e
+rete di telefonia mobile",PN,2009,"216.665,26","53.082,99",,1,1.1.a.2,ONDA COMMUNICATION S.P.A.,"Studio, sperimentazione e
 sviluppo di un dispositivo modem
-USB HIGH SPEED","PN",2009,"147.251,41","36.076,60",,
-1,"1.1.a.2","OVER I.T. SRL","Studio e realizzazione -
+USB HIGH SPEED",PN,2009,"147.251,41","36.076,60",,1,1.1.a.2,OVER I.T. SRL,"Studio e realizzazione -
 Infrastruttura CRM LIGHT Open
-Source per PMI","PN",2009,"485.847,52","119.032,64","485.847,52","119.032,64"
-1,"1.1.a.2","PATRICIA MILTON S.R.L.","SPERIMENTAZIONE COSMETICI
-COMPATIBILI CON ALLERGIE","UD",2009,"187.969,12","46.052,43",,
-1,"1.1.a.2","POTOCCO S.P.A.","CREAZIONE DI PROTOTIPI DI
+Source per PMI",PN,2009,"485.847,52","119.032,64","485.847,52","119.032,64"1,1.1.a.2,PATRICIA MILTON S.R.L.,"SPERIMENTAZIONE COSMETICI
+COMPATIBILI CON ALLERGIE",UD,2009,"187.969,12","46.052,43",,1,1.1.a.2,POTOCCO S.P.A.,"CREAZIONE DI PROTOTIPI DI
 SEDUTE, TAVOLI E COMPLEMENTI
-D'ARREDO","UD",2009,"225.253,18","55.187,03",,
-1,"1.1.a.2","QNET SRL","Studio di algoritmi e metodologie
+D'ARREDO",UD,2009,"225.253,18","55.187,03",,1,1.1.a.2,QNET SRL,"Studio di algoritmi e metodologie
 per lo sviluppo di un sistema di
-visione ad alte prestazioni per a","UD",2009,"204.344,87","50.064,49",,
-1,"1.1.a.2","QUALITY FOOD GROUP SPA","Progetto acrilamide e prodotti
-pre/probiotici","UD",2009,"220.780,70","54.091,27","192.987,94","47.282,04"
-1,"1.1.a.2","RO-SA PLAST S.P.A.","Tecniche di simulazione numerica","PN",2009,"462.802,94","113.386,72","388.459,29","95.172,52"
-1,"1.1.a.2","SERTUBI S.P.A.","Progettazione e messa a punto di
-un nuovo sistema antisfilamento","TS",2009,"197.648,99","48.424,00",,
-1,"1.1.a.2","S.F.S. INTEC S.P.A.","Nuova famiglia di cerniere e nuovi
+visione ad alte prestazioni per a",UD,2009,"204.344,87","50.064,49",,1,1.1.a.2,QUALITY FOOD GROUP SPA,"Progetto acrilamide e prodotti
+pre/probiotici",UD,2009,"220.780,70","54.091,27","192.987,94","47.282,04"1,1.1.a.2,RO-SA PLAST S.P.A.,Tecniche di simulazione numerica,PN,2009,"462.802,94","113.386,72","388.459,29","95.172,52"1,1.1.a.2,SERTUBI S.P.A.,"Progettazione e messa a punto di
+un nuovo sistema antisfilamento",TS,2009,"197.648,99","48.424,00",,1,1.1.a.2,S.F.S. INTEC S.P.A.,"Nuova famiglia di cerniere e nuovi
 processi di assemblaggio e
-confezionamento","PN",2009,"58.724,74","14.387,56",,
-1,"1.1.a.2","SIM2 MULTIMEDIA S.P.A.","Sistemi per applicazioni
+confezionamento",PN,2009,"58.724,74","14.387,56",,1,1.1.a.2,SIM2 MULTIMEDIA S.P.A.,"Sistemi per applicazioni
 cinematografiche e professionali a
-tre dimensioni","PN",2009,"485.716,51","119.000,54","135.879,51","33.290,47"
-1,"1.1.a.2","SIPRO - SISTEMI INTEGRATI PER L'INNOVAZIONE DI PROCESSO S.R.L.","Studio e sperimentazione di
-sistemi di comunicazione","PN",2009,"156.456,86","38.331,93",,
-1,"1.1.a.2","SNAIDERO RINO S.P.A.","Product LifeCycle Management","UD",2009,"149.941,28","36.735,61","143.818,20","35.235,45"
-1,"1.1.a.2","SOLARI DI UDINE S.P.A.","Sistemi avanzati di orologeria
+tre dimensioni",PN,2009,"485.716,51","119.000,54","135.879,51","33.290,47"1,1.1.a.2,SIPRO - SISTEMI INTEGRATI PER L'INNOVAZIONE DI PROCESSO S.R.L.,"Studio e sperimentazione di
+sistemi di comunicazione",PN,2009,"156.456,86","38.331,93",,1,1.1.a.2,SNAIDERO RINO S.P.A.,Product LifeCycle Management,UD,2009,"149.941,28","36.735,61","143.818,20","35.235,45"1,1.1.a.2,SOLARI DI UDINE S.P.A.,"Sistemi avanzati di orologeria
 industriale basati su protocollo
 NPT (NETWORK TIME
-PROTOCOL)","UD",2009,"420.519,31","103.027,23",,
-1,"1.1.a.2","SOLARI DI UDINE S.P.A.","Sistemi wireless di pagamento e
-identificazione","UD",2009,"487.198,31","119.363,59",,
-1,"1.1.a.2","STABILIMENTO ORTOPEDICO VARIOLO S.R.L.","Ideazione e prototipazione di un
+PROTOCOL)",UD,2009,"420.519,31","103.027,23",,1,1.1.a.2,SOLARI DI UDINE S.P.A.,"Sistemi wireless di pagamento e
+identificazione",UD,2009,"487.198,31","119.363,59",,1,1.1.a.2,STABILIMENTO ORTOPEDICO VARIOLO S.R.L.,"Ideazione e prototipazione di un
 sistema ad inversione del moto
-per il miglioramento dell'efficacia","UD",2009,"196.955,59","48.254,12",,
-1,"1.1.a.2","SYSDATA ITALIA S.P.A.","COMMA, ""Piattaforma software
+per il miglioramento dell'efficacia",UD,2009,"196.955,59","48.254,12",,1,1.1.a.2,SYSDATA ITALIA S.P.A.,"COMMA, ""Piattaforma software
 per la comunicazione telematica
 multiscopo, multimediale, facente
-uso d","TS",2009,"463.056,74","113.448,90","452.251,31","110.801,56"
-1,"1.1.a.2","TECNOPRESS S.P.A.","Studio e sviluppo pannello di
-rottura piano","PN",2009,"87.460,60","21.427,85","66.622,47","16.322,50"
-1,"1.1.a.2","TELIT COMMUNICATIONS","Piattaforma GPRS single chip per
+uso d",TS,2009,"463.056,74","113.448,90","452.251,31","110.801,56"1,1.1.a.2,TECNOPRESS S.P.A.,"Studio e sviluppo pannello di
+rottura piano",PN,2009,"87.460,60","21.427,85","66.622,47","16.322,50"1,1.1.a.2,TELIT COMMUNICATIONS,"Piattaforma GPRS single chip per
 applicazioni M2M per segmento
-automotive","TS",2009,"1.297.120,42","317.794,50",,
-1,"1.1.a.2","TT S.R.L.","STUDIO DI UN IMPIANTO PILOTA
+automotive",TS,2009,"1.297.120,42","317.794,50",,1,1.1.a.2,TT S.R.L.,"STUDIO DI UN IMPIANTO PILOTA
 PER LA PRODUZIONE DI
 MODERNE TIPOLOGIE
-ALIMENTARI","UD",2009,"360.957,24","88.434,52",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+ALIMENTARI",UD,2009,"360.957,24","88.434,52",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Adeguamento funzionale agibilitﾈ
-della baita Mesule, Tarvisio (UD)","UD",2009,"100.000,00","24.500,00",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+della baita Mesule, Tarvisio (UD)",UD,2009,"100.000,00","24.500,00",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Completamento allestimenti e
 sistemazioni esterne del Centro
 Didattico Naturalistico, Basovizza
-(TS)","TS",2009,"300.000,00","73.500,00",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+(TS)",TS,2009,"300.000,00","73.500,00",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Manutenzione straordinaria e
 ampliamento a fini turistici della
-baita Winkel, Pontebba (UD)","UD",2009,"150.000,00","36.750,00",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+baita Winkel, Pontebba (UD)",UD,2009,"150.000,00","36.750,00",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Recupero ambientale a fini
 turistici della grotta III, Trieste -
-Basovizza","TS",2009,"100.000,00","24.500,00",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+Basovizza",TS,2009,"100.000,00","24.500,00",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Recupero ambientale a fini
 turistici della grotta XII, Trieste -
-Padriciano (TS)","TS",2009,"100.000,00","24.500,00",,
-2,"2.1.a.2","REGIONE AUTONOMA FRIULI
+Padriciano (TS)",TS,2009,"100.000,00","24.500,00",,2,2.1.a.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Sistemazione del fabbricato
 Centro visite di Villa Emma, Barcis
-(PN)","PN",2009,"250.000,00","61.250,00",,
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+(PN)",PN,2009,"250.000,00","61.250,00",,2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di consolidamento di
 versante in frana e regimazione
-idraulica lungo il rio Malborghetto","UD",2009,"2.005.137,36","491.258,65","1.919.643,87","470.312,74"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+idraulica lungo il rio Malborghetto",UD,2009,"2.005.137,36","491.258,65","1.919.643,87","470.312,74"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di prevenzione caduta
 massi mediante realizzazione di
-opere passive lungo Via Nazionale","UD",2009,"268.062,00","65.675,19","101.588,40","24.889,15"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+opere passive lungo Via Nazionale",UD,2009,"268.062,00","65.675,19","101.588,40","24.889,15"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di realizzazione opere
 di captazione, regimazione e scolo
-acque meteoriche","PN",2009,"1.598.773,04","391.699,39","1.507.395,59","369.311,91"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+acque meteoriche",PN,2009,"1.598.773,04","391.699,39","1.507.395,59","369.311,91"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di regimazione
 idraulica del torrente Aupa dal
-capoluogo a Bevorchians","UD",2009,"1.227.965,18","300.851,46","1.221.557,24","299.281,51"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+capoluogo a Bevorchians",UD,2009,"1.227.965,18","300.851,46","1.221.557,24","299.281,51"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di regimazione
 idraulica del torrente Saisera e del
-rio del Salto","UD",2009,"552.079,33","135.259,43","204.335,05","50.062,08"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+rio del Salto",UD,2009,"552.079,33","135.259,43","204.335,05","50.062,08"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di ripristino e
 consolidamento della viabilitﾈ
 comunale da Ugovizza a localitﾈ
-Segheria","UD",2009,"668.190,00","163.706,55","402.295,48","98.562,39"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+Segheria",UD,2009,"668.190,00","163.706,55","402.295,48","98.562,39"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di sistemazione e
 messa in sicurezza viabilitﾈ della
-Val Dogna","UD",2009,"1.198.442,17","293.618,33","946.589,81","231.914,50"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+Val Dogna",UD,2009,"1.198.442,17","293.618,33","946.589,81","231.914,50"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di sistemazione
 idraulica del Rio Ciofnik e del
-fiume Fella","UD",2009,"1.352.114,40","331.268,02","690.240,00","169.108,79"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+fiume Fella",UD,2009,"1.352.114,40","331.268,02","690.240,00","169.108,79"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento di sistemazione
 idraulica e rinaturalizzazione del
-fiume Fella","UD",2009,"1.645.392,00","403.121,04","1.629.442,92","399.213,51"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+fiume Fella",UD,2009,"1.645.392,00","403.121,04","1.629.442,92","399.213,51"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento regimazione idraulica
 affluenti principali torrente Aupa
-per messa in sicurezza","UD",2009,"1.981.092,31","485.367,61","1.969.476,34","482.521,69"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+per messa in sicurezza",UD,2009,"1.981.092,31","485.367,61","1.969.476,34","482.521,69"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento ripristino e messa in
 sicurezza viabilitﾈ per Studena
 Bassa e regimazione rio
-Pontebbana","UD",2009,"1.510.066,21","369.966,22","1.236.377,69","302.912,53"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+Pontebbana",UD,2009,"1.510.066,21","369.966,22","1.236.377,69","302.912,53"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento ripristino regime
 idraulico Rio Gravon di Gleris e
-opere lungo rio Studena","UD",2009,"1.658.547,41","406.344,11","1.658.547,41","406.344,10"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+opere lungo rio Studena",UD,2009,"1.658.547,41","406.344,11","1.658.547,41","406.344,10"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento urgente di protezione
 civile di sistemazione idraulica di
-un tratto del torrente Torre","UD",2009,"1.454.373,26","356.321,44","1.454.373,26","356.321,44"
-2,"2.1.c.2","REGIONE AUTONOMA FRIULI
+un tratto del torrente Torre",UD,2009,"1.454.373,26","356.321,44","1.454.373,26","356.321,44"2,2.1.c.2,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Intervento urgente messa in
 sicurezza abitato di Casso e
-relativa strada comunale","PN",2009,"490.009,40","120.052,30","463.050,00","113.447,24"
-2,"2.1.c.3","REGIONE AUTONOMA FRIULI
-VENEZIA GIULIA","SISTEMA RDS","Regione
-FVG",2009,"400.000,00","98.000,00",,
-2,"2.1.c.4","REGIONE AUTONOMA FRIULI
+relativa strada comunale",PN,2009,"490.009,40","120.052,30","463.050,00","113.447,24"2,2.1.c.3,"REGIONE AUTONOMA FRIULI
+VENEZIA GIULIA",SISTEMA RDS,"Regione
+FVG",2009,"400.000,00","98.000,00",,2,2.1.c.4,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","INTERVENTI DI SALVAGUARDIA
-MIOZZA 2 LOTTO","UD",2009,"1.800.000,00","441.000,00",,
-2,"2.1.c.4","REGIONE AUTONOMA FRIULI
+MIOZZA 2 LOTTO",UD,2009,"1.800.000,00","441.000,00",,2,2.1.c.4,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Interventi di salvaguardia torrente
-Moscardo","UD",2009,"900.000,00","220.500,00",,
-2,"2.1.c.4","REGIONE AUTONOMA FRIULI
+Moscardo",UD,2009,"900.000,00","220.500,00",,2,2.1.c.4,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","interventi salvaguardia torrente
-auza","UD",2009,"500.000,00","122.500,00",,
-3,"3.1.b.1","REGIONE AUTONOMA FRIULI
-VENEZIA GIULIA","S.E.C. (safe and efficient cargo)","Regione
-FVG",2009,"5.000.000,00","1.225.000,00",,
-6,"6.1.a.1","REGIONE AUTONOMA FRIULI
+auza",UD,2009,"500.000,00","122.500,00",,3,3.1.b.1,"REGIONE AUTONOMA FRIULI
+VENEZIA GIULIA",S.E.C. (safe and efficient cargo),"Regione
+FVG",2009,"5.000.000,00","1.225.000,00",,6,6.1.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","ORGANIZZAZIONE DEL
 COMITATO DI SORVEGLIANZA","Regione
-FVG",2009,"100.000,00","23.130,00","5.457,00","1.262,19"
-6,"6.1.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"100.000,00","23.130,00","5.457,00","1.262,19"6,6.1.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","SERVIZI DI ASSISTENZA TECNICA
 AL POR FESR FVG 2007-2013","Regione
-FVG",2009,"4.440.000,00","1.026.972,00","631.667,26","146.104,62"
-6,"6.1.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"4.440.000,00","1.026.972,00","631.667,26","146.104,62"6,6.1.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","VALUTAZIONE ON GOING DEL
 POR FESR 2007-2013","Regione
-FVG",2009,"1.056.000,00","244.252,80",,
-6,"6.2.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"1.056.000,00","244.252,80",,6,6.2.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","ASSISTENZA TECNICA
 ALL'ATTUAZIONE DEL PIANO DI
 COMUNICAZIONE","Regione
-FVG",2009,"966.000,00","223.435,80","68.850,00","15.925,00"
-6,"6.2.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"966.000,00","223.435,80","68.850,00","15.925,00"6,6.2.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Attivitﾈ di comunicazione e
 divulgazione del POR","Regione
-FVG",2009,"400.000,00","92.520,00","6.139,20","1.419,97"
-6,"6.2.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"400.000,00","92.520,00","6.139,20","1.419,97"6,6.2.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","EVENTO DI LANCIO NUOVA
 PROGRAMMAZIONE POR FESR
 2007-2013 FVG","Regione
-FVG",2009,"13.242,00","3.062,87","13.242,00","3.062,87"
-6,"6.2.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"13.242,00","3.062,87","13.242,00","3.062,87"6,6.2.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Organizzazione eventi informativi
 annuali di cui al'art. 7 comma 2","Regione
-FVG",2009,"200.000,00","46.260,00",,
-6,"6.2.a.1","REGIONE AUTONOMA FRIULI
+FVG",2009,"200.000,00","46.260,00",,6,6.2.a.1,"REGIONE AUTONOMA FRIULI
 VENEZIA GIULIA","Pubblicazione bandi e avvisi sui
 giornali","Regione
 FVG",2009,"350.000,00","80.955,00","7.231,20","1.672,55"
