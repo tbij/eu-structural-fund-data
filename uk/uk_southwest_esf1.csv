@@ -1,100 +1,21 @@
-"Provider Name","Project Title","Funding (Â£)","Subcontractor","Contract Start Date","Match-funded"
-"Shaw Trust ","Family Focus  ",1000000,"West Country 
-Training & Access ",14/07/08,
-"WTCS ","Stepping 
-Stones  ",733000,"Dering Employment Services, ACT Ltd  ",01/07/08,
-"Shaw Trust ","Making it Work  ",733000,"West Country 
-Training & Access ",14/07/08,
-"A4e Ltd ","Plymouth 
-Works Plus  ",2247541,"Neighbourhood 
-Learning Consortium 
-Ltd, Rite Associates, The PLUSS 
-Organisation Ltd, City College 
-Plymouth, PRIME, Leonard Cheshire, Business Advice 
-Centre, Addaction, Refugee First    ",23/06/08,
-,"Torbay Works 
-Plus  ",1047106,"Shekinah Mission, Torbay Citizens 
-Advice Bureaux, Devon Pound, The Olive Tree 
-Association, EDP Drug & Alcohol 
-Services, Riviera Housing, Hele Hub Windmill 
-Centre, STEPS, RNID, RNIB, Shelter, Groundwork ",23/06/08,
-"Shaw Trust ","Devon Works  ",1222000,"St Loyes Foundation ",14/07/08,
-"North Wessex 
-Training Ltd ","Journeys to 
-Work  ",1590654,"Tempo, Wiltshire Probabtion 
-Services  ",23/06/08,
-"North Wessex 
-Training Ltd ","Disadvantaged 
-Neighbourhoods  ",1491288,"A4E, SLS  Training, Prospect's Training 
-Services Ltd, TEMPO",23/06/08,
-"Tomorrows 
-People Trust Ltd ","Working 
-Communities  ",3492592,"Employment 
-Opportunities for 
-People With 
-Disabilities, The Freshstart Trust, Beacon 
-Centre/Employment 
-Links, CSV Avon Training, North Somerset 
-Council",28/07/08,
-"Tomorrows 
-People Trust Ltd ","Positive 
-Futures for 
-Parents  ",685655,"None - Direct Delivery",28/07/08,
-"BTCV","New Deal 
-Prime 
-Contract 
-18-24 & 25+ ",1800000,"West Country training & Consultancy Services, Prospect Training, North Wessex Training, Gloucester City Council, Access Training, A4E, Smarter Learning Skills Training, Bridge Training.",02/06/08,"Yes"
-"A4e Ltd ","New Deal Prime ",1500000,"British Trust for Conservation Volunteers Ent., British Trust for Conservation Volunteers, South Devon College, Dartington Tech, Torridge Training, Rite Associates",02/06/08,"Yes"
-"A4e Ltd ","PL Pathways",4471289,"Transformational Business Network",01/07/08,"Yes"
-"A4e Ltd ","PL Pathways",2235644,,39692,"Yes"
-"A4e Ltd ","Plymouth Works Plus",2247541,,39622,"Yes"
-"Bournemouth & Poole College","New Deal Prime Contract â€“ 18-24 & 25+",602000,"Abilities, Bournemouth Churches Housing Association, Cygnet Training ( Dorset Probation Service), Dorset Youth Service, Kingston Maurward, Weymouth College",39601,"Yes"
-"Prospects","New Deal Prime Contract â€“ 18-24 & 25+",600000,"Access Training, SAFE Training Company, Somerset County Training",39601,"Yes"
-"Maximus Employment & Training","Path4U",733000,,39630,"Yes"
-"North Wessex Training","Journeys to",1590654,,39657,"Yes"
-"North Wessex 
-Training ","Making 
-Changes ",1491288,,23/06/08,"Yes"
-"Seetec 
-Business 
-Technology 
-Centre Ltd ","Prime Contract New Deal",1778171,"Avon & Somerset Probation 
-Freshstart Trust 
-Third Sector Solutions 
-Tomorrows People 
-Westcountry Training & Consultancy 
-Services 
-Prospects ",39601,"Yes"
-"Seetec 
-Business 
-Technology 
-Centre Ltd ","Flexible New 
-Deal ",,,40148,"Yes"
-"Seetec 
-Business 
-Technology 
-Centre Ltd ","Flexible New 
-Deal ",,,40148,"Yes"
-"Tomorrows People Trust Ltd","Working 
-Communities ",3492592,,39657,"Yes"
-"Tomorrows People Trust Ltd","Positive 
-Futures for 
-Parents ",685655,,39657,"Yes"
-"Shaw Trust ","Family 
-Focus ",1000000,,14/07/08,"Yes"
-"Shaw Trust ","Making it 
-Work ",733000,,14/07/08,"Yes"
-"Shaw Trust ","Devon 
-Works ",1222000,,14/07/08,"Yes"
-"Working Links 
-(Employment) ","Torbay Works  Plus  ",1047106,,23/06/08,"Yes"
-"Working Links 
-(Employment) ","Flexible New 
-Deal ",19100000,,05/10/09,"Yes"
-"Working Links 
-(Employment) ","Flexible New 
-Deal ",19100000,,05/10/09,"Yes"
-"Working Links 
-(Employment) ","Pathways  ",1250000,"North Wessex Training, Clinovia Ltd, Rethink ",01/09/08,"Yes"
-"Working Links 
-(Employment) ","Pathways  ",13503600,"Rethink, Clinovia Ltd, Citizens Advice Bureau, Centre for Economic & Environmental Development, Bristol City Council",01/09/08,"Yes"
+Provider Name,Project Title,ESF Funding,Match Funding,Subcontractor,Contract Start Date,Contract End date
+Shaw Trust,Family Focus,"£1,000,000",£0,West Country Training & Access,"14/07/2008",13/07/2011
+Shaw Trust,Making it Work,"£733,000",£0,West Country Training & Access,"14/07/2008",15/12/2009
+A4e Ltd,Plymouth Works Plus,"£2,247,541",£0,"NeighbourhoodLearning ConsortiumLtd, Rite Associates, The PLUSS Organisation Ltd, City College Plymouth, PRIME, Leonard Cheshire, Business Advice Centre, Addaction, Refugee First",23/06/2008,22/06/2011
+BTCV,New Deal,£0,"£1,800,000",NA,2/6/06,2/10/09
+Prospects,New Deal,£0,"£600,000",NA,2/6/08,2/10/09
+A4e Ltd,New Deal,£0,"£1,500,000",NA,2/6/08,4/10/09
+A4e Ltd,Pathways,£0,"£4,471,289",NA,1/9/08,2/12/10
+Seetec,New Deal,£0,"£1,778,171",NA,2/6/08,1/11/09
+Maximus Employment & Training,Path4U,"£733,000",£0,NA,1/7/08,30/06/2011
+Working Links,Torbay Works Plus,"£1,047,106",£0,"Shekina Mission, Torbay Citizens Advice Bureaux, Devon Pound, The Olive Tree Association, EDP Drug & Alcohol Services, Riviera Housing, Hele Hub Windmill Centre, STEPS, RNID, RNIB, Shelter, Groundwork",23/06/2008,22/06/2011
+Shaw Trust,Devon Works,"£1,222,000",£0,St Loyes Foundation,14/07/2008,13/07/2011
+North Wessex Training,Journeys to Work ,"£1,590,654",£0,"Tempo, Wiltshire Probation Services",28/07/2008,27/07/2011
+North Wessex Training,Making Changes,"£1,491,288",£0,"A4E, SLS Training, Prospect's Training Services Ltd, TEMPO",23/06/2008,22/06/2011
+Tomorrows People Trust Ltd,Working Communities,"£3,492,592",£0,"Employment Opportunities for People with Disabilities, The Freshstart Trust, Beacon Centre/Employment Links, CSV Avon  Taining, North Somerset Council",28/07/2008,27/07/2011
+Tomorrows People Trust Ltd,Positive Futures for Parents,"£685,655",£0,None-direct delivery,28/07/2008,27/07/2011
+Bournemouth and Pool College,New Deal,£0,"£602,000",NA,2/6/08,2/10/09
+Working Links,Pathways,£0,"£1,250,000",NA,1/9/08,2/12/10
+Working Links,Pathways,£0,"£13,503,600",NA,1/9/08,2/12/10
+Working Links,Flexible New Deal,£0,"£19,100,000",NA,5/10/09,5/10/14
+Working Links,Flexible New Deal,£0,"£19,100,000",NA,5/10/09,5/10/14
