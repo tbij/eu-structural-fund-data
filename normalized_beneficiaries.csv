@@ -137,20 +137,20 @@ Miejskie Wodociągi i Kanalizacja spółka z ograniczoną odpowiedzialnością ,
 SEETEC ,Seetec
 Seetec,Seetec
 Władza Wdrażająca Programy Europejskie (WWPE),Implementing Authority for European Programmes 
-Fraunhofer Gesellschaft ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschafte.V.,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft zur Förderungder angewandten Forschung eingetragenerVerein ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft München Bau- und ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Institut für Graphische Datenverarbeitung Rostock,Fraunhofer Gesellschaft - Check 
-"Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren (lzfP), Saarbrücken ",Fraunhofer Gesellschaft - Check 
-Fraunhofer-Institut fürVerkehrs- u. Infrastruktur-systeme,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. (FhG) ,Fraunhofer Gesellschaft - Check 
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.,Fraunhofer Gesellschaft - Check 
-Fraunhofer Gesell-schaft-Institut für Produktionsanlagen und Konstruktins-technik (IPK) ,Fraunhofer Gesellschaft - Check 
-"Fraunhofer-Institut für Graphische Datenverarbeitung e.V., Institutsteil Rostock ",Fraunhofer Gesellschaft - Check 
-"Fraunhofer-Institut für Biomedizinische Technik (IBMT), St. Ingbert",Fraunhofer Gesellschaft - Check 
+Fraunhofer Gesellschaft ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschafte.V.,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderungder angewandten Forschung eingetragenerVerein ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft München Bau- und ,Fraunhofer Gesellschaft
+Fraunhofer-Institut für Graphische Datenverarbeitung Rostock,Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren (lzfP), Saarbrücken ",Fraunhofer Gesellschaft
+Fraunhofer-Institut fürVerkehrs- u. Infrastruktur-systeme,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. (FhG) ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.,Fraunhofer Gesellschaft
+Fraunhofer Gesell-schaft-Institut für Produktionsanlagen und Konstruktins-technik (IPK) ,Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Graphische Datenverarbeitung e.V., Institutsteil Rostock ",Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Biomedizinische Technik (IBMT), St. Ingbert",Fraunhofer Gesellschaft
 "Calder Holdings BV
 Subcontractors: NA ",Calder Holdings
 Calder Holdings BV,Calder Holdings
@@ -258,8 +258,8 @@ PKP Polskie Linie Kolejowe S.A Oddział Regionalny w Szczecinie,PKP Polskie Lini
 PKP Polskie Linie Kolejowe Spółka Akcyjna Oddział Regionalny w Poznaniu,PKP Polskie Linie Kolejowe S.A.
 Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.,Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.
 Kujawsko-Pomorski Fundusz Poręczeń Kredytowych Sp. z o.o.,Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.
-"Politechnika Łódzka, Centrum Kształcenia Międzynarodowego","Politechnika Łódzka, Centrum Kształcenia Międzynarodowego"
-"Politechnika Łódzka, Centrum Kształcenia MIędzynarodowego","Politechnika Łódzka, Centrum Kształcenia Międzynarodowego"
+"Politechnika Łódzka, Centrum Kształcenia Międzynarodowego",Politechnika Łódzka
+"Politechnika Łódzka, Centrum Kształcenia MIędzynarodowego",Politechnika Łódzka
 Ministerstwo Nauki i Szkolnictwa,Ministerstwo Nauki i Szkolnictwa
 "Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Strategii",Ministerstwo Nauki i Szkolnictwa
 "Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Wdrożeń i Innowacji",Ministerstwo Nauki i Szkolnictwa
@@ -290,6 +290,7 @@ Gmina Miejska Kraków - Zespół Szkół Elektrycznych Nr 2 w Krakowie,Gmina Mie
 Gmina Miejska Kraków/Poradnia Psychologiczno-Pedagogiczna nr 2,Gmina Miejska Kraków
 Gmina Miejska Kraków/Zespół Szkół Specjalnych Nr 14,Gmina Miejska Kraków
 C.H. DEL GUADALQUIVIR (MARM),C.H. DEL GUADALQUIVIR 
+C.H. DEL GUADALQUIVIR,C.H. DEL GUADALQUIVIR 
 Politechnika Gdańska,Politechnika Gdańska
 Centralna Komisja Egzaminacyjna,Centralna Komisja Egzaminacyjna
 "Akcinė bendrovė ""Lietuvos geležinkeliai""","Akcinė bendrovė ""Lietuvos geležinkeliai"""
@@ -391,5 +392,52 @@ AUTORIDAD PORTUARIA DE VALENCIA,AUTORIDAD PORTUARIA DE VALENCIA
 Uniwersytet Gdański,Uniwersytet Gdański
 Gdański Uniwersytet Medyczny,Uniwersytet Gdański
 Politechnika Gdańska ,Uniwersytet Gdański
-"AGUAS DE LA CUENCA DEL TAJO, S.A."
-AGUAS DE LA CUENCA DEL TAJO SA
+"AGUAS DE LA CUENCA DEL TAJO, S.A.","AGUAS DE LA CUENCA DEL TAJO, S.A."
+AGUAS DE LA CUENCA DEL TAJO SA,"AGUAS DE LA CUENCA DEL TAJO, S.A."
+Celon Pharma Spółka z ograniczoną odpowiedzialnością ,Celon Pharma Sp. z o.o.
+Celon Pharma Sp. z o.o. ,Celon Pharma Sp. z o.o. 
+IBB-Beteiligungsgesel-lschaft VC Fonds Technologie,IBB-Beteiligungsgesellschaft
+IBB,IBB-Beteiligungsgesellschaft
+Training Programm...,Training Programmes Branch - Department for Employment & Learning European Unit
+"Ministerstwo Rozwoju Regionalnego, Departament Koordynacji Polityki Strukturalnej, Instytucja Strategiczna",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Administracyjno-Informatyczne",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, jednostka odpowiedzialna za promocję i informację NSRO/PWW",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Departament Programów Pomocowych i Pomocy Technicznej, Instytucja Zarządzająca POPT",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi, jednostka w MRR odpowiedzialna za wsparcie jednostek realizujących NSRO"
+"""Działdowska Agencja Rozwoju"" Spółka Akcyjna ",Działdowska Agencja Rozwoju S.A. 
+Działdowska Agencja Rozwoju S.A. ,Działdowska Agencja Rozwoju S.A. 
+Instytut Genetyki i Hodowli Zwierząt PAN w Jastrzębcu,Instytut Genetyki i Hodowli Zwierząt PAN
+Instytut Genetyki i Hodowli Zwierząt PAN ,Instytut Genetyki i Hodowli Zwierząt PAN 
+Székesfehérvár Megyei Jogú Város Önkormányzata,Székesfehérvár Megyei Jogú Város Önkormányzata
+SZÉKESFEHÉRVÁR MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA ,Székesfehérvár Megyei Jogú Város Önkormányzata
+South West Regional Development Agency,South West Regional Development Agency
+South West RDA,South West Regional Development Agency
+"Centro Hospitalar do Porto, EPE","Centro Hospitalar do Porto, EPE"
+"CENTRO HOSPITALAR DO PORTO, E.P.E.","Centro Hospitalar do Porto, EPE"
+"Centro Hospitalar do Porto, E. P. E..","Centro Hospitalar do Porto, EPE"
+Wirtschafts- und Infrastrukturbank Hesse,Wirtschafts- und Infrastrukturbank Hessen
+FONDO 46 Analisi fattuale,FONDO 46
+FONDO 46 GENERALISTA,FONDO 46
+FONDO 46 REACH,FONDO 46
+FONDO 46 START UP,FONDO 46
+00397687 - STU v Bratislave,Slovenská technická univerzita v Bratislave
+Arso-Polański Spółka z Ograniczoną Odpowiedzialnością,Arso Polański Sp. z o.o.
+Arso Polański Sp. z o.o.,Arso Polański Sp. z o.o.
+SOLAGRO sp. z o.o.,SOLAGRO sp. z o.o.
+MIASTECZKO MULTIMEDIALNE SP. Z O.O.,Miasteczko Multimedialne Sp. z o. o.
+Miasteczko Multimedialne Sp. z o. o.,Miasteczko Multimedialne Sp. z o. o.
+Euroimplant S.A.,Euroimplant S.A.
+EUROIMPLANT S.A.,Euroimplant S.A.
+"SEAWAY GROUP, NAVTIČNO PODJETJE, D.O.O.","Seaway Group, d.o.o. "
+"Seaway Group, d.o.o. ","Seaway Group, d.o.o. "
+Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
+Bełchatowsko Kleszczowski Park Przemyslowo- Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság.,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zrt,Magyar Közút Nonprofit Zrt
+Magyar Közút Nonprofit Zrt. Adószám: 14605749-2-44 ,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zrt.,Magyar Közút Nonprofit Zrt 
+35914939 - ZSSK a.s.,Železničná spoločnosť Slovensko - Railway Company Slovakia
+00151866 - MV SR,Ministerstvo vnútra - interior ministry
+30416094 - MDPT SR,Ministry of Transport Construction and Regional Development of the Slovak Republic 
