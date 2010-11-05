@@ -1,90 +1,868 @@
 beneficiary,normalized_beneficiary
-IBM Global Services Delivery Centre Polska Sp. z o.o.,IBM
-IBM Italia S.p.A. ,IBM
-IBM Deutschland GmbH,IBM
-IBM Industrielle Blechbearbeitung Menteroda GmbH ,IBM
-IBM Data Storage Systems Információtechnológiai Kft. ,IBM
-"IBM Global Services Delivery Center Czech Republic, s.r.o.",IBM
+"	""AQUA"" SPÓŁKA AKCYJNA 	","	""AQUA"" SPÓŁKA AKCYJNA 	"
+	Faber Consulting sp z o.o.,Faber Consulting sp. z o.o.
+	Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o. w Łaziskach Górnych ,Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. 
+ A4E LTD,A4E Ltd
+" MINISTERSTVO ŠKOLSTVÍ, MLÁDEŽE A TĚLOVÝCHOVY ","Ministerstvo školství, mládeže a tělovýchovy"
+ Somogy Megyei Önkormányzat Kaposi Mór Oktató Kórháza, Somogy Megyei Önkormányzat Kaposi Mór Oktató Kórháza
+ Železničná spoločnosť Slovensko - Railway Company Slovakia, Železničná spoločnosť Slovensko - Railway Company Slovakia
+" Агенция по заетостта, главна дирекция ""Услуги по заетостта"" "," Агенция по заетостта, главна дирекция ""Услуги по заетостта"" "
+",,CTC Polska"" Spółka. z o.o.",CTC Polska sp. z o.o.
+"""AGROMAX"" spółka z ograniczona odpowiedzialnoscia","""AGROMAX"" spółka z ograniczona odpowiedzialnoscia"
+"""APEXIM AB"" Przedsiębiorstwo Wielobranżowe Adam Baranowski","""APEXIM AB"" Przedsiębiorstwo Wielobranżowe Adam Baranowski"
+"""Avio Polska"" Spółka z ograniczoną odpowiedzialnością","""Avio Polska"" Spółka z ograniczoną odpowiedzialnością"
+"""Biotrem Polska"" Sp. z o.o.","""Biotrem Polska"" Sp. z o.o."
+"""DAKRI- BIS"" Sp. z o.o. ",DAKRI- BIS Sp. z o.o.
+"""Działdowska Agencja Rozwoju"" Spółka Akcyjna ",Działdowska Agencja Rozwoju S.A. 
+"""EUROCONSULT"" Biuro Handlowe Zdzisław Lara","""EUROCONSULT"" Biuro Handlowe Zdzisław Lara"
+"""JYSK"" Spółka z ograniczoną odpowiedzialnością","""JYSK"" Spółka z ograniczoną odpowiedzialnością"
+"""METROPOLITAN"" JSC ","""METROPOLITAN"" JSC "
+"""Ostróda Yacht"" Spółka z ograniczoną odpowiedzialnością","""Ostróda Yacht"" Spółka z ograniczoną odpowiedzialnością"
+"""TOPEX Sp. z o.o."" Spółka komandytowa","""TOPEX Sp. z o.o."" Spółka komandytowa"
+"""VALDI - CERAMIKA"" Spółka z ograniczoną odpowiedzialnością","""VALDI - CERAMIKA"" Spółka z ograniczoną odpowiedzialnością"
+"""Warmińsko-Mazurska Agencja Rozwoju Regionalnego Spółka Akcyjna w Olsztynie""",Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie
+0000 - EIF,0000 - EIF
+00002801 - SIEA,00002801 - SIEA
+00003328 - SSC,Slovenská správa ciest - Slovak Road Administration
+00039691 - ÚIP,00039691 - ÚIP
+00151742 - MF SR,00151742 - MF SR
+00151866 - MV SR,Ministerstvo vnútra - interior ministry
+00151882 - Centrum ved.-tech. infor.SR,00151882 - Centrum ved.-tech. infor.SR
+00164348 - MPC BA,00164348 - MPC BA
+00165565 - Ministerstvo zdravotníctva SR,00165565 - Ministerstvo zdravotníctva SR
+00166260 - UGKK SR,00166260 - UGKK SR
+00304913 - Mesto Malacky,00304913 - Mesto Malacky
+00305081 - Mesto Stupava,00305081 - Mesto Stupava
+00305553 - Obec Lehnice,00305553 - Obec Lehnice
+00305731 - Obec Štvrtok na Ostrove,00305731 - Obec Štvrtok na Ostrove
+00305936 - Mesto Galanta,00305936 - Mesto Galanta
+00306185 - Mesto Šaľa,00306185 - Mesto Šaľa
+00306215 - Obec Tešedíkovo,00306215 - Obec Tešedíkovo
+00307513 - Mesto Šahy,00307513 - Mesto Šahy
+00307785 - obec Cabaj-Čápor,00307785 - obec Cabaj-Čápor
+00307891 - Dolné Obdokovce,00307891 - Dolné Obdokovce
+00308307 - Mesto Nitra,00308307 - Mesto Nitra
+00308382 - Obec Pohranice,00308382 - Obec Pohranice
+00308641 - Mesto Vráble,00308641 - Mesto Vráble
+00308692 - Obec Žikava,00308692 - Obec Žikava
+00309311 - Mesto Šurany,00309311 - Mesto Šurany
+00309419 - obec Borský Mikuláš,00309419 - obec Borský Mikuláš
+00309524 - Mesto Gbely,00309524 - Mesto Gbely
+00309745 - Mesto Myjava,00309745 - Mesto Myjava
+00309974 - Mesto Senica,00309974 - Mesto Senica
+00309982 - Mesto Skalica,00309982 - Mesto Skalica
+00311812 - Mesto Nemšová,00311812 - Mesto Nemšová
+00311863 - Mesto Nové Mesto nad Váhom,00311863 - Mesto Nové Mesto nad Váhom
+00312002 - Mesto Stará Turá,00312002 - Mesto Stará Turá
+00313114 - Mesto Trnava,00313114 - Mesto Trnava
+00313424 - Obec Heľpa,00313424 - Obec Heľpa
+00313696 - Obec Pohorelá,00313696 - Obec Pohorelá
+00313726 - obec Polomka,00313726 - obec Polomka
+00313947 - Obec Závadka nad Hronom,00313947 - Obec Závadka nad Hronom
+00313980 - Obec Čierne,00313980 - Obec Čierne
+00314145 - Obec Nová Bystrica,00314145 - Obec Nová Bystrica
+00314544 - Obec Klin,00314544 - Obec Klin
+00314676 - Mesto Námestovo,00314676 - Mesto Námestovo
+00314692 - Obec Novoť,00314692 - Obec Novoť
+00314897 - Mesto Trstená,00314897 - Mesto Trstená
+00314901 - Mesto Tvrdošín,00314901 - Mesto Tvrdošín
+00315001 - Obec Zákamenné,00315001 - Obec Zákamenné
+00319651 - Mesto Veľký Krtíš,00319651 - Mesto Veľký Krtíš
+00319805 - Mesto Detva,00319805 - Mesto Detva
+00320439 - Mesto Zvolen,00320439 - Mesto Zvolen
+00320781 - Mesto Kremnica,00320781 - Mesto Kremnica
+00321575 - Mesto Rajec,00321575 - Mesto Rajec
+00321699 - Obec Terchová,00321699 - Obec Terchová
+00321711 - obec Varín,00321711 - obec Varín
+00321737 - obec Veľké Rovné,00321737 - obec Veľké Rovné
+00321796 - Mesto Žilina,00321796 - Mesto Žilina
+00321842 - Bardejov,00321842 - Bardejov
+00325813 - Mesto Strážske,00325813 - Mesto Strážske
+00326321 - Obec Lendak,00326321 - Obec Lendak
+00326518 - Spišská Belá,00326518 - Spišská Belá
+00328693 - Mesto Revúca,00328693 - Mesto Revúca
+00328758 - Mesto Rožňava,00328758 - Mesto Rožňava
+00329061 - Mesto Gelnica,00329061 - Mesto Gelnica
+00329282 - Mesto Krompachy,00329282 - Mesto Krompachy
+00365327 - Martinská fakultná nemocnica,00365327 - Martinská fakultná nemocnica
+00397563 - Žilinská univerzita,00397563 - Žilinská univerzita
+00397610 - TU v Košiciach,00397610 - TU v Košiciach
+00397687 - STU Bratislava,Slovenská technická univerzita v Bratislave
+00397687 - STU v Bratislave,Slovenská technická univerzita v Bratislave
+00397865 - UK BA,00397865 - UK BA
+00398144 - Výpočtové stredisko Slovenskej akadémie,00398144 - Výpočtové stredisko Slovenskej akadémie
+00678678 - MŽP SR,00678678 - MŽP SR
+00681156 - MPSVR SR,00681156 - MPSVR SR
+0441/EAP Deloitte ,Deloitte
+17058520 - ŠOP SR,17058520 - ŠOP SR
+17070775 - Prešovská univerzita,17070775 - Prešovská univerzita
+17336007 - Fakultná nemocnica Nitra,17336007 - Fakultná nemocnica Nitra
+30416094 - MDPT SR,Ministry of Transport Construction and Regional Development of the Slovak Republic 
+30794536 - UPSVaR - 101073,UPSVaR
+30795362 - Centrum vzdelávania MPSVaR SR,30795362 - Centrum vzdelávania MPSVaR SR
+30807484 - Sociálna poisťovňa,30807484 - Sociálna poisťovňa
+30807506 - ŠPÚ,30807506 - ŠPÚ
+31364501 - ŽSR,Zeleznice Slovenskej Republiky
+31751067 - MVRR SR,31751067 - MVRR SR
+31819494 - Agentúra MŠ SR pre ŠF EÚ,31819494 - Agentúra MŠ SR pre ŠF EÚ
+35653001 - SACR,35653001 - SACR
+"35903503 - GESTUS, a.s. ","GESTUS, a.s. "
+35914939 - ZSSK a.s.,Železničná spoločnosť Slovensko - Railway Company Slovakia
+35919001 - NDS a.s.,Narodna Dialnica Spolocnost A.S.
+"36022047 - SVP, š.p.","36022047 - SVP, š.p."
+"36058645 - MILENIUM TRADING, a.s.","36058645 - MILENIUM TRADING, a.s."
+36182508 - AGB ekoservis,36182508 - AGB ekoservis
+"36513458 - Nemocnica Poprad, a.s.","36513458 - Nemocnica Poprad, a.s."
+"36513458 - Nemocnica Poprad, a.s.","36513458 - Nemocnica Poprad, a.s."
+"36672076 - PVS, a.s.","36672076 - PVS, a.s."
+36672271 - Vodár. spol. Ružomberok a.s.,36672271 - Vodár. spol. Ružomberok a.s.
+"36672271 - Vodár. spol. Ružomberok, a.s.","36672271 - Vodár. spol. Ružomberok, a.s."
+"36672297 - SeVAK, a.s.","36672297 - SeVAK, a.s."
+36672441 - LVS,36672441 - LVS
+36767182 - J&M consulting s.r.o. ,36767182 - J&M consulting s.r.o. 
+37808427 - Žilinský samosprávny kraj,37808427 - Žilinský samosprávny kraj
+3SPARE Sp. z o.o.,3SPARE Sp. z o.o.
+A4E,A4E Ltd
+A4e,A4E Ltd
 A4E Ltd,A4E Ltd
-A4E MANAGEMENT LTD,A4E Ltd
+A4e Ltd,A4E Ltd
 A4E LTD 105987,A4E Ltd
 A4E Ltd.,A4E Ltd
 A4E Ltd. Sp. z o.o.,A4E Ltd
-A4E,A4E Ltd
-A4e,A4E Ltd
-A4e Ltd,A4E Ltd
- A4E LTD,A4E Ltd
+A4E MANAGEMENT LTD,A4E Ltd
+Aalborg Universitet,Aalborg Universitet
+ABAKUS Konsulting R.Żmuda Spółka Jawna,ABAKUS Konsulting R.Żmuda Spółka Jawna
+"ACCENTURE OUTSOURCING SERVICES, S.A. ",ACCENTURE SL 
+ACCENTURE SL ,ACCENTURE SL 
+ADAM NORD GmbH,ADAM NORD GmbH
+Adamed Sp. z o.o.,Adamed Sp. z o.o.
+Administração da Região Hidrográfica do Alentejo I.P.,Administração da Região Hidrográfica do Alentejo I.P.
+Administração da Região Hidrográfica do Centro I.P.,Administração da Região Hidrográfica do Centro I.P.
+Administração da Região Hidrográfica do Tejo I.P.,Administração da Região Hidrográfica do Tejo I.P.
+Administração de Região Hidrográfica do Norte I. P.,Administração de Região Hidrográfica do Norte I. P.
+Administração dos Portos da Terceira e Graciosa S.A.,Administração dos Portos da Terceira e Graciosa S.A.
+Administração dos Portos da Terceira e Graciosa SA,Administração dos Portos da Terceira e Graciosa SA
+Administração dos Portos das Ilhas de São Miguel e Santa Maria S.A.,Administração dos Portos das Ilhas de São Miguel e Santa Maria S.A.
+Administração dos Portos do Triângulo e do Grupo Ocidental S.A,Administração dos Portos do Triângulo e do Grupo Ocidental S.A
+Administração dos Portos do Triângulo e do Grupo Ocidental S.A.,Administração dos Portos do Triângulo e do Grupo Ocidental S.A.
+Administração dos Portos do Triângulo e do Grupo Ocidental SA,Administração dos Portos do Triângulo e do Grupo Ocidental SA
+Administração Regional de Saúde do Alentejo IP,Administração Regional de Saúde do Alentejo IP
+Administração Regional de Saúde do Centro Instituto Público,Administração Regional de Saúde do Centro Instituto Público
+"Administração Regional de Saúde do Centro, Instituto Público","Administração Regional de Saúde do Centro, Instituto Público"
+"Administração Regional de Saúde do Centro, Instituto Público ","Administração Regional de Saúde do Centro, Instituto Público "
+Administração Regional de Saúde do Norte,Administração Regional de Saúde do Norte
+Administrador de infraestructuras Ferroviarias,Administrador de infraestructuras Ferroviarias
 ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS(ADIF),Administrador de infraestructuras Ferroviarias
-JUNTA DE ANDALUCIA,Junta de Andalucia
+Aero 2 Spółka z ograniczoną odpowiedzialnością,Aero 2 Spółka z ograniczoną odpowiedzialnością
+AEROPUERTOS ESPAÑOLES Y NAVEGACIÓN AÉREA (MF),AEROPUERTOS ESPAÑOLES Y NAVEGACIÓN AÉREA (MF)
+AFPAR,AFPAR
+AGEFOS PME,AGEFOS PME
+AGEFOS PME CHAMPAGNE ARDENNE,AGEFOS PME
+AGEFOS PME Languedoc-Roussillon,AGEFOS PME
+AGEFOS PME MIDI-PYRENEES,AGEFOS PME
+AGEFOS PME PAYS DE LA LOIRE/ POITOU CHARENTES,AGEFOS PME
+AGEFOS PME Pays de Loire Poitou-Charentes,AGEFOS PME
+AGEFOS-PME Rhône-Alpes,AGEFOS PME
+Agence Nationale pour l'Emploi,Agence Nationale pour l'Emploi
+Agence Nationale pour l'Emploi,Agence Nationale pour l'Emploi
+Agence Nationale pour l'Emploi - Direction Régionale,Agence Nationale pour l'Emploi
+Agence Nationale Pour l'Emploi - Pôle Emploi,Agence Nationale pour l'Emploi
+AGENCE NATIONALE POUR L'EMPLOI (ANPE),Agence Nationale pour l'Emploi
+Agence nationale pour la cohésion sociale et l'égalité des chances (ACSE),Agence nationale pour la cohésion sociale et l'égalité des chances (ACSE)
+AGENCIA DE INNOVACION Y DESARROLLO DE ANDALUCIA (IDEA),AGENCIA DE INNOVACION Y DESARROLLO DE ANDALUCIA (IDEA)
+Agência para a Modernização Administrativa I.P.,Agência para a Modernização Admnistrativa I.P.
+Agência para a Modernização Admnistrativa I.P.,Agência para a Modernização Admnistrativa I.P.
+Agência para a Modernização e Qualidade do Serviço ao Cidadão - RIAC I.P.,Agência para a Modernização e Qualidade do Serviço ao Cidadão - RIAC I.P.
+AGENCIA PARA EL EMPLEO ( AYTO. DE MADRID ),AGENCIA PARA EL EMPLEO ( AYTO. DE MADRID )
+AGÊNCIA PARA O INVESTIMENTO E COMÉRCIO EX- TERNO DE PORTUGAL E P E,AGÊNCIA PARA O INVESTIMENTO E COMÉRCIO EX- TERNO DE PORTUGAL E P E
+AGENCIA VALENCIANA DEL TURISMO,AGENCIA VALENCIANA DEL TURISMO
+Agencja Rozwoju Lokalnego Sp. z o.o.,Agencja Rozwoju Lokalnego Sp. z o.o.
+Agencja Rozwoju Lokalnego sp. z o.o. ,Agencja Rozwoju Lokalnego Sp. z o.o.
+Agencja Rozwoju Lokalnego Sp. z o.o. ,Agencja Rozwoju Lokalnego Sp. z o.o.
+Agencja Rozwoju Przemysłu S.A.,Agencja Rozwoju Przemysłu S.A.
+"Agencja Rozwoju Regionalnego ""MARR"" S.A.","Agencja Rozwoju Regionalnego ""MARR"" S.A."
+"Agencja Rozwoju Regionalnego ""MARR"" S.A.","Agencja Rozwoju Regionalnego ""MARR"" S.A."
+Agencja Rozwoju Regionalnego MARR w Mielcu,"Agencja Rozwoju Regionalnego ""MARR"" S.A."
+Agency for Exploration and maintenance of Danube River,Agency for Exploration and maintenance of Danube River
+agens e. V.,agens e. V.
+Agentia Nationala Antidrog,Agentia Nationala Antidrog
+Agenţia Naţională pentru Calificările din Învăţământul Superior şi Parteneriat cu Mediul Economic şi Social,Agenţia Naţională pentru Calificările din Învăţământul Superior şi Parteneriat cu Mediul Economic şi Social
+Agentia Nationala pentru Egalitate de Sanse intre Femei si Barbati (ANES),Agentia Nationala pentru Egalitate de Sanse intre Femei si Barbati (ANES)
+Agentia Nationala pentru Ocuparea Fortei de Munca,Agentia Nationala pentru Ocuparea Fortei de Munca
+Agenţia Naţională pentru Ocuparea Forţei de Muncă,Agenţia Naţională pentru Ocuparea Forţei de Muncă
+Agentia Nationala pentru Programe Comunitare in Domeniul Educatiei si Formarii Profesionale,Agentia Nationala pentru Programe Comunitare in Domeniul Educatiei si Formarii Profesionale
+Agenţia Naţională pentru Romi,Agenţia Naţională pentru Romi
+Agentia Nationala pentru Sprijinirea Initiativelor Tinerilor,Agentia Nationala pentru Sprijinirea Initiativelor Tinerilor
+Agentura pro podporu podnikání a investic CzechInvest,Agentura pro podporu podnikání a investic CzechInvest
+Agenzia Nazionale per l’attrazione di investimenti e lo sviluppo d’impresa S.p.A.,Agenzia Nazionale per l’attrazione di investimenti e lo sviluppo d’impresa S.p.A.
+AGENZIA REGIONALE PER L'ISTRUZIONE LA FORMAZIONE E IL LAVORO,AGENZIA REGIONALE PER L'ISTRUZIONE LA FORMAZIONE E IL LAVORO
+Agenzia Regionale per la Protezione dell'Ambiente (ARPAC),Agenzia Regionale per la Protezione dell'Ambiente (ARPAC)
+AGH-Akademia Górniczo Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza
+AGROSTAR,AGROSTAR
+"AGUAS DE LA CUENCA DEL NORTE, S.A","AGUAS DE LA CUENCA DEL NORTE, S.A"
+AGUAS DE LA CUENCA DEL TAJO SA,"AGUAS DE LA CUENCA DEL TAJO, S.A."
+"AGUAS DE LA CUENCA DEL TAJO, S.A.","AGUAS DE LA CUENCA DEL TAJO, S.A."
 AGUAS DE LAS CUENCAS MEDITERRANEAS(ACUAMED),Aguas de las Cuencas Mediterraneas
-Fiat Powertrain Technologies Poland Spółka z ograniczoną odpowiedzialnością,FIAT POWERTRAIN TECHNOLOGIES SPA 
-Fiat Powertrain Technologies,FIAT POWERTRAIN TECHNOLOGIES SPA 
-Krajowy Fundusz Kapitałowy S.A.,Krajowy Fundusz Kapitałowy S.A.
-Vattenfall Heat Poland S.A.,Vattenfall Heat Poland S.A.
-Vattenfall Europe DistributionBerlin GmbH,Vattenfall Europe DistributionBerlin GmbH
-Working LInks,Working Links
-Working Links (Employment) Ltd,Working Links
-WORKING LINKS (EMPLOYMENT) LIMITED,Working Links
-Working Links Notts/Derby,Working Links
-Working Links,Working Links
-WORKING LINKS,Working Links
-Working Links (Employment) Ltd,Working Links
-Sądeckie Wodociągi Sp. z o.o.,Sadeckie Wodociagi Sp. z o.o.
-Sadeckie Wodociagi Sp. z o.o.,Sadeckie Wodociagi Sp. z o.o.
-AGUAS DEL DUERO (MARM),AGUAS DEL DUERO
-Shaw Trust Ltd.,Shaw Trust
-SHAW TRUST LIMITED(THE),Shaw Trust
-Shaw Trust,Shaw Trust
-SHAW TRUST LIMITED (THE),Shaw Trust
 AGUAS DE LAS CUENCAS MEDITERRANEAS(ACUAMED),AGUAS DE LAS CUENCAS MEDITERRANEAS
-Reed in Partnership,Reed in Partnership
-Reed in Partnership Polska sp. z o.o.,Reed in Partnership
-TNG LIMITED 107656,TNG Ltd
-TNG Ltd,TNG Ltd
+AGUAS DEL DUERO (MARM),AGUAS DEL DUERO
+AIRON INVESTMENT Anna Niemczewska,AIRON INVESTMENT Anna Niemczewska
+Akademia Ekonomiczna im. K. Adamieckiego w Katowicach,Akademia Ekonomiczna im. K. Adamieckiego w Katowicach
+Akademia Ekonomiczna im. Karola Adamieckiego w Katowicach,Akademia Ekonomiczna im. Karola Adamieckiego w Katowicach
+Akademia Ekonomiczna im. Oskara Langego we Wrocławiu,Akademia Ekonomiczna im. Oskara Langego we Wrocławiu
+Akademia Górniczo - Hutnicza im. Stanisława Staszica w Krakowie ,Akademia Górniczo Hutnicza
+"Akademia Górniczo - Hutnicza im. Stanisława Staszica w Krakowie Wydział Geologii, Geofizyki i Ochrony Środowiska ",Akademia Górniczo Hutnicza
+Akademia Górniczo – Hutnicza im Stanisława Staszica ,Akademia Górniczo Hutnicza
+Akademia Górniczo Hutnicza,Akademia Górniczo Hutnicza
+Akademia Górniczo Hutnicza ,Akademia Górniczo Hutnicza
+Akademia Górniczo Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza ,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza im. St. Staszica w Krakowie,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza im. Stanisława Staszica,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza
+Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ,Akademia Górniczo Hutnicza
+"Akademia Górniczo-Hutnicza, Wydział Fizyki i Informatyki Stosowanej ",Akademia Górniczo Hutnicza
+Akademia Medyczna im. Piastów Śląskich we Wrocławiu,Akademia Medyczna im. Piastów Śląskich we Wrocławiu
+Akademia Morska w Szczecinie,Akademia Morska w Szczecinie
+Akademia Muzyczna im. G. i K. Bacewiczów,Akademia Muzyczna im. G. i K. Bacewiczów
+Akademia Muzyczna im. G. i K. Bacewiczów,Akademia Muzyczna im. G. i K. Bacewiczów
+Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie,Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie
+Akademia Pedagogiki Specjalnej im. M. Grzegorzewskiej,Akademia Pedagogiki Specjalnej im. M. Grzegorzewskiej
+Akademia Podlaska,Akademia Podlaska
+Akademia Podlaska,Akademia Podlaska
+Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu,Akademia Sztuk Pięknych we Wrocławiu
+Akademia Sztuk Pięknych im. Władysława Strzemińskiego w Łodzi ,Akademia Sztuk Pięknych we Wrocławiu
+Akademia Sztuk Pięknych we Wrocławiu,Akademia Sztuk Pięknych we Wrocławiu
+Akademia Sztuk Pięknych we Wrocławiu,Akademia Sztuk Pięknych we Wrocławiu
+Akademia Szybkiej Nauki Tadeusz Buzarewicz,Akademia Szybkiej Nauki Tadeusz Buzarewicz
+Akademia Techniczno-Humanistyczna w Bielsku-Białej,Akademia Techniczno-Humanistyczna w Bielsku-Białej
+Akademia Techniczo-Humanistyczna w Bielsku-Białej,Akademia Techniczno-Humanistyczna w Bielsku-Białej
+Akadémia vzdelávania,Akadémia vzdelávania
+"Akademia Wychowania Fizycznego im. E. Piaseckiego w Poznaniu, Zamiejscowy Wydział Kultury Fizycznej z siedzibą w Gorzowie Wlkp.",Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego
+Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego,Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego
+Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego,Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego
+Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu,Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego
+Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie,Akademia Wychowania Fizycznego Józefa Piłsudskiego
+"Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie, Zamiejscowy Wydział Wychowania Fizycznego w Białej Podlaskiej ",Akademia Wychowania Fizycznego Józefa Piłsudskiego
+Akademickie Centrum Komputerowe CYFRONET AGH,Akademickie Centrum Komputerowe CYFRONET AGH
+Akademickie Inkubatory Przedsiębiorczości,Akademickie Inkubatory Przedsiębiorczości
+"Akcinė bendrovė ""KLAIPĖDOS VANDUO""","Akcinė bendrovė ""KLAIPĖDOS VANDUO"""
+"Akcinė bendrovė ""LIETUVOS ENERGIJA""","Akcinė bendrovė ""LIETUVOS ENERGIJA"""
+"Akcinė bendrovė ""Lietuvos geležinkeliai""","Akcinė bendrovė ""Lietuvos geležinkeliai"""
+alenia composite,alenia composite
+Alexandra Instituttet A/S,Alexandra Instituttet A/S
+Alpla NDM Sp. z o.o.,Alpla NDM Sp. z o.o.
+Alsó-Tisza Vidéki Környezetvédelmi és Vízügyi Igazgatóság,Alsó-Tisza Vidéki Környezetvédelmi és Vízügyi Igazgatóság
+ALSTOM Power Sp. z o.o.,ALSTOM Power Sp. z o.o.
+Alytaus miesto savivaldybės administracija,Alytaus miesto savivaldybės administracija
+ANAS spa,ANAS spa
+ANAS spa,ANAS spa
+AQUA-Sopot Sp. z o.o.,AQUA-Sopot Sp. z o.o.
+Arso Polański Sp. z o.o.,Arso Polański Sp. z o.o.
+Arso Polański Sp. z o.o.,Arso Polański Sp. z o.o.
+Arso-Polański Spółka z Ograniczoną Odpowiedzialnością,Arso Polański Sp. z o.o.
+ARTHUR D LITTLE SL,ARTHUR D LITTLE SL
+ArvinMeritor LVS Liberec a.s.,ArvinMeritor LVS Liberec a.s.
+AS EVR Infra,AS EVR Infra
+AS Narva Vesi,AS Narva Vesi
+AS Rakvere Vesi,AS Rakvere Vesi
+Assarel Medet,Assarel Medet
+Association nationale pour la formation professionnelle des adultes,Association nationale pour la formation professionnelle des adultes
+Athlone Institute of Technology Dundalk Institute of Technology Galway Mayo Institute of Technology National University of Galway Letterkenny Institute of Technology Sligo Institute of Technology Blanchardstown Institute of Technology UCC Cork Institute o,Athlone Institute of Technology Dundalk Institute of Technology Galway Mayo Institute of Technology National University of Galway Letterkenny Institute of Technology Sligo Institute of Technology Blanchardstown Institute of Technology UCC Cork Institute o
+ATM S.A.,ATM S.A.
+ATM S.A.,ATM S.A.
+ATM System Sp. z o.o,ATM S.A.
+ATS Spółka Akcyjna,ATS Spółka Akcyjna
+Ausbildungsring Potsdam Brandenburg e.V.,Ausbildungsring Potsdam Brandenburg e.V.
+AusbildungsringSüdwestsachsen Chemnitz-Plauen-Zwickau GmbH,AusbildungsringSüdwestsachsen Chemnitz-Plauen-Zwickau GmbH
+AusbildungsringSüdwestsachsen Chemnitz-Plauen-Zwickau GmbH ,AusbildungsringSüdwestsachsen Chemnitz-Plauen-Zwickau GmbH 
+Ausbildungsverbund Teltow e.V.,Ausbildungsverbund Teltow e.V.
+AUTO HIT Sp. z o. o.,AUTO HIT Sp. z o. o.
+AUTORIDAD PORTUARIA DE ALGECIRAS,AUTORIDAD PORTUARIA DE ALGECIRAS
+AUTORIDAD PORTUARIA DE ALGECIRAS,AUTORIDAD PORTUARIA DE ALGECIRAS
+AUTORIDAD PORTUARIA DE AVILES,AUTORIDAD PORTUARIA DE AVILES
+AUTORIDAD PORTUARIA DE CARTAGENA,AUTORIDAD PORTUARIA DE CARTAGENA
+AUTORIDAD PORTUARIA DE CASTELLON,AUTORIDAD PORTUARIA DE CASTELLON
+AUTORIDAD PORTUARIA DE MALAGA,AUTORIDAD PORTUARIA DE MALAGA
+AUTORIDAD PORTUARIA DE VALENCIA,AUTORIDAD PORTUARIA DE VALENCIA
+Autorita' portuale di Taranto,Autorita' portuale di Taranto
+AUTOVIA DEL ERESMA CONCESIONARIA JUNTA CASTILLA Y LEON ,JUNTA DE CASTILLA Y LEON
 Avanta TNG Ltd,TNG Ltd
-Pécsi Tudományegyetem 1. Számú Gyakorló Általános Iskola,Pécsi Tudományegyetem
-Pécsi Tudományegyetem Deák Ferenc Gyakorló Gimnázium és Általános Iskola ,Pécsi Tudományegyetem
-"Pécsi Tudományegyetem Illyés Gyula Gyakorlóiskola, Alapfokú Művészeti Iskola és Gyakorlóóvoda ",Pécsi Tudományegyetem
-Pécsi Tudományegyetem Pályázati Menedzsment Közhasznú Nonprofit Korlátolt Felelősségű Társaság  Dél-dunántúli Energetikai Klaszter fejlesztése,Pécsi Tudományegyetem
-FIAT POWERTRAIN TECHNOLOGIES SPA ,Fiat Powertrain Technologies
-Fiat Powertrain Technologies Poland Spółka z ograniczoną odpowiedzialnością ,Fiat Powertrain Technologies
-Fiat Powertrain Technologies,Fiat Powertrain Technologies
-35919001 - NDS a.s.,Narodna Dialnica Spolocnost A.S.
-Samorząd Województwa Kujawsko-Pomorskiego ,Samorząd Województwa Pomorskiego
-Samorząd Województwa Pomorskiego ,Samorząd Województwa Pomorskiego
-Departament Rozwoju Gospodarczego Urzędu Marszałkowskiego Województwa Pomorskiego/Samorząd Województwa Pomorskiego ,Samorząd Województwa Pomorskiego
-Miasto Stołeczne Warszawa/OPS Śródmieście ,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Urząd Pracy m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa - Dzielnica Ursynów m.st.Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Warszawskie Centrum Kobiet ,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa-Dzielnica Ursus m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Urząd Pracy m. st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Bemowo m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Bielanym.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Śródmieście m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Ursus m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Włochy m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Włochy.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Wola m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Wilanów m.st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Żoliborz m.st.Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Wesoła m. st. Warszawy,Miasto Stołeczne Warszawa
-"Miasto Stołeczne Warszawa, w imieniu którego działa Ośrodek Pomocy Społecznej Dzielnicy Bielany m.st.Warszawy",Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Praga Południe m. st. Warszawy,Miasto Stołeczne Warszawa
-Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Wawer m. st. Warszawy,Miasto Stołeczne Warszawa
+Avian GmbH,Avian GmbH
+AYUNTAMIENTO DE BARCELONA,AYUNTAMIENTO DE BARCELONA
+Ayuntamiento de Bilbao,Ayuntamiento de Bilbao
+AYUNTAMIENTO DE MADRID,AYUNTAMIENTO DE MADRID
+Ayuntamiento de Zaragoza,Ayuntamiento de Zaragoza
+Bács-Kiskun Megyei Önkormányzat,Bács-Kiskun Megyei Önkormányzat
+Balex Metal Sp. z o.o.,Balex Metal Sp. z o.o.
+Bangor University,Bangor University
+Bank Gospodarstwa Krajowego,Bank Gospodarstwa Krajowego
+BANK GOSPODARSTWA KRAJOWEGO,Bank Gospodarstwa Krajowego
+Baranya Megyei Önkormányzat,Baranya Megyei Önkormányzat
+bbw Berufsvorbereitungs- und Ausbildungsgesellschaft mbH,bbw Berufsvorbereitungs- und Ausbildungsgesellschaft mbH
+Békéscsaba Megyei Jogú Város Önkormányzata,Békéscsaba Megyei Jogú Város Önkormányzata
+Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
+Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
+Bełchatowsko Kleszczowski Park Przemyslowo- Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
+Belváros-Lipótváros Budapest Főváros V. Kerület Önkormányzat,Budapest Főváros Önkormányzata
+Berettyóújfalu Város Önkormányzata,Berettyóújfalu Város Önkormányzata
+BerufsbildungsvereinLeipzig e.V.,BerufsbildungsvereinLeipzig e.V.
+BerufsbildungsvereinLeipzig e.V.,BerufsbildungsvereinLeipzig e.V.
+BEST,BEST Ltd
+BEST Ltd,BEST Ltd
+Biblioteka Narodowa,Biblioteka Narodowa
+Biblioteka Raczyńskich,Biblioteka Raczyńskich
+Bildungszentrum Saalfeld GmbH,Bildungszentrum Saalfeld GmbH
+Bioenergia Oil Sp. z o.o.,Bioenergia Oil Sp. z o.o.
+BIOM Sp. z o.o.,BIOM Sp. z o.o.
+BN FACTORY SPÓŁKA AKCYJNA ,BN FACTORY SPÓŁKA AKCYJNA 
+Bora Poland Sp. z o.o.,Bora Poland Sp. z o.o.
+Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház,Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház
+Bruxelles Formation,Bruxelles Formation
+Budapest Főváros II. Kerületi Önkormányzat,Budapest Főváros Önkormányzata
+"Budapest Főváros II. kerületi Önkormányzat (1024 Budapest, Mechwart liget 1.)",Budapest Főváros Önkormányzata
+Budapest Főváros IV. kerület Újpest Önkormányzata,Budapest Főváros Önkormányzata
+"Budapest Főváros IV. kerület, Újpest Önkormányzata",Budapest Főváros Önkormányzata
+Budapest Főváros IX. kerület Ferencváros Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros Ökormányzata,Budapest Főváros Ökormányzata
+Budapest Főváros Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros Önkormányzata Főpolgármesteri Hivatal,Budapest Főváros Önkormányzata
+Budapest Főváros Önkormányzatának Kossuth Zsuzsa Gyermekotthona és Általános Iskolája,Budapest Főváros Önkormányzata
+BUDAPEST FŐVÁROS VI. KERÜLET TERÉZVÁROS ÖNKORMÁNYZATA,Budapest Főváros Önkormányzata
+Budapest Főváros VI. kerület Terézváros Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros VII. kerület Erzsébetváros Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros VII. kerület Erzsébetváros Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros VIII. kerület Józsefváros Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat Polgármesteri Hivatal,Budapest Főváros Önkormányzata
+Budapest Főváros X kerület Kőbányai Önkormányzat Hárslevelű Óvoda,Budapest Főváros Önkormányzata
+Budapest Főváros X. kerület Kőbánya Önkormányzata (Nevelési Tanácsadó és Pedagógiai Szolgáltató Központ),Budapest Főváros Önkormányzata
+Budapest Főváros X. Kerület Kőbányai Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros X. kerület Kőbányai Önkormányzat Nevelési Tanácsadó és Pedagógiai Szolgáltató Központ,Budapest Főváros Önkormányzata
+Budapest Főváros X. kerület Kőbányai Önkormányzat Szent László Gimnázium,Budapest Főváros Önkormányzata
+Budapest Főváros XI. kerület Újbuda Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XI. Kerület Újbuda Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XI. kerület Újbuda Önkormányzata Polgármesteri Hivatal,Budapest Főváros Önkormányzata
+Budapest Főváros XIII. kerületi Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros XIII. kerületi Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros XIII. kerületi Önkormányzat Berzsenyi Dániel Gimnázium,Budapest Főváros Önkormányzata
+Budapest főváros XIV. ker. Zugló Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XIX kerület Kispest Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XIX. Kerület Kispest Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros XV. Kerület Önkormányzata,Budapest Főváros Önkormányzata
+"Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzata",Budapest Főváros Önkormányzata
+"Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzata",Budapest Főváros Önkormányzata
+Budapest Főváros XVI. kerületi Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros XVI.. kerületi Önkormányzat,Budapest Főváros Önkormányzata
+Budapest Főváros XVI.. kerületi Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XVII. kerület Önkormányzatának Polgármesteri Hivatala,Budapest Főváros Önkormányzata
+Budapest Főváros XVII.kerület Rákosmente Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XX. kerület Pesterzsébet Önkormányzata,Budapest Főváros Önkormányzata
+Budapest Főváros XXIII. kerület Soroksár Önkormányzata,Budapest Főváros Önkormányzata
+Budapesti Közlekedési Zártkörűen Működő Részvénytársaság,Budapesti Közlekedési Zártkörűen Működő Részvénytársaság
+Budizol Spółka Akcyjna,Budizol Spółka Akcyjna
+Business & Enterprise North East,Business & Enterprise North East
+BUSINESS AND ENTERPRISE NORTH EAST LIMITED 118076,BUSINESS AND ENTERPRISE NORTH EAST LIMITED 118076
+C.H. DEL DUERO (MARM),Confederación Hidrográfica del Duero del MARM
+C.H. DEL GUADALQUIVIR,C.H. DEL GUADALQUIVIR 
+C.H. DEL GUADALQUIVIR (MARM),C.H. DEL GUADALQUIVIR 
+C.H. DEL GUADALQUIVIR (MARM),C.H. DEL GUADALQUIVIR (MARM)
+Calder Holdings BV,Calder Holdings
+Calder Holdings BV,Calder Holdings BV
+"Calder Holdings BV
+Subcontractors: NA ",Calder Holdings
+CALDERDALE COLLEGE,CALDERDALE COLLEGE
+Calvia Sp. z o.o.,Calvia Sp. z o.o.
+Câmara Municipal de Vila Nova de Gaia,Câmara Municipal de Vila Nova de Gaia
+Capgemini,Capgemini
+Capgemini Education BV ,Capgemini
+CAPGEMINI ESPANA SL ,Capgemini
+"CAPGEMINI ESPAÑA, S.L.U.",Capgemini
+Capgemini N.V.,Capgemini
+Capgemini Polska Sp. z o.o. ,Capgemini
+Carbon Trust,Carbon Trust
+Cardiff University,Cardiff University
+CAREERS ENTERPRISE LTD,CAREERS ENTERPRISE LTD
+Carlow VEC Cavan VEC Clare VEC Cork City VEC Co. Cork VEC Donegal VEC Dublin City VEC Co. Dublin VEC Dun Laoghaire VEC Co. Galway VEC Galway City VEC Kerry VEC Kildare VEC Kilkenny VEC Laois VEC Leitrim VEC Limerick City VEC Co. Limerick VEC Longford VEC,Carlow VEC Cavan VEC Clare VEC Cork City VEC Co. Cork VEC Donegal VEC Dublin City VEC Co. Dublin VEC Dun Laoghaire VEC Co. Galway VEC Galway City VEC Kerry VEC Kildare VEC Kilkenny VEC Laois VEC Leitrim VEC Limerick City VEC Co. Limerick VEC Longford VEC
+Carmarthenshir e County Council,Carmarthenshire County Council
+Carmarthenshire County,Carmarthenshire County
+Cavan VEC Donegal VEC Galway City VEC Co. Galway VEC Laois VEC Leitrim VEC Longford VEC Louth VEC Mayo VEC Monaghan VEC Offaly VEC Roscommon VEC Sligo VEC Westmeath VEC,Cavan VEC Donegal VEC Galway City VEC Co. Galway VEC Laois VEC Leitrim VEC Longford VEC Louth VEC Mayo VEC Monaghan VEC Offaly VEC Roscommon VEC Sligo VEC Westmeath VEC
+Celon Pharma Sp. z o.o.,Celon Pharma Sp. z o.o.
+Celon Pharma Sp. z o.o. ,Celon Pharma Sp. z o.o. 
+Celon Pharma Spółka z ograniczoną odpowiedzialnością ,Celon Pharma Sp. z o.o.
+Cemex Polska Sp.zo.o.,Cemex Polska Sp.zo.o.
+Centralna Komisja Egzaminacyjna,Centralna Komisja Egzaminacyjna
+Centralny Zarząd Służby Więziennej,Centralny Zarząd Służby Więziennej
+Centre de Coordination et de Gestion (ens. obligatoire,Centre de Coordination et de Gestion (ens. obligatoire
+Centre for Process Innovation (CPI),Centre for Process Innovation (CPI)
+Centrede Coordination et de Gestion (ens. obligatoire),Centrede Coordination et de Gestion (ens. obligatoire)
+CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA,CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA
+CENTRO DOCENTE DE LA CEUCD,CENTRO DOCENTE DE LA CEUCD
+"Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE","Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE"
+"Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE","Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE"
+Centro Hospiltalar de Trás-os-Montes e Alto DouroEPE,Centro Hospiltalar de Trás-os-Montes e Alto DouroEPE
+"Centro Hospitalar do Porto, E. P. E..","Centro Hospitalar do Porto, EPE"
+"CENTRO HOSPITALAR DO PORTO, E.P.E.","Centro Hospitalar do Porto, EPE"
+"Centro Hospitalar do Porto, EPE","Centro Hospitalar do Porto, EPE"
+"Centro Hospitalar do Porto, EPE","Centro Hospitalar do Porto, EPE"
+"Centro Hospitalar do Tâmega e Sousa, EPE","Centro Hospitalar do Tâmega e Sousa, EPE"
+Centrum Badań Molekularnych i Makromolekularnych PAN w Łodzi,Centrum Badań Molekularnych i Makromolekularnych PAN w Łodzi
+Centrum Medyczne Kształcenia Podyplomowego w Warszawie,Centrum Medyczne Kształcenia Podyplomowego w Warszawie
+Centrum Onkologii - Instytut im. Marii Skłodowskiej-Curie Oddział w Gliwicach,Centrum Onkologii - Instytut im. Marii Skłodowskiej-Curie Oddział w Gliwicach
+Centrum pro regionální rozvoj ČR,Centrum pro regionální rozvoj ČR
+Centrum Rozwoju Zasobów Ludzkich,Centrum Rozwoju Zasobów Ludzkich
+Centrum Rozwoju Zasobów Ludzkich,Centrum Rozwoju Zasobów Ludzkich
+Centrum Systemów Informacyjnych Ochrony Zdrowia,Centrum Systemów Informacyjnych Ochrony Zdrowia
+Centrum Systemów Informacyjnych Ochrony Zdrowia,Centrum Systemów Informacyjnych Ochrony Zdrowia
+Česká agentura na podporu obchodu/CzechTrade,Česká agentura na podporu obchodu/CzechTrade
+"České dráhy, a.s.","České dráhy, a.s."
+"Českomoravská záruční a rozvojová banka, a.s.","Českomoravská záruční a rozvojová banka, a.s."
+"Českomoravská záruční a rozvojová banka, a.s.","Českomoravská záruční a rozvojová banka, a.s."
+ČESKÝ STATISTICKÝ ÚŘAD,ČESKÝ STATISTICKÝ ÚŘAD
+Český úřad zeměměřický a katastrální,Český úřad zeměměřický a katastrální
+Cezar S.A.,Cezar S.A.
+CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA REUNION,CHAMBRE DE COMMERCE ET D'INDUSTRIE DE LA REUNION
+Chambre régionale de commerce et dindustrie de Paris et d'Île-de-France,Chambre régionale de commerce et dindustrie de Paris et d'Île-de-France
+Chwarae Teg,Chwarae Teg
+City & County of Swansea,City & County of Swansea
+"City & County of Swansea Joint Sponsorship � City & County Swansea (lead), Neath Port Talbot CBC, Carmarthenshir e CBC, Pembrokeshire CBC, Bridgend CC & Ceredigion CC ","City & County of Swansea Joint Sponsorship � City & County Swansea (lead), Neath Port Talbot CBC, Carmarthenshir e CBC, Pembrokeshire CBC, Bridgend CC & Ceredigion CC "
+"City & County of Swansea Joint Sponsorship � City & County Swansea (lead), Neath Port Talbot CBC, Carmarthenshire CBC, Pembrokeshire CBC, Bridgend CC & Ceredigion CC","City & County of Swansea Joint Sponsorship � City & County Swansea (lead), Neath Port Talbot CBC, Carmarthenshire CBC, Pembrokeshire CBC, Bridgend CC & Ceredigion CC"
+CJ caras Severin,CJ caras Severin
+Classen-Pol SA,Classen-Pol SA
+Compania de Someş S.A.,S.C. Compania de Someş S.A.
+Compania de Someş S.A.,Compania de Someş S.A.
+Compania Naţională Administraţia Porturilor Maritime S.A. Constanţa,Compania Naţională Administraţia Porturilor Maritime S.A. Constanţa
+Compania Naţională de Autostrăzi şi Drumuri Naţionale din România,Compania Naţională de Autostrăzi şi Drumuri Naţionale din România 
+Compania Naţională de Autostrăzi şi Drumuri Naţionale din România,Compania Naţională de Autostrăzi şi Drumuri Naţionale din România 
+Compania Naţională de Autostrăzi și Drumuri Naționale din România,Compania Naţională de Autostrăzi şi Drumuri Naţionale din România 
+Comune di Firenze,Comune di Firenze
+COMUNE DI GENOVA,COMUNE DI GENOVA
+Comune di Napoli,Comune di Napoli
+Comune di Napoli,Comune di Napoli
+Comune di Salerno,Comune di Salerno
+COMUNIDAD AUTÓNOMA DE CASTILLA-LA MANCHA,COMUNIDAD AUTÓNOMA DE CASTILLA-LA MANCHA
+COMUNIDAD AUTONOMA DE LA REGION DE MURCIA,COMUNIDAD AUTONOMA DE LA REGION DE MURCIA
+COMUNIDAD AUTONOMA DE LA REGION DE MURCIA,COMUNIDAD AUTONOMA DE LA REGION DE MURCIA
+COMUNIDAD AUTONOMA DE LA RIOJA,COMUNIDAD AUTONOMA DE LA RIOJA
+COMUNIDAD AUTONOMA DE MADRID,COMUNIDAD AUTONOMA DE MADRID
+Confederação do Comércio e Serviços de Portugal — CCP,Confederação do Comércio e Serviços de Portugal — CCP
+Confederação dos Agricultores de Portugal,Confederação dos Agricultores de Portugal
+CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM),CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM)
+CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) ,CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) 
+CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) ,CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) 
+Confederación Hidrográfica del Duero del MARM,Confederación Hidrográfica del Duero del MARM
+CONFEDERACIÓN HIDROGRÁFICA DEL MIÑO-SIL,CONFEDERACIÓN HIDROGRÁFICA DEL MIÑO-SIL
+CONSEIL GENERAL DU NORD,CONSEIL GENERAL DU NORD
+CONSEIL GENERAL DU PAS-DE-CALAIS,CONSEIL GENERAL DU PAS-DE-CALAIS
+CONSEIL REGIONAL,CONSEIL REGIONAL
+CONSEIL REGIONAL CHAMPAGNE ARDENNE,CONSEIL REGIONAL CHAMPAGNE ARDENNE
+Conseil Régional d'Alsace,Conseil Régional d'Alsace
+CONSEIL REGIONAL D'AQUITAINE,CONSEIL REGIONAL D'AQUITAINE
+Conseil régional d'Île-de-France,Conseil régional d'Île-de-France
+Conseil Régional de Basse-Normandie,Conseil Régional de Basse-Normandie
+Conseil Régional de Bourgogne,Conseil Régional de Bourgogne
+Conseil Régional de Bretagne,Conseil Régional de Bretagne
+CONSEIL REGIONAL DE FRANCHE-COMTE,CONSEIL REGIONAL DE FRANCHE-COMTE
+Conseil Régional de Guyane,Conseil Régional de Guyane
+Conseil Régional de Haute-Normandie,Conseil Régional de Haute-Normandie
+CONSEIL REGIONAL DE LA GUADELOUPE,CONSEIL REGIONAL DE LA GUADELOUPE
+CONSEIL REGIONAL DE LA MARTINIQUE,CONSEIL REGIONAL DE LA MARTINIQUE
+Conseil régional de Lorraine,Conseil régional de Lorraine
+Conseil Régional de Picardie,Conseil Régional de Picardie
+Conseil Régional du Centre,Conseil Régional du Centre
+Conseil Régional du Limousin,Conseil Régional du Limousin
+Conseil Régional Nord Pas de Calais,Conseil Régional Nord Pas de Calais
+Conseil Régional Poitou-Charentes,Conseil Régional Poitou-Charentes
+Conseil Régional Provence Alpes Côtes- d'Azur,Conseil Régional Provence Alpes Côtes- d'Azur
+Conseil Régional Rhône-Alpes,Conseil Régional Rhône-Alpes
+"Consejo Superior de Cámaras Oficiales de Comercio, Industria y Navegación","Consejo Superior de Cámaras Oficiales de Comercio, Industria y Navegación"
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+Consiliul Judeţean Arad,Consiliul Judeţean Arad
+Consiliul judetean Arges,Consiliul judetean Arges
+Consiliul Judetean Bistrita Nasaud,Consiliul Judetean Bistrita Nasaud
+Consiliul Judeţean Bistriţa- Năsăud,Consiliul Judetean Bistrita Nasaud
+Consiliul Judetean Buzau si UAT Merei,Consiliul Judetean Buzau si UAT Merei
+Consiliul judetean Calarasi,Consiliul judetean Calarasi
+Consiliul Judetean Constanta,Consiliul Judetean Constanta
+Consiliul Judetean Dolj,Consiliul Judetean Dolj
+Consiliul Judeţean Giurgiu,Consiliul Judeţean Giurgiu
+Consiliul Judeţean Hunedoara,Consiliul Judeţean Hunedoara
+Consiliul Judetean Ilfov,Consiliul Judetean Ilfov
+Consiliul Judetean Maramures,Consiliul Judetean Maramures
+Consiliul Judeţean Vrancea,Consiliul Judeţean Vrancea
+Consiliul Local Municipal Braila,Consiliul Local Municipal Braila
+Consultor Sp. z o.o.,Consultor Sp. z o.o.
+Cornwall College,Cornwall College
+CORNWALL COUNCIL,CORNWALL COUNCIL
+Cornwall County Council,Cornwall County Council
+Cornwall Development Company,Cornwall Development Company
+Creator Sp. z o.o.,Creator Sp. z o.o.
+CTC Polska sp. z o.o.,CTC Polska sp. z o.o.
+CTC Polska sp. z o.o.,CTC Polska sp. z o.o.
+CVMPSVR SR,CVMPSVR SR
+D.G. de Sostenibilidad de la Costa y el Mar (MARM),D.G. de Sostenibilidad de la Costa y el Mar (MARM)
+D.G. FERROCARRILES (M. FOMENTO),D.G. FERROCARRILES (M. FOMENTO)
+D&D Resory Polska Sp. z o.o.,D&D Resory Polska Sp. z o.o.
+DAKRI- BIS Spółka z ograniczoną odpowiedzialnością ,DAKRI- BIS Sp. z o.o.
 DARS d.d.,Družbe za avtoceste v Republiki Sloveniji
+DARS d.d.,DARS d.d.
+Daugavpils pilsētas dome,Daugavpils pilsētas dome
+Daugavpils Universitāte ,Daugavpils Universitāte 
+DB Netz AG,DB Netz AG
+Debrecen Megyei Jogú Város Önkormányzat,Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzat,Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzata,Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzata (Végrehajtó szerve: DMJV Polgármesteri Hivatal),Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzata (Végrehatjó szerve: Polgármesteri Hivatal),Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzata Végrehajtó szerve: DMJV Polgármesteri Hivatal,Debrecen Megyei Jogú Város Önkormányzat
+Debrecen Megyei Jogú Város Önkormányzata Végrehajtó Szervezete a Polgármesteri Hivatal.,Debrecen Megyei Jogú Város Önkormányzat
+Debreceni Egyetem,Debreceni Egyetem
+Dél-dunántúli Környezetvédelmi és Vízügyi Igazgatóság,Dél-dunántúli Környezetvédelmi és Vízügyi Igazgatóság
+Délégation générale à l'emploi et à la formation professionnelle (DGEFP),Délégation générale à l'emploi et à la formation professionnelle (DGEFP)
+Deloitte,Deloitte
+DELOITTE ABOGADOS SL ,Deloitte
+DELOITTE CONSULTING SL ,Deloitte
+DELOITTE CORPORATE FINANCE S.L.U ,Deloitte
+"DELOITTE, S.L. ",Deloitte
+Delphi Poland Spółka Akcyjna,Delphi Poland Spółka Akcyjna
+"DELTA DEFENCE, a.s.","DELTA DEFENCE, a.s."
+Denbighshire County Council,Denbighshire County Council
+"Departament Edukacji i Sportu, Urząd Marszałkowski Województwa Małopolskiego ",Województwo Małopolskie
+"Departament Instytucji Płatniczej, Ministerstwo Finansów ",Ministerstwo Finansów
+Departament Rozwoju Gospodarczego Urzędu Marszałkowskiego Województwa Pomorskiego/Samorząd Województwa Pomorskiego ,Samorząd Województwa Pomorskiego
+DEPARTEMENT DE LA REUNION,DEPARTEMENT DE LA REUNION
+"Department for Children, Education, Lifelong Learning & Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Children, Education, Lifelong learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning & Skills - Welsh Assembly Government"
+"Department for Environment, Sustainability & Housing - Welsh Assembly Government","Department for Environment, Sustainability & Housing - Welsh Assembly Government"
+"Department for Environment, Sustainability & Housing- Welsh Assembly Government","Department for Environment, Sustainability & Housing - Welsh Assembly Government"
+Department for Social Justice & Local Government -Welsh Assembly Government,Department for Social Justice & Local Government -Welsh Assembly Government
+Department for the Economy,Department for the Economy
+Department for the Economy & Transport - Welsh Assembly Government,Department for the Economy & Transport - Welsh Assembly Government
+Department for the Economy & Transport -Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
+Department for the Economy & Transport � Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
+Department for the Economy & Transport � Welsh Assembly Government,Department for the Economy & Transport � Welsh Assembly Government
+Department for the Economy &Transport - Welsh Assembly,Department for the Economy &Transport - Welsh Assembly
+Department for the Economy &Transport -Welsh Assembly,Department for the Economy &Transport - Welsh Assembly 
+Department for the Economy &Transport -Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
+Department for the Economy &Transport � Welsh Assembly Government,Department for the Economy &Transport � Welsh Assembly Government
+Department for the Economy &Transport � Welsh Assembly Government,Department for the Economy &Transport � Welsh Assembly Government
+Department of Rural Affairs and Heritage - Welsh Assembly Government,Department of Rural Affairs and Heritage - Welsh Assembly Government
+Department of Rural Affairs and Heritage - Welsh Assembly Government,Department of Rural Affairs and Heritage - Welsh Assembly Government
+Department of the Economy & Transport � Welsh Assembly Government,Department of the Economy & Transport � Welsh Assembly Government
+DG PRESUPUESTOS DE LA JUNTA DE CASTILLA Y LEÓN ,JUNTA DE CASTILLA Y LEON
+"DIAMO, státní podnik","DIAMO, státní podnik"
+Diecezja Legnicka,Diecezja Legnicka
+Diecezja Łowicka,Diecezja Łowicka
+Dipartimento della P.S. - Direzione Centrale Affari Generali - Centro Elettronico Nazionale della Polizia di Stato,Dipartimento della P.S. - Direzione Centrale Affari Generali - Centro Elettronico Nazionale della Polizia di Stato
+Dipartimento della P.S. - Direzione Centrale per i Servizi Tecnico Logistici e della Gestione Patrimoniale - Ufficio UTAM,Dipartimento della P.S. - Direzione Centrale per i Servizi Tecnico Logistici e della Gestione Patrimoniale - Ufficio UTAM
+Dipartimento della P.S. - Direzione Centrale Polizia Criminale - Servizio per il Sistema Informativo Interforze,Dipartimento della P.S. - Direzione Centrale Polizia Criminale - Servizio per il Sistema Informativo Interforze
+DIPUTACIÓN DE BADAJOZ,DIPUTACIÓN DE BADAJOZ
+DIPUTACIÓN DE CÁDIZ ,DIPUTACIÓN DE CÁDIZ 
+DIPUTACIÓN DE JAEN,DIPUTACIÓN DE JAÉN
+DIPUTACIÓN DE JAÉN,DIPUTACIÓN DE JAÉN
+DIPUTACION DE SEVILLA,DIPUTACION DE SEVILLA
+DIPUTACION FORAL DE BIZKAIA,DIPUTACION FORAL DE BIZKAIA
+DIPUTACIÓN GENERAL DE ARAGÓN,DIPUTACIÓN GENERAL DE ARAGÓN
+Direcção Regional da Cultura,Direcção Regional da Cultura
+Direcção Regional da Educação,Direcção Regional da Educação
+Direcção Regional das Pescas,Direcção Regional das Pescas
+Direcção Regional do Ambiente,Direcção Regional do Ambiente
+Direcção Regional do Desenvolvimento Agrário,Direcção Regional do Desenvolvimento Agrário
+Direcção Regional dos Transportes Aéreos e Marítimos,Direcção Regional dos Transportes Aéreos e Marítimos
+Direcção-Geral do Ensino Superior,Direcção-Geral do Ensino Superior
+DIRECCION GENERAL DE CARRETERAS (M.FOMENTO),DIRECCION GENERAL DE CARRETERAS (M.FOMENTO)
+DIRECCIÓN GENERAL DE PLANIFICACIÓN Y FONDOS DE LA XUNTA DE GALICIA,XUNTA DE GALICIA
+DIRECCIÓN GENERAL DEL AGUA (MARM),DIRECCIÓN GENERAL DEL AGUA (MARM)
+DIRECCIÓN GENERAL DEL AGUA (MARM),DIRECCIÓN GENERAL DEL AGUA (MARM)
+DIRECCION GENERAL DEL SPEE ,DIRECCION GENERAL DEL SPEE 
+Direction départementale de l'Equipement,Direction départementale de l'Equipement
+Dolní oblast V?TKOVICE,Dolní oblast V?TKOVICE
+"Dopravní podnik hl.m. Prahy ,akciová společnost","Dopravní podnik hl.m. Prahy ,akciová společnost"
+"Dopravní podnik města Brna,a.s.","Dopravní podnik města Brna,a.s."
+DR Transportes Aéreos e Marítimos,DR Transportes Aéreos e Marítimos
+DRUKARNIA SKLENIARZ Włodzimierz Skleniarz,DRUKARNIA SKLENIARZ Włodzimierz Skleniarz
+Dudley Metropolitan Borough Council,Dudley Metropolitan Borough Council
+Dyrektor Urzędu Morskiego w Szczecinie,Dyrektor Urzędu Morskiego w Szczecinie
+Działdowska Agencja Rozwoju S.A. ,Działdowska Agencja Rozwoju S.A. 
+EARTHLIFE-NOVAS TECNOLOGIAS PARA AS ENERGIAS RENOVÁVEIS,EARTHLIFE-NOVAS TECNOLOGIAS PARA AS ENERGIAS RENOVÁVEIS
+East of England Development Agency,East of England Development Agency
+ECO Pellets,ECO Pellets
+ECO-Strom Plus GmbH Chemie,ECO-Strom Plus GmbH Chemie
+EDF Polska Sp. z o.o.,EDF Polska Sp. z o.o.
+Educatio Társadalmi Szolgáltató Nonprofit Kft.,Educatio Társadalmi Szolgáltató Nonprofit Kft.
+Eesti Teadusfond,Eesti Teadusfond
+Eesti Töötukassa,Eesti Töötukassa
+Egnatia Odos SA.,Egnatia Odos SA.
+Ekobenz sp. z o.o,Ekobenz sp. z o.o
+Elektriraudtee AS,Elektriraudtee AS
+Employment and Training Corporation (ETC),Employment and Training Corporation (ETC)
+Emsland-Aller Aqua GmbH,Emsland-Aller Aqua GmbH
+ENDOMINES OY,ENDOMINES OY
+EnergieAgentur.NRW GmbH,EnergieAgentur.NRW GmbH
+ENISA Empresa Nacional de Innovación SA (MITC),ENISA Empresa Nacional de Innovación SA (MITC)
+ENTIDAD PUBLICA EMPRESARIAL RED.ES (MITC),ENTIDAD PUBLICA EMPRESARIAL RED.ES (MITC)
+Epon,Epon
+EPV Solar Germany GmbH,EPV Solar Germany GmbH
+Érd és Térsége Szennyví zelvezetési- és Szennyví ztisztí tási Ökormányzati Társulás,Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás
+Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás,Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás
+ERNST & YOUNG ,Ernst & Young 
+Ernst & Young ,Ernst & Young 
+ERNST & YOUNG ABOGADOS SL ,Ernst & Young 
+ERNST & YOUNG FINANCIAL - BUSINESS ADVISORS S.P.A. ,Ernst & Young 
+ERNST & YOUNG SERVICIOS CORPORATIVOS SL ,Ernst & Young 
+ERNST AND YOUNG ESPANA SA ,Ernst & Young 
+ERNST AND YOUNG SL ,Ernst & Young 
+ESF - AGENTSCHAP VLAANDEREN vzw,ESF - AGENTSCHAP VLAANDEREN vzw
+Essex County Council,Essex County Council
+ESZA Társadalmi Szolgáltató Nonprofit Kft.,ESZA Társadalmi Szolgáltató Nonprofit Kft.
+Észak-dunántúli Környezetvédelmi és Vízügyi Igazgatóság,Észak-dunántúli Környezetvédelmi és Vízügyi Igazgatóság
+Eszterházy Károly Főiskola,Eszterházy Károly Főiskola
+Etablissement Public d'insertion de la Défense,Etablissement Public d'insertion de la Défense
+Ettevõtluse Arendamise Sihtasutus,Ettevõtluse Arendamise Sihtasutus
+Euro-Konsult,Euro-Konsult Sp. z o.o 
+Euro-Konsult Sp. z o.o,Euro-Konsult Sp. z o.o 
+Euro-Konsult Sp. z o.o ,Euro-Konsult Sp. z o.o 
+Euro-Konsult Sp. z o.o.,Euro-Konsult Sp. z o.o 
+Euroimplant S.A.,Euroimplant S.A.
+EUROIMPLANT S.A.,Euroimplant S.A.
+European Investment Bank,European Investment Bank
+European Investment Fund,European Investment Fund
+Europejski Bank Inwestycyjny,Europejski Bank Inwestycyjny
+Europejski Bank Inwestycyjny,Europejski Bank Inwestycyjny
+EUROPEJSKIE CENTRUM ZDROWIA OTWOCK Sp z o. o.,EUROPEJSKIE CENTRUM ZDROWIA OTWOCK Sp z o. o.
+Europos investicijų bankas,Europos investicijų bankas
+Europos investicinis fondas,Europos investicinis fondas
+Europos investicinis fondas,Europos investicinis fondas
+EXELSIOR GROUP s.r.o.,EXELSIOR GROUP s.r.o.
+Eyde study projects construction concessions Peloponnese,Eyde study projects construction concessions Peloponnese
+F5 Konsulting Sp z o.o,F5 Konsulting Sp z o.o
+Faber Consulting Sp. z o. o.,Faber Consulting sp. z o.o.
+Faber Consulting sp. z o.o.,Faber Consulting sp. z o.o.
+Faber Consulting sp. z o.o.,Faber Consulting sp. z o.o.
+Faber Consulting sp.zo.o.,Faber Consulting sp. z o.o.
+Faber Consulting Spółka z ograniczoną odpowiedzialnością,Faber Consulting sp. z o.o.
+Fagioli Polska Sp. z o.o.,Fagioli Polska Sp. z o.o.
+FEDERACIO CATALANA DE CACA GENERALITAT DE CATALUNYA ,FEDERACIO CATALANA DE CACA GENERALITAT DE CATALUNYA 
+FEI,FEI
+Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság,Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság
+Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság ,Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság 
+FERCON Sp. z o.o. ,FERCON Sp. z o.o. 
+Ferrovie del Sud Est,Ferrovie del Sud Est
+Fiat Powertrain Technologies,Fiat Powertrain technologies
+Fiat Powertrain Technologies Poland Spółka z ograniczoną odpowiedzialnością,Fiat Powertrain technologies
+Fiat Powertrain Technologies Poland Spółka z ograniczoną odpowiedzialnością ,Fiat Powertrain Technologies
+FIAT POWERTRAIN TECHNOLOGIES SPA ,Fiat Powertrain Technologies
+Filharmonia im. Artura Malawskiego w Rzeszowie,Filharmonia im. Artura Malawskiego w Rzeszowie
+Filharmonia Świętokrzyska im Oskara Kolberga,Filharmonia Świętokrzyska im Oskara Kolberga
+Finance Wales,Finance Wales
+Finance Yorkshire Ltd,Finance Yorkshire Ltd
+FINCALABRA SPA,FINCALABRA SPA
+Flügger Sp. z o.o.,Flügger Sp. z o.o.
+Foglalkoztatási és Szociális Hivatal,Foglalkoztatási és Szociális Hivatal
+Fondazione Campania dei Festival,Fondazione Campania dei Festival
+FONDO 46,FONDO 46
+FONDO 46 Analisi fattuale,FONDO 46
+FONDO 46 GENERALISTA,FONDO 46
+FONDO 46 REACH,FONDO 46
+FONDO 46 START UP,FONDO 46
+Fondo Centrale di Garanzia,Fondo Centrale di Garanzia
+FONDO DI INGEGNERIA FINANZIARIA,FONDO DI INGEGNERIA FINANZIARIA
+FOREM,FOREM
+FourstaR E&S (formerly Mentor Employment & Skills),FourstaR E&S (formerly Mentor Employment & Skills)
+Fraunhofer Gesell-schaft-Institut für Produktionsanlagen und Konstruktins-technik (IPK) ,Fraunhofer Gesellschaft
+Fraunhofer Gesellschaft,Fraunhofer Gesellschaft
+Fraunhofer Gesellschaft ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft München Bau- und ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. (FhG) ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschaft zur Förderungder angewandten Forschung eingetragenerVerein ,Fraunhofer Gesellschaft
+Fraunhofer-Gesellschafte.V.,Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Biomedizinische Technik (IBMT), St. Ingbert",Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Graphische Datenverarbeitung e.V., Institutsteil Rostock ",Fraunhofer Gesellschaft
+Fraunhofer-Institut für Graphische Datenverarbeitung Rostock,Fraunhofer Gesellschaft
+"Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren (lzfP), Saarbrücken ",Fraunhofer Gesellschaft
+Fraunhofer-Institut fürVerkehrs- u. Infrastruktur-systeme,Fraunhofer Gesellschaft
+Fundação para a Ciência e a Tecnologia,Fundação para a Ciência e a Tecnologia
+FUNDACION CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA,FUNDACION CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA
+Fundacja na rzecz Nauki Polskiej,Fundacja na rzecz Nauki Polskiej
+Fundacja Puławskie Centrum Przedsiębiorczości,Fundacja Puławskie Centrum Przedsiębiorczości
+Fundacja Rozwoju Demokracji Lokalnej,Fundacja Rozwoju Demokracji Lokalnej
+Fundacja Rozwoju Lubelszczyzny,Fundacja Rozwoju Lubelszczyzny
+Fundacja Rozwoju Regionu Rabka,Fundacja Rozwoju Regionu Rabka
+Fundacja Rozwoju Śląska oraz Wspierania Inicjatyw Lokalnych,Fundacja Rozwoju Śląska oraz Wspierania Inicjatyw Lokalnych
+FUP/Fonds Paritaire de Sécurisation des Parcours Professionnels,FUP/Fonds Paritaire de Sécurisation des Parcours Professionnels
+Gabinete de Estatística e Planeamento da Educação,Gabinete de Estatística e Planeamento da Educação
+GASTEL SA,GASTEL SA
+Gdański Teatr Szekspirowski,Gdański Teatr Szekspirowski
+Gdański Uniwersytet Medyczny,Uniwersytet Gdański
+Gemeinde Ostseebad Boltenhagen,Gemeinde Ostseebad Boltenhagen
+GENERALITAT DE CATALUNYA,GENERALITAT DE CATALUNYA
+GENERALITAT DE CATALUNYA,GENERALITAT DE CATALUNYA
+GENERALITAT DE CATALUNYA - DEPARTAMENTO DE TRABAJO,GENERALITAT DE CATALUNYA
+GENERALITAT DE CATALUNYA (CORPORACIONES LOCALES),GENERALITAT DE CATALUNYA (CORPORACIONES LOCALES)
+GENERALITAT DE CATALUNYA (CORPORACIONES LOCALES) ,GENERALITAT DE CATALUNYA
+GENERALITAT DE LA COMUNITAT VALENCIANA,GENERALITAT DE LA COMUNITAT VALENCIANA
+Generalna Dyrekcja Dróg Krajowych i Autostrad,Generalna Dyrekcja Dróg Krajowych i Autostrad
+Generalna Dyrekcja Dróg Krajowych i Autostrad,Generalna Dyrekcja Dróg Krajowych i Autostrad
+Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie,Generalna Dyrekcja Dróg Krajowych i Autostrad
+Generalna Dyrekcja Ochrony Środowiska,Generalna Dyrekcja Ochrony Środowiska
+GEPE - Gabinete de Estatística e Planeamento da Educação,Gabinete de Estatística e Planeamento da Educação
+Gestione Governatica Ferrovia Circumetnea,Gestione Governatica Ferrovia Circumetnea
+Gestione Governatica Ferrovia Circumetnea,Gestione Governatica Ferrovia Circumetnea
+"GESTUS, a.s. ","GESTUS, a.s. "
+Global Training Centre Sp.z.o.o ,Global Training Centre Sp.z.o.o 
+GLOBALFOUNDRIES DresdenModule One LLC & Co.KG,GLOBALFOUNDRIES DresdenModule One LLC & Co.KG
+Główny Geodeta Kraju,Główny Geodeta Kraju
+Główny Inspektorat Ochrony Środowiska,Główny Inspektorat Ochrony Środowiska
+Główny Instytut Górnictwa,Główny Instytut Górnictwa
+Główny Instytut Górnictwa w Katowicach ,Główny Instytut Górnictwa
+Główny Urząd Statystyczny,Główny Urząd Statystyczny
+Głubczyckie Wodociągi i Kanalizacja sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Gmina Bardo,Gmina Bardo
+Gmina Buczkowice,Gmina Buczkowice
+Gmina Chrzanów,Gmina Chrzanów
+Gmina Cieszyn,Gmina Cieszyn
+Gmina Gołdap,Gmina Gołdap
+Gmina Janów Lubelski,Gmina Janów Lubelski
+Gmina Jasienica,Gmina Jasienica
+Gmina Kartuzy,Gmina Kartuzy
+Gmina Kłobuck,Gmina Kłobuck
+Gmina Kocmyrzów-Luborzyca,Gmina Kocmyrzów-Luborzyca
+Gmina Konopiska,Gmina Konopiska
+Gmina Konstantynów Łódzki ,Gmina Konstantynów Łódzki 
+Gmina Kozienice,Gmina Kozienice
+Gmina Krotoszyn,Gmina Krotoszyn
+Gmina Krynica-Zdrój,Gmina Krynica-Zdrój
+Gmina Łochów,Gmina Łochów
+Gmina Miasta Brodnicy,Gmina Miasta Brodnicy
+Gmina Miasta Gdyni,Gmina Miasta Gdyni
+Gmina Miasta Gdyni - Gdyńskie Centrum Innowacji Jednostka Budżetowa,Gmina Miasta Gdyni - Gdyńskie Centrum Innowacji Jednostka Budżetowa
+Gmina Miasta Radomia,Gmina Miasta Radomia
+Gmina Miasta Sopotu,Gmina Miasta Sopotu
+Gmina Miasta Tarnowa,Gmina Miasta Tarnowa
+Gmina Miasta Tarnowa - Urząd Miasta Tarnowa,Gmina Miasta Tarnowa - Urząd Miasta Tarnowa
+Gmina Miasto Częstochowa,Gmina Miasto Częstochowa
+Gmina Miasto Elbląg,Gmina Miasto Elbląg
+Gmina Miasto Hel,Gmina Miasto Hel
+Gmina Miasto Łowicz,Gmina Miasto Łowicz
+Gmina Miasto Lublin,Gmina Miasto Lublin
+Gmina Miasto Olsztyn,Gmina Miasto Olsztyn
+Gmina Miasto Piotrków Trybunalski,Gmina Miasto Piotrków Trybunalski
+Gmina Miasto Rzeszów,Gmina Miasto Rzeszów
+Gmina Miasto Szczecin,Gmina Miasto Szczecin
+Gmina Miasto Włocławek,Gmina Miasto Włocławek
+Gmina Miejska Iława,Gmina Miejska Iława
+Gmina Miejska Kielce,Gmina Miejska Kielce
+Gmina Miejska Kraków,Gmina Miejska Kraków
+Gmina Miejska Kraków - Centrum Kształcenia Praktyczego,Gmina Miejska Kraków
+Gmina Miejska Kraków - Grodzki Urząd Pracy w Krakowie,Gmina Miejska Kraków
+Gmina Miejska Kraków - Zespół Szkół Elektrycznych Nr 2 w Krakowie,Gmina Miejska Kraków
+Gmina Miejska Kraków - Zespół Szkół Energetycznych,Gmina Miejska Kraków
+Gmina Miejska Kraków/Poradnia Psychologiczno-Pedagogiczna nr 2,Gmina Miejska Kraków
+Gmina Miejska Kraków/Zespół Ekonomiki Oświaty Kraków-Południe,Gmina Miejska Kraków
+Gmina Miejska Kraków/Zespół Szkół Specjalnych Nr 14,Gmina Miejska Kraków
+Gmina Miejska Kwidzyn,Gmina Miejska Kwidzyn
+Gmina Miejska Ostróda,Gmina Miejska Ostróda
+Gmina Miejska Pruszcz Gdański,Gmina Miejska Pruszcz Gdański
+Gmina Miejska Żory,Gmina Miejska Żory
+Gmina Olecko,Gmina Olecko
+Gmina Olsztyn,Gmina Olsztyn
+Gmina Opoczno,Gmina Opoczno
+Gmina Prusice,Gmina Prusice
+Gmina Sławno,Gmina Sławno
+Gmina Śmigiel,Gmina Śmigiel
+Gmina Stalowa Wola,Gmina Stalowa Wola
+Gmina Szemud,Gmina Szemud
+Gmina Tarnowskie Góry,Gmina Tarnowskie Góry
+Gmina Tczew,Gmina Tczew
+Gmina Trzebownisko,Gmina Trzebownisko
+Gmina Uniejów,Gmina Uniejów
+Gmina Wisła,Gmina Wisła
+Gmina Witnica,Gmina Witnica
+GMINA WOLBÓRZ,GMINA WOLBÓRZ
+Gmina Wroclaw,Gmina Wroclaw
+Gmina Wrocław,Gmina Wrocław
+Gmina Zabrze,Gmina Zabrze
+GOBIERNO DE CANARIAS,GOBIERNO DE CANARIAS
+GOBIERNO DE CANARIAS,GOBIERNO DE CANARIAS
+Goleniowskie wodociągi i Kanalizacja Sp. z o.o.,Goleniowskie wodociągi i Kanalizacja Sp. z o.o.
+Goleniowskie wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Golf projekt d.d. ,Golf projekt d.d. 
+GOVERN DE LES ILLES BALEARS,GOVERN DE LES ILLES BALEARS
+Greater London Enterprise Ltd,Greater London Enterprise Ltd
+"GREENCYBER, SA","GREENCYBER, SA"
+Grodziskie Przedsiębiorstwo Komunalne Sp. z o.o.,Grodziskie Przedsiębiorstwo Komunalne Sp. z o.o.
+Grupa Edukacyjna Spółka Akcyjna,Grupa Edukacyjna Spółka Akcyjna
+Grupa Kęty S.A.,Grupa Kęty S.A.
+GTX Hanex Plastic Sp z o.o.,GTX Hanex Plastic Sp z o.o.
+Győr Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás,Győr Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás
+Győr-Moson-Sopron Megye Önkormányzatának Gyermekvédelmi Központja ,Győr-Moson-Sopron Megye Önkormányzatának Gyermekvédelmi Központja 
+Győr-Moson-Sopron Megyei Önkormányzat,Győr-Moson-Sopron Megyei Önkormányzat
+Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság,Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság
+H&M Hennes & Mauritz Logistics Sp. z o.o.,H&M Hennes & Mauritz Logistics Sp. z o.o.
+Hallenbeagle Estates Ltd,Hallenbeagle Estates Ltd
+Hansestadt Rostock,Hansestadt Rostock
+Hansestadt Wismar,Hansestadt Wismar
+"HIDROGUADIANA, S.A.","HIDROGUADIANA, S.A."
+"HIDROGUADIANA, S.A.","HIDROGUADIANA, S.A."
+High Performance Computing Wales ,High Performance Computing Wales 
+HIT Alpinea d.d. ,HIT Alpinea d.d. 
+HLAVNÍ MĚSTO PRAHA ,HLAVNÍ MĚSTO PRAHA 
+Hódmezővásárhely Megyei Jogú Város Önkormányzata,Hódmezővásárhely Megyei Jogú Város Önkormányzata
+House of Skills S.A.,House of Skills S.A.
+Human BioSciences GmbH,Human BioSciences GmbH
+Huta Szkła TUR Adam Szyburski,Huta Szkła TUR Adam Szyburski
+Hydrostroy AD,Hydrostroy AD
+IBB,IBB-Beteiligungsgesellschaft
+IBB-Beteiligungsgesel-lschaft VC Fonds Technologie,IBB-Beteiligungsgesellschaft
+IBB-Beteiligungsgesellschaft,IBB-Beteiligungsgesellschaft
+IBG Beteiligungsgesellschaft Sachsen -Anhalt mbH,IBG Beteiligungsgesellschaft Sachsen -Anhalt mbH
+IBM Data Storage Systems Információtechnológiai Kft. ,IBM Data Storage Systems Információtechnológiai Kft. 
+IBM Deutschland GmbH,IBM Deutschland GmbH
+"IBM Global Services Delivery Center Czech Republic, s.r.o.","IBM Global Services Delivery Center Czech Republic, s.r.o."
+IBM Global Services Delivery Centre Polska Sp. z o.o.,IBM Global Services Delivery Centre Polska Sp. z o.o.
+IBM Global Services Delivery Centre Polska Sp. z o.o.,IBM Global Services Delivery Centre Polska Sp. z o.o.
+IBM Industrielle Blechbearbeitung Menteroda GmbH ,IBM Industrielle Blechbearbeitung Menteroda GmbH 
+IBM Italia S.p.A. ,IBM Italia S.p.A. 
+IFAPME,IFAPME
+IGRETEC,IGRETEC
+IHK-HWK-AusbildungsverbundDresden e.V.,IHK-HWK-AusbildungsverbundDresden e.V.
+IHP GmbH - Innovations for High Performance Microelectronics /,IHP GmbH - Innovations for High Performance Microelectronics /
+"ILHAS DE VALOR , SA","ILHAS DE VALOR , SA"
+In Training (ESD) Ltd,In Training (ESD) Ltd
+Inforsys SA ,Inforsys SA 
+Ingeus,Ingeus
+"Ingeus
+Subcontractors: NA ",Ingeus
+"Ingeus
+Subcontractors: Red Kite Learning,Broadway",Ingeus
+"Ingeus
+Subcontractors: Red Kite Learning,Crisis",Ingeus
+"Ingeus
+Subcontractors: South Bank Employers Group, St Mungos, Inbiz",Ingeus
+"Ingeus
+Subcontractors: Southwark Works, The Start Project",Ingeus
+Inginerie financiere (filiale competitivite Meusinvest),Inginerie financiere (filiale competitivite Meusinvest)
+InPost Sp. z o.o.,InPost Sp. z o.o.
+InQbe Sp. z o. o.,InQbe Sp. z o. o.
+"Instituto da Segurança Social, IP","Instituto da Segurança Social, IP"
+INSTITUTO DE CREDITO OFICIAL (ICO),INSTITUTO DE CREDITO OFICIAL (ICO)
+"Instituto de Emprego da Madeira, IP-RAM","Instituto de Emprego da Madeira, IP-RAM"
+"Instituto de Gestão do Fundo Social Europeu, I.P.","Instituto de Gestão do Fundo Social Europeu, I.P."
+"Instituto do Emprego e Formação Profissional, I. P.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. ","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Santiago do Cacém. ","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Viana do Castelo.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional do Porto.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional do Seixal.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Santiago do Cacém.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Viana do Castelo.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego de Arganil.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego de Lagos.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego de Portimão.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego de Vila Real de Santo António.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego e Formação Profissional de Ponte de Sôr.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional da Amadora.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional da Amadora.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional da Guarda.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Águeda.","Instituto do Emprego e Formação Profissional, I. P."
@@ -92,352 +870,1011 @@ DARS d.d.,Družbe za avtoceste v Republiki Sloveniji
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Alverca.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Beja.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Leiria.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Lisboa para o Sector Terciário.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Portalegre.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Riomeão.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Santarém.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Santiago do Cacém.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Santiago do Cacém. ","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Seia.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Setúbal.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Sintra.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Tomar.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Viana do Castelo.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Vila Real.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Viseu.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional da Amadora.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Águeda.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional do Porto para o Sector Terciário.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional do Porto.","Instituto do Emprego e Formação Profissional, I. P."
+"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional do Seixal.","Instituto do Emprego e Formação Profissional, I. P."
 "Instituto do Emprego e Formação Profissional, I. P. — Centro de Reabilitação Profissional de Alcoitão/Ranholas.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Emprego de Vila Real de Santo António.","Instituto do Emprego e Formação Profissional, I. P."
-"Instituto do Emprego e Formação Profissional, I. P. — Centro de Formação Profissional de Lisboa para o Sector Terciário.","Instituto do Emprego e Formação Profissional, I. P."
-31364501 - ŽSR,Zeleznice Slovenskej Republiky
-Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. z siedzibą w Szczecinku Związek Miast i Gmin Dorzecza Parsęty z siedzibą w Karlinie działający w imieniu,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
-Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
-Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-"Przedsiębiorstwo Gospodarki Komunalnej ""Partner"" Spółka z o.o.",Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-Przedsiębiorstwo Wodociągów i Kanalizacji w Obornikach Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-Miejskie Przedsiębiorstwo Gospodarki Komunalnej Spółka z ograniczoną odpowiedzialnością,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o. w Łaziskach Górnych,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓ?KA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-Przedsiębiorstwo Wodociągów i Kanalizacji spółka z ograniczoną odpowiedzialnością,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-"Ministerstvo školství, mládeže a tělovýchovy","Ministerstvo školství, mládeže a tělovýchovy"
-Województwo Podlaskie ,Województwo Podlaskie 
-Województwo Podlaskie/Urząd Marszałkowski Woj. Podlaskiego (Departament Zdrowia) ,Województwo Podlaskie 
-Politechnika Świętokrzyska ,Politechnika Świętokrzyska 
-Politechnika Świętokrzyska w Kielcach ,Politechnika Świętokrzyska 
-Związek Międzygminny „Puszcza Zielonka” ,Związek Międzygminny
-Związek Międzygminny ds. Ekologii w Żywcu ,Związek Międzygminny
-Głubczyckie Wodociągi i Kanalizacja sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Goleniowskie wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Miejskie Wodociągi i Kanalizacja Spółka z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Rawskie Wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Wodociągi i Kanalizacja Krzeszowice Sp z o.o.,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Wodociągi i Kanalizacja Spółka z ograniczoną odpowiedzialnością ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Zielonogórskie Wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-Miejskie Wodociągi i Kanalizacja spółka z ograniczoną odpowiedzialnością ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
-35914939 - ZSSK a.s.,Zeleznicna Spolocnost Slovensko A.S.
-SEETEC ,Seetec
-Seetec,Seetec
-Władza Wdrażająca Programy Europejskie (WWPE),Implementing Authority for European Programmes 
-Fraunhofer Gesellschaft ,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschafte.V.,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. ,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft zur Förderungder angewandten Forschung eingetragenerVerein ,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft München Bau- und ,Fraunhofer Gesellschaft
-Fraunhofer-Institut für Graphische Datenverarbeitung Rostock,Fraunhofer Gesellschaft
-"Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren (lzfP), Saarbrücken ",Fraunhofer Gesellschaft
-Fraunhofer-Institut fürVerkehrs- u. Infrastruktur-systeme,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft zur Förderung der Angewandten Forschung ,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. (FhG) ,Fraunhofer Gesellschaft
-Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.,Fraunhofer Gesellschaft
-Fraunhofer Gesell-schaft-Institut für Produktionsanlagen und Konstruktins-technik (IPK) ,Fraunhofer Gesellschaft
-"Fraunhofer-Institut für Graphische Datenverarbeitung e.V., Institutsteil Rostock ",Fraunhofer Gesellschaft
-"Fraunhofer-Institut für Biomedizinische Technik (IBMT), St. Ingbert",Fraunhofer Gesellschaft
-"Calder Holdings BV
-Subcontractors: NA ",Calder Holdings
-Calder Holdings BV,Calder Holdings
-Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. z siedzibą w Szczecinku Związek Miast i Gmin Dorzecza Parsęty z siedzibą w Karlinie działający w imieniu,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
-PKP Polskie Linie Kolejowe Spółka Akcyjna Oddział Regionalny w Poznaniu,PKP Polskie Linie Kolejowe
-PKP Polskie Linie Kolejowe S.A.,PKP Polskie Linie Kolejowe
-PKP Polskie Linie Kolejowe S.A Oddział Regionalny w Szczecinie,PKP Polskie Linie Kolejowe
-PKP Polskie Linie Kolejowe Spółka Akcyjna Oddział Regionalny w Poznaniu,PKP Polskie Linie Kolejowe
-"""DAKRI- BIS"" Sp. z o.o. ",DAKRI- BIS Sp. z o.o.
-DAKRI- BIS Spółka z ograniczoną odpowiedzialnością ,DAKRI- BIS Sp. z o.o.
-Akademia Górniczo Hutnicza ,Akademia Górniczo Hutnicza 
-Akademia Górniczo-Hutnicza ,Akademia Górniczo Hutnicza 
-AGH-Akademia Górniczo Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza 
-Akademia Górniczo – Hutnicza im Stanisława Staszica ,Akademia Górniczo Hutnicza 
-Akademia Górniczo Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza 
-Akademia Górniczo-Hutnicza im. Stanisława Staszica ,Akademia Górniczo Hutnicza 
-Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie ,Akademia Górniczo Hutnicza 
-"Akademia Górniczo-Hutnicza, Wydział Fizyki i Informatyki Stosowanej ",Akademia Górniczo Hutnicza 
-"Akademia Górniczo - Hutnicza im. Stanisława Staszica w Krakowie Wydział Geologii, Geofizyki i Ochrony Środowiska ",Akademia Górniczo Hutnicza 
-Akademia Górniczo - Hutnicza im. Stanisława Staszica w Krakowie ,Akademia Górniczo Hutnicza 
-Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
-Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság.,Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
-Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. ,Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. 
-	Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o. w Łaziskach Górnych ,Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. 
-"Przedsiębiorstwo Gospodarki Komunalnej ""Sanikom"" sp. z o.o. ",Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. 
+Instituto Español de Comercio Exterior (ICEX) (MITC),Instituto Español de Comercio Exterior (ICEX) (MITC)
+Institutul National de Informare si Documentare,Institutul National de Informare si Documentare
+Instytucja Zarządzająca RPOWP - Zarząd Województwa Podlaskiego,Instytucja Zarządzająca RPOWP - Zarząd Województwa Podlaskiego
+Instytut Agrofizyki im. Bohdana Dobrzańskiego PAN w Lublinie,Instytut Agrofizyki im. Bohdana Dobrzańskiego PAN w Lublinie
+Instytut Badań Edukacyjnych w Warszawie,Instytut Badań Edukacyjnych w Warszawie
+Instytut Badań Edukacyjnych w Warszawie,Instytut Badań Edukacyjnych w Warszawie
+Instytut Badawczy Dróg i Mostów,Instytut Badawczy Dróg i Mostów
+Instytut Biochemii i Biofizyki Polskiej Akademii Nauk,Instytut Biochemii i Biofizyki Polskiej Akademii Nauk
+Instytut Biologii Medycznej PAN,Instytut Biologii Medycznej PAN
+Instytut Biotechnologii i Antybiotyków,Instytut Biotechnologii i Antybiotyków
+Instytut Chemicznej Przeróbki Węgla,Instytut Chemicznej Przeróbki Węgla
+Instytut Chemii Bioorganicznej PAN- Poznańskie Centrum Superkomputerowo-Sieciowe,Instytut Chemii Bioorganicznej PAN- Poznańskie Centrum Superkomputerowo-Sieciowe
+Instytut Chemii Bioorganicznej Polskiej Akademii Nauk - Poznańskie Centrum Superkomputerowo-Sieciowe,Instytut Chemii Bioorganicznej Polskiej Akademii Nauk - Poznańskie Centrum Superkomputerowo-Sieciowe
+Instytut Chemii i Techniki Jądrowej,Instytut Chemii i Techniki Jądrowej
+Instytut Chemii Organicznej Polskiej Akademii Nauk,Instytut Chemii Organicznej Polskiej Akademii Nauk
+Instytut Chemii Przemysłowej im. Prof. Ignacego Mościckiego,Instytut Chemii Przemysłowej im. Prof. Ignacego Mościckiego
+Instytut Farmaceutyczny,Instytut Farmaceutyczny
+Instytut Farmakologii Polskiej Akademii Nauk,Instytut Farmakologii Polskiej Akademii Nauk
+Instytut Fizjologii i Patologii Słuchu,Instytut Fizjologii i Patologii Słuchu
+Instytut Fizyki Jądrowej im. H.Niewodniczańskiego Polskiej Akademii Nauk,Instytut Fizyki Jądrowej im. H.Niewodniczańskiego Polskiej Akademii Nauk
+Instytut Fizyki Molekularnej PAN,Instytut Fizyki Molekularnej PAN
+Instytut Fizyki Polskiej Akademii Nauk,Instytut Fizyki Polskiej Akademii Nauk
+Instytut Genetyki i Hodowli Zwierząt PAN,Instytut Genetyki i Hodowli Zwierząt PAN
+Instytut Genetyki i Hodowli Zwierząt PAN ,Instytut Genetyki i Hodowli Zwierząt PAN 
+Instytut Genetyki i Hodowli Zwierząt PAN w Jastrzębcu,Instytut Genetyki i Hodowli Zwierząt PAN
+Instytut Genetyki Roślin Polskiej Akademii Nauk,Instytut Genetyki Roślin Polskiej Akademii Nauk
+Instytut Gruźlicy i Chorób Płuc Oddział Terenowy im.Jana i Ireny Rudników w Rabce-Zdrój,Instytut Gruźlicy i Chorób Płuc Oddział Terenowy im.Jana i Ireny Rudników w Rabce-Zdrój
+Instytut Gruźlicy i Chorób Płuc w Warszawie,Instytut Gruźlicy i Chorób Płuc w Warszawie
+Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego,Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego
+Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego ,Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego 
+Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego w Warszawie ,Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego 
+Instytut Lotnictwa,Instytut Lotnictwa
+Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk,Instytut Maszyn Przepływowych im. Roberta Szewalskiego Polskiej Akademii Nauk
+Instytut Metali Nieżelaznych,Instytut Metali Nieżelaznych
+Instytut Meteorologii i Gospodarki Wodnej,Instytut Meteorologii i Gospodarki Wodnej
+Instytut Netable Sp. z o.o.,Instytut Netable Sp. z o.o.
+Instytut Oceanologii Polskiej Akademii Nauk,Instytut Oceanologii Polskiej Akademii Nauk
+Instytut Odlewnictwa,Instytut Odlewnictwa
+Instytut Podstawowych Problemów Techniki PAN,Instytut Podstawowywch Problemów Techniki PAN
+Instytut Podstawowywch Problemów Techniki PAN,Instytut Podstawowywch Problemów Techniki PAN
+Instytut Problemów Jądrowych im. A. Sołtana,Instytut Problemów Jądrowych im. A. Sołtana
+Instytut Sadownictwa i Kwiaciarstwa im. Szczepana Pieniążka,Instytut Sadownictwa i Kwiaciarstwa im. Szczepana Pieniążka
+Instytut Technologii Eksploatacji - Państwowy Instytut Badawczy (ITeE - PIB),Instytut Technologii Eksploatacji - Państwowy Instytut Badawczy (ITeE - PIB)
+Instytut Technologii Elektronowej,Instytut Technologii Elektronowej
+Instytut Włókiennictwa,Instytut Włókiennictwa
+Integer.pl spółka akcyjna,Integer.pl spółka akcyjna
+Investitionsbank Sachsen-Anhalt,Investitionsbank Sachsen-Anhalt
+IPB POLSKA SP. Z O.O.,IPB POLSKA SP. Z O.O.
+IQ Advisors Sp. z o.o.,IQ Advisors Sp. z o.o.
+IXION HOLDINGS LIMITED,IXION HOLDINGS LIMITED
+Izglītības un zinātnes ministrija ,Izglītības un zinātnes ministrija 
+Jagiellońskie Centrum Innowacji spółka z ograniczoną odpowiedzialnością,Jagiellońskie Centrum Innowacji spółka z ograniczoną odpowiedzialnością
+Järva-Jaani Teenus OÜ,Järva-Jaani Teenus OÜ
+Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház- Rendelőintézet,Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház- Rendelőintézet
+Jelgavas pilsētas dome,Jelgavas pilsētas dome
+JHP Group Ltd,JHP Group Ltd
+Jihočeský kraj,Jihočeský kraj
+Jihomoravský kraj,Jihomoravský kraj
+Job Centre Plus,Job Centre Plus
+JobcentrePlus,Job Centre Plus
+Joskin Polska Sp. z o.o.,Joskin Polska Sp. z o.o.
+JUNTA DE ANDALUCIA,Junta de Andalucia
+JUNTA DE ANDALUCIA,JUNTA DE ANDALUCIA
+JUNTA DE CASTILLA Y LEON,JUNTA DE CASTILLA Y LEON
+JUNTA DE CASTILLA Y LEON,JUNTA DE CASTILLA Y LEON
+JUNTA DE CASTILLA Y LEÓN ,JUNTA DE CASTILLA Y LEON
+JUNTA DE EXTREMADURA,JUNTA DE EXTREMADURA
+KAMITEC Spółka z ograniczoną odpowiedzialnością,KAMITEC Spółka z ograniczoną odpowiedzialnością
+Kancelaria Prezesa Rady Ministrów - Departament Służby Cywil,Kancelaria Prezesa Rady Ministrów - Departament Służby Cywil
+Kanonie premonstrátů Teplá,Kanonie premonstrátů Teplá
+Kaolin,Kaolin
+Karlovarský kraj,Karlovarský kraj
+Karya sp. z o.o.,Karya sp. z o.o.
+Katolicki Uniwersytet Lubelski,Katolicki Uniwersytet Lubelski
+Katolicki Uniwersytet Lubelski Jana Pawła II,Katolicki Uniwersytet Lubelski
 KAU SA,Monada Organosis Kai Diaheirisis
-Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie,Generalna Dyrekcja Dróg Krajowych i Autostrad
-Generalna Dyrekcja Dróg Krajowych i Autostrad,Generalna Dyrekcja Dróg Krajowych i Autostrad
-ATM System Sp. z o.o,ATM S.A.
-ATM S.A.,ATM S.A.
-CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM),CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM)
-Uniwersytet Warmińsko-Mazurski,Uniwersytet Warmińsko-Mazurski
-Uniwersytet Warmińsko-Mazurski w Olsztynie,Uniwersytet Warmińsko-Mazurski
-Budapest Főváros Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros XVI. kerületi Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XIII. kerületi Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros II. Kerületi Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XVI.. kerületi Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros XIII. kerületi Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros Önkormányzata Főpolgármesteri Hivatal,Budapest Főváros Önkormányzata
-Budapest Főváros XV. Kerület Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros XVI.. kerületi Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XVII.kerület Rákosmente Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros VII. kerület Erzsébetváros Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XI. kerület Újbuda Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros IV. kerület Újpest Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros VII. kerület Erzsébetváros Önkormányzata,Budapest Főváros Önkormányzata
-Belváros-Lipótváros Budapest Főváros V. Kerület Önkormányzat,Budapest Főváros Önkormányzata
-"Budapest Főváros IV. kerület, Újpest Önkormányzata",Budapest Főváros Önkormányzata
-BUDAPEST FŐVÁROS VI. KERÜLET TERÉZVÁROS ÖNKORMÁNYZATA,Budapest Főváros Önkormányzata
-Budapest Főváros IX. kerület Ferencváros Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros VI. kerület Terézváros Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros VIII. kerület Józsefváros Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros X. Kerület Kőbányai Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XI. Kerület Újbuda Önkormányzata,Budapest Főváros Önkormányzata
-Budapest főváros XIV. ker. Zugló Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros XIX. Kerület Kispest Önkormányzat,Budapest Főváros Önkormányzata
-Budapest Főváros XIX kerület Kispest Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros XVII. kerület Önkormányzatának Polgármesteri Hivatala,Budapest Főváros Önkormányzata
-Budapest Főváros XX. kerület Pesterzsébet Önkormányzata,Budapest Főváros Önkormányzata
-"Budapest Főváros II. kerületi Önkormányzat (1024 Budapest, Mechwart liget 1.)",Budapest Főváros Önkormányzata
-Budapest Főváros XXIII. kerület Soroksár Önkormányzata,Budapest Főváros Önkormányzata
-Budapest Főváros X. kerület Kőbánya Önkormányzata (Nevelési Tanácsadó és Pedagógiai Szolgáltató Központ),Budapest Főváros Önkormányzata
-"Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzata",Budapest Főváros Önkormányzata
-Budapest Főváros Önkormányzatának Kossuth Zsuzsa Gyermekotthona és Általános Iskolája,Budapest Főváros Önkormányzata
-Budapest Főváros VIII. kerület Józsefvárosi Önkormányzat Polgármesteri Hivatal,Budapest Főváros Önkormányzata
-Budapest Főváros X kerület Kőbányai Önkormányzat Hárslevelű Óvoda,Budapest Főváros Önkormányzata
-Budapest Főváros X. kerület Kőbányai Önkormányzat Szent László Gimnázium,Budapest Főváros Önkormányzata
-Budapest Főváros XI. kerület Újbuda Önkormányzata Polgármesteri Hivatal,Budapest Főváros Önkormányzata
-Budapest Főváros XIII. kerületi Önkormányzat Berzsenyi Dániel Gimnázium,Budapest Főváros Önkormányzata
-"Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzata",Budapest Főváros Önkormányzata
-Budapest Főváros X. kerület Kőbányai Önkormányzat Nevelési Tanácsadó és Pedagógiai Szolgáltató Központ,Budapest Főváros Önkormányzata
+Kauno medicinos universitetas,Kauno medicinos universitetas
+Kauno miesto savivaldybės administracija,Kauno miesto savivaldybės administracija
+Kauno technologijos universitetas,Kauno technologijos universitetas
+Keiper Polska Spółka z ograniczoną odpowiedzialnością,Keiper Polska Spółka z ograniczoną odpowiedzialnością
+KGHM Ecoren S.A.,KGHM Ecoren S.A.
+Klaipėdos miesto savivaldybės administracija,Klaipėdos miesto savivaldybės administracija
+Klaipėdos universitetas,Klaipėdos universitetas
+Klasztor Ojców Paulinów Jasna Góra,Klasztor Ojców Paulinów Jasna Góra
+Komenda Główna Ochotniczych Hufców Pracy,Komenda Główna Ochotniczych Hufców Pracy
+Komenda Główna Państwowej Straży Pożarnej,Komenda Główna Państwowej Straży Pożarnej
+Komenda Wojewódzka Państwowej Straży Pożarnej w Katowicach,Komenda Wojewódzka Państwowej Straży Pożarnej w Katowicach
+Komendant Główny Policji,Komendant Główny Policji
+Kongskilde Polska Sp. z o.o.,Kongskilde Polska Sp. z o.o.
+KOPINT-DATORG Infokommunikációs zártkörűen működő Részvénytársaság,KOPINT-DATORG Infokommunikációs zártkörűen működő Részvénytársaság
+Korporacja Budowlana KOPAHAUS S.A. ,Korporacja Budowlana KOPAHAUS S.A. 
+Közép-Duna Vidéke Hulladékgazdálkodási Önkormányzati Társulás,Közép-Duna Vidéke Hulladékgazdálkodási Önkormányzati Társulás
+Krajowa Izba Gospodarcza,Krajowa Izba Gospodarcza
+Krajowa Szkoła Sądownictwa i Prokuratury,Krajowa Szkoła Sądownictwa i Prokuratury
+Krajowy Fundusz Kapitałowy S.A.,Krajowy Fundusz Kapitałowy S.A.
+Krajowy Ośrodek Wspierania Edukacji Zawodowej i Ustawicznej,Krajowy Ośrodek Wspierania Edukacji Zawodowej i Ustawicznej
+"Krajská správa a údržba silnic Karlovarského kraje, příspěvková organizace","Krajská správa a údržba silnic Karlovarského kraje, příspěvková organizace"
+"Krajská zdravotní, a.s.","Krajská zdravotní, a.s."
+Krakowski Szpital Specjalistyczny im. Jana Pawła II w Krakowie,Krakowski Szpital Specjalistyczny im. Jana Pawła II w Krakowie
+Královéhradecký kraj,Královéhradecký kraj
+KredEx SA,KredEx SA
+KredEx SA,KredEx SA
+Krediidi ja Ekspordi Garanteerimise Sihtasutus KredEx ,KredEx SA
+Kreditanstalt für Wiederaufbau,Kreditanstalt für Wiederaufbau
+Kujawsko-Pomorski Fundusz Poręczeń Kredytowych Sp. z o.o.,Kujawsko-Pomorski Fundusz Poręczeń Kredytowych Sp. z o.o.
+Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.,Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.
+Laboratorio di tecnologie oncologiche HSR Giglio,Laboratorio di tecnologie oncologiche HSR Giglio
+Laboratório Ibérico Internacional de Nanotecnologia,Laboratório Ibérico Internacional de Nanotecnologia
+LACTOENERGO s.r.o.,LACTOENERGO s.r.o.
+Laekvere Vallavalitsus,Laekvere Vallavalitsus
+Land Mecklenburg Vorpommern vertreten durch das Straßenbauamt Güstrow,Land Mecklenburg Vorpommern vertreten durch das Straßenbauamt Güstrow
+Land Mecklenburg Vorpommern vertreten durch das Straßenbauamt Güstrow ,Land Mecklenburg-Vorpommern
+Land Mecklenburg-Vorpommern,Land Mecklenburg-Vorpommern
+Land Mecklenburg-Vorpommern vertreten durch das Straßenbauamt Neustrelitz ,Land Mecklenburg-Vorpommern
+Land Mecklenburg-Vorpommern vertreten durch das Straßenbauamt Schwerin,Land Mecklenburg-Vorpommern vertreten durch das Straßenbauamt Schwerin
+Land Mecklenburg-Vorpommern vertreten durch das Straßenbauamt Stralsund ,Land Mecklenburg-Vorpommern
+"Land Mecklenburg-Vorpommern, vertreten durch Ministerium für Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern","Land Mecklenburg-Vorpommern, vertreten durch Ministerium für Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern"
+"Land Mecklenburg-Vorpommern, vertreten durch Straßenbauamt Schwerin","Land Mecklenburg-Vorpommern, vertreten durch Straßenbauamt Schwerin"
+"Land Mecklenburg-Vorpommern, vertreten durch Straßenbauamt Schwerin ","Land Mecklenburg-Vorpommern, vertreten durch Straßenbauamt Schwerin"
+Landeshauptstadt Schwerin,Landeshauptstadt Schwerin
+Latvijas Hipotēku un zemes banka,Latvijas Hipotēku un zemes banka
+Latvijas Investīciju un attīstības aģentūras Zināšanu un inovācijas sistēmas departaments,Latvijas Investīciju un attīstības aģentūras Zināšanu un inovācijas sistēmas departaments
+Latvijas Lauksaimniecības universitāte,Latvijas Lauksaimniecības universitāte
+Latvijas Republikas Satiksmes ministrija,Latvijas Republikas Satiksmes ministrija
+Latvijas Universitāte ,Latvijas Universitāte 
+Lavoro e Sviluppo,Lavoro e Sviluppo
+LECHAA CONSULTING SP. Z O.O.,LECHAA CONSULTING SP. Z O.O.
+LEDOLUX Spółka z ograniczoną odpowiedzialnością,LEDOLUX Spółka z ograniczoną odpowiedzialnością
+LEEDS CITY COLLEGE,LEEDS CITY COLLEGE
+LfA Förderbank Bayern,LfA Förderbank Bayern
+LfC Sp. z o.o.,LfC Sp. z o.o.
+Liberecký kraj,Liberecký kraj
+Liepājas pilsētas pašvaldība,Liepājas pilsētas pašvaldība
+Liepājas speciālās ekonomiskās zonas pārvalde,Liepājas speciālās ekonomiskās zonas pārvalde
+Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos,Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos 
+Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos,Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos
+Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos,Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos
+Lietuvos mokslo taryba,Lietuvos mokslo taryba
+Lietuvos Respublikos finansų ministerija,Lietuvos Respublikos finansų ministerija
+Lietuvos Respublikos susisiekimo ministerija,Lietuvos Respublikos susisiekimo ministerija
+Lietuvos Respublikos sveikatos apsaugos ministerija,Lietuvos Respublikos sveikatos apsaugos ministerija
+Lietuvos žemės ūkio universitetas,Lietuvos žemės ūkio universitetas
+Liikennevirasto,Liikennevirasto
+Liszt Ferenc Zeneművészeti Egyetem,Liszt Ferenc Zeneművészeti Egyetem 
+London Development Agency,London Development Agency
+LR Satiksmes ministrija,LR Satiksmes ministrija
+Lubelska Fundacja Rzowoju,Lubelska Fundacja Rzowoju
+Luleå tekniska universitet,Luleå tekniska universitet
+Maanteeamet,Maanteeamet
+Magyar Közút Kht.,Magyar Közút Kht.
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság.,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság.,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zrt,Magyar Közút Nonprofit Zrt
+Magyar Közút Nonprofit Zrt,Magyar Közút Nonprofit Zrt
+Magyar Közút Nonprofit Zrt.,Magyar Közút Nonprofit Zrt 
+Magyar Közút Nonprofit Zrt. Adószám: 14605749-2-44 ,Magyar Közút Nonprofit Zrt 
+Małopolska Agencja Rozwoju Regionalnego S.A.,Małopolska Agencja Rozwoju Regionalnego S.A.
+Małopolskie Centrum Przedsiębiorczości,Małopolskie Centrum Przedsiębiorczości
+Malta Enterprise,Malta Enterprise
+Malta Maritime Authority,Malta Maritime Authority
+Malta Tourism Authority,Malta Tourism Authority
+Malta Transport Authority,Malta Transport Authority
+Malta Transport Authority - Network Infrastructure Directorate (ADT),Malta Transport Authority
+Masarykova univerzita,Masarykova univerzita
+MASTERPRESS S.A.,MASTERPRESS S.A.
+MÁV-Magyar Allamvasutak ZRT.,MÁV-Magyar Allamvasutak ZRT.
+MÁV-Magyar Államvasutak ZRT.,MÁV-Magyar Államvasutak ZRT.
+Maximus Employment UK Ltd,Maximus Employment UK Ltd
+Mazowiecka Jednostka Wdrażania Programów Unijnych,Mazowiecka Jednostka Wdrażania Programów Unijnych
+Mecsek Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás,Mecsek Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás
+Megaport Ltd.,Megaport Ltd.
+Mestna občina Ljubljana,Mestna občina Ljubljana 
+MESTNA OBČINA LJUBLJANA,Mestna občina Ljubljana 
+"Mestna občina Ljubljana (Občine: Brezovica, Dobrova-Polhov Gradec, Dol pri Ljubljani, Horjul, Ig, Kamnik, Komenda, Medvode, Škofljica, Velike Laš?e, Vodice, Domžale, Mengeš, Trzin, Lukovica in Morav?e)","Mestna občina Ljubljana (Občine: Brezovica, Dobrova-Polhov Gradec, Dol pri Ljubljani, Horjul, Ig, Kamnik, Komenda, Medvode, Škofljica, Velike Laš?e, Vodice, Domžale, Mengeš, Trzin, Lukovica in Morav?e)"
+"Mestna občina Ljubljana (Občine: Brezovica, Dobrova-Polhov Gradec, Dol pri Ljubljani, Horjul, Ig, Kamnik, Komenda, Medvode, Škofljica, Velike Lašče, Vodice, Domžale, Mengeš, Trzin, Lukovica in Moravče)",Mestna občina Ljubljana 
+Mestna občina Novo mesto,Mestna občina Novo mesto
+"Mestna občina Slovenj Gradec (Občine: Črna na Koroškem, Dravograd, Mežica, Mislinja, Muta, Podvelka, Prevalje, Radlje ob Dravi, Ravne na Koroškem, Ribnica na Pohorju in Vuzenica)","Mestna občina Slovenj Gradec (Občine: Črna na Koroškem, Dravograd, Mežica, Mislinja, Muta, Podvelka, Prevalje, Radlje ob Dravi, Ravne na Koroškem, Ribnica na Pohorju in Vuzenica)"
+Mestna vrata d.o.o.,Mestna vrata d.o.o.
+Mesto Martin,Mesto Martin
+Mesto Stupava,Mesto Stupava
+Metal-Master Sylwia Ładzińska,Metal-Master Sylwia Ładzińska
+METALODLEW SA,METALODLEW SA
+Metro Inc.,Metro Inc.
+Miasteczko Multimedialne Sp. z o. o.,Miasteczko Multimedialne Sp. z o. o.
+MIASTECZKO MULTIMEDIALNE SP. Z O.O.,Miasteczko Multimedialne Sp. z o. o.
+Miasto Bełchatów,Miasto Bełchatów
+Miasto Białystok,Miasto Białystok
+Miasto Białystok/ Centrum Kształcenia Ustawicznego w Białymstoku,Miasto Białystok
+Miasto Białystok/ Zespół Szkół Ogólnokształcących i Technicznych,Miasto Białystok
+Miasto Bielsko - Biała,Miasto Bielsko - Biała
+Miasto Bielsko-Biała,Miasto Bielsko - Biała
+Miasto Bydgoszcz,Miasto Bydgoszcz
+Miasto Bytom,Miasto Bytom
+Miasto Gorzów Wielkopolski,Miasto Gorzów Wielkopolski
+Miasto Inowrocław,Miasto Inowrocław
+Miasto Jastrzębie Zdrój,Miasto Jastrzębie Zdrój
+Miasto Jelenia Góra,Miasto Jelenia Góra
+Miasto Leszno,Miasto Leszno
+Miasto Łódź,Miasto Łódź
+Miasto Łódź,Miasto Łódź
+Miasto Łódź - Urząd Miasta Łodzi ,Miasto Łódź
+Miasto Łódź będące Organem Prowadzącym dla Łódzkiego Centrum Doskonalenia Nauczycieli i Kształcenia Praktycznego ,Miasto Łódź
+Miasto Łódź będące Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 17 ,Miasto Łódź
+Miasto Łódź będace Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 21,Miasto Łódź
+Miasto Łódź bedące Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 6 w Łodzi ,Miasto Łódź
+Miasto Łomża,Miasto Łomża
+Miasto Lublin,Miasto Lublin
+Miasto Opole,Miasto Opole
+Miasto Piotrków Trybunalski,Miasto Piotrków Trybunalski
+Miasto Poznań,Miasto Poznań
+Miasto Rybnik,Miasto Rybnik
+Miasto Skierniewice,Miasto Skierniewice
+Miasto Stołeczne Warszawa,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa - Dzielnica Ursynów m.st.Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Bemowo m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Bielanym.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Śródmieście m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Ursus m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Wesoła m. st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Włochy m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Włochy.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Ośrodek Pomocy Społecznej Dzielnicy Wola m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa / Warszawskie Centrum Kobiet ,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa-Dzielnica Ursus m.st. Warszawy,Miasto Stołeczne Warszawa
+"Miasto Stołeczne Warszawa, w imieniu którego działa Ośrodek Pomocy Społecznej Dzielnicy Bielany m.st.Warszawy",Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/OPS Śródmieście ,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Praga Południe m. st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Wawer m. st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Wilanów m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Ośrodek Pomocy Społecznej Dzielnicy Żoliborz m.st.Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Urząd Pracy m. st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Stołeczne Warszawa/Urząd Pracy m.st. Warszawy,Miasto Stołeczne Warszawa
+Miasto Suwałki,Miasto Suwałki
+Miasto Wodzisław Śląski,Miasto Wodzisław Śląski
+Miasto Zielona Góra,Miasto Zielona Góra
+"Międzygminna Spółka Wodno-Kanalizacyjna ""Suplaz"" spółka z ograniczoną odpowiedzialnością","Międzygminna Spółka Wodno-Kanalizacyjna ""Suplaz"" spółka z ograniczoną odpowiedzialnością"
+"Międzygminne Przedsiębiorstwo Wodociągów i Kanalizacji ""EKOWIK"" Sp. z o.o.","Międzygminne Przedsiębiorstwo Wodociągów i Kanalizacji ""EKOWIK"" Sp. z o.o."
+Miejski Zakład Gospodarki Komunalnej Sp. z o.o.,Miejski Zakład Gospodarki Komunalnej Sp. z o.o.
+Miejski Zakład Gospodarki Komunalnej w Chełmku Sp. z o.o.,Miejski Zakład Gospodarki Komunalnej w Chełmku Sp. z o.o.
+Miejskie Przedsiębiorstwo Gospodarki Komunalnej Spółka z ograniczoną odpowiedzialnością,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu Sp. z o.o.,Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu Sp. z o.o.
+Miejskie Wodociągi i Kanalizacja Spółka z o.o.,Miejskie Wodociągi i Kanalizacja Spółka z o.o.
+Miejskie Wodociągi i Kanalizacja Spółka z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Miejskie Wodociągi i Kanalizacja spółka z ograniczoną odpowiedzialnością ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+"Minister Gospodarki, Departament Instrumentów Wsparcia","Minister Gospodarki, Departament Instrumentów Wsparcia"
+Minister Nauki i Szkolnictwa Wyższego,Minister Nauki i Szkolnictwa Wyższego
+Minister właściwy do spraw zdrowia - Departament Pielęgniarek i Położnych,Minister właściwy do spraw zdrowia - Departament Pielęgniarek i Położnych
+"Ministerium für Verkehr, Bau und Landesentwicklung Mecklenburg-Vorpommern ","Ministerium für Verkehr, Bau und Landesentwicklung Mecklenburg-Vorpommern "
+"Ministerium für Wirtschaft, Arbeit und Verkehr des Landes Niedersachsen ","Ministerium für Wirtschaft, Arbeit und Verkehr des Landes Niedersachsen "
+MINISTERO DELLO SVILUPPO ECONOMICO – Dipartimento per lo Sviluppo e la Coesione Economica - Direzione generale per la politica regionale unitaria comunitaria - Divisione IX,MINISTERO DELLO SVILUPPO ECONOMICO – Dipartimento per lo Sviluppo e la Coesione Economica - Direzione generale per la politica regionale unitaria comunitaria - Divisione IX
+Ministerstvo dopravy,Ministerstvo dopravy
+MINISTERSTVO PR?CE A SOCI?LN?CH VĚC?,MINISTERSTVO PRÁCE A SOCIÁLNÍCH VĚCÍ
+Ministerstvo práce a sociálních věcí,Ministerstvo práce a sociálních věcí
+MINISTERSTVO PRO MÍSTNÍ ROZVOJ,MINISTERSTVO PRO MÍSTNÍ ROZVOJ
+Ministerstvo průmyslu a obchodu ČR,Ministerstvo průmyslu a obchodu ČR
+"Ministerstvo školství, mládeže a tělovýchovy","Ministerstvo školství, mládeže a tělovýchovy"
+MINISTERSTVO VNITRA,MINISTERSTVO VNITRA
+Ministerstvo vnútra - interior ministry,Ministerstvo vnútra - interior ministry
+MINISTERSTVO ZDRAVOTNICTVÍ,MINISTERSTVO ZDRAVOTNICTVÍ
+Ministerstwo Edukacji Narodowej,Ministerstwo Edukacji Narodowej
+Ministerstwo Finansów,Ministerstwo Finansów
+Ministerstwo Finansów,Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Finansowania Regionów i R ",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Finansowania Regionów i Rolnictwa, jednostka odpowiedzialna za weryfikację zasady dodatkowości ",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Finansowania Regionów i Rolnictwa, jednostka odpowiedzialna za weryfikację zasady dodatkowości ",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Informatyki, Operator krajowego systemu informatycznego wspomagającego realizację NSRO/PWW",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Instytucji Płatniczej, jednostka odpowiedzialna za otrzymywanie płatności z KE ",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Ochrony Interesów Finansowych Unii Europejskiej, Instytucja Audytowa",Ministerstwo Finansów
+"Ministerstwo Finansów, Departament Ochrony Interesów Finansowych Unii Europejskiej, Instytucja Audytowa",Ministerstwo Finansów
+"Ministerstwo Finansów: Instytucja Audytowa, Jednostka odpowiedzialna za otrzymywanie i przekazywanie płatności oraz weryfikację zasady dodatkowości",Ministerstwo Finansów
+Ministerstwo Gospodarki,Ministerstwo Gospodarki
+"Ministerstwo Gospodarki, Departament Funduszy Europejskich, Instytucja Pośrednicząca PO IG i PO IiŚ",Ministerstwo Gospodarki
+Ministerstwo Nauki i Szkolnictwa,Ministerstwo Nauki i Szkolnictwa
+Ministerstwo Nauki i Szkolnictwa Wyższego,Ministerstwo Nauki i Szkolnictwa
+"Ministerstwo Nauki i Szkolnictwa Wyższego, Biuro Dyrektora Generalnego, Instytucja Pośrednicząca POIiŚ, POIG, POKL",Ministerstwo Nauki i Szkolnictwa
+"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Finansowania Szkół Wyższych",Ministerstwo Nauki i Szkolnictwa
+"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Strategii",Ministerstwo Nauki i Szkolnictwa
+"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Wdrożeń i Innowacji",Ministerstwo Nauki i Szkolnictwa
+Ministerstwo Pracy i Polityki Społecznej,Ministerstwo Pracy i Polityki Społecznej
+Ministerstwo Rozwoju Regionalnego,Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Administracyjno-Informatyczne",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi, jednostka w MRR odpowiedzialna za wsparcie jednostek realizujących NSRO",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, jednostka odpowiedzialna za promocję i informację NSRO/PWW",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Departament Koordynacji Polityki Strukturalnej, Instytucja Strategiczna",Ministerstwo Rozwoju Regionalnego
+"Ministerstwo Rozwoju Regionalnego, Departament Programów Pomocowych i Pomocy Technicznej, Instytucja Zarządzająca POPT",Ministerstwo Rozwoju Regionalnego
+Ministerstwo Spraw Wewnętrznych i Administracji,Ministerstwo Spraw Wewnętrznych i Administracji
+Ministerstwo Sprawiedliwości,Ministerstwo Sprawiedliwości
+"MINISTERUL EDUCATIEI, CERCETARII SI INOVARII","MINISTERUL EDUCATIEI, CERCETARII SI INOVARII"
+"Ministerul Educatiei, Cercetarii si Tineretului","Ministerul Educatiei, Cercetarii si Tineretului"
+"MINISTERUL EDUCATIEI, CERCETARII SI TINERETULUI","Ministerul Educatiei, Cercetarii si Tineretului"
+Ministerul Sanatatii Publice,Ministerul Sanatatii Publice
+Ministrstvo za okolje in prostor (Agencija RS za okolje),Ministrstvo za okolje in prostor (Agencija RS za okolje)
+Ministrstvo za pravosodje,Ministrstvo za pravosodje
+Ministrstvo za promet (Direkcija Republike Slovenije za ceste),Ministrstvo za promet (Direkcija Republike Slovenije za ceste)
+Ministry for Gozo,Ministry for Gozo
+Ministry for Resources and Rural Affairs,Ministry for Resources and Rural Affairs
+Ministry of the Environment - Eyde/Mede ,Ministry of the Environment - Eyde/Mede 
+Ministry of Transport Construction and Regional Development of the Slovak Republic,Ministry of Transport Construction and Regional Development of the Slovak Republic
+MISE,MISE
+Miskolc Megyei Jogú Város Önkormányzata,Miskolc Megyei Jogú Város Önkormányzata
+Miskolci Egyetem,Miskolci Egyetem
+"MIT Dipartimento per le Infrastrutture, gli Affari generali edi il Personale Direzione Generale per lo Sviluppo del territorio, la programmazione ed I Progetti internazionali","MIT Dipartimento per le Infrastrutture, gli Affari generali edi il Personale Direzione Generale per lo Sviluppo del territorio, la programmazione ed I Progetti internazionali"
+Mittuniversitetet,Mittuniversitetet
+MIUR,MIUR
+Mo BRUK J. Mokrzycki Spółka Komandytowa,Mo BRUK J. Mokrzycki Spółka Komandytowa
+Monada Organosis Kai Diaheirisis,Monada Organosis Kai Diaheirisis
+Moravskoslezský kraj,Moravskoslezský kraj
+Morska Służba Poszukiwania i Ratownictwa,Morska Służba Poszukiwania i Ratownictwa
+MPM Engineering d.o.o.,MPM Engineering d.o.o.
+"Multifunk?ní centrum zámek Lednice, zájmové sdružení právnických osob","Multifunk?ní centrum zámek Lednice, zájmové sdružení právnických osob"
+Municipality Gabrovo,Municipality Gabrovo
+Municipality Hisarya,Municipality Hisarya
+Municipality Ruen,Municipality Ruen
+Municipality Sliven,Municipality Sliven
+Municipality Tundzha,Municipality Tundzha
+Municipality Veliko Tarnovo,Municipality Veliko Tarnovo
+Município de Arcos de Valdevez,Município de Arcos de Valdevez
+Município de Braga,Município de Braga
+Município de Bragança,Município de Bragança
+Município de Castelo Branco,Município de Castelo Branco
+Município de Chaves ,Município de Chaves 
+Município de Évora,Município de Évora
+Município de Lamego,Município de Lamego
+Município de Matosinhos,Município de Matosinhos
+Município de Paços de Ferreira,Município de Paços de Ferreira
+Município de Paredes,Município de Paredes
+Município de Ponte de Lima,Município de Ponte de Lima
+Município de Vila Nova de Famalicão,Município de Vila Nova de Famalicão
+Município do Funchal ,Município do Funchal 
+Município do Porto,Município do Porto
+Municipiul Iaşi,Municipiul Iaşi
+"Muzeum Armii Krajowej im. Gen. Emila Fieldorfa ""Nila"" w Krakowie","Muzeum Armii Krajowej im. Gen. Emila Fieldorfa ""Nila"" w Krakowie"
+Muzeum Lotnictwa Polskiego,Muzeum Lotnictwa Polskiego
+Muzeum Narodowe w Krakowie,Muzeum Narodowe w Krakowie
+Muzeum Pałac w Wilanowie,Muzeum Pałac w Wilanowie
+MW_Investitionsbank,MW_Investitionsbank
+Nagykanizsa Megyei Jogú Város Önkormányzata,Nagykanizsa Megyei Jogú Város Önkormányzata
+Nagykanizsai Regionális Szennyvíztársulás,Nagykanizsai Regionális Szennyvíztársulás
+Nagykőrös Város Önkormányzata,Nagykőrös Város Önkormányzata
+"Naravno zdravilišče Topolšica, d.d.","Naravno zdravilišče Topolšica, d.d."
+Národní památkový ústav,Národní památkový ústav
+"National Nature Protection Service Directorate, MOEW","National Nature Protection Service Directorate, MOEW"
+National Offenders Management Services (NOMS),National Offenders Management Services (NOMS)
 National Railway Infrastructure Company,National Railway Infrastructure Company - Bulgaria
 national railway infrastructure Company,National Railway Infrastructure Company - Bulgaria
 national railway infrastructure Company,National Railway Infrastructure Company - Bulgaria
 NATIONAL RAILWAY INFRASTRUCTURE COMPANY,National Railway Infrastructure Company - Bulgaria
 NATIONAL RAILWAY INFRASTRUCTURE COMPANY,National Railway Infrastructure Company - Bulgaria
-Mestna občina Ljubljana,Mestna občina Ljubljana 
-MESTNA OBČINA LJUBLJANA,Mestna občina Ljubljana 
-"Mestna občina Ljubljana (Občine: Brezovica, Dobrova-Polhov Gradec, Dol pri Ljubljani, Horjul, Ig, Kamnik, Komenda, Medvode, Škofljica, Velike Lašče, Vodice, Domžale, Mengeš, Trzin, Lukovica in Moravče)",Mestna občina Ljubljana 
-Department for the Economy &Transport -Welsh Assembly,Department for the Economy &Transport - Welsh Assembly 
-Department for the Economy & Transport -Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
-Department for the Economy & Transport � Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
-"Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government","Department for Children, Education, Lifelong Learning and Skills � Welsh Assembly Government"
-Department for the Economy &Transport -Welsh Assembly Government,Department for the Economy &Transport - Welsh Assembly 
+National Railway Infrastructure Company - Bulgaria,National Railway Infrastructure Company - Bulgaria
+NATIONAL ROAD FUND INFRASTRUCTURE,NATIONAL ROAD FUND INFRASTRUCTURE
+NBank Investitions- und Förderbank Niedersachsen,NBank Investitions- und Förderbank Niedersachsen
+Nds. Landesbehörde für Straßenbau und Verkehr -Geschäftsbereich Verden -,Nds. Landesbehörde für Straßenbau und Verkehr -Geschäftsbereich Verden -
 Neath Port Talbot County,Neath Port Talbot County Borough Council 
 Neath Port Talbot County Borough Council,Neath Port Talbot County Borough Council 
-Zakład Wodociągów i Kanalizacji Sp. z o.o.,Zakład Wodociągów i Kanalizacji Sp. z o.o.
-Zakład Wodociągów i Kanalizacji Sp. z o.o w Tczewie,Zakład Wodociągów i Kanalizacji Sp. z o.o.
-Zakład Wodociągów i Kanalizacji Spółka z Ograniczoną Odpowiedzialnością,Zakład Wodociągów i Kanalizacji Sp. z o.o.
-Debrecen Megyei Jogú Város Önkormányzat,Debrecen Megyei Jogú Város Önkormányzat
-Debrecen Megyei Jogú Város Önkormányzata (Végrehajtó szerve: DMJV Polgármesteri Hivatal),Debrecen Megyei Jogú Város Önkormányzat
-Debrecen Megyei Jogú Város Önkormányzata Végrehajtó Szervezete a Polgármesteri Hivatal.,Debrecen Megyei Jogú Város Önkormányzat
-Debrecen Megyei Jogú Város Önkormányzata (Végrehatjó szerve: Polgármesteri Hivatal),Debrecen Megyei Jogú Város Önkormányzat
-Debrecen Megyei Jogú Város Önkormányzata Végrehajtó szerve: DMJV Polgármesteri Hivatal,Debrecen Megyei Jogú Város Önkormányzat
-"""Warmińsko-Mazurska Agencja Rozwoju Regionalnego Spółka Akcyjna w Olsztynie""",Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie
-Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie,Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie
-Liszt Ferenc Zeneművészeti Egyetem,Liszt Ferenc Zeneművészeti Egyetem 
-Uniwersytet Technologiczno - Przyrodniczy im. J. J. Śniadeckich w Bydgoszczy,Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy
-Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy,Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy
-Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego ,Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego 
-Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego w Warszawie ,Instytut Kardiologii im. Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego 
-PKP Polskie Linie Kolejowe S.A.,PKP Polskie Linie Kolejowe S.A.
+Nemzeti Infrastruktúra Fejlesztő Zrt.,Nemzeti Infrastruktúra Fejlesztő Zrt.
+Nemzeti Infrastruktúra Fejlesztő Zrt.
+Nemzeti Szakképzési és Felnőttképzési Intézet,Nemzeti Szakképzési és Felnőttképzési Intézet
+New Deal,New Deal
+NG2 Spółka Akcyjna,NG2 Spółka Akcyjna
+Niedersachsen Ports GmbH & Co. KG,Niedersachsen Ports GmbH & Co. KG
+Nodarbinātības valsts aģentūra ,Nodarbinātības valsts aģentūra 
+NodarbinčtÄ«bas valsts aÄ£entł«ra == CHECK SPELLING,NodarbinčtÄ«bas valsts aÄ£entł«ra == CHECK SPELLING
+NOkia Siemens Networks Sp.z o.o.,NOkia Siemens Networks Sp.z o.o.
+None Listed,None Listed
+Nordex Energy GmbH,Nordex Energy GmbH
+North East Finance (Holdco),North East Finance (Holdco)
+Northern Ireland ...,Northern Ireland ...
+Northwest Regional Development Agency,Northwest Regional Development Agency
+Not available yet,Not available yet
+Nowe Motywacje Sp. z o.o.,Nowe Motywacje Sp. z o.o.
+Nowoczesne Technologie Produkcji Spółka z ograniczoną odpowiedzialnością,Nowoczesne Technologie Produkcji Spółka z ograniczoną odpowiedzialnością
+NRW.BANK Düsseldorf,NRW.BANK Düsseldorf
+Nyíregyháza Megyei Jogú Város Önkormányzata,Nyíregyháza Megyei Jogú Város Önkormányzata
+Nyugat Magyarországi Egyetem,Nyugat Magyarországi Egyetem
+Občina Krško,Občina Krško
+Občina Ormož,Občina Ormož
+Občina Škofja Loka,Občina Škofja Loka
+Občina Slovenj Gradec,Občina Slovenj Gradec
+Občina Slovenska Bistrica,Občina Slovenska Bistrica
+Občini Semič in Črnomelj,Občini Semič in Črnomelj
+ODERSUN AG,ODERSUN AG
+Odlewnia Ciśnieniowa META-ZEL Spółka z ograniczoną odpowiedzialnością,Odlewnia Ciśnieniowa META-ZEL Spółka z ograniczoną odpowiedzialnością
+Oko-Vita Polska Sp. z o.o.,Oko-Vita Polska Sp. z o.o.
+Olomoucký kraj,Olomoucký kraj
+One North East,One North East
+Önkormányzati Társulás Makó város és térsége szennyvízcsatornázásának és szennyvíztisztításának megvalósítására,Önkormányzati Társulás Makó város és térsége szennyvízcsatornázásának és szennyvíztisztításának megvalósítására
+Ontwikkelingsbedrijf Rotterdam,Ontwikkelingsbedrijf Rotterdam
+OPCALIA,OPCALIA
+Opera Krakowska w Krakowie,Opera Krakowska w Krakowie
+Operator Gazociągów Przesyłowych GAZ-SYSTEM SPÓ?KA AKCYJNA,Operator Gazociągów Przesyłowych GAZ-SYSTEM SPÓ?KA AKCYJNA
+Operator Gazociągów Przesyłowych GAZ-SYSTEM SPÓŁKA AKCYJNA,Operator Gazociągów Przesyłowych GAZ-SYSTEM SPÓŁKA AKCYJNA
+ORGANISMO APROBATORIO,ORGANISMO APROBATORIO
+Országos Mentőszolgálat,Országos Mentőszolgálat
+Országos Onkológiai Intézet,Országos Onkológiai Intézet
+Osaühing JÄRVE BIOPUHASTUS,Osaühing JÄRVE BIOPUHASTUS
+Ośrodek Dokumentacji Sztuki Tadeusza Kantora „Cricoteka” w Krakowie,Ośrodek Dokumentacji Sztuki Tadeusza Kantora „Cricoteka” w Krakowie
+Oxford Innovation Ltd,Oxford Innovation Ltd
+Panda Trzebnica Spółka z ograniczoną odpowiedzialnością,Panda Trzebnica Spółka z ograniczoną odpowiedzialnością
+Pannon Egyetem,Pannon Egyetem
+Państwowa Ogólnokształcąca Szkoła Muzyczna I i II stopnia im. Stanisława Moniuszki,Państwowa Ogólnokształcąca Szkoła Muzyczna I i II stopnia im. Stanisława Moniuszki
+"Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. L. Schillera","Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna im. L. Schillera"
+Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w ?omży,Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w ?omży
+Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży,Państwowa Wyższa Szkoła Informatyki i Przedsiębiorczości w Łomży 
+Państwowa Wyższa Szkoła Teatralna im. Ludwika Solskiego w Krakowie,Państwowa Wyższa Szkoła Teatralna im. Ludwika Solskiego w Krakowie
+Państwowa Wyższa Szkoła Wschodnioeuropejska w Przemyślu,Państwowa Wyższa Szkoła Wschodnioeuropejska w Przemyślu
+Państwowa Wyższa Szkoła Zawodowa w Elblągu,Państwowa Wyższa Szkoła Zawodowa w Elblągu
+Państwowa Wyższa Szkoła Zawodowa w Krośnie,Państwowa Wyższa Szkoła Zawodowa w Krośnie
+Państwowa Wyższa Szkoła Zawodowa w Tarnowie,Państwowa Wyższa Szkoła Zawodowa w Tarnowie
+Państwowe Muzeum Auschwitz - Birkenau w Oświęcimiu,Państwowe Muzeum Auschwitz - Birkenau w Oświęcimiu
+Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
+Państwowy Zespół Ludowy Pieśni i Tańca „Mazowsze” im. Tadeusza Sygietyńskiego,Państwowy Zespół Ludowy Pieśni i Tańca „Mazowsze” im. Tadeusza Sygietyńskiego
+Papieska Akademia Teologiczna w Krakowie,Papieska Akademia Teologiczna w Krakowie
+PARDUBICKÝ KRAJ,PARDUBICKÝ KRAJ
+Park Naukowo-Technologiczny Polska - Wschód Sp. z o.o. w Suwałkach,Park Naukowo-Technologiczny Polska - Wschód Sp. z o.o. w Suwałkach
+PARQUES NACIONALES (MARM),PARQUES NACIONALES (MARM)
+Pasažieru vilciens,Pasažieru vilciens
+Pécs Megyei Jogú Város Önkormányzata,Pécs Megyei Jogú Város Önkormányzata
+Pécsi Tudományegyetem,Pécsi Tudományegyetem
+Pécsi Tudományegyetem 1. Számú Gyakorló Általános Iskola,Pécsi Tudományegyetem
+Pécsi Tudományegyetem Deák Ferenc Gyakorló Gimnázium és Általános Iskola ,Pécsi Tudományegyetem
+"Pécsi Tudományegyetem Illyés Gyula Gyakorlóiskola, Alapfokú Művészeti Iskola és Gyakorlóóvoda ",Pécsi Tudományegyetem
+Pécsi Tudományegyetem Pályázati Menedzsment Közhasznú Nonprofit Korlátolt Felelősségű Társaság  Dél-dunántúli Energetikai Klaszter fejlesztése,Pécsi Tudományegyetem
+Pénzügyminisztérium Informatikai Szolgáltató Központ,Pénzügyminisztérium Informatikai Szolgáltató Központ
+Pertemps People Development Group,Pertemps People Development Group
+PGE Elektrownia Opole S.A.,PGE Elektrownia Opole S.A.
+PKP Polskie Linie Kolejowe,PKP Polskie Linie Kolejowe S.A.
 PKP Polskie Linie Kolejowe S.A Oddział Regionalny w Szczecinie,PKP Polskie Linie Kolejowe S.A.
+PKP Polskie Linie Kolejowe S.A.,PKP Polskie Linie Kolejowe S.A.
 PKP Polskie Linie Kolejowe Spółka Akcyjna Oddział Regionalny w Poznaniu,PKP Polskie Linie Kolejowe S.A.
-Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.,Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.
-Kujawsko-Pomorski Fundusz Poręczeń Kredytowych Sp. z o.o.,Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.
+Plastic Omnium Auto Exteriors Sp. z o.o.,Plastic Omnium Auto Exteriors Sp. z o.o.
+Pobeda AD,Pobeda AD
+Podhalańska Państwowa Wyższa Szkoła Zawodowa w Nowym Targu,Podhalańska Państwowa Wyższa Szkoła Zawodowa w Nowym Targu
+Põhja-Eesti Regionaalhaigla SA,Põhja-Eesti Regionaalhaigla SA
+POL-AM-PACK Spółka Akcyjna,POL-AM-PACK Spółka Akcyjna
+Polietchnika Śląska,Polietchnika Śląska
+Politechnika Białostocka,Politechnika Białostocka
+Politechnika Częstochowska,Politechnika Częstochowska
+Politechnika Gdańska,Politechnika Gdańska
+Politechnika Koszalińska,Politechnika Koszalińska
+Politechnika Krakowska im. Tadeusza Kościuszki,Politechnika Krakowska im. Tadeusza Kościuszki
+Politechnika Łódzka,Politechnika Łódzka
 "Politechnika Łódzka, Centrum Kształcenia Międzynarodowego",Politechnika Łódzka
 "Politechnika Łódzka, Centrum Kształcenia MIędzynarodowego",Politechnika Łódzka
-Ministerstwo Nauki i Szkolnictwa,Ministerstwo Nauki i Szkolnictwa
-"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Strategii",Ministerstwo Nauki i Szkolnictwa
-"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Wdrożeń i Innowacji",Ministerstwo Nauki i Szkolnictwa
-"Ministerstwo Nauki i Szkolnictwa Wyższego, Departament Finansowania Szkół Wyższych",Ministerstwo Nauki i Szkolnictwa
-"Ministerstwo Nauki i Szkolnictwa Wyższego, Biuro Dyrektora Generalnego, Instytucja Pośrednicząca POIiŚ, POIG, POKL",Ministerstwo Nauki i Szkolnictwa
-"Ministerstwo Gospodarki, Departament Funduszy Europejskich, Instytucja Pośrednicząca PO IG i PO IiŚ","Ministerstwo Gospodarki, Departament Funduszy Europejskich, Instytucja Pośrednicząca PO IG i PO IiŚ"
-"Ministerstwo Gospodarki, Departament Funduszy Europejskich, Instytucja Pośrednicząca PO IG i PO IiŚ","Ministerstwo Gospodarki, Departament Funduszy Europejskich, Instytucja Pośrednicząca PO IG i PO IiŚ"
-GEPE - Gabinete de Estatística e Planeamento da Educação,Gabinete de Estatística e Planeamento da Educação
-Gabinete de Estatística e Planeamento da Educação,Gabinete de Estatística e Planeamento da Educação
-Akademia Sztuk Pięknych we Wrocławiu,Akademia Sztuk Pięknych we Wrocławiu
-Akademia Sztuk Pięknych im. Eugeniusza Gepperta we Wrocławiu,Akademia Sztuk Pięknych we Wrocławiu
-"Politechnika Warszawska, Wydział Samochodów i Maszyn Roboczych",Politechnika Warszawska
+Politechnika Lubelska,Politechnika Lubelska
+Politechnika Opolska,Politechnika Opolska
+Politechnika Poznańska,Politechnika Poznańska
+Politechnika Rzeszowska im. Ignacego Łukasiewicza,Politechnika Rzeszowska im. Ignacego Łukasiewicza
+Politechnika Śląska,Politechnika Śląska
+Politechnika Świętokrzyska,Politechnika Świętokrzyska
+Politechnika Świętokrzyska ,Politechnika Świętokrzyska 
+Politechnika Świętokrzyska w Kielcach,Politechnika Świętokrzyska 
+Politechnika Świętokrzyska w Kielcach ,Politechnika Świętokrzyska 
 Politechnika Warszawska,Politechnika Warszawska
-"HIDROGUADIANA, S.A.","HIDROGUADIANA, S.A."
-Compania de Someş S.A.,S.C. Compania de Someş S.A.
-S.C. Compania de Someş S.A.,S.C. Compania de Someş S.A.
-SC Apa Serv SA Alexandria,SC Apa Serv SA Alexandria
-S.C. Compania de apă Brasov,S.C. Compania de apă Brasov
-Główny Instytut Górnictwa,Główny Instytut Górnictwa
-Główny Instytut Górnictwa w Katowicach ,Główny Instytut Górnictwa
-Zakład Utylizacyjny Sp. z o.o.,Zakład Utylizacyjny Sp. z o.o.
-Gmina Miejska Kraków,Gmina Miejska Kraków
-Gmina Miejska Kraków/Zespół Ekonomiki Oświaty Kraków-Południe,Gmina Miejska Kraków
-Gmina Miejska Kraków - Centrum Kształcenia Praktyczego,Gmina Miejska Kraków
-Gmina Miejska Kraków - Zespół Szkół Energetycznych,Gmina Miejska Kraków
-Gmina Miejska Kraków - Grodzki Urząd Pracy w Krakowie,Gmina Miejska Kraków
-Gmina Miejska Kraków - Zespół Szkół Elektrycznych Nr 2 w Krakowie,Gmina Miejska Kraków
-Gmina Miejska Kraków/Poradnia Psychologiczno-Pedagogiczna nr 2,Gmina Miejska Kraków
-Gmina Miejska Kraków/Zespół Szkół Specjalnych Nr 14,Gmina Miejska Kraków
-C.H. DEL GUADALQUIVIR (MARM),C.H. DEL GUADALQUIVIR 
-C.H. DEL GUADALQUIVIR,C.H. DEL GUADALQUIVIR 
-Politechnika Gdańska,Politechnika Gdańska
-Centralna Komisja Egzaminacyjna,Centralna Komisja Egzaminacyjna
-"Akcinė bendrovė ""Lietuvos geležinkeliai""","Akcinė bendrovė ""Lietuvos geležinkeliai"""
-"Správa železni?ní dopravní cesty, státní organizace","Správa železniční dopravní cesty, státní organizace"
-Bank Gospodarstwa Krajowego,Bank Gospodarstwa Krajowego
-BANK GOSPODARSTWA KRAJOWEGO,Bank Gospodarstwa Krajowego
-Sociedad Estatal de Infraestructura de Transporte Terrestre (SEITT),Sociedad Estatal de Infraestructura de Transporte Terrestre (SEITT)
-Uniwersytet Warszawski,Uniwersytet Warszawski
-Warszawski Uniwersytet Medyczny,Uniwersytet Warszawski
-Uniwersytet Warszawski - Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego ,Uniwersytet Warszawski
-Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos,Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos 
-Wrocławskie Centrum Badań EIT+ Sp. z o.o.,Wrocławskie Centrum Badań EIT+ Sp.z.o.o 
-Wrocławskie Centrum Badań EIT+ Sp.z.o.o ,Wrocławskie Centrum Badań EIT+ Sp.z.o.o 
-Ministerstwo Spraw Wewnętrznych i Administracji,Ministerstwo Spraw Wewnętrznych i Administracji
-Vízügyi és Környezetvédelmi Központi Igazgatóság,Vízügyi és Környezetvédelmi Központi Igazgatóság
-Centrum Systemów Informacyjnych Ochrony Zdrowia,Centrum Systemów Informacyjnych Ochrony Zdrowia
+"Politechnika Warszawska, Wydział Samochodów i Maszyn Roboczych",Politechnika Warszawska
+Politechnika Wrocławska,Politechnika Wrocławska
+Polska Agencja Informacji i Inwestycji Zagranicznych S.A.,Polska Agencja Informacji i Inwestycji Zagranicznych S.A.
 Polska Agencja Rozwoju Przedsiębiorczości,Polska Agencja Rozwoju Przedsiębiorczości
-JUNTA DE CASTILLA Y LEON,JUNTA DE CASTILLA Y LEON
-JUNTA DE CASTILLA Y LEÓN ,JUNTA DE CASTILLA Y LEON
-DG PRESUPUESTOS DE LA JUNTA DE CASTILLA Y LEÓN ,JUNTA DE CASTILLA Y LEON
-AUTOVIA DEL ERESMA CONCESIONARIA JUNTA CASTILLA Y LEON ,JUNTA DE CASTILLA Y LEON
-XUNTA DE GALICIA,XUNTA DE GALICIA
-DIRECCIÓN GENERAL DE PLANIFICACIÓN Y FONDOS DE LA XUNTA DE GALICIA,XUNTA DE GALICIA
-Ministerstwo Finansów,Ministerstwo Finansów
-"Departament Instytucji Płatniczej, Ministerstwo Finansów ",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Finansowania Regionów i R ",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Ochrony Interesów Finansowych Unii Europejskiej, Instytucja Audytowa",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Informatyki, Operator krajowego systemu informatycznego wspomagającego realizację NSRO/PWW",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Finansowania Regionów i Rolnictwa, jednostka odpowiedzialna za weryfikację zasady dodatkowości ",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Finansowania Regionów i Rolnictwa, jednostka odpowiedzialna za weryfikację zasady dodatkowości ",Ministerstwo Finansów
-"Ministerstwo Finansów, Departament Instytucji Płatniczej, jednostka odpowiedzialna za otrzymywanie płatności z KE ",Ministerstwo Finansów
-"Ministerstwo Finansów: Instytucja Audytowa, Jednostka odpowiedzialna za otrzymywanie i przekazywanie płatności oraz weryfikację zasady dodatkowości",Ministerstwo Finansów
-Centrum Rozwoju Zasobów Ludzkich,Centrum Rozwoju Zasobów Ludzkich
-GENERALITAT DE CATALUNYA,GENERALITAT DE CATALUNYA
-GENERALITAT DE CATALUNYA (CORPORACIONES LOCALES) ,GENERALITAT DE CATALUNYA
-GENERALITAT DE CATALUNYA - DEPARTAMENTO DE TRABAJO,GENERALITAT DE CATALUNYA
-FEDERACIO CATALANA DE CACA GENERALITAT DE CATALUNYA ,GENERALITAT DE CATALUNYA
-REUS-ALCOVER CONCESSIONARIA GENERALITAT CATALUNYA S.A. ,GENERALITAT DE CATALUNYA
-JUNTA DE EXTREMADURA,JUNTA DE EXTREMADURA
-Europejski Bank Inwestycyjny,Europejski Bank Inwestycyjny
+Polska Fundacja Przedsiębiorczości,Polska Fundacja Przedsiębiorczości
+Polska Konfederacja Pracodawców Prywatnych Lewiatan,Polska Konfederacja Pracodawców Prywatnych Lewiatan
+Polska Organizacja Turystyczna,Polska Organizacja Turystyczna
+Polski Fundusz Gwarancyjny Sp. z o. o.,Polski Fundusz Gwarancyjny Sp. z o. o.
+Polskie Zakłady Lotnicze Spółka z ograniczoną odpowiedzialnością,Polskie Zakłady Lotnicze Spółka z ograniczoną odpowiedzialnością
+Pomorska Agencja Rozwoju Regionalnego S.A.,Pomorska Agencja Rozwoju Regionalnego S.A.
+Pomorska Akademia Medyczna,Pomorska Akademia Medyczna
+Pomorska Akademia Medyczna w Szczecinie,Pomorska Akademia Medyczna
+Pomorska Specjalna Strefa Ekonomiczna sp. z o.o.,Pomorska Specjalna Strefa Ekonomiczna sp. z o.o.
+Powiat Ełcki,Powiat Ełcki
+Powiat Gorlicki,Powiat Gorlicki
+Powiat Iławski,Powiat Iławski
+Powiat Kwidzyński,Powiat Kwidzyński
+Powiat Olkuski,Powiat Olkuski
+Powiat Olsztyński,Powiat Olsztyński
+Powiat Ostrowski,Powiat Ostrowski
+Powiat Przasnyski,Powiat Przasnyski
+Powiat Raciborski,Powiat Raciborski
+Powiat radomszczański,Powiat radomszczański
+Powiat Sieradzki,Powiat Sieradzki
+Powiat Starachowicki,Powiat Starachowicki
+Powiat Szczecinecki,Powiat Szczecinecki
+Powiat Tatrzański,Powiat Tatrzański
+Powiat Tomaszowski,Powiat Tomaszowski
+Powiat Wieluński,Powiat Wieluński
+Powiat Zawierciański,Powiat Zawierciański
+Powiat Zduńskowolski,Powiat Zduńskowolski
+Powiatowy Urząd Pracy w Częstochowie,Powiatowy Urząd Pracy w Częstochowie
+Powiatowy Urząd Pracy w Radomiu,Powiatowy Urząd Pracy w Radomiu
+Practical Developments (SW) Ltd,Practical Developments (SW) Ltd
+Predence d.o.o.,Predence d.o.o.
+PriceWaterHouseCoopers,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS ADVISORY S.P.A. ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS ADVISORY S.P.A. ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS ASESORE,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS ASESORES DE NEGOCIOS SL ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS AUDITORES SL ,PriceWaterHouseCoopers
+"PRICEWATERHOUSECOOPERS COMPLIANCE SERVICES, S.L. ",PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS CORPORATE FINANCE SL ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS JURIDICO Y FISCAL SL ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS RECURSOS HUMANOS SL ,PriceWaterHouseCoopers
+PRICEWATERHOUSECOOPERS SL ,PriceWaterHouseCoopers
+PricewaterhouseCoopers Sp. z o.o. ,PriceWaterHouseCoopers
+PRINCIPADO DE ASTURIAS,PRINCIPADO DE ASTURIAS
+Profactor GmbH,Profactor GmbH
+Projektbüro Berufliche Bildung im HKM ,Projektbüro Berufliche Bildung im HKM 
+Provincie Zuid-Holland,Provincie Zuid-Holland
+Przedsiębiorstwo Energetyki Cieplnej i Gospodarki Wodno-Ściekowej,Przedsiębiorstwo Energetyki Cieplnej i Gospodarki Wodno-Ściekowej
+"Przedsiębiorstwo Gospodarki Komunalnej ""Partner"" Spółka z o.o.",Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+"Przedsiębiorstwo Gospodarki Komunalnej ""Sanikom"" sp. z o.o. ",Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. z o.o. w Łaziskach Górnych,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiebiorstwo Gospodarki Komunalnej Sp. z o.o. ,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+"Przedsiębiorstwo Gospodarki Odpadami ""Eko-MAZURY"" Spółka z ograniczoną odpowiedzialnością","Przedsiębiorstwo Gospodarki Odpadami ""Eko-MAZURY"" Spółka z ograniczoną odpowiedzialnością"
+Przedsiębiorstwo Gospodarki Odpadami Sp. z o.o.,Przedsiębiorstwo Gospodarki Odpadami Sp. z o.o.
+"Przedsiębiorstwo wodno-kanalizacyjne ""EKO-SKAWA"" spólka z o.o.","Przedsiębiorstwo wodno-kanalizacyjne ""EKO-SKAWA"" spólka z o.o."
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. z siedzibą w Szczecinku Związek Miast i Gmin Dorzecza Parsęty z siedzibą w Karlinie działający w imieniu,Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.
+PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI SPÓ?KA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Wodociągów i Kanalizacji spółka z ograniczoną odpowiedzialnością,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Wodociągów i Kanalizacji w Obornikach Sp. z o.o.,Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+Przedsiębiorstwo Wodociągów i Kanalizacji Żory Sp. z o.o.,Przedsiębiorstwo Wodociągów i Kanalizacji Żory Sp. z o.o.
+Przemysłowy Instytut Automatyki i Pomiarów PIAP,Przemysłowy Instytut Automatyki i Pomiarów PIAP
+"Przesiębiorstwo Państowe ""Porty Lotnicze""","Przesiębiorstwo Państowe ""Porty Lotnicze"""
+"Punta Umbría Turística, S.A.","Punta Umbría Turística, S.A."
+RÄ«gas brÄ«vostas pčrvalde = CHECK SPELLING,RÄ«gas brÄ«vostas pčrvalde = CHECK SPELLING
+Rakvere Linnavalitsus,Rakvere Linnavalitsus
+RAMATTI Spółka z o.o.,RAMATTI Spółka z o.o.
+RAS,RAS
+Rawskie Wodociągi i Kanalizacja Sp. z o.o.,Rawskie Wodociągi i Kanalizacja Sp. z o.o.
+Rawskie Wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+RBLI,RBLI
+Ředitelství silnic a dálnic ČR,Ředitelství silnic a dálnic ČR
+"Ředitelství silnic Zlínského kraje,příspěvková organizace","Ředitelství silnic Zlínského kraje,příspěvková organizace"
+ŘEDITELSTVÍ VODNÍCH CEST ČESKÉ REPUBLIKY ,ŘEDITELSTVÍ VODNÍCH CEST ČESKÉ REPUBLIKY 
+Reed in Partnership,Reed in Partnership
+Reed in Partnership Polska sp. z o.o.,Reed in Partnership
+Regeneration Investment Fund for Wales LLP,Regeneration Investment Fund for Wales LLP
+REGION DE MIDI PYRENEES,REGION DE MIDI PYRENEES
+REGION DES PAYS DE LA LOIRE,REGION DES PAYS DE LA LOIRE
 REGION REUNION,REGION REUNION
-MINISTERSTVO PR?CE A SOCI?LN?CH VĚC?,MINISTERSTVO PRÁCE A SOCIÁLNÍCH VĚCÍ
-30794536 - UPSVaR - 101073,UPSVaR
-"AGUAS DE LA CUENCA DEL NORTE, S.A","AGUAS DE LA CUENCA DEL NORTE, S.A"
-ÚPSVR,ÚPSVR
+Regionální rada regionu soudržnosti Jihovýchod,Regionální rada regionu soudržnosti Jihovýchod
+Regionalny Park Przemysłowy Świdnik Sp. z o.o.,Regionalny Park Przemysłowy Świdnik Sp. z o.o.
+Regione Abruzzo,Regione Abruzzo
+REGIONE BASILICATA,REGIONE BASILICATA
+Regione Campania,Regione Campania
+"Regione Dipartimento 10: Lavoro, Politiche della famiglia...","Regione Dipartimento 10: Lavoro, Politiche della famiglia..."
+"Regione Dipartimento 11: Cultura, Istruzione, Universit�...","Regione Dipartimento 11: Cultura, Istruzione, Universit�..."
+"Regione Dipartimento 11: Cultura, Istruzione, Universit�... ","Regione Dipartimento 11: Cultura, Istruzione, Universit�... "
+Regione Dipartimento 3: Progr. Nazionale e Comunitaria,Regione Dipartimento 3: Progr. Nazionale e Comunitaria
+Regione Dipartimento 5: Attivit� Produttive,Regione Dipartimento 5: Attivit� Produttive
+REGIONE LAZIO,REGIONE LAZIO
+Regione Siciliana,Regione Siciliana
+Remploy,Remploy Ltd
+Remploy Ltd,Remploy Ltd
+RESEAU FERRE DE FRANCE,Réseau Ferré de France
+Réseau Ferré de France,Réseau Ferré de France
+Rete Ferroviaria Italiana (R.F.I.) S.p.A.,Rete Ferroviaria Italiana (R.F.I.) S.p.A.
+REUS-ALCOVER CONCESSIONARIA GENERALITAT CATALUNYA S.A. ,REUS-ALCOVER CONCESSIONARIA GENERALITAT CATALUNYA S.A. 
+Rēzeknes pilsētas dome,Rēzeknes pilsētas dome
+RFI spa,RFI spa
+Rīgas brīvostas pārvalde,Rīgas brīvostas pārvalde
+Rīgas Tehniskā universitāte ,Rīgas Tehniskā universitāte 
+Rimske terme d.o.o.,Rimske terme d.o.o.
+ROKOSPOL a.s.,ROKOSPOL a.s.
+Roland Berger Strategy Consultants GmbH ,Roland Berger Strategy Consultants GmbH 
+Roth & Rau AG,Roth & Rau AG
+"Rudzka Agencja Rozwoju ""Inwestor"" Sp. z o.o.","Rudzka Agencja Rozwoju ""Inwestor"" Sp. z o.o."
+RUP-Mº Interior,RUP-Mº Interior
+S.C. AGRO NEW ENERGY SA,S.C. AGRO NEW ENERGY SA
+S.C. Apa Târnavei Mari S.A.,S.C. Apa Târnavei Mari S.A.
+S.C. Aparegio Gorj S.A. Târgu- Jiu,S.C. Aparegio Gorj S.A. Târgu- Jiu
+S.C. Aquaserv Tulcea S.A.,S.C. Aquaserv Tulcea S.A.
+S.C. Compania de Apă Arieş S.A.,S.C. Compania de Apă Arieş S.A.
+S.C. Compania de apă Brasov,S.C. Compania de apă Brasov
+S.C. Compania de Apă Olt,S.C. Compania de Apă Olt
+S.C. Compania de Someş S.A.,S.C. Compania de Someş S.A.
+S.C. ECO POWER WIND S.R.L.,S.C. ECO POWER WIND S.R.L.
+S.C. Ecoaqua S.A. Călăraşi,S.C. Ecoaqua S.A. Călăraşi
+S.P. Plod d.o.o.,S.P. Plod d.o.o.
+SA « Filiale Convergence IBC »,SA « Filiale Convergence IBC »
+SA « Filiale Convergence Sambrinvest »,SA « Filiale Convergence Sambrinvest »
+Sächsisches Staatsministerium für Wirtschaft und Arbeit,Sächsisches Staatsministerium für Wirtschaft und Arbeit
+Sadeckie Wodociagi Sp. z o.o.,Sądeckie Wodociągi Sp. z o.o.
+Sądeckie Wodociągi Sp. z o.o.,Sądeckie Wodociągi Sp. z o.o.
+Sammelvorhaben,Sammelvorhaben
+Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej „Zdroje?,Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej „Zdroje?
+Samodzielny Publiczny Szpital Kliniczny Nr 1 w Lublinie,Samodzielny Publiczny Szpital Kliniczny Nr 1 w Lublinie
+Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie,Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie
+Samorząd Województwa Kujawsko-Pomorskiego,Samorząd Województwa Kujawsko-Pomorskiego
+Samorząd Województwa Kujawsko-Pomorskiego ,Samorząd Województwa Pomorskiego
+Samorząd Województwa Mazowieckiego,Samorząd Województwa Mazowieckiego
+Samorząd Województwa Opolskiego,Samorząd Województwa Opolskiego
+Samorząd Województwa Pomorskiego,Samorząd Województwa Pomorskiego
+Samorząd Województwa Pomorskiego ,Samorząd Województwa Pomorskiego
+Samorząd Województwa Wielkopolskiego,Samorząd Województwa Wielkopolskiego
+SANHA Polska Spółka z ograniczoną odpowiedzialnością,SANHA Polska Spółka z ograniczoną odpowiedzialnością
+Satiksmes ministrija,Satiksmes ministrija
+SBA Bautzen,SBA Bautzen
+SBA Chemnitz,SBA Chemnitz
+SBA Leipzig,SBA Leipzig
+SBA Meißen - Dresden,SBA Meißen - Dresden
+SBA Plauen,SBA Plauen
+SC Apa Serv SA Alexandria,SC Apa Serv SA Alexandria
+SC Apa Service SA,SC Apa Service SA
+SC AQUABIS SA Bistriţa,SC AQUABIS SA Bistriţa
+SC Compania de Utilităţi Publice SA Focşani,SC Compania de Utilităţi Publice SA Focşani
+SC Compania de Utilităţi Publice SA Focşani ,SC Compania de Utilităţi Publice SA Focşani 
+SC ROMCONSTRUCT TOP SRL,SC ROMCONSTRUCT TOP SRL
+"SC Transcar International SRL, Sibiu","SC Transcar International SRL, Sibiu"
+Science City York,Science City York
+Scottish Enterprise,Scottish Enterprise
+"Seaway Group, d.o.o.","Seaway Group, d.o.o."
+"Seaway Group, d.o.o. ","Seaway Group, d.o.o. "
+"SEAWAY GROUP, NAVTIČNO PODJETJE, D.O.O.","Seaway Group, d.o.o. "
+Secretaria Regional da Habitação e Equipamentos,Secretaria Regional da Habitação e Equipamentos
+Seetec,Seetec
+SEETEC ,Seetec
+"Segrap d.o.o., Ljutomer","Segrap d.o.o., Ljutomer"
+Seka S.A.,Seka S.A.
+Sen Stadt,Sen Stadt
+Serco,Serco
+Serco Limited ,Serco
+Serco Regional Services,Serco
+Serco Regional Services Ltd,Serco
+SERVEI D OCUPACIO DE CATALUNYA - SOC,SERVEI D OCUPACIO DE CATALUNYA - SOC
+Shaw Trust,Shaw Trust
+SHAW TRUST LIMITED (THE),Shaw Trust
+SHAW TRUST LIMITED(THE),Shaw Trust
+Shaw Trust Ltd.,Shaw Trust
+SHEFFIELD CITY COUNCIL,SHEFFIELD CITY COUNCIL
+SIA „Latvijas Garantiju aģentūra”,SIA „Latvijas Garantiju aģentūra”
+Siciliacque s.p.a,Siciliacque s.p.a
+Sihtasutus Archimedes,Sihtasutus Archimedes
+Sihtasutus Archimedes,Sihtasutus Archimedes
+Sillamäe-Veevärk AS,Sillamäe-Veevärk AS
+Sitech Sp. z o.o.,Sitech Sp. z o.o.
+Skills Training UK Ltd,Skills Training UK Ltd
+Skotan S.A.,Skotan S.A.
+Slovenská technická univerzita v Bratislave,Slovenská technická univerzita v Bratislave
+Slovenski podjetniški sklad,Slovenski podjetniški sklad
+SO.RI.CAL S.P.A.,SO.RI.CAL S.P.A.
+Sociedad Estatal de Infraestructura de Transporte Terrestre (SEITT),Sociedad Estatal de Infraestructura de Transporte Terrestre (SEITT)
+"SOCIEDAD PARA EL FOMENTO Y PROMOCION DEL DESARROLLO SOCIOECONOMICO DE CEUTA, S.A. (PROCESA)","SOCIEDAD PARA EL FOMENTO Y PROMOCION DEL DESARROLLO SOCIOECONOMICO DE CEUTA, S.A. (PROCESA)"
+Soda Polska CIECH Sp. z o.o.,Soda Polska CIECH Sp. z o.o.
+SOFIMAC PARTNERS,SOFIMAC PARTNERS
+SOLAGRO sp. z o.o.,SOLAGRO sp. z o.o.
+Solnova Sp. z o.o.,Solnova Sp. z o.o.
+Somogy Megyei Önkormányzat Kaposi Mór Oktató Kórháza,Somogy Megyei Önkormányzat Kaposi Mór Oktató Kórháza
+Sopron Megyei Jogú Város Önkormányzata,Sopron Megyei Jogú Város Önkormányzata
+SOUTH LONDON BUSINESS LIMITED,SOUTH LONDON BUSINESS LIMITED
+South West RDA,South West Regional Development Agency
+South West Regional Development Agency,South West Regional Development Agency
+SPAQUE SA,SPAQUE SA
+SPAQUEsa,SPAQUE SA
+Specjalistyczny Szpital im. prof. Alfreda Sokołowskiego w Szczecinie – Zdunowie,Specjalistyczny Szpital im. prof. Alfreda Sokołowskiego w Szczecinie – Zdunowie
+SpeedUp IQbator Sp. z o.o.,SpeedUp IQbator Sp. z o.o.
+SPI Consult GmbH,SPI Consult GmbH
+SPI+,SPI+
+Športni center Pohorje d.o.o.,Športni center Pohorje d.o.o.
+"Správa a údržba silnic Jihomoravského kraje, příspěvková organizace kraje","Správa a údržba silnic Jihomoravského kraje, příspěvková organizace kraje"
+"Správa železni?ní dopravní cesty, státní organizace","Správa železniční dopravní cesty, státní organizace"
+"Správa železniční dopravní cesty, státní organizace","Správa železniční dopravní cesty, státní organizace"
+SPW - DG01,SPW - DG01
+SRES - Secretaria Regional do Equipamento Social,SRES - Secretaria Regional do Equipamento Social
+SRTT - Secretaria Regional do Turismo e Transportes,SRTT - Secretaria Regional do Turismo e Transportes
+Stadt Dortmund,Stadt Dortmund
+Stadt Leipzig,Stadt Leipzig
+Stadtverwaltung DresdenSchulverwaltungsamt,Stadtverwaltung DresdenSchulverwaltungsamt
+STATUT?RN? MĚSTO CHOMUTOV,STATUT?RN? MĚSTO CHOMUTOV
+Statutární město Brno,Statutární město Brno
+Statutární město Ostrava,Statutární město Ostrava
+Statutární město Ústí nad Labem,Statutární město Ústí nad Labem
+Stolzle Częstochowa spółka z ograniczoną odpowiedzialnością,Stolzle Częstochowa spółka z ograniczoną odpowiedzialnością
+Středočeský kraj,Středočeský kraj
+Sun Chemical A/S,Sun Chemical A/S
+Švietimo ir mokslo ministerijos Švietimo aprūpinimo centras,Švietimo ir mokslo ministerijos Švietimo aprūpinimo centras
+Swansea University,Swansea University
+SWEDWOOD POLAND Sp. z o.o.,SWEDWOOD POLAND Sp. z o.o.
+Szabolcs-Szatmár Bereg Megyei Önkormányzat ,Szabolcs-Szatmár Bereg Megyei Önkormányzat 
+Szabolcs-Szatmár-Bereg Megyei Önkormányzat,Szabolcs-Szatmár-Bereg Megyei Önkormányzat
+Széchenyi István Egyetem,Széchenyi István Egyetem
+Szeged Megyei Jogú Város Önkormányzata,Szeged Megyei Jogú Város Önkormányzata
+Szegedi Tudományegyetem,Szegedi Tudományegyetem
+Székesfehérvár Megyei Jogú Város Önkormányzata,Székesfehérvár Megyei Jogú Város Önkormányzata
+SZÉKESFEHÉRVÁR MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA ,Székesfehérvár Megyei Jogú Város Önkormányzata
+"Székesfehérvár Város és Térsége (Pátka, Pákozd, Seregélyes) szennyvízcsatorna-hálózat bővítési Önkormányzati Társulás","Székesfehérvár Város és Térsége (Pátka, Pákozd, Seregélyes) szennyvízcsatorna-hálózat bővítési Önkormányzati Társulás"
+Szkoła Główna Gospodarstwa Wiejskiego,Szkoła Główna Gospodarstwa Wiejskiego
+Szkoła Wyższa im. Pawła Włodkowica w Płocku,Szkoła Wyższa im. Pawła Włodkowica w Płocku
+Szociális és Munkaügyi Minisztérium,Szociális és Munkaügyi Minisztérium
+"Szociális és Munkaügyi Minisztérium, mint a Munkaerőpiaci Alap kezelője",Szociális és Munkaügyi Minisztérium
+"Szociális és Munkaügyi Minisztérium, mint a Munkaerőpiaci Alap kezelője",Szociális és Munkaügyi Minisztérium
+"Szociális és Munkaügyi Minisztérium, Munkaerőpiaci Alap",Szociális és Munkaügyi Minisztérium
+"Szociális és Munkaügyi Minisztérium, Munkaerőpiaci Alap",Szociális és Munkaügyi Minisztérium
+"Szociális és Munkaügyi Minisztérium, Munkaerőpiaci alap ",Szociális és Munkaügyi Minisztérium
+Szolnok Megyei Jogú Város Önkormányzata,Szolnok Megyei Jogú Város Önkormányzata
+Szombathely Megyei Jogú Város Önkormányzata,Szombathely Megyei Jogú Város Önkormányzata
+Szpital Powiatowy we Wrześni Sp. z o.o.,Szpital Powiatowy we Wrześni Sp. z o.o.
+Szpital Specjalistyczny im. J. Śniadeckiego w Nowym Sączu,Szpital Specjalistyczny im. J. Śniadeckiego w Nowym Sączu
+Szpital Wojewódzki im. M. Kopernika w Koszalinie,Szpital Wojewódzki im. M. Kopernika w Koszalinie
+Szpital Wojewódzki Nr 2 w Rzeszowie,Szpital Wojewódzki Nr 2 w Rzeszowie
+Tallinna Tehnikaülikool,Tallinna Tehnikaülikool
+Tápiómenti Területfejlesztési Társulás,Tápiómenti Területfejlesztési Társulás
+Targi Kielce Sp. z o.o.,Targi Kielce Sp. z o.o.
+Târgovişte,Târgovişte
+"Tartak ""Olczyk"" Ludwik Olczyk","Tartak ""Olczyk"" Ludwik Olczyk"
+TartuÜlikool,TartuÜlikool
+TartuÜlikooli Kliinikum SA,TartuÜlikooli Kliinikum SA
+TATA SL ,Tata
+Teatr im. Stefana Jaracza,Teatr im. Stefana Jaracza
+Technická univerzita v Liberci,Technická univerzita v Liberci
+Technische UniversitätDresden,Technische UniversitätDresden
+Technologie Ekologiczne Zbigniew Tokarz,Technologie Ekologiczne Zbigniew Tokarz
+Telefonia DIALOG Spółka Akcyjna,Telefonia DIALOG Spółka Akcyjna
+"Terezín - město změny, zájmové sdružení právnických osob","Terezín - město změny, zájmové sdružení právnických osob"
+Terma Technologie Sp. z o.o.,Terma Technologie Sp. z o.o.
+Terme Čatež d.d.,Terme Čatež d.d.
+"Terme Krka, zdraviliške, turisti?ne in gostinske storitve, d.o.o., Novo mesto","Terme Krka, zdraviliške, turisti?ne in gostinske storitve, d.o.o., Novo mesto"
+Terme Olimia d.d.,Terme Olimia d.d.
+TES GROUP Spółka Akcyjna,TES GROUP Spółka Akcyjna
+THE BOSTON CONSULTING GROUP SL ,THE BOSTON CONSULTING GROUP SL 
+The Consultancy Home Counties Ltd,The Consultancy Home Counties Ltd
+The Consultancy Home Counties Ltd ,The Consultancy Home Counties Ltd 
+The Learning Partnership for Cornwall and the Isles of Scilly,The Learning Partnership for Cornwall and the Isles of Scilly
+The Mersey Partnership,The Mersey Partnership
+TNG LIMITED 107656,TNG Ltd
+TNG Ltd,TNG Ltd
+Tolna Megyei Önkormányzat,Tolna Megyei Önkormányzat
+Tomorrows People Trust Ltd,Tomorrows People Trust Ltd
+Torfaen County Borough Council,Torfaen County Borough Council
+Toruńskie Wodociągi Sp. z o.o.,Toruńskie Wodociągi Sp. z o.o.
+"Toruńskie Zakłady Graficzne ""Zapolex"" Spółka z ograniczoną odpowiedzialnością","Toruńskie Zakłady Graficzne ""Zapolex"" Spółka z ograniczoną odpowiedzialnością"
+Training Programm...,Training Programmes Branch - Department for Employment & Learning European Unit
+Training Programmes Branch - Department for Employment & Learning European Unit,Training Programmes Branch - Department for Employment & Learning European Unit
+"Turismo de Portugal,I.P.","Turismo de Portugal,I.P."
+TWL Ltd ,TWL TRAINING LTD
+TWL TRAINING LTD,TWL TRAINING LTD
+UAT Jud Gorj,UAT Jud Gorj
+UAT Jud Sibiu,UAT Jud Sibiu
+UAT Jud Teleorman,UAT Jud Teleorman
+UAT Jud. Mehedinti,UAT Jud. Mehedinti
+UAT Jud. Timiş,UAT Jud. Timiş
+UAT Jud. Vaslui,UAT Jud. Vaslui
+UAT SĂLAJ - UAT Cluj,UAT SĂLAJ - UAT Cluj
+UATJud. Dolj,UATJud. Dolj
+Ufi Ltd,Ufi Ltd
+Ugdymo plėtotės centras,Ugdymo plėtotės centras
+UNIOR d.d.,UNIOR d.d.
+Unipharm AD,Unipharm AD
+Unitatea Executiva pentru Finantarea Invatamantului Superior si a Cercetarii Stiintifice Universitare (UEFISCSU),Unitatea Executiva pentru Finantarea Invatamantului Superior si a Cercetarii Stiintifice Universitare (UEFISCSU)
+Unity Trade Union,Unity Trade Union
+UNIVERSIDAD DE BARCELONA,UNIVERSIDAD DE BARCELONA
+UNIVERSIDAD DE CADIZ,UNIVERSIDAD DE CADIZ
+UNIVERSIDAD DE CASTILLA-LA MANCHA,UNIVERSIDAD DE CASTILLA-LA MANCHA
+UNIVERSIDAD DE CORDOBA,UNIVERSIDAD DE CORDOBA
+UNIVERSIDAD DE GRANADA,UNIVERSIDAD DE GRANADA
+UNIVERSIDAD DE MALAGA,UNIVERSIDAD DE MALAGA
+UNIVERSIDAD DE OVIEDO,UNIVERSIDAD DE OVIEDO
+UNIVERSIDAD DE SEVILLA,UNIVERSIDAD DE SEVILLA
+UNIVERSIDAD DE VALENCIA,UNIVERSIDAD DE VALENCIA
+UNIVERSIDAD DE VIGO,UNIVERSIDAD DE VIGO
+UNIVERSIDAD DE ZARAGOZA,UNIVERSIDAD DE ZARAGOZA
+"UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA, UNED","UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA, UNED"
+UNIVERSIDAD POLITECNICA DE VALENCIA,UNIVERSIDAD POLITECNICA DE VALENCIA
+UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA
+Universita_ di Napoli Federico II,Universita_ di Napoli Federico II
+Universität Leipzig,Universität Leipzig
+UNIVERSITATEA DIN BUCURESTI,UNIVERSITATEA DIN BUCURESTI
+Universitatea din Craiova,Universitatea din Craiova
+Universitatea Politehnica din Bucuresti,Universitatea Politehnica din Bucuresti
+University College Falmouth,University College Falmouth
+University of Edinburgh,University of Edinburgh
+University of Exeter,University of Exeter
+University of Glamorgan,University of Glamorgan
+University of Malta,University of Malta
+University of Plymouth,University of Plymouth
+Univerza v Mariboru,Univerza v Mariboru
+Univerzita Palackého v Olomouci,Univerzita Palackého v Olomouci
+Univerzita Tomáše Bati ve Zlíně,Univerzita Tomáše Bati ve Zlíně
+Uniwersytecki Szpital Dziecięcy w Krakowie,Uniwersytecki Szpital Dziecięcy w Krakowie
+Uniwersytet Ekonomiczny we Wrocławiu,Uniwersytet Ekonomiczny we Wrocławiu
+Uniwersytet Gdański,Uniwersytet Gdański
+Uniwersytet im. Adama Mickiewicza,Uniwersytet im. Adama Mickiewicza
 Uniwersytet im. Adama Mickiewicza,Uniwersytet im. Adama Mickiewicza
 Uniwersytet im. Adama Mickiewicza w Poznaniu,Uniwersytet im. Adama Mickiewicza
-Województwo Małopolskie,Województwo Małopolskie
-"Departament Edukacji i Sportu, Urząd Marszałkowski Województwa Małopolskiego ",Województwo Małopolskie
-Ingeus,Ingeus
-"Ingeus
-Subcontractors: NA ",Ingeus
-"Ingeus
-Subcontractors: South Bank Employers Group, St Mungos, Inbiz",Ingeus
-"Ingeus
-Subcontractors: Southwark Works, The Start Project",Ingeus
-"Ingeus
-Subcontractors: Red Kite Learning,Broadway",Ingeus
-"Ingeus
-Subcontractors: Red Kite Learning,Crisis",Ingeus
-Regione Dipartimento 3: Progr. Nazionale e Comunitaria,Regione Dipartimento 3: Progr. Nazionale e Comunitaria
+Uniwersytet im. Adama Mickiewicza w Poznaniu,Uniwersytet im. Adama Mickiewicza
+Uniwersytet Jagielloński,Uniwersytet Jagielloński
 Uniwersytet Jagielloński,Uniwersytet Jagielloński
 Uniwersytet Jagielloński - Collegium Medicum ,Uniwersytet Jagielloński
 "Uniwersytet Jagielloński, Instytut Prawa Własności Intelektualnej ",Uniwersytet Jagielloński
-AEROPUERTOS ESPAÑOLES Y NAVEGACIÓN AÉREA (MF),AEROPUERTOS ESPAÑOLES Y NAVEGACIÓN AÉREA (MF)
-AUTORIDAD PORTUARIA DE ALGECIRAS,AUTORIDAD PORTUARIA DE ALGECIRAS
-Instytut Badań Edukacyjnych w Warszawie,Instytut Badań Edukacyjnych w Warszawie
-Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością,Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością
-Politechnika Rzeszowska im. Ignacego Łukasiewicza,Politechnika Rzeszowska im. Ignacego Łukasiewicza
-Miasto Łódź,Miasto Łódź
-Miasto Łódź - Urząd Miasta Łodzi ,Miasto Łódź
-Miasto Łódź bedące Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 6 w Łodzi ,Miasto Łódź
-Miasto Łódź będace Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 21,Miasto Łódź
-Miasto Łódź będące Organem Prowadzącym dla Łódzkiego Centrum Doskonalenia Nauczycieli i Kształcenia Praktycznego ,Miasto Łódź
-Miasto Łódź będące Organem Prowadzącym dla Zespołu Szkół Ponadgimnazjalnych nr 17 ,Miasto Łódź
-DIRECCIÓN GENERAL DEL AGUA (MARM),DIRECCIÓN GENERAL DEL AGUA (MARM)
-Kaolin,Kaolin
-Каолин АД,Kaolin
-"Českomoravská záruční a rozvojová banka, a.s.","Českomoravská záruční a rozvojová banka, a.s."
-AGENCIA DE INNOVACION Y DESARROLLO DE ANDALUCIA (IDEA),AGENCIA DE INNOVACION Y DESARROLLO DE ANDALUCIA (IDEA)
-CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) ,CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) 
-Ministerstwo Sprawiedliwości,Ministerstwo Sprawiedliwości
-Województwo Dolnośląskie,Województwo Dolnośląskie
-Województwo Dolnośląskie / Urząd Marszałkowski Województwa Dolnośląskiego,Województwo Dolnośląskie
-Województwo Dolnośląskie - Dolnośląska Służba Dróg i Kolei we Wrocławiu ,Województwo Dolnośląskie
-"Szociális és Munkaügyi Minisztérium, Munkaerőpiaci Alap",Szociális és Munkaügyi Minisztérium
-"Szociális és Munkaügyi Minisztérium, Munkaerőpiaci alap ",Szociális és Munkaügyi Minisztérium
-"Szociális és Munkaügyi Minisztérium, mint a Munkaerőpiaci Alap kezelője",Szociális és Munkaügyi Minisztérium
-Miasto Białystok,Miasto Białystok
-Miasto Białystok/ Centrum Kształcenia Ustawicznego w Białymstoku,Miasto Białystok
-Miasto Białystok/ Zespół Szkół Ogólnokształcących i Technicznych,Miasto Białystok
-MÁV-Magyar Allamvasutak ZRT.,MÁV-Magyar Allamvasutak ZRT.
-Europos investicinis fondas,Europos investicinis fondas
-Comune di Napoli,Comune di Napoli
-COMUNIDAD AUTONOMA DE LA REGION DE MURCIA,COMUNIDAD AUTONOMA DE LA REGION DE MURCIA
-ANAS spa,ANAS spa
-GOBIERNO DE CANARIAS,GOBIERNO DE CANARIAS
-AUTORIDAD PORTUARIA DE VALENCIA,AUTORIDAD PORTUARIA DE VALENCIA
-Uniwersytet Gdański,Uniwersytet Gdański
-Gdański Uniwersytet Medyczny,Uniwersytet Gdański
-Politechnika Gdańska ,Uniwersytet Gdański
-"AGUAS DE LA CUENCA DEL TAJO, S.A.","AGUAS DE LA CUENCA DEL TAJO, S.A."
-AGUAS DE LA CUENCA DEL TAJO SA,"AGUAS DE LA CUENCA DEL TAJO, S.A."
-Celon Pharma Spółka z ograniczoną odpowiedzialnością ,Celon Pharma Sp. z o.o.
-Celon Pharma Sp. z o.o. ,Celon Pharma Sp. z o.o. 
-IBB-Beteiligungsgesel-lschaft VC Fonds Technologie,IBB-Beteiligungsgesellschaft
-IBB,IBB-Beteiligungsgesellschaft
-Training Programm...,Training Programmes Branch - Department for Employment & Learning European Unit
-"Ministerstwo Rozwoju Regionalnego, Departament Koordynacji Polityki Strukturalnej, Instytucja Strategiczna",Ministerstwo Rozwoju Regionalnego
-"Ministerstwo Rozwoju Regionalnego, Biuro Administracyjno-Informatyczne",Ministerstwo Rozwoju Regionalnego
-"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, jednostka odpowiedzialna za promocję i informację NSRO/PWW",Ministerstwo Rozwoju Regionalnego
-"Ministerstwo Rozwoju Regionalnego, Departament Programów Pomocowych i Pomocy Technicznej, Instytucja Zarządzająca POPT",Ministerstwo Rozwoju Regionalnego
-"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi",Ministerstwo Rozwoju Regionalnego
-"Ministerstwo Rozwoju Regionalnego, Biuro Zarządzania Zasobami Ludzkimi, jednostka w MRR odpowiedzialna za wsparcie jednostek realizujących NSRO",Ministerstwo Rozwoju Regionalnego
-"""Działdowska Agencja Rozwoju"" Spółka Akcyjna ",Działdowska Agencja Rozwoju S.A. 
-Działdowska Agencja Rozwoju S.A. ,Działdowska Agencja Rozwoju S.A. 
-Instytut Genetyki i Hodowli Zwierząt PAN w Jastrzębcu,Instytut Genetyki i Hodowli Zwierząt PAN
-Instytut Genetyki i Hodowli Zwierząt PAN ,Instytut Genetyki i Hodowli Zwierząt PAN 
-Székesfehérvár Megyei Jogú Város Önkormányzata,Székesfehérvár Megyei Jogú Város Önkormányzata
-SZÉKESFEHÉRVÁR MEGYEI JOGÚ VÁROS ÖNKORMÁNYZATA ,Székesfehérvár Megyei Jogú Város Önkormányzata
-South West Regional Development Agency,South West Regional Development Agency
-South West RDA,South West Regional Development Agency
-"Centro Hospitalar do Porto, EPE","Centro Hospitalar do Porto, EPE"
-"CENTRO HOSPITALAR DO PORTO, E.P.E.","Centro Hospitalar do Porto, EPE"
-"Centro Hospitalar do Porto, E. P. E..","Centro Hospitalar do Porto, EPE"
+Uniwersytet Łódzki,Uniwersytet Łódzki
+Uniwersytet Marii Curie-Skłodowskiej,Uniwersytet Marii Curie-Skłodowskiej
+Uniwersytet Marii Curie-Skłodowskiej w Lublinie,Uniwersytet Marii Curie-Skłodowskiej
+Uniwersytet Medyczny im. Karola Marcinkowskiego,Uniwersytet Medyczny im. Karola Marcinkowskiego
+Uniwersytet Medyczny w Białymstoku,Uniwersytet Medyczny w Białymstoku
+Uniwersytet Medyczny w Łodzi,Uniwersytet Medyczny w Łodzi
+Uniwersytet Medyczny w Lublinie,Uniwersytet Medyczny w Lublinie
+Uniwersytet Mikołaja Kopernika w Toruniu,Uniwersytet Mikołaja Kopernika w Toruniu
+Uniwersytet Opolski,Uniwersytet Opolski
+Uniwersytet Przyrodniczy w Lublinie,Uniwersytet Przyrodniczy w Lublinie
+Uniwersytet Przyrodniczy w Poznaniu,Uniwersytet Przyrodniczy w Poznaniu
+Uniwersytet Przyrodniczy we Wrocławiu,Uniwersytet Przyrodniczy we Wrocławiu
+Uniwersytet Rzeszowski,Uniwersytet Rzeszowski
+Uniwersytet Rzeszowski w Rzeszowie,Uniwersytet Rzeszowski
+Uniwersytet Śląski,Uniwersytet Śląski
+Uniwersytet Śląski w Katowicach,Uniwersytet Śląski w Katowicach
+Uniwersytet Technologiczno - Przyrodniczy im. J. J. Śniadeckich w Bydgoszczy,Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy
+Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy,Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy
+Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy,Uniwersytet Technologiczno - Przyrodniczy im. Jana i Jędrzeja Śniadeckich w Bydgoszczy
+Uniwersytet w Białymstoku,Uniwersytet w Białymstoku
+Uniwersytet Warmińsko-Mazurski,Uniwersytet Warmińsko-Mazurski
+Uniwersytet Warmińsko-Mazurski,Uniwersytet Warmińsko-Mazurski
+Uniwersytet Warmińsko-Mazurski w Olsztynie,Uniwersytet Warmińsko-Mazurski
+Uniwersytet Warszawski,Uniwersytet Warszawski
+Uniwersytet Warszawski,Uniwersytet Warszawski
+Uniwersytet Warszawski - Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego,Uniwersytet Warszawski
+Uniwersytet Warszawski - Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego ,Uniwersytet Warszawski
+Uniwersytet Wrocławski we Wrocławiu,Uniwersytet Wrocławski we Wrocławiu
+Unizeto Technologies S.A. ,Unizeto Technologies S.A. 
+ÚPSVR,ÚPSVR
+Urząd Marszałkowski w Łodzi,Urząd Marszałkowski w Łodzi
+Urząd Marszałkowski Województwa Lubelskiego w Lublinie,Urząd Marszałkowski Województwa Lubelskiego w Lublinie
+Urząd Marszałkowski Województwa Małopolskiego,Urząd Marszałkowski Województwa Małopolskiego
+Urząd Marszałkowski Województwa Mazowieckiego,Urząd Marszałkowski Województwa Mazowieckiego
+Urząd Marszałkowski Województwa Warmińsko-Mazurskiego,Urząd Marszałkowski Województwa Warmińsko-Mazurskiego
+Urząd Marszałkowski Województwa Wielkopolskiego,Urząd Marszałkowski Województwa Wielkopolskiego
+Urząd Morski w Gdyni,Urząd Morski w Gdyni
+Urząd Morski w Słupsku,Urząd Morski w Słupsku
+Ústecký kraj,Ústecký kraj
+"Uždaroji akcinė bendrovė ""Dzūkijos vandenys""","Uždaroji akcinė bendrovė ""Dzūkijos vandenys"""
+"UŽDAROJI AKCINĖ BENDROVĖ ""INVESTICIJŲ IR VERSLO GARANTIJOS""","UŽDAROJI AKCINĖ BENDROVĖ ""INVESTICIJŲ IR VERSLO GARANTIJOS"""
+"Uždaroji akcinė bendrovė ""Kauno vandenys""","Uždaroji akcinė bendrovė ""Kauno vandenys"""
+"Uždaroji akcinė bendrovė ""Šiaulių vandenys""","Uždaroji akcinė bendrovė ""Šiaulių vandenys"""
+"Uždaroji akcinė bendrovė ""VILNIAUS VANDENYS""","Uždaroji akcinė bendrovė ""VILNIAUS VANDENYS"""
+Væksthus Midtjylland,Væksthus Midtjylland
+Væksthus Nordjylland,Væksthus Nordjylland
+Valeo Autosystemy spółka z ograniczoną odpowiedzialnością,Valeo Autosystemy spółka z ograniczoną odpowiedzialnością
+Valsts akciju sabiedrība „Latvijas Hipotēku un zemes banka”,Valsts akciju sabiedrība „Latvijas Hipotēku un zemes banka”
+Valsts vides dienests,Valsts vides dienests
+"Valstybės įmonė ""Kauno aerouostas""","Valstybės įmonė ""Kauno aerouostas"""
+Valstybinė saugomų teritorijų tarnyba prie Aplinkos ministerijos,Valstybinė saugomų teritorijų tarnyba prie Aplinkos ministerijos
+"VAS ""Latvijas dzelzceļš""","VAS ""Latvijas dzelzceļš"""
+"Vas Megyei Markusovszky Lajos ?ltalános Rehabilitációs és Gyógyfürdő Kórház, Egyetemi Oktatókórház, Zártkörűen Működő Nonprofit Részvénytársaság","Vas Megyei Markusovszky Lajos ?ltalános Rehabilitációs és Gyógyfürdő Kórház, Egyetemi Oktatókórház, Zártkörűen Működő Nonprofit Részvénytársaság"
+Vattenfall Europe DistributionBerlin GmbH,Vattenfall Europe DistributionBerlin GmbH
+Vattenfall Heat Poland S.A.,Vattenfall Heat Poland S.A.
+VDAB,VDAB
+Veeteede Amet,Veeteede Amet
+Vegrad hotel AM d.o.o.,Vegrad hotel AM d.o.o.
+VENETO SVILUPPO S.P.A.,VENETO SVILUPPO S.P.A.
+Ventspils brīvostas pārvalde,Ventspils brīvostas pārvalde
+Viešoji įstaiga Kauno medicinos universiteto klinikos,Viešoji įstaiga Kauno medicinos universiteto klinikos
+Viešoji įstaiga Vilniaus universiteto ligoninės Santariškių klinikos,Viešoji įstaiga Vilniaus universiteto ligoninės Santariškių klinikos
+Ville de Charleroi,Ville de Charleroi
+Ville de Liege,Ville de Liege
+Ville de Mons,Ville de Mons
+Vilniaus miesto savivaldybės administracija,Vilniaus miesto savivaldybės administracija
+Vilniaus universitetas,Vilniaus universitetas
+VITKOVICE MILMET S.A.,VITKOVICE MILMET S.A.
+Vízügyi és Környezetvédelmi Központi Igazgatóság,Vízügyi és Környezetvédelmi Központi Igazgatóság
+Vízügyi és Környezetvédelmi Központi Igazgatóság,Vízügyi és Környezetvédelmi Központi Igazgatóság
+Vlassenroot Polska Sp. z o.o.,Vlassenroot Polska Sp. z o.o.
+Vodohospodářské sdružení Turnov,Vodohospodářské sdružení Turnov
+Vyso?ina,Vyso?ina
+VYSOKÁ ŠKOLA BÁŇSKÁ-TECHNICKÁ UNIVERZITA OSTRAVA,VYSOKÁ ŠKOLA BÁŇSKÁ-TECHNICKÁ UNIVERZITA OSTRAVA
+Vysoké učení technické v Brně ,Vysoké učení technické v Brně 
+Wales Council for Voluntary Action (WCVA),Wales Council for Voluntary Action (WCVA)
+Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie,Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie
+Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie,Warmińsko-Mazurska Agencja Rozwoju Regionalnego S.A. w Olsztynie
+Warmińsko-Mazurska Filharmonia im. Feliksa Nowowiejskiego w Olsztynie,Warmińsko-Mazurska Filharmonia im. Feliksa Nowowiejskiego w Olsztynie
+Warszawska Wyższa Szkoła Informatyki,Warszawska Wyższa Szkoła Informatyki
+Warszawski Uniwersytet Medyczny,Uniwersytet Warszawski
+Warszawski Uniwersytet Medyczny,Warszawski Uniwersytet Medyczny
+Warwick University,Warwick University
+Wasser- und Schifffahrtsamt Stralsund,Wasser- und Schifffahrtsamt Stralsund
+Wasserstraßen-Neubauamt Berlin,Wasserstraßen-Neubauamt Berlin
+Welsh Assembly Government - Heritage,Welsh Assembly Government - Heritage
+Welsh Assembly Government -Heritage ,Welsh Assembly Government -Heritage 
+"Welsh Assembly Government Delivered through LAs: Torfaen CBC, Bridgend CBC, Rhondda Cynon Taff, Merthyr Tydfil CBC, Caerphilly CBC, Blaenau Gwent CBC.","Welsh Assembly Government Delivered through LAs: Torfaen CBC, Bridgend CBC, Rhondda Cynon Taff, Merthyr Tydfil CBC, Caerphilly CBC, Blaenau Gwent CBC."
 Wirtschafts- und Infrastrukturbank Hesse,Wirtschafts- und Infrastrukturbank Hessen
-FONDO 46 Analisi fattuale,FONDO 46
-FONDO 46 GENERALISTA,FONDO 46
-FONDO 46 REACH,FONDO 46
-FONDO 46 START UP,FONDO 46
-00397687 - STU v Bratislave,Slovenská technická univerzita v Bratislave
-Arso-Polański Spółka z Ograniczoną Odpowiedzialnością,Arso Polański Sp. z o.o.
-Arso Polański Sp. z o.o.,Arso Polański Sp. z o.o.
-SOLAGRO sp. z o.o.,SOLAGRO sp. z o.o.
-MIASTECZKO MULTIMEDIALNE SP. Z O.O.,Miasteczko Multimedialne Sp. z o. o.
-Miasteczko Multimedialne Sp. z o. o.,Miasteczko Multimedialne Sp. z o. o.
-Euroimplant S.A.,Euroimplant S.A.
-EUROIMPLANT S.A.,Euroimplant S.A.
-"SEAWAY GROUP, NAVTIČNO PODJETJE, D.O.O.","Seaway Group, d.o.o. "
-"Seaway Group, d.o.o. ","Seaway Group, d.o.o. "
-Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
-Bełchatowsko Kleszczowski Park Przemyslowo- Technologiczny Sp. z o.o.,Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.
-Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Magyar Közút Nonprofit Zrt 
-Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság.,Magyar Közút Nonprofit Zrt 
-Magyar Közút Nonprofit Zrt,Magyar Közút Nonprofit Zrt
-Magyar Közút Nonprofit Zrt. Adószám: 14605749-2-44 ,Magyar Közút Nonprofit Zrt 
-Magyar Közút Nonprofit Zrt.,Magyar Közút Nonprofit Zrt 
-35914939 - ZSSK a.s.,Železničná spoločnosť Slovensko - Railway Company Slovakia
-00151866 - MV SR,Ministerstvo vnútra - interior ministry
-30416094 - MDPT SR,Ministry of Transport Construction and Regional Development of the Slovak Republic 
+Wirtschafts- und Infrastrukturbank Hessen,Wirtschafts- und Infrastrukturbank Hessen
+WISTA - Managem. GmbH,WISTA - Managem. GmbH
+Władza Wdrażająca Programy Europejskie (WWPE),Implementing Authority for European Programmes 
+Władza Wdrażająca Programy Europejskie (WWPE),Władza Wdrażająca Programy Europejskie (WWPE)
+Wodociągi Białostockie Sp. z o.o.,Wodociągi Białostockie Sp. z o.o.
+Wodociągi i Kanalizacja Krzeszowice Sp z o.o.,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Wodociągi i Kanalizacja Krzeszowice Sp z o.o.,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Wodociągi i Kanalizacja Spółka z ograniczoną odpowiedzialnością,Wodociągi i Kanalizacja Spółka z ograniczoną odpowiedzialnością
+Wodociągi i Kanalizacja Spółka z ograniczoną odpowiedzialnością ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Wojewdzki Szpital Zespolony w Elblągu,Wojewdzki Szpital Zespolony w Elblągu
+Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Opolu,Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Opolu
+Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego w Olsztynie,Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego w Olsztynie
+Wojewódzki Specjalistyczny Szpital im. Dr Wł. Biegańskiego,Wojewódzki Specjalistyczny Szpital im. Dr Wł. Biegańskiego
+Wojewódzki Szpital Specjalistyczny w Olsztynie,Wojewódzki Szpital Specjalistyczny w Olsztynie
+Wojewódzki Szpital Specjalistyczny we Wrocławiu,Wojewódzki Szpital Specjalistyczny we Wrocławiu
+Wojewódzki Szpital Zespolony w Kielcach,Wojewódzki Szpital Zespolony w Kielcach
+Wojewódzki Szpital Zespolony w Koninie,Wojewódzki Szpital Zespolony w Koninie
+Wojewódzki Szpital Zespolony w Płocku,Wojewódzki Szpital Zespolony w Płocku
+Wojewódzki Urząd Pracy w Krakowie,Wojewódzki Urząd Pracy w Krakowie
+Wojewódzki Urząd Pracy w Szczecinie,Wojewódzki Urząd Pracy w Szczecinie
+Województwo Dolnośląskie,Województwo Dolnośląskie
+Województwo Dolnośląskie,Województwo Dolnośląskie
+Województwo Dolnośląskie - Dolnośląska Służba Dróg i Kolei we Wrocławiu ,Województwo Dolnośląskie
+Województwo Dolnośląskie / Urząd Marszałkowski Województwa Dolnośląskiego,Województwo Dolnośląskie
+Województwo Łódzkie,Województwo Łódzkie
+Województwo Lubuskie,Województwo Lubuskie
+Województwo Małopolskie,Województwo Małopolskie
+Województwo Małopolskie,Województwo Małopolskie
+Województwo Opolskie,Województwo Opolskie
+Województwo Podkarpackie,Województwo Podkarpackie
+Województwo Podkarpackie - Urząd Marszałkowski Województwa Podkarpackiego,Województwo Podkarpackie - Urząd Marszałkowski Województwa Podkarpackiego
+Województwo Podlaskie,Województwo Podlaskie
+Województwo Podlaskie ,Województwo Podlaskie 
+Województwo Podlaskie/Urząd Marszałkowski Woj. Podlaskiego (Departament Zdrowia) ,Województwo Podlaskie 
+Województwo Śląskie,Województwo Śląskie
+Województwo Wielkopolskie,Województwo Wielkopolskie
+Województwo Zachodniopomorskie,Województwo Zachodniopomorskie
+Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego,Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego
+Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego w Warszawie,Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego w Warszawie
+Wojskowy Instytut Medyczny,Wojskowy Instytut Medyczny
+Wolverhampton University,Wolverhampton University
+Working LInks,Working Links
+Working Links,Working Links
+WORKING LINKS,Working Links
+Working Links,Working Links
+WORKING LINKS (EMPLOYMENT) LIMITED,Working Links
+Working Links (Employment) Ltd,Working Links
+Working Links (Employment) Ltd,Working Links
+Working Links Notts/Derby,Working Links
+Wrocławski Park Technologiczny S.A.,Wrocławski Park Technologiczny S.A.
+Wrocławskie Centrum Badań EIT+ Sp. z o.o.,Wrocławskie Centrum Badań EIT+ Sp.z.o.o 
+Wrocławskie Centrum Badań EIT+ Sp. z o.o.,Wrocławskie Centrum Badań EIT+ Sp. z o.o.
+Wrocławskie Centrum Badań EIT+ Sp.z.o.o ,Wrocławskie Centrum Badań EIT+ Sp.z.o.o 
+"Wrocławskie Przedsiębiorstwo ""Hala Ludowa"" Sp. z o.o.","Wrocławskie Przedsiębiorstwo ""Hala Ludowa"" Sp. z o.o."
+Wydawnictwo Szkolne i Pedagogiczne,Wydawnictwo Szkolne i Pedagogiczne
+Wydział Edukacji i Nauki Urzędu Marszałkowskiego Województwa Dolnośląskiego,Wydział Edukacji i Nauki Urzędu Marszałkowskiego Województwa Dolnośląskiego
+WYG International Sp. z o.o.,WYG International Sp. z o.o.
+Wyższa Szkoła Bankowa we Wrocławiu,Wyższa Szkoła Bankowa we Wrocławiu
+Wyższa Szkoła Ekonomii i Innowacji w Lublinie,Wyższa Szkoła Ekonomii i Innowacji w Lublinie
+Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie,Wyższa Szkoła Informatyki i Zarządzania w Rzeszowie
+Wyższa Szkoła Pedagogiczna TWP w Warszawie,Wyższa Szkoła Pedagogiczna TWP w Warszawie
+Wyższa Szkoła Policji w Szczytnie,Wyższa Szkoła Policji w Szczytnie
+XUNTA DE GALICIA,XUNTA DE GALICIA
+XUNTA DE GALICIA,XUNTA DE GALICIA
+Yawal S.A.,Yawal S.A.
+Yorkshire Forward,Yorkshire Forward
+Zachodniopomorski Uniwersytet Technologiczny (do 1 stycznia 2009 roku Politechnika Szczecińska),Zachodniopomorski Uniwersytet Technologiczny (do 1 stycznia 2009 roku Politechnika Szczecińska)
+Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie
+Zachodniopomorskie Centrum Onkologii,Zachodniopomorskie Centrum Onkologii
+Żagańskie Wodociągi i Kanalizacje Spółka z o.o.,Żagańskie Wodociągi i Kanalizacje Spółka z o.o.
+Zakład Doskonalenia Zawodowego,Zakład Doskonalenia Zawodowego
+Zakład Doskonalenia Zawodowego w Kielcach,Zakład Doskonalenia Zawodowego w Kielcach
+Zakład Gospodarki Odpadami S.A.,Zakład Gospodarki Odpadami S.A.
+Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością,Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością
+Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością,Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością
+Zakład Przetwórstwa Tworzyw Sztucznych Witoplast Witold Kisieliński Michał Kisieliński Spółka Jawna.,Zakład Przetwórstwa Tworzyw Sztucznych Witoplast Witold Kisieliński Michał Kisieliński Spółka Jawna.
+Zakład Ubezpieczeń Społecznych,Zakład Ubezpieczeń Społecznych
+"Zakład Utylizacji Odpadów Komunalnych ""Stary Las"" Sp. z o.o.","Zakład Utylizacji Odpadów Komunalnych ""Stary Las"" Sp. z o.o."
+Zakład Utylizacji Odpadów Spółka z ograniczoną odpowiedzialnością,Zakład Utylizacji Odpadów Spółka z ograniczoną odpowiedzialnością
+Zakład Utylizacyjny Sp. z o.o.,Zakład Utylizacyjny Sp. z o.o.
+Zakład Utylizacyjny Sp. z o.o.,Zakład Utylizacyjny Sp. z o.o.
+Zakład Wodociągów i Kanalizacji Sp. z o.o w Tczewie,Zakład Wodociągów i Kanalizacji Sp. z o.o.
+Zakład Wodociągów i Kanalizacji Sp. z o.o.,Zakład Wodociągów i Kanalizacji Sp. z o.o.
+Zakład Wodociągów i Kanalizacji Sp. z o.o.,Zakład Wodociągów i Kanalizacji Sp. z o.o.
+Zakład Wodociągów i Kanalizacji Spółka z Ograniczoną Odpowiedzialnością,Zakład Wodociągów i Kanalizacji Sp. z o.o.
+Zakłady Azotowe Puławy S.A.,Zakłady Azotowe Puławy S.A.
+Zakłady Remontowe Energetyki Katowice S.A.,Zakłady Remontowe Energetyki Katowice S.A.
+Zala Megyei Önkormányzat,Zala Megyei Önkormányzat
+Západočeská univerzita v Plzni,Západočeská univerzita v Plzni
+Zarząd Morskiego Portu Gdynia Spółka Akcyjna,Zarząd Morskiego Portu Gdynia Spółka Akcyjna
+Zavod RS za zaposlovanje,Zavod RS za zaposlovanje
+Zeleznice Slovenskej Republiky,Zeleznice Slovenskej Republiky
+Zespół Państwowych Szkół Muzycznych im. Mieczysława Karłowicza w Krakowie,Zespół Państwowych Szkół Muzycznych im. Mieczysława Karłowicza w Krakowie
+Zespół Szkół Muzycznych,Zespół Szkół Muzycznych
+Zielonogórskie Wodociągi i Kanalizacja Sp. z o.o.,Zielonogórskie Wodociągi i Kanalizacja Sp. z o.o.
+Zielonogórskie Wodociągi i Kanalizacja Sp. z o.o. ,Wodociągi i Kanalizacja Krzeszowice Sp z o.o.
+Zoo Hannover GmbH,Zoo Hannover GmbH
+Związek Gmin Gór Świętokrzyskich,Związek Gmin Gór Świętokrzyskich
+Związek Międzygminny,Związek Międzygminny
+Związek Międzygminny „Puszcza Zielonka” ,Związek Międzygminny
+Związek Międzygminny ds. Ekologii w Żywcu,Związek Międzygminny ds. Ekologii w Żywcu
+Związek Międzygminny ds. Ekologii w Żywcu ,Związek Międzygminny
+Каолин АД,Kaolin
+"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, Instytucja odpowiedzialna za promocję i informację NSRO","Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, Instytucja odpowiedzialna za promocję i informację NSRO"
+"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, jednostka odpowiedzialna za promocję i informację NSRO/PWW","Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, Instytucja odpowiedzialna za promocję i informację NSRO"
+Ministerstwo Nauki i Szkolnictwa Wyższego Departament Organizacji Szkół Wyższych,Ministerstwo Nauki i Szkolnictwa Wyższego Departament Organizacji Szkół Wyższych
+Minister Gospodarki Departament Instrumentów Wsparcia,Minister Gospodarki Departament Instrumentów Wsparcia
