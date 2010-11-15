@@ -2,8 +2,6 @@ beneficiary,category,sector_code,parent_company_or_owner,trade_description,ft_ca
 "	""AQUA"" SPÓŁKA AKCYJNA 	",Government owned company,"3600 - Water collection, treatment and supply",MINA DISTRICT OF BIELSKO-BIALA,"Services: water supply, sewage collection; "
  Somogy Megyei Önkormányzat Kaposi Mór Oktató Kórháza,Government owned company,Teaching Hospital
  Železničná spoločnosť Slovensko - Railway Company Slovakia,Government owned company,"4910 - Passenger rail transport, interurban"
-Асоциация на индустриалния капитал в България,Confirm
-Изпълнителна агенция Главна инспекция по труда,Government Organisation,Executive Agency General Labour Inspectorate
 " Агенция по заетостта, главна дирекция ""Услуги по заетостта"" ",Government Organisation,Employment Agency,,,,"Employment Agency, Directorate General ""Employment Services"" - note total amount = 249999732"
 """AGROMAX"" spółka z ograniczona odpowiedzialnoscia",Company,4675 - Wholesale of chemical products,POUL HELWEG INVEST APS,,Danish owned
 """APEXIM AB"" Przedsiębiorstwo Wielobranżowe Adam Baranowski",Company," 	5151 - Wholesale of solid, liquid and gaseous fuels and related products"
@@ -24,6 +22,7 @@ With a passion for Scandinavian design, our products range from furniture to acc
 """Ostróda Yacht"" Spółka z ograniczoną odpowiedzialnością"
 """TOPEX Sp. z o.o."" Spółka komandytowa",Company, 	4690 - Non-specialised wholesale trade
 """VALDI - CERAMIKA"" Spółka z ograniczoną odpowiedzialnością",Company,ceramic tiles
+∆ιεθνές Πανεπιστήµιο της Ελλάδος,University - confirm
 0000 - EIF,European Investment Fund?
 00002801 - SIEA,Government Organisation,,,Slovak Innovation and Energy Agency
 00039691 - ÚIP,Government Organisation,Education
@@ -93,7 +92,6 @@ With a passion for Scandinavian design, our products range from furniture to acc
 00397865 - UK BA,Confirm
 00398144 - Výpočtové stredisko Slovenskej akadémie,Not found,,,,,Computing Centre of the Slovak Academy
 00678678 - MŽP SR,Government organisation,Environment,Ministry of Environment,,,Ministerstvo životného prostredia
-MPSVR SR,Government Organisation,Welfare,,,,"Ministry of Labour, Social Affairs and Family Ministerstve práce, sociálnych vecí a rodiny SR "
 17058520 - ŠOP SR,Government organisation,Environment,,,,State Nature Conservancy of Slovak Republic
 17070775 - Prešovská univerzita,University
 17336007 - Fakultná nemocnica Nitra,Confirm,Teaching hospital,,,,Teaching Hospital Nitra
@@ -108,10 +106,12 @@ MPSVR SR,Government Organisation,Welfare,,,,"Ministry of Labour, Social Affairs 
 "36022047 - SVP, š.p.",Government Organisation,Water management,,,,Slovenského vodohospodárskeho podniku 
 "36058645 - MILENIUM TRADING, a.s.",Company," 	4671 - Wholesale of solid, liquid and gaseous fuels and related products",,,,In Slovakia though Romanian company
 36182508 - AGB ekoservis
+"36445461 - Bukocel, a.s.",Company - confirm
 "36513458 - Nemocnica Poprad, a.s.",Company,	8610 - Hospital activities
 "36513458 - Nemocnica Poprad, a.s.",Company - confirm,8610 - Hospital activities,,"The company is a full service private firm, which is primarily engaged in the management and operation of community hospital providing a range of inpatient and outpatient healthcare services. It was incorporated in February 2006 and has a registered head office located in Poprad, Slovakia.
 The company provides a variety of medical care and health services, including primary, emergency, diagnostic, surgical, rehabilitative, and behavioral health care. The hospital is home to centers of excellence in the treatment of sleep disorders, cancer, women's health issues, and cardiovascular ailments. The hospital provides community health and wellness education programs, and operates a regional community health clinic in Poprad.
  "
+"36550949 - ZVS, a. s. Nitra",Confirm
 "36570460 - VVS,a.s. ",Confirm,water
 "36672076 - PVS, a.s."
 "36672076 - PVS, a.s. ",Confirm,water
@@ -152,6 +152,7 @@ The company is a privately held company engaged in the manufacture of pharmaceut
 The company's research and development department has been established to search for effective and modern therapies in the selected therapeutic groups (it is searching the new molecule), and to elaborate and implement modern generic drugs. The company's products include Amlozek (amlodipinum); Areplex (clopidogrelum); Axtil (ramiprilum); Xartan (losartanum kalicum); Selofen (zaleplonum); Zolafren (olanzapinum); Colpexin (intravaginal device); Furaginum (furaginum); Luteina (progesteronum); Milukante (montelukastum); Zafiron (formeteroli fumaras); Anesteloc (pantoprazolum); and Rozalin (dorzolamidum).
 The company is a leader on the market of new generation drugs in many therapeutic groups such as cardiology, psychiatry, pulmonology, gynecology and treatment of urinal tract infections. The company aims to invest in research and development. It intends to create the best, world quality products and to enable every patient - modern and safe therapy.
  "
+ADE FINANCIACION S.A.,Company - confirm
 Administração da Região Hidrográfica do Alentejo I.P.,Government organisation - confirm
 Administração da Região Hidrográfica do Centro I.P.,Government organisation - confirm
 Administração da Região Hidrográfica do Tejo I.P.,Government organisation - confirm
@@ -165,6 +166,7 @@ Administração Regional de Saúde do Alentejo IP,Government organisation - conf
 Administração Regional de Saúde do Norte,Government Organisation
 Administrador de infraestructuras Ferroviarias,Government Organisation,4211 - Construction of roads and motorways  
 ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS(ADIF),Confirm,4211 - Construction of roads and motorways  ,,Traffic management and rail infrastructure 
+Administratia Nationala a Penitenciarelor,Government organisation - confirm
 Aero 2 Spółka z ograniczoną odpowiedzialnością,Company,	6120 - Wireless telecommunications activities,KRZYSZTOF ZYTO
 AEROPUERTOS ESPAÑOLES Y NAVEGACIÓN AÉREA (MF),Government owned company,5223 - Service activities incidental to air transportation  ,Check
 AFPAR,Confirm,,,,,Association pour la Formation Professionnelle des Adultes à la Réunion
@@ -184,6 +186,7 @@ AGENCIA PARA EL EMPLEO ( AYTO. DE MADRID ),Government organisation - confirm
 AGÊNCIA PARA O INVESTIMENTO E COMÉRCIO EX- TERNO DE PORTUGAL E P E,Government organisation - confirm
 AGENCIA VALENCIANA DEL TURISMO,Confirm
 Agencja Rozwoju Lokalnego Sp. z o.o.,Company - confirm,7022 - Business and other management consultancy activities
+Agencja Rozwoju Pomorza S.A.,Company - Confirm
 Agencja Rozwoju Przemysłu S.A.,Government owned company," 	6499 - Other financial service activities, except insurance and pension funding nec",GOVERNMENT OF POLAND,Services: credits; 
 "Agencja Rozwoju Regionalnego ""MARR"" S.A.",Government Organisation,Regional development agency
 Agency for Exploration and maintenance of Danube River,Not found,Not found
@@ -244,8 +247,10 @@ Alpla NDM Sp. z o.o.,Company,2222 - Manufacture of plastic packing goods,ALPLA P
 Alsó-Tisza Vidéki Környezetvédelmi és Vízügyi Igazgatóság
 ALSTOM Power Sp. z o.o.,Company,"2811 - Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",ALSTOM S.A.
 Alytaus miesto savivaldybės administracija,Government Organisation,8411 - General public administration activities,,,,Alytus city municipality administration
+AMMINISTRAZIONE PROVINCIALE DI MATERA,Government Organisation
 ANAS spa,Government Organisation,Service activities incidental to land transportation,,Motorways
 AQUA-Sopot Sp. z o.o.,Government owned company,4221 - Construction of utility projects for fluids,GMINA I MIASTO/ DISTRICT AND TOWN OF SOPOT
+Aquanet S.A.,Company
 Arso Polański Sp. z o.o.,Company,	1712 - Manufacture of paper and paperboard,"GRAZYNA POLANSKA
 -	ZDZISLAW POLANSKI"
 ARTHUR D LITTLE SL,Company,Consultancy
@@ -253,8 +258,12 @@ ArvinMeritor LVS Liberec a.s.,Company,	2932 - Manufacture of other parts and acc
 AS EVR Infra,Company,5221 - Service activities incidental to land transportation
 AS Narva Vesi,Company,3700 - Sewerage
 AS Rakvere Vesi,Company,3700 - Sewerage
+"ASOCIATIA CATALACTICA, FILIALA TELEORMAN"
 Assarel Medet
+Asseco Poland S.A.,Company - confirm
 Association nationale pour la formation professionnelle des adultes,Government owned company,Education
+ATAC AZIENDA TRAMVIE E AUTOBUS DEL COMUNE S.P.A.
+ATHENS METRO SA,Confirm
 Athlone Institute of Technology Dundalk Institute of Technology Galway Mayo Institute of Technology National University of Galway Letterkenny Institute of Technology Sligo Institute of Technology Blanchardstown Institute of Technology UCC Cork Institute o,University
 ATM S.A.,Company,"7379 - Computer related services, not elsewhere classified",," 	
 
@@ -277,6 +286,7 @@ AUTORIDAD PORTUARIA DE VALENCIA,Government Organisation,5222 - Service activitie
 AUTORIDAD PORTUARIA DE VIGO,Government Organisation, 5222 - Service activities incidental to water transportation  
 AUTORIDAD PORTUARIA DE VILAGARCIA DE AROUSA,Government Organisation
 Autorita' portuale di Augusta,Government owned company,Commercial and industrial port - Not found
+Autorita' portuale di Brindisi
 Autorita' portuale di Gioia Tauro,Government owned company,Commercial and industrial port - Not found,"GIOIA TAURO PORT SECURITY S.R.L.
 "
 Autorita' portuale di Salerno,Government owned company,Administrative management of port areas; promotion of commercial airports under its jurisdiction - Not found
@@ -288,8 +298,10 @@ AYUNTAMIENTO DE BARCELONA,Government Organisation,	8411 - General public adminis
 Ayuntamiento de Bilbao,Government Organisation
 AYUNTAMIENTO DE MADRID,Government Organisation,8411 - General public administration activities  
 Ayuntamiento de Plasencia,Government Organisation
+Ayuntamiento de Plasencia,Government Organisation
 Ayuntamiento de Zaragoza,Government Organisation
 Bács-Kiskun Megyei Önkormányzat,Government Organisation,,,,,Bacs-Kiskun County
+Bagnolifutura s.p.a. ,Company - confirm,,,,interesting?
 Balex Metal Sp. z o.o.,Company, 	2599 - Manufacture of other fabricated metal products nec,,"The company is a private firm primarily engaged in the manufacture of fabricated metal products. The company specializes in producing steel roof tile, thermal insulation panels, trapezoidal profiles, flat sheet, windows, sandwich panels, construction beams, wall cassettes, wall panels, isolated panels, and non-isolated panels. The company was incorporated in 1996, and has its registered head office in Bolszewo, Poland."
 Bangor University,University
 Bank Gospodarstwa Krajowego,Government Organisation,6111 - Federal and federally-sponsored credit agencies
@@ -300,9 +312,11 @@ Bełchatowsko Kleszczowski Park Przemysłowo Technologiczny Sp. z o.o.,Governmen
 Berettyóújfalu Város Önkormányzata
 BerufsbildungsvereinLeipzig e.V.
 BEST Ltd,Company
-Biblioteka Narodowa,Company - confirm,9101 - Library and archives activities
-Biblioteka Raczyńskich,Not found,9101 - Library and archives activities,,,,"A public library in Poznan, Poland"
+Betnava d.o.o.,Government Organisation
+Biblioteka Narodowa,Government owned company,9101 - Library and archives activities
+Biblioteka Raczyńskich,Government owned company - confirm,9101 - Library and archives activities,,,,"A public library in Poznan, Poland"
 Bildungszentrum Saalfeld GmbH,Government owned company
+Bioelektrownia sp. z o.o.,Company - Confirm
 Bioenergia Oil Sp. z o.o.,Company,	1091 - Manufacture of prepared feeds for farm animals,MER-INVEST SP. Z O.O.
 BIOM Sp. z o.o.,Company - confirm
 BN FACTORY SPÓŁKA AKCYJNA ,Company,3101 - Manufacture of office and shop furniture,NOWY STYL SP. Z O.O. (ultimate owner: Ronald Stern)
@@ -314,7 +328,6 @@ Budapest Főváros Önkormányzata,Government Organisation,"6311 - Data processi
 Budapesti Közlekedési Zártkörűen Működő Részvénytársaság,Company,4931 - Urban and suburban passenger land transport,City of Budapest
 Budizol Spółka Akcyjna
 Business & Enterprise North East,Not found
-Aquanet S.A.,Company
 Business and Enterprise North East Limited,Company,business development,,"The company, formerly known as Business Link North East Limited, is a United Kingdom based enterprise engaged in the provision of business and support services. The company was incorporated in the year 2006. Its registered business office is based in Seaham, United Kingdom.
 The company operates as a subsidiary of North East Business Support Network For The Tees Valley Limited, a United Kingdom based company engaged in the provision of business services.
 As of March 2007, the company operates under the supervision and management of Alastair Angus MacColl, who is the company's managing director. It is affiliated with UNW LLP, which serves as the company's auditor."
@@ -325,11 +338,14 @@ Calvia Sp. z o.o.,Company,4120 - Construction of residential and non-residential
 Câmara Municipal de Vila Nova de Gaia,Government Organisation
 Capgemini,Company,Consultancy
 Carbon Trust,Company,7487 - Other business activities not elsewhere classified,,"private company limited by guarantee - We provide specialist support to business and the public sector to help cut carbon emissions, save energy and commercialise low carbon technologies. "
+"CARBONO 21, LDA",Company - Confirm
 Cardiff University,University
 CAREERS ENTERPRISE LTD,Company
 Carlow VEC Cavan VEC Clare VEC Cork City VEC Co. Cork VEC Donegal VEC Dublin City VEC Co. Dublin VEC Dun Laoghaire VEC Co. Galway VEC Galway City VEC Kerry VEC Kildare VEC Kilkenny VEC Laois VEC Leitrim VEC Limerick City VEC Co. Limerick VEC Longford VEC,Government Organisation 
 Carmarthenshire County,Government Organisation
+Caterpillar Motoren Rostock GmbH,Company - confirm
 Cavan VEC Donegal VEC Galway City VEC Co. Galway VEC Laois VEC Leitrim VEC Longford VEC Louth VEC Mayo VEC Monaghan VEC Offaly VEC Roscommon VEC Sligo VEC Westmeath VEC
+CELogis a.s.,Company - Confirm
 Celon Pharma Sp. z o.o.,Company,  	2120 - Manufacture of pharmaceutical preparations,MACIEJ WIECZOREK,"he company is engaged in the production and supply of pharmaceutical products in Poland and internationally. With registered head office and production facility located in Kielpin, Poland, the company was incorporated in 2002.
 The company is a leader in RNAi therapeutics in Poland, and develops novel therapeutics based on a breakthrough in biology known as RNA interference (RNAi)- a discovery that enables the creation of a broad new class of human therapeutics). Its trademarks include: Donepex (donepezil) - cholinoesterase inhibitor; Aromek (letrozole) - aromatase inhibitor; Ketrel (quetiapinum) - atypical antipsychotic; Valzek (valsartanum) - angiotensin receptor blocker; Celopaque - non-ionic low - osmolar contrast agent; Ligrastim - colony granulocyte; Enopax - low molecular heparin; and Stimulan - immunosuppressive macrolide. The company's mission is to be a market leader in Poland within the therapeutic area which it has decided to enter and then consequently develop in the surrounding countries and the European Union.
  "
@@ -340,8 +356,8 @@ Centre de Coordination et de Gestion (ens. obligatoire
 Centre for Process Innovation (CPI)
 Centrede Coordination et de Gestion (ens. obligatoire)
 CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA,Government organisation,7219 - Other research and experimental development on natural sciences and engineering  
-CENTRO DOCENTE DE LA CEUCD,Confirm
-"Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE",Not found
+CENTRO DOCENTE DE LA CEUCD,Government organisation,"Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias"
+"Centro Hospiltalar de Trás-os-Montes e Alto Douro,EPE",Government organisation,Hospital
 "Centro Hospitalar do Porto, EPE",Company,8610 - Hospital activities,," 
 
 The company is a Portugal-based enterprise engaged in the provision of medical and healthcare services. It conducts its business from its registered head office located in Porto, Portugal. It was incorporated in the year 2007.
@@ -360,7 +376,6 @@ Centrum Systemów Informacyjnych Ochrony Zdrowia,Government Organisation,"Unit, 
  	
 
  "
-Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Confirm
 "Českomoravská záruční a rozvojová banka, a.s.",Government Organisation,6021 - National commercial banks,,Commercial bank 
 ČESKÝ STATISTICKÝ ÚŘAD,Government Organisation, 	8411 - General public administration activities,,Czech statistics office 
 Český úřad zeměměřický a katastrální,Government Organisation,8413 - Regulation of and contribution to more efficient operation of businesses
@@ -378,6 +393,8 @@ City & County of Swansea,Government Organisation
 "City & County of Swansea Joint Sponsorship � City & County Swansea (lead), Neath Port Talbot CBC, Carmarthenshire CBC, Pembrokeshire CBC, Bridgend CC & Ceredigion CC",Government Organisation
 CJ caras Severin
 Classen-Pol SA,Company,1621 - Manufacture of veneer sheets and wood-based panels,"HANNIG, HANS-JUERGEN - W. CLASSEN GMBH & CO. KG",,German company
+Combidata Poland Sp. z o.o.,Company - Confirm
+COMMUNE DE POINTE-A-PITRE,Government Organisation
 Compania de Someş S.A.,Confirm,"3600 - Water collection, treatment and supply"
 Compania Naţională Administraţia Porturilor Maritime S.A. Constanţa,Government Organisation/Company Owned by Government,5222 - Service activities incidental to water transportation,Statul Roman
 Compania Naţională de Autostrăzi şi Drumuri Naţionale din România ,Government Organisation,8413 - Regulation of and contribution to more efficient operation of businesses,"MINISTERUL TRANSPORTURILOR, CONSTRUCTIILOR SI TURISMULUI"
@@ -394,6 +411,7 @@ Confederação dos Agricultores de Portugal
 CONFEDERACION HIDROGRAFICA DEL CANTÁBRICO (MARM) ,Government Organisation ,8411 - General public administration activities  
 Confederación Hidrográfica del Duero del MARM,Government organisation - confirm
 CONFEDERACIÓN HIDROGRÁFICA DEL MIÑO-SIL,Government Organisation
+CONSEIL GENERAL DE LA GUADELOUPE,Government Organisation
 CONSEIL GENERAL DU NORD,Government Organisation
 CONSEIL GENERAL DU PAS-DE-CALAIS,Government Organisation
 CONSEIL REGIONAL,Government Organisation
@@ -422,6 +440,7 @@ CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS,Government organisation,7219 - O
 Consiliul Judeţean Arad,Government Organisation,,,,,Arad County Council
 Consiliul judetean Arges,Government Organisation
 Consiliul Judetean Bistrita Nasaud,Government Organisation,,,,,County Council
+CONSILIUL JUDETEAN BOTOSANI,Government Organisation
 Consiliul Judetean Buzau si UAT Merei,Government Organisation - Confirm
 Consiliul judetean Calarasi,Government Organisation
 Consiliul Judetean Constanta,Government Organisation
@@ -432,12 +451,14 @@ Consiliul Judetean Ilfov,Government Organisation
 Consiliul Judetean Maramures,Government Organisation
 Consiliul Judeţean Vrancea,Government Organisation,Not found
 Consiliul Local Municipal Braila,Government Organisation
+Consiliul Local Singeorz- Bai,Government Organisation
 Consultor Sp. z o.o.,Company, 	6910 - Legal activities,"GRZEGORZ JAROSZEK
 KRZYSZTOF KRUPA"
 Cornwall College,University - Further Education ,Further Education
 CORNWALL COUNCIL,Government Organisation
 Cornwall County Council,Government Organisation
 Cornwall Development Company,Government owned Company,economic development
+CR Media Consulting S.A.,Company
 Creator Sp. z o.o.,Company,8690 - Other human health activities,GRZEGORZ JOZEFOWICZ
 CTC Polska sp. z o.o.,Company,  	7022 - Business and other management consultancy activities,WOJCIECH OSTROMECKI,,interesting consulting
 CVMPSVR SR,Government Organisation,Education  - Labour,,,,"Education Centre of the Ministry of Labour, Social Affairs and Family of the Slovak Republic"
@@ -470,7 +491,6 @@ Department for the Economy,Government Organisation
 Department of Rural Affairs and Heritage - Welsh Assembly Government,Government Organisation
 "DIAMO, státní podnik"
 Diecezja Legnicka,Religious
-Zakład Doskonalenia Zawodowego w Kielcach
 Diecezja Łowicka,Religious,Not found ,,,,Diocese of Łowicz
 Dipartimento della P.S. - Direzione Centrale Affari Generali - Centro Elettronico Nazionale della Polizia di Stato,Government Organisation
 Dipartimento della P.S. - Direzione Centrale per i Servizi Tecnico Logistici e della Gestione Patrimoniale - Ufficio UTAM,Government Organisation,Monitoring functions; analysis of technical and logistical needs of the Administration of public security - Not found
@@ -492,6 +512,7 @@ DIRECCION GENERAL DE CARRETERAS (M.FOMENTO),Government Organisation,Not found ,,
 DIRECCIÓN GENERAL DEL AGUA (MARM),Government Organisation,Not found
 DIRECCION GENERAL DEL SPEE ,Government Organisation,Not found
 Direction départementale de l'Equipement,Government Organisation
+DIRECTION REGIONALE DE L'ANPE
 Dolní oblast V?TKOVICE
 "Dopravní podnik hl.m. Prahy ,akciová společnost",Government owned company,	4931 - Urban and suburban passenger land transport,City of Prague,"The prague public transport company, a.s. is the largest public transport operator in the czech republic. 
  ",,"City Transport Company Prague, a joint stock company"
@@ -499,13 +520,16 @@ Dolní oblast V?TKOVICE
 DR Transportes Aéreos e Marítimos,Government organisation,Regional Directorate of Air and Maritime Transport
 DRUKARNIA SKLENIARZ Włodzimierz Skleniarz
 Dudley Metropolitan Borough Council,Government Organisation
+Durham County Council,Government Organisation
 Dyrektor Urzędu Morskiego w Szczecinie,Government Organisation,maritime traffic control,,,,Director of Maritime Office in Szczecin
 EARTHLIFE-NOVAS TECNOLOGIAS PARA AS ENERGIAS RENOVÁVEIS,,Renewable energy
+East Midlands Business,Confirm
 East of England Development Agency,Government Organisation
 ECO Pellets,Company,1610 - Sawmilling and planing of wood,Eco Pellets Austria?
 ECO-Strom Plus GmbH Chemie,Company,"M72100 - Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
 EDF Polska Sp. z o.o.,Company, 	7022 - Business and other management consultancy activities,Government of France,,Interesting
 Educatio Társadalmi Szolgáltató Nonprofit Kft.
+Eesti Biokeskus
 Eesti Teadusfond
 Eesti Töötukassa,Government Organisation - Confirm,Not found - Unemployment Fund,,,,Estonian Unemployment Insurance Fund
 Egnatia Odos SA.,Government owned company - confirm,,MINISTRY OF ENVIRONMENT PHYSICAL PLANNING & PUBLIC WORKS,"Egnatia Odos A.E. is a Greek company which was created in September 1995 as a product of discussions between the European Community and the Greek Government to advance the implementation of the second Community Support Framework. It is principally engaged in the management of design and construction, including the maintenance, and exploitation of the Egnatia Motorway, which extends from Igoumenitsa to Kipoi (Alexanroupolis). Egnatia Odos is managed by a nine- member board of directors with a registered head office in Thermi, Greece. Aside from its main axis, the company also designs and constructs sections of the nine Vertical Axes, which connect the Balkans and the wider Southeastern Europe with the Egnatia Motorway, the ports at the Aegean Sea and the airports of North Greece.
@@ -519,6 +543,7 @@ Ekobenz sp. z o.o,Company,	2059 - Manufacture of other chemical products nec - a
 Elektriraudtee AS,Government owned Company,"4910 - Passenger rail transport, interurban",Ministry of Economic Affairs and Communication (Estonia)
 Employment and Training Corporation (ETC),Government Organisation - Confirm
 Emsland-Aller Aqua GmbH
+ENAC,Confirm
 ENDOMINES OY,Company,Gold mining,,"The operations of Endomines Oy include exploration and development of gold deposits and planned gold mining. Kalvinit Oy is focused on the development of the industrial mineral ilmenite deposits. The Company’s present mineral deposits are all located in Finland. The Company acquired all shares outstanding in the two subsidiaries, Endomines Oy and Kalvinit Oy, through a non-cash issue. These subsidiaries were founded in the mid-1990s and have been financed by private individuals and Finnish institutions since inception.
 "
 EnergieAgentur.NRW GmbH
@@ -527,6 +552,7 @@ ENTIDAD PUBLICA EMPRESARIAL RED.ES (MITC),Government organisation,	7120 - Techni
 
 La gesti+n, administraci+n y disposici+n de los bienes y derechos que integran su patrimonio, actuando conforme a criterios empresariales. 
  "
+EPAG
 Epon,Confirm
 EPV Solar Germany GmbH,Company,solar
 Érd és Térsége Szennyvízelvezetési- és Szennyvíztisztítási Önkormányzati Társulás,Government Organisation,Wastewater - sewerage
@@ -552,7 +578,7 @@ EUROPEJSKIE CENTRUM ZDROWIA OTWOCK Sp z o. o.,Company, 	8610 - Hospital activiti
 Europos investicijų bankas,European Investment bank
 Europos investicinis fondas,European Investment Fund
 EXELSIOR GROUP s.r.o.,Company,	8299 - Other business support service activities nec,RADOMIR PRUS,"Production and development of blow-molding machines for pet bottles and molds for these machines. in addition to our main activities include the supply of complete filling technology for milk and yoghurt products, juices, soft drinks or their individual components, such as labeling machine shrink sleeve-and hot-melt. "
-Eyde study projects construction concessions Peloponnese
+Eyde study projects construction concessions Peloponnese,Government Organisation
 F5 Konsulting Sp z o.o,Company,7022 - Business and other management consultancy activities,,,interesting consulting
 Faber Consulting sp. z o.o.,Company,7022 - Business and other management consultancy activities,,"MARTIN FABER
 ROBERT LAPACZ",interesting consulting
@@ -560,6 +586,7 @@ Fagioli Polska Sp. z o.o.,Company,4399 - Other specialised construction activiti
 FEI,European Investment Fund,European Investment Fund
 Felső-Tisza-vidéki Környezetvédelmi és Vízügyi Igazgatóság,Company,Code not available 
 FERCON Sp. z o.o. ,Company,2510 - Manufacture of structural metal products,GREGOR SCHEFCZYK
+Ferrotramviaria
 Ferrovie del Sud Est,Government Owned company,490000 - Trasporto terrestre e trasporto mediante condotte,MINISTERO DEI TRASPORTI E DELLA NAVIGAZIONE
 Fiat Powertrain Technologies,Company,2910 - Manufacture of motor vehicles,Fiat
 Filharmonia im. Artura Malawskiego w Rzeszowie
@@ -577,6 +604,7 @@ FOREM,Government Organisation,Walloon public service employment and training.,,"
 FourstaR E&S (formerly Mentor Employment & Skills),Company , 	7487 - Other business activities not elsewhere classified == Employment
 Fraunhofer Gesellschaft,Government owned company,"	M72100 - Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin",funded by the federal govt
 Fundação para a Ciência e a Tecnologia,Government Organisation,Science and Technology - not found
+FUNDACION CENTRO TECNOLOGICO ANDALUZ DE LA PIEDRA
 FUNDACION CENTRO TECNOLOGICO DE SUPERCOMPUTACION DE GALICIA
 Fundacja na rzecz Nauki Polskiej,Non-profit organisation,9499 - Activities of other membership organisations nec
 Fundacja Puławskie Centrum Przedsiębiorczości
@@ -602,6 +630,8 @@ Generalna Dyrekcja Dróg Krajowych i Autostrad,Government Organisation,8411 - Ge
 Generalna Dyrekcja Ochrony Środowiska,Government Organisation,Environmental protection,,,,General Directorate for Environmental Protection
 Gestione Governatica Ferrovia Circumetnea,Government Organisation
 "GESTUS, a.s.",Not found
+GIP - Formation continue et insertion professionnelle de Paris
+GIP - Formation continue et insertion professionnelle de Versailles
 Global Training Centre Sp.z.o.o ,Company,	8559 - Other education nec,"CEZARY APANAS
 -	EDYTA APANAS"
 GLOBALFOUNDRIES DresdenModule One LLC & Co.KG,Company,C26119 - Herstellung von sonstigen elektronischen Bauelementen
@@ -617,6 +647,7 @@ Gmina Gołdap,Government Organisation
 Gmina Janów Lubelski,Government Organisation
 Gmina Jasienica,Government Organisation
 Gmina Kartuzy,Government Organisation
+Gmina Kielce,Government Organisation
 Gmina Kłobuck,Government Organisation
 Gmina Kocmyrzów-Luborzyca,Government Organisation
 Gmina Konopiska,Government Organisation
@@ -632,6 +663,7 @@ Gmina Miasta Radomia,Government Organisation
 Gmina Miasta Sopotu,Government Organisation
 Gmina Miasta Tarnowa,Government Organisation
 Gmina Miasta Tarnowa - Urząd Miasta Tarnowa,Government Organisation
+Gmina Miasta Wejherowa,Government Organisation
 Gmina Miasto Częstochowa,Government Organisation
 Gmina Miasto Elbląg,Government Organisation
 Gmina Miasto Hel,Government Organisation
@@ -639,6 +671,7 @@ Gmina Miasto Łowicz,Government Organisation,"Not found - Municipality of the to
 Gmina Miasto Lublin,Government Organisation
 Gmina Miasto Olsztyn,Government Organisation
 Gmina Miasto Piotrków Trybunalski,Government Organisation,8411 - General public administration activities
+Gmina Miasto Rypin,Government Organisation
 Gmina Miasto Rzeszów,Government Organisation
 Gmina Miasto Szczecin,Government Organisation
 Gmina Miasto Włocławek,Government Organisation
@@ -648,11 +681,13 @@ Gmina Miejska Kraków,Government Organisation,Not found
 Gmina Miejska Kwidzyn,Government Organisation
 Gmina Miejska Ostróda,Government Organisation
 Gmina Miejska Pruszcz Gdański,Government Organisation
+Gmina Miejska Turek,Government Organisation
 Gmina Miejska Żory,Government Organisation
 Gmina Olecko,Government Organisation
 Gmina Olsztyn,Government Organisation
 Gmina Opoczno,Government Organisation,"Not found - Municipality of the town Opoczno, Poland"
 Gmina Prusice,Government Organisation
+Gmina Ryn,Government Organisation
 Gmina Sławno,Government Organisation
 Gmina Śmigiel,Government Organisation
 Gmina Stalowa Wola,Government Organisation
@@ -661,12 +696,15 @@ Gmina Tarnowskie Góry,Government Organisation
 Gmina Tczew,Government Organisation
 Gmina Trzebownisko,Government Organisation
 Gmina Uniejów,Government Organisation
+Gmina Ustrzyki Dolne,Government Organisation
+Gmina Wierzchlas,Government Organisation
 Gmina Wisła,Government Organisation
 Gmina Witnica,Government Organisation
 GMINA WOLBÓRZ,Government Organisation
 Gmina Wrocław,Government Organisation,8411 - General public administration activities
 Gmina Zabrze,Government Organisation
 GOBIERNO DE CANARIAS,Government Organisation,8411 - General public administration activities  
+GOBIERNO DE CANTABRIA,Government Organisation
 Goleniowskie wodociągi i Kanalizacja Sp. z o.o.,Confirm
 Golf projekt d.d. ,Company,9311 - Operation of sports facilities,,,interesting - also 'portal for golfers'
 GOVERN DE LES ILLES BALEARS,Government Organisation
@@ -716,6 +754,7 @@ IBM Deutschland GmbH,Company,,IBM
 "IBM Global Services Delivery Center Czech Republic, s.r.o.",Company,,IBM
 IBM Global Services Delivery Centre Polska Sp. z o.o.,Company,1820 - Reproduction of recorded media,IBM
 IBM Italia S.p.A.,Company,,IBM
+Ida-Virumaa Kutsehariduskeskus
 IFAPME,Government owned company,85592 - Professional education
 IGRETEC,Company - confirm,"71121 - Activities of engineering and technichal advice, except activities of geometricians -- consultancy",,""" 
 
@@ -731,14 +770,17 @@ IHP GmbH - Innovations for High Performance Microelectronics /
 5.  		JOSE PEREIRA SILVA BRANDAO 	Offic.Acc.Revisor",,interesting,"The company, based in Portugal, operates as a hotel. It is a privately held company incorporated in the year 2006 and has its registered business address located in Vila do Porto.
 The company provides short-term lodging in facilities that offer a range of services such as wake up service, concierge service, medical service, currency exchange, dry/laundry service, childcare, translation services, on-site business center, wheelchair access, complimentary shoe shine, and safe deposit boxes. In addition, it also has health and wellness facilities including health club, indoor heated lap pool and sauna. The company's room services include hypo allergic pillows, personalized voicemail, in-room movies, laptop safes, luxurious terry cloth robe, and dual-line direct dial telephone.
  "
+IMAST SCARL - Distretto Tecnologico Ingegneria dei Materiali Compositi Polimerici e Strutture
 In Training (ESD) Ltd
 Inforsys SA ,Company,1812 - Other printing,MAREK CZERDYS
 Ingeus,Company,7450 - Labour recruitment and provision of personnel,,,Welfare to work
 Inginerie financiere (filiale competitivite Meusinvest),,7487 - Other business activities not elsewhere classified
+INNOV'EMPLOI (Ex AAGIS) 
 InPost Sp. z o.o.,Company,5320 - Other postal and courier activities,"INTEGER.PL S.A. Rafal Brzoska () 	President
 2.  		Bogdan Godzwon () 	Director
 "
 InQbe Sp. z o. o.,Company,6201 - Computer programming activitie,IQ PARTNERS S.A.
+Institute of Adult Continuing Education (IDEK),Non-profit
 "Instituto da Segurança Social, IP",Company,8999 - Services not elsewhere classified,Government of Portugal,,,"Institute of Social Security, IP"
 INSTITUTO DE CREDITO OFICIAL (ICO),Government owned company,	6111 - Federal and federally-sponsored credit agencies,MINISTERIO DE ECONOMIA Y HACIENDA
 "Instituto de Emprego da Madeira, IP-RAM"
@@ -787,9 +829,14 @@ Instytut Problemów Jądrowych im. A. Sołtana,Government owned company, 	7219 -
 Instytut Sadownictwa i Kwiaciarstwa im. Szczepana Pieniążka
 Instytut Technologii Eksploatacji - Państwowy Instytut Badawczy (ITeE - PIB),Government Organisation,7219 - Other research and experimental development on natural sciences and engineering,,,,Institute for Sustainable Technologies - National Research Institute (ITeE - PIB)
 Instytut Technologii Elektronowej,Research Institute,	7211 - Research and experimental development on biotechnology,Government of Poland,Services: research and development works on semiconductors; 
+Instytut Warzywnictwa im. Emila Chroboczka
 Instytut Włókiennictwa,Government owned company,:  	7219 - Other research and experimental development on natural sciences and engineering,Government of Poland
+INTEGER.pl SA,Company - confirm
 Integer.pl spółka akcyjna
+International University of Greece,Confirm
+Intersnack Poland Sp. z o.o.,Company - Confirm
 Investitionsbank Sachsen-Anhalt,Government owned company,	6111 - Federal and federally-sponsored credit agencies
+Investitionsbank Schleswig-Holstein
 IPB POLSKA SP. Z O.O.,Company,2573 - Manufacture of tools,	INDUSTRIMECCANICA DI PRECISIONE BRANDIZZO,,Italian owned
 IQ Advisors Sp. z o.o.,Company - not found
 IXION HOLDINGS LIMITED,Company,9305 - Other service activities
@@ -797,12 +844,14 @@ Izglītības un zinātnes ministrija ,Government Organisation,Education,,,,Minis
 Jagiellońskie Centrum Innowacji spółka z ograniczoną odpowiedzialnością,"University, Government Organisation", 7022 - Business and other management consultancy activities
 Järva-Jaani Teenus OÜ,Company,3700 - Sewerage
 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház- Rendelőintézet
+JCI Venture Sp. z o.o.,Company - Confirm
 Jelgavas pilsētas dome
 JHP Group Ltd,Company,8022 - Technical & vocational secondary
 Jihočeský kraj,Government Organisation - Confirm
 Jihomoravský kraj,Government Organisation,8411 - General public administration activities
 Job Centre Plus,Government Organisation,Welfare to work,,"Jobcentre Plus is a government agency supporting people of working age from welfare into work, and helping employers to fill their vacancies"
 Joskin Polska Sp. z o.o.,Company,2830 - Manufacture of agricultural and forestry machinery,JOSKIN PIRARD HOLDING,,Belgian owned company
+"JUDETUL SUCEAVA, SUCEAVA, STR. STEFAN CEL MARE, NR. 36"
 JUNTA DE ANDALUCIA,Government Organisation,8411 - General public administration activities  ,Government of Spain
 JUNTA DE CASTILLA Y LEON,Government Organisation,8411 - General public administration activities
 JUNTA DE EXTREMADURA,Government Organisation,8411 - General public administration activities  ,,Public authority/State/Government
@@ -817,6 +866,7 @@ Kauno medicinos universitetas,University
 Kauno miesto savivaldybės administracija
 Kauno technologijos universitetas,University,	8542 - Tertiary education
 Keiper Polska Spółka z ograniczoną odpowiedzialnością
+Keskkonnaministeerium ,Government organisation,,,,interesting
 KGHM Ecoren S.A.,Company,2399 - Manufacture of other non-metallic mineral products nec,KGHM POLSKA MIEDZ SA,"KGHM Ecoren SA, with registered office located in Lubin, Poland, heads a group engaged in the production of metals and their compounds as well as the recycling of industrial waste. It is also active in the financial market. The company manages its group which is also involved in producing gold, lead, sulfuric acid, rock salt, as well as casting of light metals, and with geological and exploratory activities, as well as waste management. KGHM Ecoren has been operating since December 2006.
 KGHM Ecoren is one of the leading companies in the world market in the production and supply of rare metals. The mission of the company is to operate in a broad area of undertakings which aim at minimizing the burdensome effect on the natural environment which is the result of the economic activities of man.
  "
@@ -841,7 +891,7 @@ The company has active business operations in Poland.
  ",,National Chamber of Commerce
 Krajowa Szkoła Sądownictwa i Prokuratury
 Krajowy Fundusz Kapitałowy S.A.,Government Organisation,"6619 - Other activities auxiliary to financial services, except insurance and pension funding",,Mutual and pension fund/Nominee/Trust/Trustee
-Krajowy Ośrodek Wspierania Edukacji Zawodowej i Ustawicznej,Government Organisation - confirm,,,,,National Centre for Supporting Vocational and Continuing Education
+Krajowy Ośrodek Wspierania Edukacji Zawodowej i Ustawicznej,Government Organisation,national body suporting technical education - gov't body,,,,National Centre for Supporting Vocational and Continuing Education
 "Krajská správa a údržba silnic Karlovarského kraje, příspěvková organizace",Company - Confirm,5221 - Service activities incidental to land transportation,,,,Regional roads management and maintenance of the Karlovy Vary Region
 "Krajská zdravotní, a.s.",Government Organisation, 	8610 - Hospital activities,USTECKY KRAJ,The company operates hospital facilities. 
 Krakowski Szpital Specjalistyczny im. Jana Pawła II w Krakowie,Government owned company,8610 - Hospital activities,,,,Cracow Specialist Hospital. John Paul II in Krakow
@@ -850,6 +900,7 @@ KredEx SA,Government owned company - confirm - Guarantee fund,Credit and Export 
 Kreditanstalt für Wiederaufbau,Government Organisation,9721 - International affairs
 Kujawsko-Pomorski Fundusz Poręczeń Kredytowych Sp. z o.o.,Guarantee Fund - government owned company,"6499 - Other financial service activities, except insurance and pension funding nec",,,,Kuyavian-Pomeranian Credit Guarantee Fund
 Kujawsko-Pomorski Fundusz Pożyczkowy sp. zo.o.,Government owned company,Mutual and pension fund/Nominee/Trust/Trustee,Government of Poland through its local authorities
+Kur- und Strandhotel Usedom GmbH & Co. Investitions - KG,Company - confirm
 Laboratorio di tecnologie oncologiche HSR Giglio
 Laboratório Ibérico Internacional de Nanotecnologia
 LACTOENERGO s.r.o.,Not found
@@ -888,6 +939,7 @@ Liikennevirasto Transport Agency
 Transport Agency Ministry of Transport and Communications of government-related agencies, responsible for the traffic service maintenance and development of state-administered highways.
 
 "
+Linstal Sp. z o.o.,Company
 Liszt Ferenc Zeneművészeti Egyetem,University,Music academy,,,,The Liszt Academy of Music
 London Development Agency,Government Organisation
 LR Satiksmes ministrija,Government Organisation ,Transport
@@ -895,6 +947,7 @@ Lubelska Fundacja Rzowoju,Government Organisation
 Luleå tekniska universitet,University
 Maanteeamet,Government Organisation,,,,,Estonian Road Administration
 Magyar Közút Kht.
+Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Government owned company
 Magyar Közút Nonprofit Zrt,Government Organisation, 	0210 - Silviculture and other forestry activities ? but re: road vignettes,,	National road company
 Małopolska Agencja Rozwoju Regionalnego S.A.,Government Organisation,  	7022 - Business and other management consultancy activities,URZAD MARSZALKOWSKI,,,Regional Development Agency SA
 Małopolskie Centrum Przedsiębiorczości,Government Organisation
@@ -902,27 +955,27 @@ Malta Enterprise,Government owned company
 Malta Maritime Authority,Government Organisation
 Malta Tourism Authority,Government Organisation
 Malta Transport Authority,Government Organisation
+MANCOMUNIDAD DE LOS CANALES DEL TAIBILLA
 Martinská fakultná nemocnica,,Teaching hospital
 Masarykova univerzita,University
 MASTERPRESS S.A.,Company,	1729 - Manufacture of other articles of paper and paperboard,MIROSLAW ZYWICKI and WALDEMAR ZDRODOWSKI
 MÁV-Magyar Államvasutak ZRT.,Government owned company,5221 - Service activities incidental to land transportation,,Government of Hungary
 Maximus Employment UK Ltd,Company
 Mazowiecka Jednostka Wdrażania Programów Unijnych,Government Organisation,implementing authority for mazowsze region,,,,Masovian Unit for Implementation of European Projects
+Mazowieckie Biuro Planowania Regionalnego,Government Organisation
 Mecsek Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás,Government Organisation ,Mecsek Drava Regional Solid Waste Management System for the creation of Local Government Association
-Minister Gospodarki Departament Instrumentów Wsparcia,Government Organisation 
 Megaport Ltd.,Company,	2222 - Manufacture of plastic packing goods
+Merthyr Tydfil County Borough,Government Organisation
 Mestna občina Ljubljana,Government Organisation,8411 - General public administration activities,,,,Municipality of Ljubljana
 "Mestna občina Ljubljana (Občine: Brezovica, Dobrova-Polhov Gradec, Dol pri Ljubljani, Horjul, Ig, Kamnik, Komenda, Medvode, Škofljica, Velike Laš?e, Vodice, Domžale, Mengeš, Trzin, Lukovica in Morav?e)",Government Organisation,8411 - General public administration activities
 Mestna občina Novo mesto,Government Organisation,8411 - General public administration activities
 "Mestna občina Slovenj Gradec (Občine: Črna na Koroškem, Dravograd, Mežica, Mislinja, Muta, Podvelka, Prevalje, Radlje ob Dravi, Ravne na Koroškem, Ribnica na Pohorju in Vuzenica)",Government Organisation,8411 - General public administration activities
-"Ministerium für Wirtschaft, Arbeit und Verkehr des Landes Niedersachsen",Government Organisation
 Mestna vrata d.o.o.,Company,5510 - Hotels and similar accommodation
 Mesto Martin,Government Organisation
 Mesto Stupava,Government Organisation
 Metal-Master Sylwia Ładzińska,Company, 	273000 - Manufacture of other products of ferrous metals n.e.c.
 METALODLEW SA,Company,	2451 - Casting of iron,"TADEUSZ BOGACZ	 
 TOMASZ BOGACZ"
-Metro Inc.
 Miasteczko Multimedialne Sp. z o. o.,Company,209 - Other information technology and computer service activities,KRZYSZTOF PAWLOWSKI
 Miasto Bełchatów,Government Organisation
 Miasto Białystok,Government Organisation,8411 - General public administration activities,,Government of Poland
@@ -930,6 +983,7 @@ Miasto Bielsko - Biała,Government Organisation
 Miasto Bydgoszcz,Government Organisation
 Miasto Bytom,Government Organisation
 Miasto Gorzów Wielkopolski,Government Organisation
+Miasto Imielin,Government Organisation
 Miasto Inowrocław,Government Organisation
 Miasto Jastrzębie Zdrój,Government Organisation
 Miasto Jelenia Góra,Government Organisation
@@ -944,6 +998,7 @@ Miasto Rybnik,Government Organisation
 Miasto Skierniewice,Government Organisation,"Not found - Municipality of the town Skierniewice, Poland"
 Miasto Stołeczne Warszawa,Government Organisation,8411 - General public administration activities,Government - City of Warsaw
 Miasto Suwałki,Government Organisation
+Miasto Szczecinek,Government Organisation
 Miasto Wodzisław Śląski,Government Organisation
 Miasto Zielona Góra,Government Organisation
 "Międzygminna Spółka Wodno-Kanalizacyjna ""Suplaz"" spółka z ograniczoną odpowiedzialnością",Government owned company," 	3600 - Water collection, treatment and supply",GMINA/DISTRICT OF SULIKOW
@@ -955,11 +1010,15 @@ Miejskie Przedsiębiorstwo Komunikacyjne w Poznaniu Sp. z o.o.,Government owned 
 Services: passanger transport; 
  ",,Municipal Communications in Poznan
 Miejskie Wodociągi i Kanalizacja Spółka z o.o.,Government owned company,"3600 - Water collection, treatment and supply", MIASTO / TOWN OF BYDGOSZCZ
+Minister Gospodarki Departament Instrumentów Wsparcia,Government Organisation 
 "Minister Gospodarki, Departament Instrumentów Wsparcia",Government Organisation
 Minister Nauki i Szkolnictwa Wyższego,Government Organisation
 Minister właściwy do spraw zdrowia - Departament Pielęgniarek i Położnych,Government Organisation ,Health - get code
 "Ministerium für Verkehr, Bau und Landesentwicklung Mecklenburg-Vorpommern ",Government Organisation,8411 - General public administration activities
+"Ministerium für Wirtschaft, Arbeit und Verkehr des Landes Niedersachsen",Government Organisation
 "Ministerium für Wirtschaft, Arbeit und Verkehr des Landes Niedersachsen ",Government Organisation,Not found
+"Ministero del Lavoro, della Salute e delle Politiche Sociali - DG Innovazione Tecnologica e Comunicazione",Government Organisation
+MINISTERO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE - Direzione Generale per la Ricerca Ambientale e lo Sviluppo,Government Organisation
 MINISTERO DELLO SVILUPPO ECONOMICO – Dipartimento per lo Sviluppo e la Coesione Economica - Direzione generale per la politica regionale unitaria comunitaria - Divisione IX,Government Organisation,Economic development - Not found
 Ministerstvo dopravy,Government Organisation
 Ministerstvo práce a sociálních věcí,Government Organisation,8411 - General public administration activities
@@ -972,14 +1031,18 @@ MINISTERSTVO ZDRAVOTNICTVÍ,Government Organisation ,Health
 Ministerstwo Edukacji Narodowej,Government Organisation,Education
 Ministerstwo Finansów,Government Organisation,8410 - Administration of the State and the economic and social policy of the community
 Ministerstwo Gospodarki,Government Organisation
+Ministerstwo Infrastruktury,Government Organisation
 Ministerstwo Nauki i Szkolnictwa,Government organisation,Ministry of Education of Republic of Poland
+Ministerstwo Nauki i Szkolnictwa Wyższego Departament Organizacji Szkół Wyższych,Government Organisation
 Ministerstwo Pracy i Polityki Społecznej,Government Organisation,,,,,inistry of Labour and Social Policy
 Ministerstwo Rozwoju Regionalnego,Government Organisation
+"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, Instytucja odpowiedzialna za promocję i informację NSRO",Government Organisation,Regional Development
 Ministerstwo Spraw Wewnętrznych i Administracji,Government Organisation,ministry of interior affairs
 Ministerstwo Sprawiedliwości,Government Organisation ,8411 - General public administration activities
 "MINISTERUL EDUCATIEI, CERCETARII SI INOVARII",Government Organisation,,,,,"MINISTRY OF EDUCATION, RESEARCH AND INNOVATION"
 "Ministerul Educatiei, Cercetarii si Tineretului",Government Organisation,Education 
 Ministerul Sanatatii Publice,Government Organisation
+Ministrstvo za kulturo,Government Organisation
 Ministrstvo za okolje in prostor (Agencija RS za okolje),Government Organisation,Not found - Ministry of the Environment and Spatial Planning
 Ministrstvo za pravosodje,Government Organisation,Not found - Ministry of justice
 Ministrstvo za promet (Direkcija Republike Slovenije za ceste),Government Organisation,Not found - Ministry of Transport,,,,Ministry of Transport (Directorate of the Republic of Slovenia for Roads)
@@ -998,9 +1061,13 @@ Monada Organosis Kai Diaheirisis,Government owned Company,Administration of Stru
 Moravskoslezský kraj,Government Organisation , 	8411 - General public administration activities
 Morska Służba Poszukiwania i Ratownictwa,Government Organisation,Not found - Maritime Search and Rescue Service
 MPM Engineering d.o.o.,Company,4110 - Development of building projects,Private owner - BOŠTJAN COKL
+MPSVR SR,Government Organisation,Welfare,,,,"Ministry of Labour, Social Affairs and Family Ministerstve práce, sociálnych vecí a rodiny SR "
 "Multifunkční centrum zámek Lednice, zájmové sdružení právnických osob ",,Riding centre,,,interesting
+Municipality Burgas,Government Organisation
 Municipality Gabrovo,Government Organisation,8411 - General public administration activities
 Municipality Hisarya,Government Organisation
+MUNICIPALITY LAW LOUROS PREVEZIS,Government Organisation
+Municipality Primorsko,Government Organisation
 Municipality Ruen,Government Organisation
 Municipality Sliven,Government Organisation,No financial data at all - CHECK
 Municipality Tundzha,Government Organisation
@@ -1020,6 +1087,8 @@ Município de Vila Nova de Famalicão,Government Organisation
 Município do Funchal ,Government Organisation
 Município do Porto,Government Organisation
 Municipiul Iaşi,Government Organisation
+"MUNICIPIUL PIATRA NEAMT, P. NEAMT, STR. STEFAN CEL MARE, NR. 8",Government Organisation
+Municipiul Targu Mures,Government Organisation
 "Muzeum Armii Krajowej im. Gen. Emila Fieldorfa ""Nila"" w Krakowie"
 Muzeum Lotnictwa Polskiego
 Muzeum Narodowe w Krakowie
@@ -1073,7 +1142,7 @@ Občina Slovenj Gradec,Government Organisation,8411 - General public administrat
 Občina Slovenska Bistrica,Government Organisation,8411 - General public administration activities
 Občini Semič in Črnomelj,Government Organisation,"Not found - Municipality of the town of Črnomelj, Slovenija"
 ODERSUN AG,Company,Solar
-Odlewnia Ciśnieniowa META-ZEL Spółka z ograniczoną odpowiedzialnością,Not found,,,,,Foundry Pressure META-ZEL Limited Liability Company
+Odlewnia Ciśnieniowa META-ZEL Spółka z ograniczoną odpowiedzialnością,Company,metal smelting plant,,,,Foundry Pressure META-ZEL Limited Liability Company
 Oko-Vita Polska Sp. z o.o.,Company,	4773 - Dispensing chemist in specialised stores,PIOTR TOKARSKI,Company offers a complex services focused on sale and servicing of hi-tech medical equipment 
 Olomoucký kraj,Government Organisation,8411 - General public administration activities,,,,Olomouc Region
 One North East,Quango,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'",,,,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'"
@@ -1088,6 +1157,7 @@ Országos Onkológiai Intézet
 Osaühing JÄRVE BIOPUHASTUS,Company,3700 - Sewerage
 Ośrodek Dokumentacji Sztuki Tadeusza Kantora „Cricoteka” w Krakowie,Government Organisation,Archives,,,,Centre for Documentation of the Art of Tadeusz Kantor Cricoteka in Krakow
 Oxford Innovation Ltd,Company,7414 - Business and management consultancy activities,SQW GROUP LIMITED
+Padise Vallavalitsus
 Panda Trzebnica Spółka z ograniczoną odpowiedzialnością,Company, 	3101 - Manufacture of office and shop furniture,KRZYSZTOF POP
 Pannon Egyetem,University
 Państwowa Ogólnokształcąca Szkoła Muzyczna I i II stopnia im. Stanisława Moniuszki
@@ -1102,17 +1172,21 @@ Państwowe Muzeum Auschwitz - Birkenau w Oświęcimiu
 Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych
 Państwowy Zespół Ludowy Pieśni i Tańca „Mazowsze” im. Tadeusza Sygietyńskiego,Company,9001 - Performing arts,Government of Poland
 Papieska Akademia Teologiczna w Krakowie,University,8542 - Tertiary education
+PARC CIENTIFIC DE BARCELONA,Confirm
 PARDUBICKÝ KRAJ,Government Organisation
 Park Naukowo-Technologiczny Polska - Wschód Sp. z o.o. w Suwałkach,Government owned company - Not Found, 	5811 - Book publishing,MIASTO / TOWN OF SUWALKI,,,Science and Technology Park Poland - East Sp. z o. o. Suwalki
+"PARQUE TECNOLOGICO DE ANDALUCIA, S.A.",Confirm
 PARQUES NACIONALES (MARM),Government Organisation
 Pasažieru vilciens,"Government owned company
 "," 4910 - Passenger rail transport, interurban"
+PASSAT-STAL SA,Company - Confirm
 Pécs Megyei Jogú Város Önkormányzata,Government Organisation,,Municipality of Pecs
 Pécsi Tudományegyetem,University,  7219 - Other research and experimental development on natural sciences and engineering
 Pénzügyminisztérium Informatikai Szolgáltató Központ,Government Organisation,IT-confirm
 Pertemps People Development Group,company,L7861 - Employment Placement Services or 7415 - Holding companies including head Offices,EMPLOYMENT SERVICES HOLDINGS PTY LIMITED
 PGE Elektrownia Opole S.A.,Government owned company, 	3511 - Production of electricity
 PKP Polskie Linie Kolejowe S.A.,Government owned Company,"4910 - Passenger rail transport, interurban",Government of Poland,Services: railway management; 
+Planning and Development Region of Central Macedonia,Government Organisation
 Plastic Omnium Auto Exteriors Sp. z o.o.,Company,,,,interesting
 Pobeda AD,Company - confirm,"1082 - Manufacture of cocoa, chocolate and sugar confectionery",SAVA STOYANOV CHOROLEEV,,intersting - several confectionery 
 Podhalańska Państwowa Wyższa Szkoła Zawodowa w Nowym Targu,"University, Government Organisation",8542 - Tertiary education,,,,Podhale State Higher Vocational School in Nowy Targ
@@ -1147,10 +1221,13 @@ Pomorska Agencja Rozwoju Regionalnego S.A.,Government owned company,6831 - Real 
 Services: consulting; ",,Pomeranian Regional Development Agency SA
 Pomorska Akademia Medyczna,University,8542 - Tertiary education
 Pomorska Specjalna Strefa Ekonomiczna sp. z o.o.,Government Organisation,  4110 - Development of building projects,GOVERNMENT OF POLAND
+Powiat Bialski,University
 Powiat Ełcki,Government Organisation
 Powiat Gorlicki,Government Organisation
 Powiat Iławski,Government Organisation
+Powiat Kartuski,Government Organisation
 Powiat Kwidzyński,Government Organisation,8411 - General public administration activities,,,,District Kwidzyn
+Powiat Mielecki,Government Organisation
 Powiat Olkuski,Government Organisation
 Powiat Olsztyński,Government Organisation
 Powiat Ostrowski,Government Organisation
@@ -1158,6 +1235,7 @@ Powiat Przasnyski,Government Organisation,,,,,"
 District Przasnysz"
 Powiat Raciborski,Government Organisation
 Powiat radomszczański,Government Organisation,8411 - General public administration activities
+Powiat Rzeszowski,Government Organisation
 Powiat Sieradzki,Government Organisation
 Powiat Starachowicki,Government Organisation
 Powiat Szczecinecki,Government Organisation
@@ -1170,13 +1248,20 @@ Powiatowy Urząd Pracy w Częstochowie,Government Organisation,,,,,District Labo
 Powiatowy Urząd Pracy w Radomiu,Government Organisation
 Practical Developments (SW) Ltd,Company,4521 - General construction & civil engineering
 Predence d.o.o.,Company, 	5510 - Hotels and similar accommodation
+Prefecture Kozani,Government Organisation
+PRESIDENZA DEL CONSIGLIO DEI MINISTRI - Dipartimento della Funzione Pubblica - Ufficio per la Formazione del Personale delle Pubbliche Amministrazioni
 Prešovský samosprávny kraj,Government organisation,,,,,Prešov Region
 PriceWaterHouseCoopers,Company,Consultancy
+Primaria Municipiului Drobeta Turnu SeVerin
+PRIMARIA ONESTI 
 PRINCIPADO DE ASTURIAS,Government Organisation,8411 - General public administration activities
 Profactor GmbH,Company,"M72100 - Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
+PROFIM Sp. z o.o.,Company - Confirm
+Projects Development and Coordination Unit (PDCU)
 Projektbüro Berufliche Bildung im HKM ,Confirm
 Provincie Zuid-Holland,Goverment Organisation
 Przedsiębiorstwo Energetyki Cieplnej i Gospodarki Wodno-Ściekowej
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Confirm
 Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Government owned company, 	3700 - Sewerage,,"ervices: city sanitation, watse disposal; ",,Public Utilities Company
 "Przedsiębiorstwo Gospodarki Odpadami ""Eko-MAZURY"" Spółka z ograniczoną odpowiedzialnością",Government Organisation, 	3821 - Treatment and disposal of non-hazardous waste
 Przedsiębiorstwo Gospodarki Odpadami Sp. z o.o.,Government owned company - confirm,3700 - Sewerage
@@ -1185,6 +1270,7 @@ Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.,Government Organisation,
 Przedsiębiorstwo Wodociągów i Kanalizacji Żory Sp. z o.o.,Government Organisation/Company Owned by Government,3700 - Sewerage
 Przemysłowy Instytut Automatyki i Pomiarów PIAP,Government Owned Company,7211 - Research and experimental development on biotechnology,Government of Poland,,,Industrial Institute for Automation and Measurements PIAP
 "Przesiębiorstwo Państowe ""Porty Lotnicze""",Government owned company, 	5223 - Service activities incidental to air transportation,Government of Poland
+Public Works Region of Central Macedonia,Government Organisation
 "Punta Umbría Turística, S.A.",Company,5510 - Hotels and similar accommodation  , GONZALEZ QUINTERO ALFREDO,La explotacion hostelera y de restauracion. 
 RÄ«gas brÄ«vostas pčrvalde = CHECK SPELLING
 Rakvere Linnavalitsus,Government Organisation,city government
@@ -1192,6 +1278,7 @@ RAMATTI Spółka z o.o.,Company,3299 - Other manufacturing nec
 RAS,Government Organisation - confirm,	6311 - Life insurance or  - autonomous regional government of Sardinia
 Rawskie Wodociągi i Kanalizacja Sp. z o.o.,Government owned Company,"3600 - Water collection, treatment and supply",GMINA MIASTO RAWA MAZOWIECKA
 RBLI
+Redcar & Cleveland Borough Council,Government Organisation
 Ředitelství silnic a dálnic ČR,Government Organisation - Confirm,5221 - Service activities incidental to land transportation,,"Management of motorways and roads of the 1st class including components and facilities of these communications|guarantees maintenance and repairs of motorways and roads of the 1st class, including components and facilities of these roads|guarantees groundwork for determination of conceptions in the field of roads and motorways |and other works 
  "
 "Ředitelství silnic Zlínského kraje,příspěvková organizace"
@@ -1202,7 +1289,7 @@ REGION DE MIDI PYRENEES,Government Organisation
 REGION DES PAYS DE LA LOIRE,Government Organisation 
 REGION REUNION,Government Organisation
 Regionální rada regionu soudržnosti Jihovýchod,Government Organisation,,,,,Regional Council of South-East Cohesion
-Regionalny Park Przemysłowy Świdnik Sp. z o.o.,Not found,,,,,Regional industrial park in Swidnik
+Regionalny Park Przemysłowy Świdnik Sp. z o.o.,Government Owned Company,Regioanl industrial part in Swidnik (south-eastern Poland),,,,Regional industrial park in Swidnik
 Regione Abruzzo,Government Organisation
 REGIONE BASILICATA,Government Organisation
 Regione Campania,Government Organisation
@@ -1212,6 +1299,7 @@ Regione Campania,Government Organisation
 Regione Dipartimento 3: Progr. Nazionale e Comunitaria,Government Organisation
 Regione Dipartimento 5: Attivit� Produttive,Government Organisation
 REGIONE LAZIO,Government Organisation
+Regione Puglia,Government Organisation
 Regione Siciliana,Government Organisation
 Remploy Ltd,Company,Training - confirm code entered is 1822 - Manufacture of other outerwear,Remploy,"Training and employment for registered severely disable persons under special conditions. 
  "
@@ -1219,6 +1307,7 @@ Réseau Ferré de France,Government Owned Company,4010 - Railroads,,"The company
 Rete Ferroviaria Italiana (R.F.I.) S.p.A.,Government Owned company,432101 - Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione),FERROVIE DELLO STATO S.P.A.
 Rēzeknes pilsētas dome,Government Organisation,Council of Rezekne,,,,Council of Rezekne
 RFI spa,Government owned company,432101 - Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione),MINISTERO DEL TESORO (IGED)
+Rhondda Cynon Taf County Borough Council,Government Organisation
 Rīgas brīvostas pārvalde,Government Organisation,Freeport of Riga Authority,,,,Freeport of Riga Authority
 Rīgas Tehniskā universitāte ,University
 Rimske terme d.o.o.,Company,5510 - Hotels and similar accommodation,"Government of Slovenia through the Posebna družba za podjetniško svetovanje, d. d. (Entrepreneurial advisory body)"
@@ -1226,7 +1315,7 @@ ROKOSPOL a.s.,Company,"2030 - Manufacture of paints, varnishes and similar coati
 Roland Berger Strategy Consultants GmbH ,Company,Consultancy
 Roth & Rau AG,Company,"999 - Manufacturing industries, not elsewhere specified - solar"
 "Rudzka Agencja Rozwoju ""Inwestor"" Sp. z o.o.",Government owned company - confirm, 	9411 - Activities of business and employers membership organisations  - development agency,,,,"Rudzka Development Agency ""Investor"" Sp. z o. o."
-RUP-Mº Interior,Not found
+RUP-Mº Interior,Government Organisation ,,,,,"Regiones Ultraperiféricas (Azores, Canarias, Guadalupe, Guayana, Madeira, Martinica y La Reunión) - Government Organisation [these peripherical regions like the Azores get special aid, but it's not clear why the Ministry of Interior, unless that happens to be the ministry that deals with it] "
 S.C. AGRO NEW ENERGY SA,Company - confirm
 S.C. Apa Târnavei Mari S.A.,Government owned company,Not found
 S.C. Aparegio Gorj S.A. Târgu- Jiu,Government owned company,Not found  = Water
@@ -1246,10 +1335,11 @@ SA « Filiale Convergence Sambrinvest »,Company - Confirm,	73200 - Market resea
 The company is a Belgium-based venture capital investor supporting the development of SME (small and medium enterprises) in the Charleroi and Thuin districts. Its corporate office is located in Gosselies, Belgium.
 The company was established in 1985 with a view to participate in the reconstruction and the renovation of the Charleroi Basin, badly affected by numerous losses of jobs in the steel-industry. Its vocation is to provide venture capital for SMEs that are in start up situation, are in a development stage or where ownership is being transferred. The company invests in SMEs which are able to provide added value and create employment.
  "
+Saarte Liinid AS,Company - Confirm
 Sächsisches Staatsministerium für Wirtschaft und Arbeit,Government Organisation,Not found 
 Sądeckie Wodociągi Sp. z o.o.,Government Organisation,"3600 - Water collection, treatment and supply"
 Sammelvorhaben,Confirm
-Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej „Zdroje” ,Company - Hospital,	8610 - Hospital activities,,,,"Independent Public Health Care Specialist ""Zdroje"" - The privately held company operates as a hospital that provides diagnostic and medical treatment, both surgical and nonsurgical, to patients with any of a wide variety of medical conditions. It was incorporated in 1999 and has its registered head office located in Szczecin, Poland. "
+Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej „Zdroje” ,Government owned company,	8610 - Hospital activities,,,,"Independent Public Health Care Specialist ""Zdroje"" - The privately held company operates as a hospital that provides diagnostic and medical treatment, both surgical and nonsurgical, to patients with any of a wide variety of medical conditions. It was incorporated in 1999 and has its registered head office located in Szczecin, Poland. "
 Samodzielny Publiczny Szpital Kliniczny Nr 1 w Lublinie,Government owned company,8610 - Hospital activities
 Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie
 Samorząd Województwa Kujawsko-Pomorskiego,Government Organisation,Not found
@@ -1261,6 +1351,7 @@ SANHA Polska Spółka z ograniczoną odpowiedzialnością,Company,"2593 - Manufa
 The company comprises its business activities in the manufacture of wire springs from purchased wire. It is also involved in assembling wire bedsprings or seats.
 The company operates under the supervision and management of Bernd Kaimer, who is the company's president.",Germany Company
 Satiksmes ministrija,Government Organisation
+Sava hotel,Company
 SBA Bautzen,Government Organisation,Road building
 SBA Chemnitz,Government Organisation,Road building,Branch of state road-building agency
 SBA Leipzig,Government organisation,Road building,Leipzig Branch of state road-building agency
@@ -1280,7 +1371,9 @@ Secretaria Regional da Habitação e Equipamentos,Government Organisation,,,,,Re
 Seetec,Company,	8021 - General secondary education
 "Segrap d.o.o., Ljutomer",Company,0812 - Operation of gravel and sand pits; mining of clays and kaolin,Self-owned
 Seka S.A.,Company,7022 - Business and other management consultancy activities,MACIEJ SEKUNDA
+Semmelweis Egyetem
 Sen Stadt,Government Organisation
+Sepsa Spa,Company - Confirm
 Serco,Company,7414 - Business & management consultancy
 SERVEI D OCUPACIO DE CATALUNYA - SOC,Government organisation,,,,,Employment service
 Shaw Trust,Charity,8532 - Social work activities without accommodation,Shaw Trust
@@ -1300,6 +1393,7 @@ Furthermore, Skotan is engaged in a campaign to reduce the harmful impact of lea
 Slovenská správa ciest - Slovak Road Administration,Government owned company,Road,,"Slovenská správa ciest (hereinafter referred to as „SSC“) is an independent non-profit organisation established on 1 January 1996 by the Ministry of Transport, Posts and Telecommunications of the Slovak Republic (hereinafter „MTPT“) that executes for motorways, express ways, 1st, 2nd and 3rd class roads („roads“ or „road network“) transport planning, keeping of central technical databases, central databank, technical development, including related conceptual, coordination and methodological activities, administration of 1st class roads and land owned by the Slovak Republic, including investment activity for 1st class roads. ",,Slovenská správa ciest 
 Slovenská technická univerzita v Bratislave,University
 Slovenski podjetniški sklad,Government Organisation,Not found - Central public financial institution of the Republic of Slovenia financing for micro and SME in Slovenia.
+SMS OP DEVELOPING HUMAN CAPITAL
 SO.RI.CAL S.P.A.,Public-Private Organisation,"	360000 - Raccolta, trattamento e fornitura di acqua",REGIONE CALABRIA,,,Società Risorse Idriche Calabresi
 Sociedad Estatal de Infraestructura de Transporte Terrestre (SEITT),Government Organisation,4211- Construction of roads and motorways. 4212- Construction of railways
 "SOCIEDAD PARA EL FOMENTO Y PROMOCION DEL DESARROLLO SOCIOECONOMICO DE CEUTA, S.A. (PROCESA)"
@@ -1316,6 +1410,7 @@ It is a public (i.e. state) company, stands for Public Company for a better envi
 Societe Publique D'Aide a la Qualite de L'Environement is involved in collecting and/or hauling hazardous waste, nonhazardous waste, and/or recyclable materials within a local area; operates hazardous or nonhazardous waste transfer stations.
 One of the company's subsidiaries is Gepart, a Belgian-based industrial company.
  ",,Tel: +32-(0)4-220.94.11
+SPECIAL SERVICE APPLICATION COFINANCED S ACTIONS BY THE EUROPEAN SOCIAL FUND,Government Organisation
 Specjalistyczny Szpital im. prof. Alfreda Sokołowskiego w Szczecinie – Zdunowie,Company,8610 - Hospital activities,Government of Poland through its local entities,,,Specialist Hospital. prof. Alfred Sokolowski in Szczecin - Zdunowo
 SpeedUp IQbator Sp. z o.o.,Company,7022 - Business and other management consultancy activities,"1. 	PIOTR DLUGIEWICZ	 
 2. 	ANETA SADOWSKA KUCH	 
@@ -1329,27 +1424,29 @@ SPI+,Government Organisation,"create jobs, finances projects in infrastructure",
 "Správa a údržba silnic Jihomoravského kraje, příspěvková organizace kraje",Government Organisation,Management and maintenance of roads,,,,"Management and maintenance of roads Southern Region, an organization of county"
 "Správa železniční dopravní cesty, státní organizace",Government Organisation,5221 - Service activities incidental to land transportation,,Management of the Czech railway network. 
 SPW - DG01,Government Organisation,"""Roads and Buildings"" whose main tasks include highway maintenance and cycle lanes",,Service Public Wallon (SPW) (Stan)
+SRARN - Secretaria Regional do Ambiente e Recursos Naturais,Government Organisation
 SRES - Secretaria Regional do Equipamento Social,Government Organisation
 SRTT - Secretaria Regional do Turismo e Transportes
 Stadt Dortmund,Government Organisation
+Stadt Hennigsdorf,Government Organisation
 Stadt Leipzig,Government Organisation
 Stadtverwaltung DresdenSchulverwaltungsamt,Government Organisation,Education - not found
 Statutární město Brno
 STATUTÁRNÍ MĚSTO CHOMUTOV ,Government Organisation
 Statutární město Ostrava,Government Organisation,8411 - General public administration activities
 Statutární město Ústí nad Labem,Government Organisation, 	8411 - General public administration activities
+Stichting STC Group,Confirm
 Stolzle Częstochowa spółka z ograniczoną odpowiedzialnością,Company,2313 - Manufacture of hollow glass,STÖLZLE - OBERGLAS GMBH
 Středočeský kraj,Government Organisation
 Sun Chemical A/S,Company,,,,us company
 Švietimo ir mokslo ministerijos Švietimo aprūpinimo centras,Government Organisation,"8412 - Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security"
+SVILUPPO BASILICATA SpA ,Confirm
 Swansea University,University
 SWEDWOOD POLAND Sp. z o.o.,Company,3109 - Manufacture of other furniture,STICHTING INGKA FOUNDATION - IKEA,"Sweedwood Group is owned by IKEA, a privately-held, international, low-cost home products retailer that sells modern, utilitarian design furniture with more than 200 stores in more than 20 countries all over the world.
  ",interesting,Dutch company
+SYGNUS Kereskedelmi Kft.,Company - Confirm
 Symbion A/S,Company,682040 - Renting of non-residential buildings,,,interesting
-∆ιεθνές Πανεπιστήµιο της Ελλάδος,University - confirm
 Szabolcs-Szatmár-Bereg Megyei Önkormányzat,Government Organisation,,,,,Szabolcs-Szatmár-Bereg County
-Prefecture Kozani,Government Organisation
-Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság,Government owned company
 Széchenyi István Egyetem,University
 Szeged Megyei Jogú Város Önkormányzata,Government Organisation,,,,,Szeged Municipality
 Szegedi Tudományegyetem,University,8542 - Tertiary education,,,,University of Szeged
@@ -1364,6 +1461,7 @@ Szpital Powiatowy we Wrześni Sp. z o.o.,Confirm,  	8610 - Hospital activities
 Szpital Specjalistyczny im. J. Śniadeckiego w Nowym Sączu
 Szpital Wojewódzki im. M. Kopernika w Koszalinie,,Hospital
 Szpital Wojewódzki Nr 2 w Rzeszowie,Not found,Hospital
+Tallinna Sadam AS,Confirm
 Tallinna Tehnikaülikool
 Tápiómenti Területfejlesztési Társulás,Government Organisation,	River development association
 Targi Kielce Sp. z o.o.,Company,8230 - Organisation of conventions and trade shows
@@ -1372,6 +1470,7 @@ Târgovişte
 TartuÜlikool,Not found
 TartuÜlikooli Kliinikum SA,Government Organisation,Not found - Tartu university hospital
 Tata,Company,Consultancy - IT
+Tauris Stiftung e.V.
 Teatr im. Stefana Jaracza
 Technická univerzita v Liberci,University,	8542 - Tertiary education
 Technische UniversitätDresden,University
@@ -1392,6 +1491,7 @@ The Mersey Partnership,Company - confirm, 	9305 - Other service activities not e
 The Mersey Partnership is a private limited company engaged in the activities of business and trade organisations in the United Kingdom. The company was incorporated in October of 1992. The registered head office of the company is located in Liverpool, United Kingdom.
 The Mersey Partnership serves a variety of organisations in the country. It has wholly owned subsidiary that also operates in the country. Its subsidiary is Merseyside Tourism & Conference Bureau Limited, which is engaged in the provision of tourist information services. Merseyside Tourism & Conference Bureau operates as promoter and provides tourist services, facilities, and amenities within the Merseyside area.
  "
+Thomson Technicolor Polska Sp. z o.o.,Company,,,,Interesting
 TNG Ltd,Quango - or company, 8021 - General secondary education - 'training and mentoring service linked to local labour market',AVANTA ENTERPRISE LIMITED  - Stuart P Vere
 Tolna Megyei Önkormányzat
 Tomorrows People Trust Ltd,Company,7487 - Other business activities
@@ -1405,6 +1505,7 @@ TWL TRAINING LTD,Company,8042 - Adult and other education
 UAT Jud Gorj
 UAT Jud Sibiu,Government Organisation
 UAT Jud Teleorman,Government Organisation,,,,,Jud county
+UAT Jud. Arad,Government Organisation
 UAT Jud. Mehedinti
 UAT Jud. Timiş
 UAT Jud. Vaslui
@@ -1416,8 +1517,7 @@ UNIOR d.d.,Company,2573 - Manufacture of tools,Government of Slovenia (Ultimate 
 Unipharm AD
 Unitatea Executiva pentru Finantarea Invatamantului Superior si a Cercetarii Stiintifice Universitare (UEFISCSU),Government Organisation,Executive Unit for Financing Higher Education and Scientific Research University (UEFISCSU)
 Unity Trade Union,Not found
-Ministerstwo Nauki i Szkolnictwa Wyższego Departament Organizacji Szkół Wyższych,Government Organisation
-"Ministerstwo Rozwoju Regionalnego, Departament Informacji, Promocji i Szkoleń, Instytucja odpowiedzialna za promocję i informację NSRO",Government Organisation,Regional Development
+UNIVERSIDAD DE ALMERIA,University
 UNIVERSIDAD DE BARCELONA,University
 UNIVERSIDAD DE CADIZ,University
 UNIVERSIDAD DE CASTILLA-LA MANCHA,University
@@ -1425,8 +1525,10 @@ UNIVERSIDAD DE CORDOBA,University
 UNIVERSIDAD DE GRANADA,University
 UNIVERSIDAD DE MALAGA,University
 UNIVERSIDAD DE OVIEDO,University
+UNIVERSIDAD DE SALAMANCA,University
 UNIVERSIDAD DE SEVILLA,University
 UNIVERSIDAD DE VALENCIA,University
+UNIVERSIDAD DE VALLADOLID,University
 UNIVERSIDAD DE VIGO,University
 UNIVERSIDAD DE ZARAGOZA,University
 "UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA, UNED",University
@@ -1434,9 +1536,12 @@ UNIVERSIDAD POLITECNICA DE VALENCIA,University
 UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,University
 Universita_ di Napoli Federico II,University
 Universität Leipzig,University
+UNIVERSITAT POLITECNICA DE CATALUNYA,University
+UNIVERSITATEA BABES BOLYAI,University
 UNIVERSITATEA DIN BUCURESTI,University
 Universitatea din Craiova,University
 Universitatea Politehnica din Bucuresti,University
+Universitatea Tehnica din Cluj-Napoca,University
 University College Falmouth,University
 University of Edinburgh,University
 University of Exeter,University
@@ -1510,6 +1615,7 @@ Viešoji įstaiga Vilniaus universiteto ligoninės Santariškių klinikos,Govern
 Ville de Charleroi,Government Organisation
 Ville de Liege,Government Organisation
 Ville de Mons,Government Organisation
+Ville de Tournai,Government Organisation
 Vilniaus miesto savivaldybės administracija,Government Organisation,,,,,Vilnius City Municipality
 Vilniaus universitetas,University
 VITKOVICE MILMET S.A.,Company,"2529 - Manufacture of other tanks, reservoirs and containers of metal",,Formerly publicly quoted company
@@ -1529,6 +1635,7 @@ Wasserstraßen-Neubauamt Berlin,Government Organisation,Not found - Organization
 Welsh Assembly Government - Heritage,Government Organisation
 Welsh Assembly Government -Heritage ,Government Organisation - Confirm,Not found
 "Welsh Assembly Government Delivered through LAs: Torfaen CBC, Bridgend CBC, Rhondda Cynon Taff, Merthyr Tydfil CBC, Caerphilly CBC, Blaenau Gwent CBC.",Government Organisation
+Widok Energia Spółka z ograniczoną odpowiedzialnością ,Company,Energy
 Wirtschafts- und Infrastrukturbank Hessen,Government owned company,Bank,state of Hessen
 WISTA - Managem. GmbH,Government owned company,S94990 - Sonstige Interessenvertretungen und Vereinigungen a. n. g.,LAND BERLIN SENATSVERWALTUNG FUER FINANZEN,"Development of economical and technological / scientific centres, in particular in the adlershof/johannesthal area (1,7 bill. dm of investments, 76 ha of total area, 13 000 jobs), and promotion and management of them, ... 
  "
@@ -1536,7 +1643,7 @@ Władza Wdrażająca Programy Europejskie (WWPE),Government Organisation,impleme
 Wodociągi Białostockie Sp. z o.o.,Government Organisation,"3600 - Water collection, treatment and supply"
 Wodociągi i Kanalizacja Krzeszowice Sp z o.o.,Government Organisation/Company Owned by Government,"3600 - Water collection, treatment and supply"
 Wodociągi i Kanalizacja Spółka z ograniczoną odpowiedzialnością
-Wojewdzki Szpital Zespolony w Elblągu,Not found,Hospital
+Wojewdzki Szpital Zespolony w Elblągu,Government organisation,Hospital
 Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Opolu,Government organisation,,,Regional Fund for Environmental Protection and Water Management in Opole
 Wojewódzki Specjalistyczny Szpital Dziecięcy im. prof. dr Stanisława Popowskiego w Olsztynie,,Hospital
 Wojewódzki Specjalistyczny Szpital im. Dr Wł. Biegańskiego,,Hospital
@@ -1587,6 +1694,7 @@ Zachodniopomorski Uniwersytet Technologiczny w Szczecinie
 Zachodniopomorskie Centrum Onkologii
 Żagańskie Wodociągi i Kanalizacje Spółka z o.o.,Company,3700 - Sewerage,Municipality of Zagan
 Zakład Doskonalenia Zawodowego,Confirm,Vocational Training Centre
+Zakład Doskonalenia Zawodowego w Kielcach
 Zakład Gospodarki Odpadami S.A.,Government owned company,3821 - Treatment and disposal of non-hazardous waste,GMINA MIASTO/ DISTRICT & TOWN OF RAWA MAZOWIECKA
 Zakład Inżynierii Miejskiej Spółka z ograniczoną odpowiedzialnością,Government owned company - confirm,"3600 - Water collection, treatment and supply"
 Zakład Przetwórstwa Tworzyw Sztucznych Witoplast Witold Kisieliński Michał Kisieliński Spółka Jawna.
@@ -1610,113 +1718,14 @@ Zespół Szkół Muzycznych
 Zielonogórskie Wodociągi i Kanalizacja Sp. z o.o.,Government Organisation," 	3600 - Water collection, treatment and supply",MIASTO I GMINA / TOWN AND DISTRICT OF ZIELONA GORA
 Zoo Hannover GmbH
 Związek Gmin Gór Świętokrzyskich
-Związek Międzygminny,Not found,Not found
-Związek Międzygminny ds. Ekologii w Żywcu,Government Organisation - Confirm,Check
+Związek Międzygminny,Government Organisation,an organisation uniting 11 regional governments in south-western Poland
 ΔΗΜΟΣ ΛΕΜΕΣΟΥ,Government Organisation,,,,,Municipality of Limasol
+ΕΚ∆∆Α ,Confirm
+ΕΥ∆ ΕΠΕ∆ΒΜ - Μονάδα ∆,Company,Confirm 
+ΕΥ∆ΑΠ Α.Ε,Government owned company,"State controlled water utility,listed on Athens stock exchange- "
+ΟΡΓΑΝΙΣΜΟΣ ΕΡΓΑΤΙΚΗΣ ΕΣΤΙΑΣ,Government Organisation,Confirm
 "Τμήμα Αναπτύξεως Υδάτων,",Government Organisation,Water,,,,"Water Development Department,"
 Агенция за социално подпомагане,Government Organisation - Confirm,Social Assistance Agency,,,,Social Assistance Agency -- Agencija za Pomagane
+Асоциация на индустриалния капитал в България,Confirm
+Изпълнителна агенция Главна инспекция по труда,Government Organisation,Executive Agency General Labour Inspectorate
 Министерство на труда и социалната политика,Government organisation,Labour and social policy,,,,Ministry of Labour and social policy
-PRIMARIA ONESTI 
-Keskkonnaministeerium ,Government organisation,,,,interesting
-CELogis a.s.,Company - Confirm
-"CARBONO 21, LDA",Company - Confirm
-SYGNUS Kereskedelmi Kft.,Company - Confirm
-Intersnack Poland Sp. z o.o.,Company - Confirm
-JCI Venture Sp. z o.o.,Company - Confirm
-Thomson Technicolor Polska Sp. z o.o.,Company,,,,Interesting
-Administratia Nationala a Penitenciarelor,Government organisation - confirm
-INNOV'EMPLOI (Ex AAGIS) 
-GIP - Formation continue et insertion professionnelle de Versailles
-UNIVERSIDAD DE VALLADOLID,University
-Ville de Tournai,Government Organisation
-Saarte Liinid AS,Company - Confirm
-PASSAT-STAL SA,Company - Confirm
-Gmina Ryn,Government Organisation
-COMMUNE DE POINTE-A-PITRE,Government Organisation
-Powiat Rzeszowski,Government Organisation
-Combidata Poland Sp. z o.o.,Company - Confirm
-Durham County Council,Government Organisation
-Merthyr Tydfil County Borough,Government Organisation
-Regione Puglia,Government Organisation
-Gmina Miasto Rypin,Government Organisation
-Miasto Imielin,Government Organisation
-Gmina Wierzchlas,Government Organisation
-Municipiul Targu Mures,Government Organisation
-Agencja Rozwoju Pomorza S.A.,Company - Confirm
-PROFIM Sp. z o.o.,Company - Confirm
-Gmina Kielce,Government Organisation
-Powiat Bialski,University
-Ayuntamiento de Plasencia,Government Organisation
-Gmina Miasta Wejherowa,Government Organisation
-MANCOMUNIDAD DE LOS CANALES DEL TAIBILLA
-GIP - Formation continue et insertion professionnelle de Paris
-UNIVERSIDAD DE SALAMANCA,University
-Eesti Biokeskus
-Ministrstvo za kulturo,Government Organisation
-ADE FINANCIACION S.A.,Company - confirm
-CONSILIUL JUDETEAN BOTOSANI,Government Organisation
-UNIVERSITATEA BABES BOLYAI,University
-SRARN - Secretaria Regional do Ambiente e Recursos Naturais,Government Organisation
-AMMINISTRAZIONE PROVINCIALE DI MATERA,Government Organisation
-ENAC,Confirm
-Ministerstwo Infrastruktury,Government Organisation
-"PARQUE TECNOLOGICO DE ANDALUCIA, S.A.",Confirm
-PRESIDENZA DEL CONSIGLIO DEI MINISTRI - Dipartimento della Funzione Pubblica - Ufficio per la Formazione del Personale delle Pubbliche Amministrazioni
-Consiliul Local Singeorz- Bai,Government Organisation
-Powiat Mielecki,Government Organisation
-Powiat Kartuski,Government Organisation
-UAT Jud. Arad,Government Organisation
-Padise Vallavalitsus
-Betnava d.o.o.,Government Organisation
-SVILUPPO BASILICATA SpA ,Confirm
-Mazowieckie Biuro Planowania Regionalnego,Government Organisation
-PARC CIENTIFIC DE BARCELONA,Confirm
-DIRECTION REGIONALE DE L'ANPE
-Autorita' portuale di Brindisi
-EPAG
-ATAC AZIENDA TRAMVIE E AUTOBUS DEL COMUNE S.P.A.
-GOBIERNO DE CANTABRIA,Government Organisation
-UNIVERSITAT POLITECNICA DE CATALUNYA,University
-Investitionsbank Schleswig-Holstein
-MINISTERO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE - Direzione Generale per la Ricerca Ambientale e lo Sviluppo,Government Organisation
-East Midlands Business,Confirm
-Ida-Virumaa Kutsehariduskeskus
-Sava hotel,Company
-Miasto Szczecinek,Government Organisation
-Instytut Warzywnictwa im. Emila Chroboczka
-Widok Energia Spółka z ograniczoną odpowiedzialnością ,Company,Energy
-Primaria Municipiului Drobeta Turnu SeVerin
-"36550949 - ZVS, a. s. Nitra",Confirm
-Kur- und Strandhotel Usedom GmbH & Co. Investitions - KG,Company - confirm
-CONSEIL GENERAL DE LA GUADELOUPE,Government Organisation
-Rhondda Cynon Taf County Borough Council,Government Organisation
-Bagnolifutura s.p.a. ,Company - confirm,,,,interesting?
-Caterpillar Motoren Rostock GmbH,Company - confirm
-"JUDETUL SUCEAVA, SUCEAVA, STR. STEFAN CEL MARE, NR. 36"
-Municipality Burgas,Government Organisation
-Asseco Poland S.A.,Company - confirm
-"MUNICIPIUL PIATRA NEAMT, P. NEAMT, STR. STEFAN CEL MARE, NR. 8",Government Organisation
-Projects Development and Coordination Unit (PDCU)
-CR Media Consulting S.A.,Company
-INTEGER.pl SA,Company - confirm
-UNIVERSIDAD DE ALMERIA,University
-Gmina Miejska Turek,Government Organisation
-MUNICIPALITY LAW LOUROS PREVEZIS,Government Organisation
-Universitatea Tehnica din Cluj-Napoca,University
-Stadt Hennigsdorf,Government Organisation
-Municipality Primorsko,Government Organisation
-IMAST SCARL - Distretto Tecnologico Ingegneria dei Materiali Compositi Polimerici e Strutture
-Tallinna Sadam AS,Confirm
-Linstal Sp. z o.o.,Company
-"Ministero del Lavoro, della Salute e delle Politiche Sociali - DG Innovazione Tecnologica e Comunicazione",Government Organisation
-Gmina Ustrzyki Dolne,Government Organisation
-"36445461 - Bukocel, a.s.",Company - confirm
-Stichting STC Group,Confirm
-Ferrotramviaria
-Bioelektrownia sp. z o.o.,Company - Confirm
-"ASOCIATIA CATALACTICA, FILIALA TELEORMAN"
-Redcar & Cleveland Borough Council,Government Organisation
-FUNDACION CENTRO TECNOLOGICO ANDALUZ DE LA PIEDRA
-Sepsa Spa,Company - Confirm
-Semmelweis Egyetem
-Tauris Stiftung e.V.
