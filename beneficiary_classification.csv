@@ -25,7 +25,7 @@ With a passion for Scandinavian design, our products range from furniture to acc
 ∆ιεθνές Πανεπιστήµιο της Ελλάδος,University - confirm
 0000 - EIF,European Investment Fund?
 00002801 - SIEA,Government Organisation,,,Slovak Innovation and Energy Agency
-00039691 - ÚIP,Government Organisation,Education
+00039691 - ÚIPŠ ,Government Organisation,Education,,education institute under authority of Schools Ministry,,Ústav informácií a prognóz školstva
 00151742 - MF SR,Government Organisation,Finance,,,,Ministerstvo financií 
 00151882 - Centrum ved.-tech. infor.SR,Government Organisation, Not found - Slovak Centre of Scientific and Technical Information - State library,,,,Centrum vedecko-technických informácií SR (CVTI SR) -  Slovak Centre of Scientific and Technical Information
 00164348 - MPC BA,Government Organisation,teaching institute under the Education Ministry,,,,metodicko-pedagogicke centrum Bratislava
@@ -89,12 +89,14 @@ With a passion for Scandinavian design, our products range from furniture to acc
 00397610 - TU v Košiciach,University,Technical university ,,,,Technická Univerzita v Košiciach
 00397687 - STU Bratislava,University,Technical university 
 00397768 - Univerzita Pavla Jozefa Šafárika v Košiciach,University
-00397865 - UK BA,Confirm
-00398144 - Výpočtové stredisko Slovenskej akadémie,Not found,,,,,Computing Centre of the Slovak Academy
+00397865 - UK BA,University,,,"Comenius University in Bratislava, the country's oldest"
+00398144 - Výpočtové stredisko Slovenskej akadémie,Government Organisation,Research - not found,"Research centre under Slovak Academy of Sciences
+",,,Computing Centre of the Slovak Academy
 00678678 - MŽP SR,Government organisation,Environment,Ministry of Environment,,,Ministerstvo životného prostredia
 17058520 - ŠOP SR,Government organisation,Environment,,,,State Nature Conservancy of Slovak Republic
 17070775 - Prešovská univerzita,University
-17336007 - Fakultná nemocnica Nitra,Confirm,Teaching hospital,,,,Teaching Hospital Nitra
+17336007 - Fakultná nemocnica Nitra,Government owned company ,Teaching hospital,"Under authority of Health Ministry
+",,,Teaching Hospital Nitra
 30794536 - UPSVaR - 101073,Government Organisation - Confirm,not found,Ustredie Prace Socialnych Veci a Rodiny - Confirm
 30795362 - Centrum vzdelávania MPSVaR SR,Government Organisation,,,,,Centrum vzdelávania Ministerstva práce - Ministry of Labour Education Centre
 30807484 - Sociálna poisťovňa,Government Organisation,Social Insurance,,,,Social Insurance
@@ -115,7 +117,8 @@ The company provides a variety of medical care and health services, including pr
 "36570460 - VVS,a.s. ",Confirm,water
 "36672076 - PVS, a.s."
 "36672076 - PVS, a.s. ",Confirm,water
-36672271 - Vodár. spol. Ružomberok a.s.,Confirm,water?
+36672271 - Vodár. spol. Ružomberok a.s.,Government owned company,"Vodarenska spolocnost Ruzomberok, government owned company, wholly owned by town of Ružomberok
+"
 "36672297 - SeVAK, a.s.",Government owned company,"3600 - Water collection, treatment and supply  - not found","Ing. Jozef Vražel - predseda DR Joseph Slayers - President DR
 Ing. Ing. Peter Korec - člen DR Peter Korec - member DR
 Ing. Ing. Ján Hartel - člen DR John Hart - member DR
@@ -127,15 +130,14 @@ Ing. Ing. Viliam Mikuláš - podpredseda predstavenstva William Nicholas - Vice 
 Ján Dodek – člen predstavenstva John Dodek - Board Member
 Jaroslav Fekula - člen predstavenstva Jaroslav Fekula - Board Member
 Ing. Ing. Miroslav Kundrík - člen predstavenstva Miroslav Kundrík - Board Member
-
 Výkonné vedenie : Executive Management:
 Ing. Ing. Miroslav Kundrík – generálny riaditeľ Miroslav Kundrík - CEO
 Ing. Ing. Marián Martinček – výrobný riaditeľ Marian Martinček - Production Manager
 Ing. Ing. Jozef Lučivňák - investičný riaditeľ Joseph Lučivňák - Investment Director
 Ing. Ing. Milan Psota - technický riaditeľ Milan Psota - Technical Director
 Ing. Ing. Oľga Žieriková - obchodno - ekonomický riaditeľ Olga Žieriková - business - finance director
-"
-36672441 - LVS,Confirm
+"," water collection, treatment and supply company owned by municipalities in north-western Slovakia"
+36672441 - LVS,Government owned company,waterworks - water - not found,municipally owned ,,,"Liptovska vodarenska spolocnost,"
 36767182 - J&M consulting s.r.o. ,Company - confirm ,Plastics?
 37808427 - Žilinský samosprávny kraj,Government Organisation,,,,,Žilina Region
 3SPARE Sp. z o.o.,Company, 	3832 - Recovery of sorted materials,DARIUSZ BIERYLO/MAREK CZARNIECKI/TOMASZ BARTLOMIEJCZUK
@@ -292,7 +294,7 @@ Autorita' portuale di Gioia Tauro,Government owned company,Commercial and indust
 Autorita' portuale di Salerno,Government owned company,Administrative management of port areas; promotion of commercial airports under its jurisdiction - Not found
 Autorita' portuale di Taranto,Government owned company
 Avian GmbH,Company,"Wholesale trade of fuels, ores, metals and industrial chemicals"
-AWM,Government organisation - confirm,,,Advantage West Midlands is the regional development agency (RDA) for the West Midlands. 
+AWM,Managing authority,,,Advantage West Midlands is the regional development agency (RDA) for the West Midlands. 
 Ayuntamiento de Alcalá de Henares,Government Organisation
 AYUNTAMIENTO DE BARCELONA,Government Organisation,	8411 - General public administration activities  
 Ayuntamiento de Bilbao,Government Organisation
@@ -833,7 +835,7 @@ Instytut Warzywnictwa im. Emila Chroboczka
 Instytut Włókiennictwa,Government owned company,:  	7219 - Other research and experimental development on natural sciences and engineering,Government of Poland
 INTEGER.pl SA,Company - confirm
 Integer.pl spółka akcyjna
-International University of Greece,Confirm
+International University of Greece,University
 Intersnack Poland Sp. z o.o.,Company - Confirm
 Investitionsbank Sachsen-Anhalt,Government owned company,	6111 - Federal and federally-sponsored credit agencies
 Investitionsbank Schleswig-Holstein
@@ -1145,7 +1147,7 @@ ODERSUN AG,Company,Solar
 Odlewnia Ciśnieniowa META-ZEL Spółka z ograniczoną odpowiedzialnością,Company,metal smelting plant,,,,Foundry Pressure META-ZEL Limited Liability Company
 Oko-Vita Polska Sp. z o.o.,Company,	4773 - Dispensing chemist in specialised stores,PIOTR TOKARSKI,Company offers a complex services focused on sale and servicing of hi-tech medical equipment 
 Olomoucký kraj,Government Organisation,8411 - General public administration activities,,,,Olomouc Region
-One North East,Quango,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'",,,,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'"
+One North East,Managing Authority,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'",,,,"RDA 'Regional Development Agency set up in April 1999 to help the people of the North East create and sustain jobs, prosperity and a higher quality of life.'"
 Önkormányzati Társulás Makó város és térsége szennyvízcsatornázásának és szennyvíztisztításának megvalósítására,Government owned company,Waste water,,,,Local Government Association Mako szennyvízcsatornázásának city and the region and implementation of waste water
 Ontwikkelingsbedrijf Rotterdam,Government Organisation
 OPCALIA,Non-profit organisation,Check,,,,"Opcalia helps companies to optimize their investment in training. To ensure the increased ability of the firms and their employees, develops Opcalia local services: consulting, information, development of training projects, funding."
@@ -1261,7 +1263,6 @@ Projects Development and Coordination Unit (PDCU)
 Projektbüro Berufliche Bildung im HKM ,Confirm
 Provincie Zuid-Holland,Goverment Organisation
 Przedsiębiorstwo Energetyki Cieplnej i Gospodarki Wodno-Ściekowej
-Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Confirm
 Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.,Government owned company, 	3700 - Sewerage,,"ervices: city sanitation, watse disposal; ",,Public Utilities Company
 "Przedsiębiorstwo Gospodarki Odpadami ""Eko-MAZURY"" Spółka z ograniczoną odpowiedzialnością",Government Organisation, 	3821 - Treatment and disposal of non-hazardous waste
 Przedsiębiorstwo Gospodarki Odpadami Sp. z o.o.,Government owned company - confirm,3700 - Sewerage
@@ -1462,12 +1463,12 @@ Szpital Specjalistyczny im. J. Śniadeckiego w Nowym Sączu
 Szpital Wojewódzki im. M. Kopernika w Koszalinie,,Hospital
 Szpital Wojewódzki Nr 2 w Rzeszowie,Not found,Hospital
 Tallinna Sadam AS,Confirm
-Tallinna Tehnikaülikool
+Tallinna Tehnikaülikool,University
 Tápiómenti Területfejlesztési Társulás,Government Organisation,	River development association
 Targi Kielce Sp. z o.o.,Company,8230 - Organisation of conventions and trade shows
 Târgovişte
 "Tartak ""Olczyk"" Ludwik Olczyk"
-TartuÜlikool,Not found
+TartuÜlikool,University
 TartuÜlikooli Kliinikum SA,Government Organisation,Not found - Tartu university hospital
 Tata,Company,Consultancy - IT
 Tauris Stiftung e.V.
@@ -1688,7 +1689,7 @@ XUNTA DE GALICIA,Government Organisation,8411 - General public administration ac
 Yawal S.A.,Company,	2511 - Manufacture of metal structures and parts of structures,"Yawal S.A. is a Polish- based holding company that performs traditional holding company functions on behalf of a group of subsidiary companies engaged in the production of aluminum architectural systems, provision of transportation services and the wholesale of wood industry products.
 Yawal is a leader in the capital group, which manages the following subsidiaries: Yawal System Sp. Z.O.O., which is one of the largest suppliers of the aluminum architectonic profile systems that are designed for production of the panel walls, different windows, doors, shop windows, verandas, skylights, and non-standard constructions; Yawal CS Sp. Z O.O. in Cieszyn, Fon S.A., which operates in the field of finances, Y-Radio Sp. Z O. O., which is active in the media market, Yawal Ukraina Sp. Z O.O. situated in Charkow, which trades building materials.
  "
-Yorkshire Forward,Company - Confirm
+Yorkshire Forward,Managing Authority
 Zachodniopomorski Uniwersytet Technologiczny (do 1 stycznia 2009 roku Politechnika Szczecińska)
 Zachodniopomorski Uniwersytet Technologiczny w Szczecinie
 Zachodniopomorskie Centrum Onkologii
